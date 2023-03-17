@@ -29,7 +29,8 @@ class Ao3ScrapePipeline:
                 'freeform': ", ".join(item['freeform']),
                 'warnings': ", ".join(item['warning']),
                 #'rating': item['rating'][0],
-                'published': item['published'],
+                'ao3_url': item['url'],
+                'date': item['published'],
         }
 
         with open(f'{settings.OUTPUT_DIRECTORY}/{slug_title}.md', 'w') as f:

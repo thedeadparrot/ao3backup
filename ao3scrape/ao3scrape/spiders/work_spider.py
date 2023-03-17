@@ -48,6 +48,7 @@ class WorkListSpider(CrawlSpider):
     def parse_item(self, response):
         """ On the individual story pages, parse the page and save relevant data. """
         item = WorkItem()
+        item['url'] = response.url
         item['title'] = response.xpath('//h2/text()').get().strip()
         item['author'] = response.xpath('//h3[@class="byline heading"]/a[@rel="author"]/text()').getall()
         item['published'] = response.xpath('//dd[@class="published"]/text()').get().strip()

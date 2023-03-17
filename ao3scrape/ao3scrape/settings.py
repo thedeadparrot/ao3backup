@@ -20,7 +20,8 @@ NEWSPIDER_MODULE = "ao3scrape.spiders"
 ROBOTSTXT_OBEY = True
 
 WORK_LIST_URLS = ["https://archiveofourown.org/users/thedeadparrot/works"]
-OUTPUT_DIRECTORY = '../backup/posts/'
+
+OUTPUT_DIRECTORY = '../backup/content/posts/'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
