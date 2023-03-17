@@ -7,6 +7,8 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+import os
+
 BOT_NAME = "ao3scrape"
 
 SPIDER_MODULES = ["ao3scrape.spiders"]
@@ -19,8 +21,9 @@ NEWSPIDER_MODULE = "ao3scrape.spiders"
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-WORK_LIST_URLS = ["https://archiveofourown.org/users/thedeadparrot/works"]
+AO3_USER = os.environ.get('AO3_USER', 'thedeadparrot')
 
+WORK_LIST_URLS = [f"https://archiveofourown.org/users/{AO3_USER}/works"]
 OUTPUT_DIRECTORY = '../backup/content/posts/'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)

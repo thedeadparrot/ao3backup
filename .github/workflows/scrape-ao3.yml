@@ -1,13 +1,16 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
-
-name: Python application
+name: Scrape AO3 and attempt to commit
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  workflow_dispatch:
+    inputs:
+      ao3_user:
+        description: 'AO3 User to Scrape'
+        required: true
+        default: thedeadparrot
+        type: string
+
+env:
+  AO3_USER: ${{inputs.ao3_user}}
 
 permissions:
   contents: read
@@ -43,8 +46,7 @@ jobs:
     - name: Create PR for new files
       uses:  peter-evans/create-pull-request@v4
       with:
+        base: main
         add-paths: backup
         title: New Backup Files
         body: Automated PR for changes in AO3 works.
-        
-      
