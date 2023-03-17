@@ -49,9 +49,10 @@ class WorkListSpider(CrawlSpider):
         """ On the individual story pages, parse the page and save relevant data. """
         item = WorkItem()
         item['title'] = response.xpath('//h2/text()').get().strip()
-        item['author'] = response.xpath('//a[@rel="author"]/text()').get().strip()
-        item['summary'] = '\n\n'.join(response.xpath('//div[@class="summary module"]/blockquote/*').getall()).strip()
-        item['notes'] = '\n\n'.join(response.xpath('//div[@class="notes module"]/blockquote/*').getall()).strip()
+        item['author'] = response.xpath('//h3[@class="byline heading"]/a[@rel="author"]/text()').getall()
+        item['published'] = response.xpath('//dd[@class="published"]/text()').get().strip()
+        item['summary'] = ''.join(response.xpath('//div[@class="summary module"]/blockquote/*').getall()).strip()
+        item['notes'] = ''.join(response.xpath('//div[@class="notes module"]/blockquote/*').getall()).strip()
         # handle tags
         for category in ["rating", "warning", "category", "fandom", "relationship", "character", "freeform"]:
             self.parse_tags(response, item, category)
@@ -65,5 +66,5 @@ class WorkListSpider(CrawlSpider):
             # single-chapter story
             text = response.xpath('//div[@id="chapters"]/div[@class="userstuff"]/*').getall()
 
-        item['text'] = "\n\n".join(text).strip()
+        item['text'] = "".join(text).strip()
         return item

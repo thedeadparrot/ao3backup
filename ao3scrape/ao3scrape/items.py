@@ -20,4 +20,4 @@ class WorkItem(scrapy.Item):
     relationship = scrapy.Field()
     character = scrapy.Field()
     freeform = scrapy.Field()
-    
+    published = scrapy.Field()

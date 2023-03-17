@@ -20,6 +20,7 @@ NEWSPIDER_MODULE = "ao3scrape.spiders"
 ROBOTSTXT_OBEY = True
 
 WORK_LIST_URLS = ["https://archiveofourown.org/users/thedeadparrot/works"]
+OUTPUT_DIRECTORY = '../backup/posts/'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -64,9 +65,9 @@ DOWNLOAD_DELAY = 3
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    "ao3scrape.pipelines.Ao3ScrapePipeline": 300,
-#}
+ITEM_PIPELINES = {
+    "ao3scrape.pipelines.Ao3ScrapePipeline": 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
