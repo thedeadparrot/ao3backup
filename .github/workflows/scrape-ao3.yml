@@ -1,0 +1,52 @@
+name: Scrape AO3 and attempt to commit
+
+on:
+  workflow_dispatch:
+    inputs:
+      ao3_user:
+        description: 'AO3 User to Scrape'
+        required: true
+        default: thedeadparrot
+        type: string
+
+env:
+  AO3_USER: ${{inputs.ao3_user}}
+
+permissions:
+  contents: read
+defaults:
+  run:
+    working-directory: ao3scrape
+    
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Lint with flake8
+      run: |
+        # stop the build if there are Python syntax errors or undefined names
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
+        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+    - name: Scrape AO3
+      run: |
+        scrapy crawl ao3
+    - name: Create PR for new files
+      uses:  peter-evans/create-pull-request@v4
+      with:
+        base: main
+        add-paths: backup
+        title: New Backup Files
+        body: Automated PR for changes in AO3 works.
