@@ -7,6 +7,7 @@ fandom:
 - Iron Man (Movieverse)
 notes: For my "begging" square as part of [![[community profile] ](http://s.dreamwidth.org/img/silk/identity/community.png)](http://kink-bingo.dreamwidth.org/profile)[**kink\_bingo**](http://kink-bingo.dreamwidth.org/).
   M gets mad props for the beta. This is completely shameless porn.
+rating: Explicit
 relationship:
 - Tony Stark/Jim Rhodes
 summary: Tony doesn't ever stop talking.

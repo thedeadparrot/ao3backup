@@ -14,6 +14,7 @@ notes: 'Originally written for [this kinkmeme prompt](http://sherlockbbc-fic.liv
 
 
   Now with [podfic](http://amplificathon.livejournal.com/1370844.html).'
+rating: Mature
 relationship:
 - John/Sherlock
 - John/Mary

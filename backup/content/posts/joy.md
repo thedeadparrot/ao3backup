@@ -7,6 +7,7 @@ date: '2008-12-02'
 fandom:
 - Battlestar Galactica (2003)
 notes: Short drabble thing.
+rating: General Audiences
 relationship: []
 summary: Kara flies.
 tags:

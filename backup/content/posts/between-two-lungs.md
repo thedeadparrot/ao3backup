@@ -12,6 +12,7 @@ notes: 'Written for [![[community profile] ](http://s.dreamwidth.org/img/silk/id
 
   XistentialAngst made some [lovely cover art](http://xistentialangst.tumblr.com/post/32311774710/between-two-lungs-by-thedeadparrot-rated-x)
   for this fic. Check it out!'
+rating: Explicit
 relationship:
 - John/Sherlock
 summary: Sherlock discovers one of his own kinks.

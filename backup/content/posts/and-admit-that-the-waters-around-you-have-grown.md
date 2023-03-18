@@ -13,6 +13,7 @@ fandom:
 - X-Men (Movieverse)
 notes: Everyone needs to write an 'Erik ends up back at the mansion' fic at some point,
   right? This one is mine. Many thanks to merisunshine36 for the beta.
+rating: Teen And Up Audiences
 relationship:
 - Erik Lehnsherr/Charles Xavier
 summary: '*"I would never turn away another mutant in need," Charles says. He reads

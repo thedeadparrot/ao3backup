@@ -10,6 +10,7 @@ fandom:
 notes: 'Extremely late entry to foreman\_fest. My prompt was: *Ninjas in Space AU
   - Foreman and Cuddy are ninjas in space*. Many thanks to queenzulu for making this
   way better.'
+rating: Teen And Up Audiences
 relationship: []
 summary: On the first day of training, the Order gives Foreman a sword.
 tags:

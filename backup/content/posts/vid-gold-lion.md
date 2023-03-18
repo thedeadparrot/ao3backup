@@ -7,6 +7,7 @@ fandom:
 - Slumdog Millionaire (2008)
 notes: Many thanks and lots of love to zulu and leiascully for their awesome comments
   and suggestions. This is a much better vid because of them.
+rating: Teen And Up Audiences
 relationship:
 - Latika/Jamal Malik
 summary: It's Latika's destiny, too.

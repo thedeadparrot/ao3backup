@@ -10,6 +10,7 @@ fandom:
 - Star Trek (2009)
 notes: Written for [Porn Battle VIII](http://oxoniensis.dreamwidth.org/10575.html)
   and the prompt 'Jack/Kirk, charm'
+rating: Explicit
 relationship:
 - Jack Benjamin/James T. Kirk
 summary: Jack meets a guy in a bar. Stuff happens.

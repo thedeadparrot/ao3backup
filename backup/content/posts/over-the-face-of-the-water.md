@@ -8,6 +8,7 @@ date: '2010-12-19'
 fandom:
 - Main Hoon Na
 notes: Many thanks to genarti and lovelythings for the betas!
+rating: General Audiences
 relationship: []
 summary: Lucky lets go.
 tags:

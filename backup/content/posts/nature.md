@@ -7,6 +7,7 @@ fandom:
 - X-Men (Movieverse)
 notes: Final pornathing ficlet! For the prompt 'nature'. Some telepathy-related consent
   issues here.
+rating: Explicit
 relationship:
 - Erik Lehnsherr/Charles Xavier
 summary: There's a story about a scorpion and a frog, about how the scorpion will

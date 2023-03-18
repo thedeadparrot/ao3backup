@@ -8,6 +8,7 @@ date: '2009-12-23'
 fandom:
 - Star Trek RPF
 notes: Thanks to zulu for the beta!
+rating: General Audiences
 relationship:
 - George Takei/Brad Altman
 summary: Today, George is the tense one, pacing back and forth across the small tent,

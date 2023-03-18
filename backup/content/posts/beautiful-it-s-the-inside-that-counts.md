@@ -9,6 +9,7 @@ fandom:
 notes: A sequel which will not make any sense whatsoever without reading the original
   first. With many thanks to queenzulu and savemoony for pulling my head out of my
   ass when I needed it.
+rating: Mature
 relationship:
 - James Wilson/Greg House
 summary: It's hard to regret anything, though. Wilson can't unlearn the things the

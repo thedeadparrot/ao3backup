@@ -8,6 +8,7 @@ date: '2008-10-04'
 fandom:
 - The Beatles
 notes: A tossed off ficlet while in NYC. Kinda disjointed. Not betaed.
+rating: Not Rated
 relationship:
 - John Lennon/Paul McCartney
 summary: An ending before a beginning.

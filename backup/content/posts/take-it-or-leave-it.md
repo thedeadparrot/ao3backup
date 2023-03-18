@@ -9,6 +9,7 @@ fandom:
 - Fullmetal Alchemist
 notes: Prequel to Maybe Tomorrow (same AU at least), mostly because I needed something
   not really angsty to write. So, light, fluffy pre-slash. w00t.
+rating: General Audiences
 relationship:
 - Hughes/Mustang
 summary: In which Kain likes French fries, Jean gets rejected again, Roy can't write

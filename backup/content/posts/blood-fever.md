@@ -10,6 +10,7 @@ notes: Written for a [prompt](http://mark-eduardo.livejournal.com/368440.html?th
   [prompt-fest](http://mark-eduardo.livejournal.com/368440.html). Is there shame involved
   in writing pon farr fic in this fandom? Yes. Do I care? Not enough to stop myself
   from writing it.
+rating: Explicit
 relationship:
 - Mark/Eudardo
 summary: '*"I should have known that you''d be nobly suffering just so you can be

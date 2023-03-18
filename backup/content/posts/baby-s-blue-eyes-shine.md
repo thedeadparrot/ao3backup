@@ -13,6 +13,7 @@ notes: So, azephirin basically threw down a challenge to write daddy kink and th
   dysfunctional to compensate. This is what came out of it. You can also blame her
   for betaing this, too. Sea also enabled me and fixed some typos, though maybe she
   deserves less blame for this.
+rating: Explicit
 relationship:
 - Obi-Wan Kenobi/Anakin Skywalker
 summary: '*Obi-Wan doesn''t understand why Anakin needs to say the word so much, especially

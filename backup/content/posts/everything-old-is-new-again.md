@@ -12,6 +12,7 @@ fandom:
 notes: I wrote this as part of [10 in 10](http://archiveofourown.org/collections/ten_in_ten),
   and so it's a little messy, and a little unfinished. Sorry! I might come back to
   it, but I'm not sure yet.
+rating: Teen And Up Audiences
 relationship: []
 summary: 'Gaius has tales of the days before the plague. He''ll sit the younger children
   down after dinner when everyone is sleepy and spin them tales of wars and political

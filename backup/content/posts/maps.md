@@ -7,6 +7,7 @@ date: '2008-09-20'
 fandom:
 - Fullmetal Alchemist
 notes: Spoilers for ep 25.
+rating: General Audiences
 relationship: []
 summary: Post-episode 25, Seska cleans out Hughes' office.
 tags:

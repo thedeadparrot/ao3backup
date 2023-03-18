@@ -14,6 +14,7 @@ notes: 'Like everyone else here, I got sucked into my feelings about this movie,
 
 
   Thanks to Dark\_Eyed\_Junco for the audience and the encouragement.'
+rating: Teen And Up Audiences
 relationship:
 - "Joe | Yusuf Al-Kaysani/Nicky | Nicol\xF2 di Genova"
 summary: '*Nicky sometimes wonders why they are always warriors, those of them who

@@ -9,6 +9,7 @@ fandom:
 notes: This is a sort of sequel to 'Round and Around We Go', but it doesn't exactly
   line up with that fic's ending . Takes place during *Furious 7*. It's less of a
   'real story' and more of 'me having lots of feelings'. You have been warned.
+rating: Teen And Up Audiences
 relationship:
 - Letty Ortiz/Dominic Toretto
 - Letty Ortiz/Mia Toretto

@@ -11,6 +11,7 @@ notes: Written for [![[personal profile] ](http://s.dreamwidth.org/img/silk/iden
   morning." I hope you enjoy it! Sorry it's so late! Also, many thanks to [![[personal
   profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)[**zulu**](http://zulu.dreamwidth.org/)
   for the beta.
+rating: General Audiences
 relationship:
 - Sherlock Holmes/John Watson
 summary: John is fond of his morning routine.

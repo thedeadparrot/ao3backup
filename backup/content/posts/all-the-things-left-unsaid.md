@@ -8,6 +8,7 @@ date: '2016-11-30'
 fandom:
 - How to Get Away with Murder
 notes: 'Written for trope\_bingo, prompt "au: band". Un-betaed.'
+rating: Teen And Up Audiences
 relationship:
 - Oliver Hampton/Connor Walsh
 summary: '*"Well, something is going to break eventually," Michaela says, chin out,

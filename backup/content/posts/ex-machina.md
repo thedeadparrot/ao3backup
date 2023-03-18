@@ -11,6 +11,7 @@ notes: 'I was having a hard time with this one, but zulu helped dig me out a bit
 
   Other places: [Tumblr](http://thedeadparrot.tumblr.com/post/80919583047/fic-ex-machina-glee-kurt-blaine)
   | [DW](http://thedeadparrot.dreamwidth.org/548377.html) | [LJ](http://parrotfic.livejournal.com/41917.html)'
+rating: Teen And Up Audiences
 relationship:
 - Blaine Anderson/Kurt Hummel
 summary: AU. *If this movie doesn't collapse in on itself before it's released, Blaine

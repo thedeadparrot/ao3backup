@@ -9,6 +9,7 @@ notes: Many thanks to my betas, queenzulu and roga! Also, a shoutout goes to run
   for the original idea of [Dr. Rodney's Science Corner](http://runpunkrun.livejournal.com/252608.html).
   Written for remixredux09 as a remix of [Catalysis for Dummies](http://crysothemis.livejournal.com/97223.html)
   by crysothemis.
+rating: General Audiences
 relationship:
 - Rodney McKay/John Sheppard
 summary: Things that can be found in the apartment of M. Rodney McKay Ph.D. Ph.D.

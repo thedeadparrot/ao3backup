@@ -15,6 +15,7 @@ notes: 'This fic has been haunting me for about a year and I finally finished it
 
   Content warning here for some references to slavery and racism and generational
   trauma along with John Constantine''s whole mess of *stuff*.'
+rating: Mature
 relationship:
 - John Constantine/Desmond
 summary: '*Of course Des knows who Constantine is the first time he lays eyes on him.*'

@@ -8,6 +8,7 @@ date: '2008-12-02'
 fandom:
 - The Beatles
 notes: written for the prompt - hothouse; abyss; addiction; mousetrap
+rating: General Audiences
 relationship:
 - George/Paul
 summary: A break in the shooting of the "Rain" video.

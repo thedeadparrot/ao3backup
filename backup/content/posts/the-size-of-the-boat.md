@@ -10,6 +10,7 @@ fandom:
 notes: Written in response to a [kink meme prompt](https://good-omens-kink.dreamwidth.org/3161.html?thread=1985369#cmt1985369).
   Un-betaed. Shockingly enough, there are no footnotes, *and* I didn't die of shame
   while writing this.
+rating: Explicit
 relationship:
 - Aziraphale/Crowley (Good Omens)
 summary: Crowley has a size kink. Heaven accidentally issued Aziraphale a huge dick.

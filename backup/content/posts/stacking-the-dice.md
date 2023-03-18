@@ -9,6 +9,7 @@ notes: I was going to say that this was kind of my version of a *Cruel Intention
   AU, but I hadn't actually seen *Cruel Intentions* at the time (or even read *Dangerous
   Liaisons*). Now that I've seen the movie, I can say that this is probably more like
   an off-brand copy of a *Cruel Intentions* AU.
+rating: Explicit
 relationship:
 - Oliver Hampton/Connor Walsh
 summary: High School AU. Connor makes a bet with Michaela. Oliver gets caught in the

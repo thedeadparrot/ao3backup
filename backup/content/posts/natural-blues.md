@@ -10,6 +10,7 @@ fandom:
 - Sandman
 notes: I guess this kinda fits as an AU interlude between the two parts of Masters
   of War. The Roy here is very much the same.
+rating: General Audiences
 relationship:
 - Hughes/Mustang
 summary: Roy meets someone in the desert.

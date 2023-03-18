@@ -8,6 +8,7 @@ fandom:
 notes: For the [![[info]](http://l-stat.livejournal.com/img/community.gif)](http://community.livejournal.com/trek_rpf_kink/profile)[**trek\_rpf\_kink**](http://community.livejournal.com/trek_rpf_kink/)
   prompt ["What about unrequited Shatner?"](http://community.livejournal.com/trek_rpf_kink/713.html?thread=501193#t501193)
   Take that as your only warning.
+rating: Mature
 relationship:
 - William Shatner/Leonard Nimoy
 summary: Bill doesn't always get what he wants.

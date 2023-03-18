@@ -6,6 +6,7 @@ date: '2013-07-20'
 fandom:
 - Friday Night Lights
 notes: This was my first vid, way back when. Many thanks to zulu for the encouragement.
+rating: Teen And Up Audiences
 relationship: []
 summary: Matt, Tami, Jason.
 tags:

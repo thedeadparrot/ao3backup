@@ -9,6 +9,7 @@ fandom:
 - Fullmetal Alchemist
 - Sandman
 notes: Spoilers for Episode 25.
+rating: Teen And Up Audiences
 relationship: []
 summary: Death and Hughes have a chat.
 tags: []

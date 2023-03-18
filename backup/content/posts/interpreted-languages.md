@@ -12,6 +12,7 @@ notes: 'Written for the picfor1000 challenge. Blame can go to hannahrorlove. Tha
 
 
   [Podfic version](http://audiofic.jinjurly.com/interpreted-languages) by reena\_jenkins'
+rating: General Audiences
 relationship: []
 summary: When Micah first started talking to machines, they didn't talk back.
 tags:

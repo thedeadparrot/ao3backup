@@ -16,6 +16,7 @@ notes: "Inspired by Billy and Dom's *League of Legends* shenanigans on *The Frie
   \ meet playing LoL.\n\nThanks to Dark\\_Eyed\\_Junco for enabling. Maybe.\n\nTitle\
   \ comes from this cute Valentine's Day card.  \n![Valentine Card with 'Our Friendship\
   \ On Another Level' Design featuring a controller.](https://i.pinimg.com/originals/43/ab/45/43ab450eeda665d6cabc7fa6ea9dd46c.jpg)"
+rating: Teen And Up Audiences
 relationship:
 - Billy Boyd/Dominic Monaghan
 summary: Gamer AU. *At the time, Dom's friends list was empty, and so maybe that was

@@ -8,6 +8,7 @@ date: '2008-10-05'
 fandom:
 - Fullmetal Alchemist
 notes: Betaed by crazythorn and mukashi\_mukashi. You guys rock.
+rating: Teen And Up Audiences
 relationship:
 - Hughes/Mustang
 summary: Things had been shifting between them for some time.

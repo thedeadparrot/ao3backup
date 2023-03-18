@@ -11,6 +11,7 @@ notes: Written for [![[livejournal.com profile] ](http://s.dreamwidth.org/img/ex
   as part of [![[livejournal.com profile] ](http://s.dreamwidth.org/img/external/lj-userinfo.gif)](http://www.livejournal.com/users/help_japan/profile)[**help\_japan**](http://www.livejournal.com/users/help_japan/).
   So much love to [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)[**zulu**](http://zulu.dreamwidth.org/)
   for being a beta who is never fazed by whatever fandom I chuck at her.
+rating: Teen And Up Audiences
 relationship: []
 summary: Cal visits London and looks up old friends. *But maybe that's not it, maybe
   they won't ever be done with one another no matter how much they change, no matter

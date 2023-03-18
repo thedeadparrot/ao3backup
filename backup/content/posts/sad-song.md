@@ -9,6 +9,7 @@ fandom:
 notes: crazythorn is teh awesome for betaing this. I should send her a gift basket
   or something. Watch out for the abuse of the English language and the raw, distilled
   angst. It also follows manga canon. Because I like it better.
+rating: Teen And Up Audiences
 relationship: []
 summary: Roy angsts. And angsts. And angsts.
 tags:

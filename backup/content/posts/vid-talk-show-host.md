@@ -9,6 +9,7 @@ fandom:
 - Apocalypse Now (1979)
 notes: Much love to [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)**zulu**
   for audiencing.
+rating: Mature
 relationship: []
 summary: well fucking well come and find me
 tags:

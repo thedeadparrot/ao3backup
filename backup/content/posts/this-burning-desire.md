@@ -15,6 +15,7 @@ notes: 'Unbetaed.
 
 
   A mild content warning for a lot of unnegotiated kink.'
+rating: Explicit
 relationship:
 - Jeff Carter/Mike Richards
 summary: Jeff likes being humiliated. Mike doesn't really get it, but he's willing

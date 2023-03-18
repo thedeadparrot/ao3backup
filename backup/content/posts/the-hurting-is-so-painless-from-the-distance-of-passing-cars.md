@@ -9,6 +9,7 @@ fandom:
 - Alias
 notes: Takes place early on during Sydney's Lost Years. Many, many thanks to kisskisskiss
   and crazythorn for the betas. Fabulously long and pretentious title comes from Interpol.
+rating: Teen And Up Audiences
 relationship:
 - Jack/Irina
 summary: He never tells Irina that he doesn't love her, because he doesn't like lying

@@ -7,6 +7,7 @@ fandom:
 - Sherlock (BBC)
 notes: Written for [the kink meme](http://sherlockbbc-fic.livejournal.com/3114.html?thread=7188778#t7188778)
   forever ago. At least it's more cheerful than the last Sherlock fic I posted?
+rating: Explicit
 relationship:
 - John/Sherlock
 summary: John. Sherlock. A gay club.

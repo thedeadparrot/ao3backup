@@ -11,6 +11,7 @@ notes: 'Titles are hard, especially when you''ve picked an unforgiving naming sc
 
 
   Also on [Tumblr](http://thedeadparrot.tumblr.com/post/78236598149/fic-we-crave-a-different-kind-of-buzz-glee)'
+rating: Teen And Up Audiences
 relationship:
 - Blaine Anderson/Kurt Hummel
 summary: The heat cuts out at Dalton right before Blaine's math class. Written for

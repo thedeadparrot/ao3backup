@@ -12,6 +12,7 @@ fandom:
 notes: This is a very belated entry for the [Racebending Revenge Challenge](http://archiveofourown.org/collections/Racebending_Revenge).
   Many thanks to [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://merisunshine36.dreamwidth.org/profile)[**merisunshine36**](http://merisunshine36.dreamwidth.org/)
   for the encouragement and beta.
+rating: Teen And Up Audiences
 relationship: []
 summary: '*In early 2005, Wired writes an article called "The Asian Invasion" about
   the rise of Asian-American entrepreneurs and startups. Mark Zhao gets his own sidebar

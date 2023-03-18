@@ -18,6 +18,7 @@ notes: 'As much as I love me some healthy, safe, well-adjusted kink practice in 
 
   Thanks to Junco for tolerating me in any way when I''m trying to write something.
   Patience next to saintliness, that one.'
+rating: Explicit
 relationship:
 - Newton Geiszler/Hermann Gottlieb
 summary: "\u201CPlease,\u201D Newt says, and he doesn\u2019t know if he means *please\

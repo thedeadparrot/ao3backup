@@ -8,6 +8,7 @@ date: '2009-01-12'
 fandom:
 - Queer as Folk (UK)
 notes: Many, many thanks to queenzulu for the beta.
+rating: Explicit
 relationship:
 - Stuart/Vince
 summary: '*Press a button, step outside, new planet.* Stuart and Vince in America.'

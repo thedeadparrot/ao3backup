@@ -10,6 +10,7 @@ fandom:
 notes: A remix of zauberer\_sirin's awesome [theory and practice](http://zauberer-sirin.livejournal.com/83325.html),
   because she said she wanted one, and I was more than happy to comply. Alas, I wish
   I could do it more justice.
+rating: General Audiences
 relationship: []
 summary: Hawkeye learns to shoot.
 tags:

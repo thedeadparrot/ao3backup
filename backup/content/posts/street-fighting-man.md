@@ -7,6 +7,7 @@ date: '2011-08-01'
 fandom:
 - Social Network (2010)
 notes: Just a short snippet of the Mafia AU that won't stop eating my brain.
+rating: Mature
 relationship:
 - Eduardo Saverin/Mark Zuckerberg
 summary: '*Mark isn''t that kid anymore, to say the least.*

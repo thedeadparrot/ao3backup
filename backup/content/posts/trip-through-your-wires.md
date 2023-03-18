@@ -6,6 +6,7 @@ date: '2009-04-12'
 fandom:
 - Kings
 notes: 'So, this is a post-ep for 1x04: First Night. Many thanks to roga for the beta.'
+rating: Explicit
 relationship:
 - Jack Benjamin/David Shepherd
 summary: David's not going to pretend he fully understands how Jack can walk into

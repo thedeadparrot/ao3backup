@@ -9,6 +9,7 @@ date: '2017-12-09'
 fandom:
 - Chocolate (2008)
 notes: A big thanks goes out to all the people who helped me out with this.
+rating: Teen And Up Audiences
 relationship: []
 summary: Learning to understand the world.
 tags:

@@ -7,6 +7,7 @@ date: '2009-01-10'
 fandom:
 - House M.D.
 notes: For ficwriters\_anon. Thanks to savemoony for the beta.
+rating: General Audiences
 relationship: []
 summary: Five years ago, House managed to convince Wilson to put up a poster of Rebel
   Without A Cause in his office, across from the desk, so that Wilson would see it

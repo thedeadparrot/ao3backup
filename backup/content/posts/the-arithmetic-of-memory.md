@@ -10,6 +10,7 @@ fandom:
 notes: Thanks to my usual suspects for listening me as I worked through my thoughts
   on this. Extra thanks to the internet for helping to teach me about how to do CSS
   transitions properly.
+rating: Mature
 relationship:
 - Newton Geiszler/Hermann Gottlieb
 summary: You've broken two hearts tonight, and you don't even know why.

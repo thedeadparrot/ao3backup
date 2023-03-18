@@ -8,6 +8,7 @@ fandom:
 - Crouching Tiger Hidden Dragon
 notes: This was written for Pixie as a Yuletide Treat, but through some technical
   difficulties, I couldn't upload it in time. So here it is, instead.
+rating: General Audiences
 relationship: []
 summary: Shu Lien is old.
 tags:

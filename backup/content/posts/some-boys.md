@@ -10,6 +10,7 @@ notes: "I started writing this about a month ago, way before all these new excit
   \ the title (and in the story) is [Some Boys](http://www.youtube.com/watch?v=gdGLZQEW9yU)\
   \ by Death Cab for Cutie.\n\nOther places:  \n[DW](http://thedeadparrot.dreamwidth.org/523176.html)\
   \ | [LJ](http://parrotfic.livejournal.com/39756.html) | [Tumblr](http://thedeadparrot.tumblr.com/post/48037166934/fic-some-boys-glee-kurt-blaine)"
+rating: Teen And Up Audiences
 relationship:
 - Blaine Anderson/Kurt Hummel
 summary: '*Spring has always been Blaine''s favorite season, when the first signs

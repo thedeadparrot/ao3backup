@@ -9,6 +9,7 @@ fandom:
 - Good Omens (TV)
 notes: This was a fun little fic to write for the Get A Wiggle On Zine! Many thanks
   to Dashicra1 and marlahectic for the betas.
+rating: General Audiences
 relationship:
 - Aziraphale/Crowley (Good Omens)
 summary: Aziraphale has a knitting project that he doesn't want Crowley to know about.

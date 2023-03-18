@@ -9,6 +9,7 @@ fandom:
 - The Fast and the Furious (2001)
 notes: Takes place in the time gap in *Fast and Furious*. Needless to say, major spoilers
   for that movie. Lots of love to zulu for the beta.
+rating: Explicit
 relationship:
 - Brian O'Conner/Letty Oritz
 summary: Letty comes back to LA. Dom doesn't. Brian deals.

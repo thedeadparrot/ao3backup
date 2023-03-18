@@ -8,6 +8,7 @@ fandom:
 - X-Men (Movieverse)
 notes: Will not play nicely with mobile devices. I have not tested it in IE, and some
   functionality may not work with it, either.
+rating: Teen And Up Audiences
 relationship:
 - Erik Lehnsherr/Charles Xavier
 summary: "Post-X3 interactive fiction. *\"Well, we've been going through some of the\

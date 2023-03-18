@@ -14,6 +14,7 @@ notes: 'This was mostly written as a cute joke for some of my friends, but I fig
 
   Keytar Bear is [a real local Boston celebrity](https://www.vice.com/en/article/vbkkkx/bostons-keytar-bear-is-a-great-musician-when-people-arent-punching-him).
   Apologies to him. He didn''t ask for this.'
+rating: Teen And Up Audiences
 relationship:
 - Geralt z Rivii | Geralt of Rivia/Jaskier | Dandelion/Yennefer z Vengerbergu | Yennefer
   of Vengerberg

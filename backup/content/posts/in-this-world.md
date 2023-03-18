@@ -9,6 +9,7 @@ fandom:
 - Doctor Who
 notes: Just a short slice-of-life piece. Takes place sometime between 'The Lazarus
   Experiment' and 'Human Nature'.
+rating: General Audiences
 relationship: []
 summary: A new day, a new wonder.
 tags:

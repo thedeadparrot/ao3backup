@@ -9,6 +9,7 @@ fandom:
 - Politician RPF
 notes: I think I'll blame fandomsecrets, queenzulu, and leiascully for this. In that
   order. queenzulu gets extra blame for also poking at it and making it better.
+rating: Mature
 relationship:
 - Hillary Clinton/Barack Obama
 summary: They don't talk politics when they're alone together like this, because they

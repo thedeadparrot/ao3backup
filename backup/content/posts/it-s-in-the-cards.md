@@ -20,6 +20,7 @@ notes: 'This is the result of me getting very into tarot for a brief moment in t
 
   Many thanks as always to everyone who dealt with me while I was writing this. I''m
   sure I was very insufferable.'
+rating: Teen And Up Audiences
 relationship:
 - Aziraphale/Crowley (Good Omens)
 summary: 'While stuck in a holding pattern after the world doesn''t end, Crowley gets

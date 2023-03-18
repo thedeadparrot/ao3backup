@@ -7,6 +7,7 @@ date: '2008-09-30'
 fandom:
 - Minority Report (2002)
 notes: For Kate Swyford, [yuletide](http://www.yuletidetreasure.org/) 2005.
+rating: Teen And Up Audiences
 relationship: []
 summary: John loses himself in Pre-Crime.
 tags:

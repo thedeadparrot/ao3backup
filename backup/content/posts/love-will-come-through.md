@@ -8,6 +8,7 @@ date: '2009-01-06'
 fandom:
 - Superman (movies)
 notes: For zauberer\_sirin, for being my partner in Clark/Lois squee. Unbetaed.
+rating: Teen And Up Audiences
 relationship:
 - Lois/Clark
 - Lois/Richard

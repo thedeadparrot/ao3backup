@@ -16,6 +16,7 @@ notes: 'Yet another take on ''what if Obi-Wan managed to give himself up to Vade
   Many thanks to the usual folks, Seascribbe, azephirin, and Dark\_Eyed\_Junco for
   their unflagging support, encouragement, and enabling when I just want to whine
   about how writing is hard.'
+rating: Mature
 relationship:
 - Obi-Wan Kenobi/Darth Vader
 - Obi-Wan Kenobi/Anakin Skywalker

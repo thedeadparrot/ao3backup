@@ -10,6 +10,7 @@ fandom:
 notes: Nicked the idea from every\_click. 14 songs on Revolver. 14 connected drabbles
   based on the lyrics/backstory/mood of each song. Paul POV. Based around the time
   when Revolver was recorded/written. Not betaed, because I'm lazy.
+rating: Not Rated
 relationship:
 - John Lennon/Paul McCartney
 summary: Every song has a story.

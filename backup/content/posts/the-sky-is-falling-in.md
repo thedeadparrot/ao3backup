@@ -10,6 +10,7 @@ fandom:
 notes: Lots of love to crazythorn for the usual reasons. Written partially because
   I said I would and partially because I needed to get a lot of anger out of my system.
   Title is from the subtitle to a Radiohead song.
+rating: Explicit
 relationship:
 - Roy/Ed
 summary: You want to hurt him.

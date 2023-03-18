@@ -10,6 +10,7 @@ notes: 'Written for [trope\_bingo](http://thedeadparrot.dreamwidth.org/546413.ht
 
 
   Also on [Tumblr](http://thedeadparrot.tumblr.com/post/78054515840/fic-laugh-until-our-ribs-get-tough-glee-kurt-blaine)'
+rating: General Audiences
 relationship:
 - Blaine Anderson/Kurt Hummel
 summary: '*Really, he should have let someone else -- maybe Thad or Trent -- do the

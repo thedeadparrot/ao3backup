@@ -9,6 +9,7 @@ fandom:
 notes: For the temps\_mort [death challenge](http://www.livejournal.com/community/temps_mort/282645.html).
   Written in 89 minutes, which should indicate something about the quality. Unbetaed
   and barely edited.
+rating: General Audiences
 relationship: []
 summary: There are things you don't dwell on, though, while dead, and Roy is one of
   them.

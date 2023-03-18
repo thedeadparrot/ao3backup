@@ -13,6 +13,7 @@ fandom:
 - Doctor Who
 notes: Written for thermidor in the Yuletide 2008 Challenge. Lots of love to hannahrorlove
   for the beta.
+rating: Teen And Up Audiences
 relationship: []
 summary: '"No. I veto this idea," Hammond said, rubbing his forehead. "We are not
   reviewing a TARDIS that is shaped like a police box."'

@@ -19,6 +19,7 @@ notes: 'Hello, I''m new here. Season 2 convinced me that I needed to be in this 
 
 
   Unbetaed.'
+rating: Explicit
 relationship:
 - Jaskier | Dandelion/Yennefer z Vengerbergu | Yennefer of Vengerberg
 summary: '*She had thought of this when she accosted him in the hallway earlier, when

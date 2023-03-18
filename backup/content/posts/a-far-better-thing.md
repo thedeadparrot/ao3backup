@@ -6,6 +6,7 @@ date: '2013-07-01'
 fandom:
 - Glee
 notes: So many thanks to zulu for the beta!
+rating: Teen And Up Audiences
 relationship:
 - Blaine Anderson/Kurt Hummel
 summary: 'AU. For as long as anyone can remember, the city has been split into two

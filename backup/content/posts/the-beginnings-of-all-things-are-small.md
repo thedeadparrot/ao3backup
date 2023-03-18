@@ -9,6 +9,7 @@ date: '2009-01-08'
 fandom:
 - Batman Begins (2005)
 notes: Written for yuletide 2006 for Lady Sarai. Many thanks to ignited for the beta.
+rating: Teen And Up Audiences
 relationship: []
 summary: When Dick Grayson sees Wayne Manor for the first time, he thinks that it
   looks like it could eat him.

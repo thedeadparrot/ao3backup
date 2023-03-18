@@ -10,6 +10,7 @@ fandom:
 - House M.D.
 notes: Just a small snippet. It's a bit different in style from the others, but I
   hope it still fits.
+rating: Teen And Up Audiences
 relationship:
 - Greg House/James Wilson
 summary: At this point, it's not a matter of "if" so much as "when", but they still

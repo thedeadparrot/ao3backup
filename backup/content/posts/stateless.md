@@ -13,6 +13,7 @@ notes: This is savemoony's birthday present, with extra value-add because it's e
   (Hopefully.) Many, many thanks to queenzulu and bironic for pulling my head out
   of my ass on numerous, numerous occasions. Not part of the Mathletes-verse. At all.
   Takes place in the summer between House S2 and S3.
+rating: Explicit
 relationship:
 - John Sheppard/James Wilson
 summary: John runs into the guy across the hall, and things just snowball from there.

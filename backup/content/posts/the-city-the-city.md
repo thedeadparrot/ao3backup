@@ -7,6 +7,7 @@ fandom:
 - Elementary (TV)
 notes: "Thanks to merisunshine36 for making me kill my darlings. Apologies to China\
   \ Mi\xE9ville for stealing the title of his book."
+rating: General Audiences
 relationship:
 - Sherlock Holmes & Joan Watson
 summary: '*This is how they understand each other, through the places they love and

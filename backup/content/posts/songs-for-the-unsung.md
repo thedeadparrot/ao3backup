@@ -10,6 +10,7 @@ date: '2012-12-20'
 fandom:
 - Bastion
 notes: ''
+rating: General Audiences
 relationship: []
 summary: This story I'm about to tell you ain't much like the Kid's stories of the
   Calamity. No windbags, no peckers, no anklegators. No fightin' at all, when you

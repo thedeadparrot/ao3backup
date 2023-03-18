@@ -6,6 +6,7 @@ date: '2017-03-13'
 fandom:
 - X-Men (Movieverse)
 notes: Written for fandomtrumpshate. So many thanks to Zulu for betaing.
+rating: Teen And Up Audiences
 relationship:
 - Erik Lehnsherr/Charles Xavier
 summary: Charles is resurrected. Erik regains full use of his powers. And everything

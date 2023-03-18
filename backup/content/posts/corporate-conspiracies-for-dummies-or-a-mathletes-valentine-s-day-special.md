@@ -10,6 +10,7 @@ fandom:
 - Stargate Atlantis
 notes: So I started writing this at 10AM this morning, and it's unbetaed because I
   had a bit of a deadline. Feel free to fix typos.
+rating: Explicit
 relationship:
 - Greg House/Rodney McKay
 summary: In which there's a date, a movie, and confessions. Sort of.

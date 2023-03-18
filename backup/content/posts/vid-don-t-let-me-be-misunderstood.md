@@ -7,6 +7,7 @@ fandom:
 - X-Men (Movieverse)
 notes: Thanks to merisunshine36 for betaing/enabling. This wouldn't have gotten finished
   without her persistent cheerleading.
+rating: Teen And Up Audiences
 relationship:
 - Erik Lehnsherr/Charles Xavier
 summary: 'The road to hell is paved with good intentions.

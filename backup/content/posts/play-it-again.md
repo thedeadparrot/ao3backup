@@ -11,6 +11,7 @@ notes: So many thanks to merisunshine36 for the audiencing and some early beta n
   The accuracy of the law and the hacking/computer stuff is about in line with that
   of the show, that is to say, mostly made up. This splits off from canon after 1x10,
   because that's when I started writing it.
+rating: Mature
 relationship:
 - Oliver Hampton/Connor Walsh
 summary: Future fic. Five years ago, Oliver left Philadelphia and Connor behind with

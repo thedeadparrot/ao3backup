@@ -10,6 +10,7 @@ fandom:
 - Hustle
 notes: Written for Porn Battle X and the prompt 'Hustle/NCIS, Albert Stroller/Ducky,
   written'
+rating: Teen And Up Audiences
 relationship:
 - Albert Stoller/Ducky Mallard
 summary: Ducky visits an old friend while in London.

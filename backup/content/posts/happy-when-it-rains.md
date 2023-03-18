@@ -8,6 +8,7 @@ fandom:
 - Stargate Atlantis
 notes: Many thanks to queenzulu for the encouragement and the audiencing. I would
   say that there aren't any Outcast spoilers beyond the fact that Nancy exists.
+rating: Teen And Up Audiences
 relationship:
 - John Sheppard/Nancy Sheppard
 summary: John left this morning, Nancy knows, because his bags aren't in the closet

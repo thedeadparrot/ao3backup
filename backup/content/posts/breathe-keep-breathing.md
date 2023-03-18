@@ -10,6 +10,7 @@ fandom:
 - House M.D.
 notes: This is pretty much a House AU as opposed to a proper crossover. Many thanks
   to merriman, rainyd, and snakecharmerfox for the betas.
+rating: Teen And Up Audiences
 relationship:
 - Greg House/James Wilson
 summary: They were on their way to a medical conference when the Cylons hit.

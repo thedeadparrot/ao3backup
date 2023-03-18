@@ -8,6 +8,7 @@ fandom:
 - House M.D.
 notes: In list format. zulu saved my life here. For real. Written for crystaldrake
   as part of [purimgifts](http://community.livejournal.com/purimgifts/).
+rating: General Audiences
 relationship: []
 summary: ''
 tags: []

@@ -16,6 +16,7 @@ notes: 'What happened is that there were two NY Rangers who [talked about sharin
 
   Dark\_Eyed\_Junco deserves the blame for brainstorming stupid ideas with me, enabling
   this, and being a willing audience.'
+rating: Mature
 relationship:
 - Jeff Carter/Mike Richards
 summary: Mike doesn't know how these things keep happening to him.

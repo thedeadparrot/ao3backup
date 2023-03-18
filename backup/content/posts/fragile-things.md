@@ -7,6 +7,7 @@ date: '2012-06-19'
 fandom:
 - X-Men (Movieverse)
 notes: Many thanks to merisunshine36 for the beta.
+rating: Teen And Up Audiences
 relationship:
 - Erik Lehnsherr/Charles Xavier
 summary: '*There used to be a time when Charlotte wondered if she was like that, something

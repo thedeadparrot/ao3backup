@@ -7,6 +7,7 @@ date: '2008-10-05'
 fandom:
 - Fullmetal Alchemist
 notes: Betaed once again by the awesome crazythorn.
+rating: General Audiences
 relationship: []
 summary: Thirty years after episode 51, a funeral.
 tags:

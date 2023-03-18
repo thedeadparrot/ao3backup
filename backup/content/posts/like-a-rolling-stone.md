@@ -11,6 +11,7 @@ notes: 'I was a bad writer and didn''t get this betaed. Still, many thanks to me
 
 
   Title and lyrics come from [Bob Dylan](http://www.bobdylan.com/us/songs/rolling-stone).'
+rating: Teen And Up Audiences
 relationship:
 - Erik Lehnsherr/Charles Xavier
 summary: "*When you got nothing / you got nothing to lose / You\u2019re invisible\

@@ -12,6 +12,7 @@ notes: 'Many thanks to savemoony for inspiring this, helping out with fixing it,
 
 
   [Podfic version](http://audiofic.jinjurly.com/things-to-do-before-you-die) by cadeira'
+rating: General Audiences
 relationship:
 - Greg House/James Wilson
 summary: In which Wilson turns thirty-eight and a half, thinks about kittens, and

@@ -9,6 +9,7 @@ fandom:
 - 'Star Trek: The Original Series'
 notes: Much love goes to zulu for betaing and to hannahrorlove for listening while
   I was wrestling this thing into shape.
+rating: General Audiences
 relationship:
 - Kirk/Spock
 summary: Kirk is pretty in touch with his emotions. Except for when he isn't.

@@ -8,6 +8,7 @@ date: '2020-12-19'
 fandom:
 - The Old Guard (Comics)
 notes: Thank you to all the folks who helped me with this!
+rating: Teen And Up Audiences
 relationship:
 - Andy | Andromache of Scythia/Quynh | Noriko
 summary: After the events of Force Multiplied, Andy tries to work out her new relationship

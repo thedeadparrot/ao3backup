@@ -20,6 +20,7 @@ notes: 'Most of this fic is written, so updates should go up every two days.
   which gave a lot of very important color about the time period. Berlin is a fascinating
   city, way cooler, way hipper, way more radical than I could fully capture in this
   story. I hope I managed to do it the tiniest bit of justice.'
+rating: Explicit
 relationship:
 - Harry Hart | Galahad/Merlin
 summary: Berlin, 1991. Agents Galahad and Merlin are sent on a mission to uncover

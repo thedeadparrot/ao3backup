@@ -6,6 +6,7 @@ date: '2010-06-21'
 fandom:
 - The West Wing
 notes: So much love to zulu for all the encouragement and the beta.
+rating: Teen And Up Audiences
 relationship:
 - Abbey Bartlet/Jed Bartlet/Leo McGarry
 summary: '*There''s nothing false about his happiness. It would be easier for him

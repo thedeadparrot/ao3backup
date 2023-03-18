@@ -7,6 +7,7 @@ fandom:
 - Queer as Folk (UK)
 notes: Written for pornathon and the prompt 'first'. Both Stuart and Vince are fourteen
   here.
+rating: Explicit
 relationship:
 - Stuart Alan Jones/Vince Tyler
 summary: Stuart tries some things. Not all of them work out.

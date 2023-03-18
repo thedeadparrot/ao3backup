@@ -9,6 +9,7 @@ notes: Written for [this kinkmeme prompt](http://tsn-kinkmeme.livejournal.com/83
   (which is somewhat spoilery for the story itself). This is a slightly expanded version
   of the fic I posted to the kinkmeme. [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)[**zulu**](http://zulu.dreamwidth.org/),
   as always, gets credit for the beta.
+rating: Explicit
 relationship:
 - Eduardo Saverin/Mark Zuckerberg
 summary: A few years after the depositions, Mark sends Eduardo an e-mail. Now Eduardo

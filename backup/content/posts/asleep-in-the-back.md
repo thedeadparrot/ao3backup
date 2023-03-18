@@ -8,6 +8,7 @@ fandom:
 - Fullmetal Alchemist
 notes: 'gen post-series, pre-movie Roy fic. Contains: pretentiousness, snow. Lacks:
   coherency, capitalization.'
+rating: General Audiences
 relationship: []
 summary: Roy waits.
 tags:

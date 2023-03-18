@@ -8,6 +8,7 @@ date: '2009-01-08'
 fandom:
 - House M.D.
 notes: I like writing about the weather. Entirely too much.
+rating: General Audiences
 relationship: []
 summary: He lost a patient on Wednesday, and it hurts the way all his failures do,
   sharp and bitter, with a hint of regret.

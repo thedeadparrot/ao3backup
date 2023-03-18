@@ -7,6 +7,7 @@ date: '2009-01-12'
 fandom:
 - Batman Begins (2005)
 notes: for the 30\_gens challenge (not completed yet).
+rating: Teen And Up Audiences
 relationship: []
 summary: 30 ficlets about Bruce Wayne.
 tags:

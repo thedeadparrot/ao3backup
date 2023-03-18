@@ -9,6 +9,7 @@ fandom:
 - Hunger Games Trilogy - Suzanne Collins
 notes: Written for misura as part of fandomaid who wanted "the story of how Effie
   and Cinna save the world with fashion." This is my best shot at it.
+rating: General Audiences
 relationship: []
 summary: '*"Only the most amazing idea for a television show!" Effie said. She smiled
   bright enough that Cinna got a good look at her perfectly shaped teeth. "I want

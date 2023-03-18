@@ -10,6 +10,7 @@ notes: This fic has been kicking around my drafts folder since 2012, and even th
   like the way it manages to hold together emotionally. I like Charles's telepathy
   being fucked up and creepy, so it pleases my id. Hopefully, it will also please
   some of yours.
+rating: Mature
 relationship:
 - Erik Lehnsherr/Charles Xavier
 summary: Erik and Charles are taken captive by a military organization that wants

@@ -9,6 +9,7 @@ fandom:
 - Mass Effect
 notes: I know a lot of people are grappling with the ending. This is my way of coming
   to terms with it. Unbetaed.
+rating: General Audiences
 relationship: []
 summary: 'Major Mass Effect 3 ending spoilers!
 

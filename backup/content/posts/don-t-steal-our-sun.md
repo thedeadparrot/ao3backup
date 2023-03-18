@@ -9,6 +9,7 @@ fandom:
 - Harry Potter - Rowling
 notes: Mostly a mood piece, not a lot of plot. Inspired by the lack of air conditioning.
   Lots of love to librae for the beta.
+rating: Teen And Up Audiences
 relationship:
 - Sirius Black/Remus Lupin
 summary: A hot, hazy, MWPP, summer sunset.

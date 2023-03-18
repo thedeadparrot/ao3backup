@@ -12,6 +12,7 @@ fandom:
 notes: Many thanks to mjules and livetolove for the betas. Spoilers up to Chap 59.
   Mostly inspired by the lyric "I've been burning in water and drowning in flame."
   from H.I.M.'s Under the Rose. Written for the fma\_ot4 lyrics challenge.
+rating: Mature
 relationship:
 - Hughes/Mustang
 - Mustang/Hawkeye

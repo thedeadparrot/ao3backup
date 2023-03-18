@@ -7,6 +7,7 @@ fandom:
 - Star Trek RPF
 notes: PWP. Written as a response to [this prompt](http://community.livejournal.com/trek_rpf_kink/1765.html?thread=2468325#t2468325)
   in [![[info]](http://l-stat.livejournal.com/img/community.gif)](http://community.livejournal.com/trek_rpf_kink/profile)[**trek\_rpf\_kink**](http://community.livejournal.com/trek_rpf_kink/).
+rating: Explicit
 relationship:
 - William Shatner/Leonard Nimoy
 summary: Bill. Leonard. A supply closet.

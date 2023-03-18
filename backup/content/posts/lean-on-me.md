@@ -6,6 +6,7 @@ date: '2014-06-06'
 fandom:
 - Captain America (Movies)
 notes: ''
+rating: Explicit
 relationship:
 - James "Bucky" Barnes/Steve Rogers
 summary: for the prompt 'Steve and Bucky go to the grocery store and then have sex.'

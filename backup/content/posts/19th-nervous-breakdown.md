@@ -10,6 +10,7 @@ fandom:
 notes: Written for the timestamp meme and a request for Sympathy for the Devil ten
   years later. So much love to my co-author, beta, and enabler merisunshine36 for
   being willing to dive into this ridiculousness with me again.
+rating: Teen And Up Audiences
 relationship:
 - Eduardo Saverin/Mark Zuckerberg
 summary: Mafia AU. It wouldn't be Mark and Eduardo's wedding if everything went smoothly.

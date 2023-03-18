@@ -11,6 +11,7 @@ notes: 'Many thanks to my beta! And this is an extra Yuletide treat! Happy yulet
 
   A lovely [podfic](http://chromatic-podfic.dreamwidth.org/3270.html) of this story
   has been made by sophinisba.'
+rating: Explicit
 relationship:
 - Harold Lee/Kumar Patel
 summary: '"Dude, don''t even lie about how you''re totally into me," Kumar says.'

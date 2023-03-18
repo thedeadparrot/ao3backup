@@ -7,6 +7,7 @@ date: '2009-07-30'
 fandom:
 - Star Trek (2009)
 notes: ''
+rating: General Audiences
 relationship: []
 summary: Spock Prime has found ways to keep himself occupied; the universe doesn't
   know what hit it.

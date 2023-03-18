@@ -14,6 +14,7 @@ notes: 'In the DVD commentary for A Study in Pink, Mark Gatiss says that he once
 
 
   Many thanks to Piscaria for the beta!'
+rating: Teen And Up Audiences
 relationship: []
 summary: '*He can almost hear Mark rolling his eyes on the other side. "You''re the
   one playing Sherlock aren''t you? Will you take the case or not?"*'

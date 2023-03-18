@@ -12,6 +12,7 @@ notes: 'Many thanks to everyone who made this story possible. You''re the best.
 
   Stultiloquentia and ladyofthelog were the excellent betas who made this story much
   better.'
+rating: Teen And Up Audiences
 relationship: []
 summary: A week in the life of Josephine MacDonald. Gotham's not an easy city to love.
 tags:

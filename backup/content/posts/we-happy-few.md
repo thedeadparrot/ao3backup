@@ -10,6 +10,7 @@ fandom:
 - Captain America (Movies)
 notes: Roga deserves so much credit for the beta, making this a much better story
   now than it was in its original form.
+rating: Teen And Up Audiences
 relationship:
 - Diana (Wonder Woman)/Steve Rogers
 summary: They meet, as is fitting, on a battlefield.

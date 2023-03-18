@@ -8,6 +8,7 @@ fandom:
 - Hockey RPF
 notes: Thanks to all those lovely people who listened to me whine and also helped
   me out with this fic. It's very much appreciated.
+rating: General Audiences
 relationship: []
 summary: 'Rob Klinkhammer goes where he''s needed.
 

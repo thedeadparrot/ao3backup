@@ -7,6 +7,7 @@ fandom:
 - 'Star Wars Episode VII: The Force Awakens (2015)'
 notes: Written for trope\_bingo prompt "Rivals to Lovers". I kind of stretched that
   to the limit. Sorry?
+rating: Teen And Up Audiences
 relationship:
 - Poe Dameron/Finn/Rey
 summary: Rey's not jealous. She's not.

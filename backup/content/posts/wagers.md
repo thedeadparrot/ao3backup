@@ -10,6 +10,7 @@ notes: Written for [![[info]](http://l-stat.livejournal.com/img/userinfo.gif)](h
   at [![[info]](http://l-stat.livejournal.com/img/community.gif)](http://community.livejournal.com/help_haiti/profile)[**help\_haiti**](http://community.livejournal.com/help_haiti/).
   [![[info]](http://l-stat.livejournal.com/img/userinfo.gif)](http://queenzulu.livejournal.com/profile)[**queenzulu**](http://queenzulu.livejournal.com/)
   rocks for the speedy beta.
+rating: Teen And Up Audiences
 relationship:
 - James Bond/Villiers
 summary: Despite what the rumors may say, the regular MI-6 support staff poker games

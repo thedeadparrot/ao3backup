@@ -7,6 +7,7 @@ fandom:
 - Star Trek RPF
 notes: 'This would be a much crappier story without the mad beta skillz of [![[info]](http://l-stat.livejournal.com/img/userinfo.gif)](http://queenzulu.livejournal.com/profile)[**queenzulu**](http://queenzulu.livejournal.com/).
   Warning: kind of disgustingly fluffy. Sorry. Takes place now-ish. Post ST XI, anyway.'
+rating: Teen And Up Audiences
 relationship:
 - William Shatner/Leonard Nimoy
 summary: In which Leonard takes pictures of things, Bill sulks a little, and a cactus

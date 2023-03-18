@@ -8,6 +8,7 @@ fandom:
 - 'Avatar: The Last Airbender'
 notes: 'Written for [Big Damn Heroes](http://onomatopoetic.dreamwidth.org/421011.html)
   and the prompt: ''Avatar: The Last Airbender, Yangchen and/or Kyoshi, balance'''
+rating: General Audiences
 relationship: []
 summary: Though she is the Avatar, a master of all four of the elements, she will
   always be an Earthbender first and foremost, solid and strong and connected to the

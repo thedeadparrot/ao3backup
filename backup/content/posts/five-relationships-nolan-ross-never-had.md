@@ -8,6 +8,7 @@ fandom:
 notes: Much love goes out to [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://merisunshine36.dreamwidth.org/profile)[**merisunshine36**](http://merisunshine36.dreamwidth.org/)
   for the beta and for listening to me whine constantly. Actually, thanks should go
   out to everyone who has listened to me whine! Spoilers through 1x07.
+rating: Teen And Up Audiences
 relationship:
 - Nolan Ross/Emily Thorne
 - Tyler Barrol/Nolan Ross

@@ -9,6 +9,7 @@ fandom:
 notes: Big thanks go out to savemoony and leiascully for audiencing. This is a cyberpunk
   AU. Just warning y'all. It was written for remix\_redux based on [Variations](http://queenzulu.livejournal.com/190453.html)
   by queenzulu.
+rating: Teen And Up Audiences
 relationship:
 - Greg House/James Wilson
 - Greg House/Stacy Warner

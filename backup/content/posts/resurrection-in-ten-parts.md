@@ -11,6 +11,7 @@ fandom:
 notes: Apocalypse (of the ice age/Day After Tomorrow sort) fic. Yes, the crack I am
   smoking is good. No, you can't have some. ;) Thanks a billion to librae for the
   beta.
+rating: General Audiences
 relationship:
 - John/Paul
 summary: John comes back from the dead.

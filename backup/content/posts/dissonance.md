@@ -9,6 +9,7 @@ fandom:
 - Harry Potter - Rowling
 notes: Thanks again to librae and crazythorn for the betas. You guys are the shizznit.
   For anniesj, who requested MWPP-era and Remus's scars.
+rating: Mature
 relationship:
 - Remus Lupin/Sirius Black
 summary: Remus is obsessed with his scars. Sirius doesn't get it.

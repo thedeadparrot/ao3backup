@@ -15,6 +15,7 @@ notes: 'This was totally supposed to be my self-indulgent fix it for *Journey''s
 
 
   Sophinisba has recorded [podfic](http://sophinisba.dreamwidth.org/356818.html)!'
+rating: General Audiences
 relationship:
 - Donna/Martha
 summary: Donna meets someone new and learns a few things about herself.

@@ -11,6 +11,7 @@ notes: Takes place in the current day, and I've pretty much disregarded the *Fif
   Years Later Affair*, mostly because I haven't seen it yet and also because almost
   everything I've heard about it indicates that I wouldn't want to. Much love goes
   out to zulu for the beta.
+rating: General Audiences
 relationship:
 - Illya Kuryakin/Napoleon Solo
 summary: Even old spies can enjoy autumn in New York.

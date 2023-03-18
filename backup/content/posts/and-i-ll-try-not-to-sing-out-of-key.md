@@ -11,6 +11,7 @@ notes: 'So many thanks to zulu for the beta. Weather fic is still my favorite fi
 
   Other places: [DW](http://thedeadparrot.dreamwidth.org/537176.html) | [LJ](http://parrotfic.livejournal.com/41263.html)
   | [Tumblr](http://thedeadparrot.tumblr.com/post/68056222548/fic-and-ill-try-not-to-sing-out-of-key-glee)'
+rating: Teen And Up Audiences
 relationship:
 - Blaine Anderson/Kurt Hummel
 summary: '*Fall blows in with Blaine on its heels.* Sometimes domesticity isn''t all

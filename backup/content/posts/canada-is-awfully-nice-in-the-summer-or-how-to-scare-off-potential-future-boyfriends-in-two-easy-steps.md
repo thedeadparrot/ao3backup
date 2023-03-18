@@ -10,6 +10,7 @@ fandom:
 - House M.D.
 - Stargate Atlantis
 notes: For queenzulu's birthday.
+rating: General Audiences
 relationship:
 - Greg House/Rodney McKay
 summary: '"Shhh," House says, waving Wilson off with a glare and hand motions. "I''m

@@ -9,6 +9,7 @@ notes: 'Unbetaed. From the kinkmeme prompt: ["Rey orders Poe to praise Finn."](h
 
 
   Sorry, not sorry, to the Carpenters for the title.'
+rating: Explicit
 relationship:
 - Poe Dameron/Finn/Rey
 summary: Poe's quiet during sex. Rey plans to change that.

@@ -9,6 +9,7 @@ fandom:
 notes: Many many thanks to queenzulu for shortening my sentences and deleting the
   extraneous commas. Takes place in the time period between The Last of the Time Lords
   and The Sontaran Strategem.
+rating: Teen And Up Audiences
 relationship: []
 summary: '*She''s realized that she wants to build herself a new life, a bigger one,
   one that can fit people who aren''t the last of the Time Lords.* Martha Jones in

@@ -9,6 +9,7 @@ fandom:
 - House M.D.
 notes: Unbetaed. Title stolen from a really awesome Badly Drawn Boy song. Second person
   pov.
+rating: Teen And Up Audiences
 relationship:
 - Greg House/James Wilson
 summary: Wilson, autumn, melancholy, and House.

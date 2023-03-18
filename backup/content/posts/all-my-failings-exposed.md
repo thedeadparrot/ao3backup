@@ -16,6 +16,7 @@ notes: 'Takes place roughly in the 1920''s-30''s.
 
   Thank you so much to azephirin for her help with the encouragement, audiencing,
   and betaing!'
+rating: Explicit
 relationship:
 - "Booker | Sebastien le Livre/Joe | Yusuf Al-Kaysani/Nicky | Nicol\xF2 di Genova"
 summary: After a rough mission, Joe and Nicky make sure that Booker doesn't spend

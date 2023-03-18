@@ -11,6 +11,7 @@ fandom:
 - Merlin (BBC)
 notes: Written for Kali in the Yuletide 2008 Challenge. Much love to queenzulu for
   helping me immensely with this.
+rating: Teen And Up Audiences
 relationship:
 - Arthur/Merlin/Gwen/Morgana
 summary: The future ahead of them is still so unclear.

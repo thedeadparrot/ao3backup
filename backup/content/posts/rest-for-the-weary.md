@@ -6,6 +6,7 @@ date: '2014-05-27'
 fandom:
 - X-Men (Movieverse)
 notes: Just a quick ficlet about feelings. Unbetaed.
+rating: Teen And Up Audiences
 relationship:
 - Erik Lehnsherr/Charles Xavier
 summary: A quiet moment between Charles and Erik before they join up with Kitty in

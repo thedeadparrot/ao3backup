@@ -8,6 +8,7 @@ fandom:
 notes: Written in response to [this prompt](http://community.livejournal.com/trek_rpf_kink/713.html?thread=715977#t715977)
   in [![[info]](http://l-stat.livejournal.com/img/community.gif)](http://community.livejournal.com/trek_rpf_kink/profile)[**trek\_rpf\_kink**](http://community.livejournal.com/trek_rpf_kink/).
   Porn, porn, and more porn.
+rating: Explicit
 relationship:
 - William Shatner/Leonard Nimoy
 summary: Bill flirts with everyone. Leonard calls his bluff.
