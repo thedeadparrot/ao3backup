@@ -24,7 +24,6 @@ concurrency:
 # Default to bash
 defaults:
   run:
-    working-directory: backup
     shell: bash
 
 jobs:
@@ -50,6 +49,7 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
+        working-directory: ./backup
         env:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
@@ -61,7 +61,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./public
+          path: ./backup/public
 
   # Deployment job
   deploy:
