@@ -13,7 +13,9 @@ env:
   AO3_USER: ${{inputs.ao3_user}}
 
 permissions:
-  contents: read
+  contents: write
+  pull-requests: write
+
 defaults:
   run:
     working-directory: ao3scrape
