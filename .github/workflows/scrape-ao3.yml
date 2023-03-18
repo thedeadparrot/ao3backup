@@ -49,6 +49,6 @@ jobs:
       uses:  peter-evans/create-pull-request@v4
       with:
         base: main
-        add-paths: backup
+        add-paths: backup/content
         title: New Backup Files
         body: Automated PR for changes in AO3 works.

@@ -13,10 +13,14 @@
 	padding: 0 0;
 }
 .posts-group .post-item .fandom a {
-	display: contents;
+	display: inline;
 	justify-content: none;
 	align-items: baseline;
 	padding: 0 0;
+}
+
+.fandom a {
+	margin-right: 2em;
 }
 
 .posts-group .fic-listing {
