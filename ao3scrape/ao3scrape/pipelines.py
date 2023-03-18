@@ -51,7 +51,7 @@ class Ao3ScrapePipeline:
                 'relationship' : item['relationship'],
                 'tags': item['freeform'],
                 'warnings': ", ".join(item['warning']),
-                #'rating': item['rating'][0],
+                'rating': item['rating'][0],
                 'ao3_url': item['url'],
                 'date': item['published'],
         }
