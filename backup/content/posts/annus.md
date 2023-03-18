@@ -1,0 +1,116 @@
+---
+ao3_url: https://archiveofourown.org/works/1243?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Bruce Wayne
+date: '2008-10-02'
+fandom:
+- Batman Begins (2005)
+notes: Corrections for my Latin are welcome. Unbetaed.
+relationship: []
+summary: Bruce, Gotham, and the four seasons.
+tags:
+- Seasons
+- weatherfic
+title: Annus
+warnings: No Archive Warnings Apply
+---
+
+*aestas*
+
+
+Bruce returns to Gotham in the summer, the air thick with the smell of smog and ozone and the parks lush and green with vegetation. It's the way he remembers it from summers when he came home from another shitty year at prep school or college to a place where he could almost pretend he fit.
+
+Gotham's changed since then, but only on the surface. A new sign here, a changed streetlight there, nothing to truly change soul of the place, as broken and damaged as it is. (And Bruce loves that spirit, feels a certain kinship with it.)
+
+He walks along the streets in tattered, old clothes; watching, listening, feeling. The hustle and bustle of the city seems louder in summer, rowdier. Tourists, students on vacation, children on the streets.
+
+Though he tells Alfred his excursions into the seedier parts of town are just for research purposes (and they really are, to some degree), it's hard for him to not just, well, mingle. To breathe in Gotham, its sights (Wayne tower, glistening in the setting sun), its sounds (car horns, sirens, his father's train rumbling overhead), its moments of human kindness (a stoned-looking college kid helping a frazzled woman pick up her scattered belongings).
+
+This is a place worth saving, Bruce knows. It's a place worth living for.
+
+It's the middle of the summer, and yet it feels like a new year.
+
+
+
+---
+
+
+*autumnus*
+
+
+Batman is still cleaning up the Narrows as autumn comes around.
+
+The air is cooling, letting go of the humidity and energy of the summer. Gotham is quieting, trying to find some semblance of normalcy. Finding its new balance.
+
+The leaves go from green to red to brown as Batman brings them in one by one; Zsasz, Crane, the Ventriloquist.
+
+Only the Joker manages to elude him, leaving a trail of dead bodies in his wake.
+
+The uneasy truce between the police and Batman still holds, though no one on the force besides Gordon is willing to go up onto the roof while the signal is turned on and Commissioner Loeb still refuses to confirm his existence to the press.
+
+All in all, things aren't going incredibly well for Batman, but then again, they could be worse.
+
+Bruce Wayne, on the other hand, has a wonderful fall, throwing a Halloween bash much in the tradition of his parents, which helps put him back in the good graces of Gotham's elite. (It's not held at the Manor, for obvious reasons, though most people are far too polite to mention it. To his face, anyway.) He smiles, he smoozes, he apologizes. In a few short weeks, he's the prince of Gotham again.
+
+And if there's someone who looks just like him wandering through the fallen leaves in Robinson Park in a battered denim jacket and a black Gotham Knights baseball cap, who's going to notice anyway?
+
+
+
+---
+
+
+*hiems*
+
+
+Winter brings with it Harvey Dent and inches upon inches of snow. The former comes in from Chicago, brought into the D.A.'s office to help clean out the corruption that still festers in Gotham's core. The latter comes in on a cold front from the Atlantic and covers Gotham in a (deceptive) clean slate.
+
+Gotham calms in the winter months, a sort of hibernation (though it's always alive and vibrant, as if it knows no other way to exist), something Bruce remembers from nearly silent Christmas dinners with Alfred and rather uneventful visits to see Rachel while she still lived in an apartment near Gotham University.
+
+He finds himself training harder, when he has the time. It's the familiarity of the snow and the cold as he goes through the old katas (because even though Ducard, Ra's al Ghul, thought they were useless, they still give him a stillness and peace he can't seem to find elsewhere) and maybe even something more than that, a habit. The movements feel right, the kicks, the punches, but without connection, without impact, it all feels shallow, like he's trying to recreate a moment that's long gone.
+
+He meets Dent twice. Once as Bruce Wayne, through Rachel, and once as Batman, through Gordon. He likes Dent well enough, admires his fearlessness (envies it, even). With him on their side, this could be the turning point, an actual beginning.
+
+Bruce remembers a conversation from what seems to be ages and ages ago (but in reality it's only a matter of months).
+
+"We can bring Gotham back."
+
+Maybe the snow isn't as illusory as he thought.
+
+
+
+---
+
+
+*veris*
+
+
+Spring creeps up on Gotham quietly, and before Bruce realizes it, the Manor's garden is green again.
+
+He finds himself walking alone among the flowers, the day after investigating a truly brutal murder, reminding himself of the beauty that could still be found in the world. He doesn't remember having the garden replanted while they were still rebuilding the house, so it was probably Alfred's doing. Bruce will have to remember to thank him later. It's been hard for him to find time to look after the Manor's upkeep.
+
+The cave has been slightly flooded lately due to the spring thaw, though it's not that bad. Not compared to what's happening in Gotham.
+
+A new player called Cobblepot taking over parts of (what used to be) Falcone's empire.
+
+Purple and green riddles left behind at crime scenes.
+
+Crane escaping from Arkham.
+
+A string of high profile robberies, rumors of a woman wearing a mask and cat ears.
+
+The Joker still at large.
+
+Bruce picks a bright red flower (the kind his mother used to love), holds it to his nose, breathes in its scent, and, for a moment, contemplates giving it to Rachel (though she's dating Harvey at the moment, and Bruce cannot remember a time she seemed happier).
+
+Instead, he makes his way across the Manor grounds, to a place he's only visited twice before (once when his grandfather died and once when, well...). The place is well-kept, though the wet, spring grass is beginning to creep up onto it, and Bruce thinks that maybe when the grass gets too long, he should cut it himself. It's the least he could do.
+
+It hurts to just look at them, the matching headstones, and Bruce knows he should be better than that (but he isn't, and he knows that too). They look more real now, not like something out of a child's bad dream. For the longest time, his parents' graves were some figurative concept, a vague and shadowy noun, like "freedom" or "truth" (even though he had seen them in real life, at their funeral and through a strange veil of tears). But here they're real. Real stone, real words, real names. And the pain and anger and guilt he feels, just by looking at them, is as fresh and as new as it was twenty-two years ago.
+
+But it diminishes, slightly, as he reminds himself of his promise to them. As he reminds himself of his work. He can make it up to them, by saving others, by protecting their city in their name.
+
+He lays the flower down at the base of his mother's grave, runs his fingers over the letters of his father's, and stares at the smooth marble until night falls and the signal lights up the Gotham sky.
+
+ 
+
+FIN.

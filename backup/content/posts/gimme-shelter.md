@@ -1,0 +1,507 @@
+---
+ao3_url: https://archiveofourown.org/works/232901?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Divya Narendra
+- Tyler Winklevoss
+- Cameron Winklevoss
+- Mark Zuckerberg
+- Eduardo Saverin
+date: '2011-08-01'
+fandom:
+- The Social Network
+notes: Takes place a few months after [a Dustin snippet I already posted](http://archiveofourown.org/works/232890).
+  Really, this is all [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://merisunshine36.dreamwidth.org/profile)[**merisunshine36**](http://merisunshine36.dreamwidth.org/)'s
+  fault, which is why you should harass her until she finishes her own stories in
+  this universe.
+relationship:
+- background Mark/Eduardo
+summary: Mafia AU. After the murder of Judge Summers, an underground war breaks out
+  over the city, and Boston PD Detective Divya Narendra is forced to re-evaluate exactly
+  where his loyalties lie.
+tags:
+- Alternate Universe - Mob
+- POV Outsider
+title: Gimme Shelter
+warnings: Graphic Depictions Of Violence
+---
+
+Divya doesn't want the case.
+
+He works homicide these days, sure, but he can already tell that this case is going to be bad news from the moment it lands on his desk. The manila folder has a post-it note stuck to the front of it, *Tyler wants you to look into it personally*, and there's a stack of hundred-dollar bills wedged inside. Yeah, Divya is on the take, and he's not ashamed of it, but he's also got a good sense of when and where he should get involved. This murder is no ordinary crime of passion. This is the opening shot of war.
+
+"Judge Larry Summers," Albright says when Divya hands her the case notes (the stack of dollar bills stashed carefully into his laptop bag). "He was a close, personal friend of the mayor, I see." She raises an eyebrow at Divya, because she knows exactly why it was given to him and not some of the other, more senior detectives on the squad. Albright's too clean to take money from the Winklevosses (or anyone else for that matter), but she's willing to look the other way as long as Divya doesn't let his moonlighting gig get in the way of solving crimes. Most of the crusaders, the clean cops who have issues with how dirty all the rest of them are, wash out quickly, usually out of their own frustration. Albright is too smart to wash out quickly. Divya's always liked that about her.
+
+"He was shot five times in the back, and then he bled out over the carpet of his office," Divya says, leaning back in his chair. "They found the body in the morning." He tries to find a pen, but there's too many old papers, new mail, stacked books for him to dig one out. He needs to clean his desk soon.
+
+Albright studies him for a moment. "Fun," she says. "You've really been impressing them if they've got you working on it." She doesn't usually do this, try to probe into Divya's personal shit, but Divya is rarely asked to do work for the Winklevosses when doing investigations. He's been so good at keeping that separate.
+
+Divya sighs. "We should get out to the crime scene." No matter what he feels personally about this case, he knows he needs to do his job.
+
+Abright nods, but her eyes are still searching. "I'm driving," she says, grabbing the keys off the desk.
+
+---
+
+The courthouse is swarming with uniforms when Divya and Albright get there. Most of the relevant clues are tagged: the splatter of blood against the window, the position of the body on the ground, the murder weapon placed helpfully on the desk, wiped clean of prints. Divya really wants a cigarette, but he quit right after college. His mother wouldn't stop sending him links to websites about how bad it was for his health.
+
+The office is filled with pictures of Summers' wife and kids. The carpet was cleaned sometime in the past week. His desk is neat and well-kept. There's a stack of files in one corner.
+
+The body is already long gone, on its way to being delivered to the coroner. There are a few people trying to trace the ownership of the gun, but Divya doubts they'll find anything. Summers was mixed up in one of the mayor's latest initiatives to 'clean up the streets,' which was more about getting rid of the competition rather than making any actual attempt to reduce the amount of crime in the city. Some of the competition must have decided that they wanted Summers dead.
+
+Albright starts interrogating the beat cops who arrived on the scene first, trying to piece together a rough timeline of when everything had happened. The room is occasionally lit by the bright flash of a camera and filled with the sound of police radios. Divya doesn't even need to look at any of it to draw his conclusions. He already knows who did it. All Divya is trying to do now is find the evidence to pin it on them.
+
+They stay there for another hour, but nothing else in the office works as evidence. There aren't any incriminating bootprints in the blood. The coroner confirms that the time of death was between 9pm and 11pm the night before. The wife corroborates the fact that Summers had a late meeting that night, though she has no idea who he was meeting with or why. It's marked off in the judge's calendar, but there aren't any notes attached to the meeting. It's suspicious in and of itself, but everyone understands why a man like Judge Summers, with the friends he has, wouldn't want to have all his meetings at times when they'd be interrupted.
+
+Divya makes a half-hearted pass around the crime scene, but he doesn't come up with anything.particularly useful. Albright grabs the stack of files, looking to see which mobsters had a vested interest in killing Judge Summers now.
+
+When they get back to the station, Albright starts pouring over the case notes, head bent, fingers tracing over photos and phone records. Divya decides to eat some of the leftover doughnuts that someone left by the coffee machine. There's no point in following this case all the way to the end. If you know the endpoint, you might as well skip all the stupid steps in between.
+
+Albright doesn't bother hiding her contempt. "You think it's Zuckerberg," she says. "You're not going to bother investigating this at all, are you?"
+
+"I know it's Zuckerberg," Divya says. He's the only person with the balls to make an attempt at someone so close to Mayor Winklevoss. The crazy thing is that he's probably the only one who could get away with it, too.
+
+Albright doesn't look convinced. "Summers was planning on putting a lot of people away. It could have been any of them, regardless of what the twins might have told you to say." She fiddles with the band of her watch, deep in thought. "I don't care what your orders are. We're not going to fabricate evidence."
+
+Divya snorts, "You want Zuckerberg to go down for this as much as I do, especially after--"
+
+Albright glares at him. "That's not important, and you know it," she says, with a little bit of a hiss underneath her words.
+
+It's always amused Divya to know that Albright and Zuckerberg have *history*. Apparently they hooked up back in college, way before Zuckerberg decided to become an employee of Mayor Winklevoss. It hadn't ended well, from what Divya hears. "Whatever," Divya says. He takes another sip of his coffee and thinks about getting himself another doughnut.
+
+---
+
+Tyler shows up at the station just as Divya is about head home. He's dressed in his finest suit, and he doesn't have his brother in tow. Divya had been a rookie when he first met the twins, but he had been young and smart and itching to show off both those qualities. "You seem like you know your stuff," Cameron had said, when Divya had first met him. "We like that."
+
+It had been flattering, to be sure, and Divya really appreciated the money at the time. Even more than that, Divya knew the value of making friends with the Winklevosses. Their father runs this town, after all. Their friendship isn't cheap, but it's something worth buying. Divya's not stupid. He knows what it's like to be a brown guy on a police force like this. There's a reason why he was saddled with Albright in the first place, after all. Having the right friends is good for picking up the slack.
+
+"I see you're working on the case," Tyler says pleasantly.
+
+Divya nods. "We don't have much to go on. These guys are pros." None of Zuckerberg's men were on Summers' docket, which means they don't have a convincing motive. There's a tenuous connection with one of Zuckerberg's lieutenants, a Billy Olsen, but that was years and years ago, way before Olsen even worked for Zuckerberg, and Olsen's body was found in Palo Alto a month ago, an apparent overdose.
+
+Tyler snorts and cross his arms. "But we already knew that, didn't we?"
+
+"Are you sure you want it to be Zuckerberg?" Divya asks. He's usually only asked to set up small-time crooks, people who would have gone down for something eventually. Zuckerberg would be a big catch. They need to have an airtight case or Zuckerberg's lawyers are going to tear it apart. Not to mention Albright. They need to have her to be as convinced as everyone else. "It would be easier to pin it on Moskovitz or maybe even Hughes. It'll be almost impossible to make it stick to Zuckerberg."
+
+Tyler's expression grows dark. He snarls, "No, it has to be that fucking--" before he stops and grits his teeth. "He's the one who needs to go down for this." The Winklevosses are used to getting what they want, and what they want is Zuckerberg's head on a stick.
+
+"All right," Divya says. "Zuckerberg it is."
+
+---
+
+He decides to pay Mark Zuckerberg a visit the next day during dinnertime.
+
+it's sort of a long shot, and by doing this, Divya is going to show his hand, but he wants to know what he's up against. He doesn't bother telling Albright about the trip. Either she'd think it was a bad idea and not want go along with the plan, or she would come along and her previous history with Zuckerberg would fuck up the interview anyway.
+
+The Zuckerberg residence is not impressive. It's in one of the suburbs across the river in a middling neighborhood full of huge old houses. If Zuckerberg had lived there his whole life, Divya would probably understand why he still lives there, but Zuckerberg is from New York, so Divya doesn't understand it at all. A nicer person would probably call his house 'modest,' but Divya isn't a nicer person. It looks like a place that Zuckerberg moved into years ago and just never moved out of, even after he began to amass a certain amount of power and prestige and money in the criminal underworld. The house is painted a bland white with black shutters. The lawn is well-kept, but there are still stubborn patches of weeds next to the front doorstep. The metal of the doorbell has been worn smooth after repeated use.
+
+Eduardo Saverin is the one who answers the door. He's dressed like he's just gotten home from work, the sleeves of his dress shirt rolled up to his elbows. "Can I help you?' he asks, smiling politely. It's immediately obvious that Zuckerberg isn't keeping the guy around for his brains.
+
+Divya holds up his badge. "I'm Detective Divya Narendra. I have a few questions to ask Mr. Zuckerberg if he's home right now. It's about the murder of Judge Larry Summers."
+
+If Saverin was pleasantly polite before, he's frosty now. "I'll go get him," he says, leaving Divya standing alone in the doorway. It's been known for years that the startup cash for Zuckerberg's operation came from Saverin, though no one can prove it for sure. Outside of that, Saverin isn't part of the business, which affords him a certain amount of protection. He gets more protection from being Zuckerberg's main squeeze, though. Getting on the bad side of someone like Zuckerberg is never a good idea.
+
+Zuckerberg is shorter and slighter than Divya expected. There aren't many pictures of him anywhere, and the few that do exist are blurry or out of date. He keeps a low profile, not nearly as flashy as someone might expect for someone with his presence in the criminal underworld. Divya had always known he was young, but it's still a shock to see how young he is. He shows up in the doorway by himself wearing what must be his comfort-clothes, a fading Harvard t-shirt and pajama bottoms.
+
+"Do I need a lawyer for this?" Zuckerberg asks. Sometimes when Divya talks to people like Zuckerberg, people who know they can get away with anything they damn well please, they'll talk to Divya with a smug smirk, oozing sleaze and condescension. During one of those interviews, Divya usually has to stop Albright before she puts one of their faces through a wall. Zuckerberg looks blank, his affect completely flat, which is far more unnerving.
+
+Divya tries smiling, "That won't be necessary, Mr. Zuckerberg. Can you tell me where you were from--" He checks his notepad. "-- nine PM to eleven PM last night?"
+
+Zuckerberg's expression doesn't change, barely even flickers. "I was having drinks at The Hive with a few friends."
+
+The Hive is a bar that Zuckerberg owns, and there isn't a person inside it who wouldn't corroborate Zuckerberg's story. Divya's smile gets tighter. "Which friends would these be?"
+
+Zuckerberg shrugs. "Dustin Moskovitz and Chris Hughes." Moskovitz is one of Zuckerberg's friends from way back. Rumor has it that they used to run together before Zuckerberg had his somewhat short-lived stint working for the Winklevosses. These days he acts as Zuckerberg's right hand man and best enforcer. More than one kneecap has his name on it. Hughes' history with Zuckerberg is less clear, but he is known to be Zuckerberg's best wheel-greaser when it comes to making deals with the other games in the town, like the Irish, like City Hall. He's Zuckerberg's diplomat, as far as Zuckerberg understands diplomacy.
+
+"Did you know Judge Summers well?" Divya asks, changing tack.
+
+"I never met him," Zuckerberg says with a half-shrug. He looks convincing. You don't get very far in the criminal underworld without being able to be convincing when you need to be. And from the looks of things, Zuckerberg is aiming to go very far indeed.
+
+From inside the house, Saverin yells, "Are you done yet, Mark?" He sound tetchy, impatient. "Or have they decided that you're going to go on a murderous rampage?"
+
+"I don't know. Are we done here?" Zuckerberg says, a slight sneer in his voice, like he knows that Divya doesn't have shit on him.
+
+He's right. There's still no way to prove that Zuckerberg was in the office with Judge Summers that night, though Divya's gut is telling him that Zuckerberg was definitely there if only so he could see it with his own eyes. Divya just nods. "Thank you for your time. Have a good dinner."
+
+---
+
+Ballistics confirms that the gun found at the crime scene was the same one that killed Judge Summers. They can't find any registration information on the weapon. No incriminating prints show up at the crime scene. Divya spends a few hours on the phone convincing his mother that he doesn't need her help in finding a girlfriend. He spends a few nights getting drinks with the guys at work. Albright comes along and drinks everyone underneath the table. The twins ask Divya for some smaller favors, like deliveries that go smoother with a police badge involved or hunting down small-time crooks that are trying to skip town.
+
+He tries to think of ways to properly set up Zuckerberg, what sort of evidence he'd need to magically produce out of thin air. His options are limited. He can't get into Zuckerberg's house without a warrant. The coroner's report is on file, so Divya probably can't introduce a new murder weapon. He might be able to get it modified, though that will take some finesse, especially since they have the murder weapon filed as evidence. Divya can't even connect Zuckerberg to Summers yet. He could come up with a note of some kind, steal some stationary with Summers' letterhead and write a fake note between Zuckerberg and Summers. The big thing is that it'll need to pass muster with Albright. Once he establishes motive, he'll have to fabricate some kind of paper trail to the weapon, which will be difficult, but he knows a few of the back alley gun shop owners who won't be opposed to inserting a new record or two in their books.
+
+They nab one of Zuckerberg's lower level lieutenants, Justin Chang, on trumped up drug possession charges, even if weed is mostly decriminalized these days. Chang is one of the new guys, who hasn't been in the business very long. Rumor has it that Zuckerberg recruited quite a bit of his crew straight out of college, and Chang is probably one of them. He's calm and collected and well-behaved as Albright tries to put the screws into him. She's usually pretty good at it, too, but Chang never rises to the bait.
+
+"Are you sure that you saw Mr. Zuckerberg that night, Justin?" she asks, her lips curled into a mocking smile.
+
+Chang shrugs, slouching back in his chair. "I'm pretty sure Zuck was at his usual table with Dustin and Chris. It's hard to say. I'm usually playing darts. It's not like I keep track of every little thing he does."
+
+Albright doesn't back down. "Can you confirm that he didn't leave before eleven PM that night?"
+
+"Can you get me my lawyer first?" Chang says.
+
+Chang's lawyer is Zuckerberg's usual attack dog, Marilyn Delpy, who barely even has to snap her fingers before Chang is walking out a free man on lack of evidence. Divya doesn't hate her, exactly, but she is a fucking annoying bitch. He understands that she's only so obnoxious because she's so good, but that doesn't mean he enjoys it when she shreds his cases to pieces and takes away his suspects.
+
+"Well, Zuckerberg's alibi is holding up, at least for now," Albright says. She doesn't look any more pleased about that fact than Divya is, with her arms crossed over her chest and her foot tapping impatiently on the floor.
+
+"I guess it is," Divya says, and he doesn't want to imagine Cameron's expression when he hears the news.
+
+----
+
+The Summers murder seems to trigger something on both sides, and all of a sudden the homicide department has its hands full. First, the Winklevosses retaliate by putting a bullet into the head of one of the cops who's been taking payments from Zuckerberg, and then one of the mayor's top aides meets an untimely death by the river. And those are the bodies they find. The twins are getting increasingly impatient with Divya's lack of progress on the Summers case, but they're also giving him more low-level grunt work to handle. They must be hard up for muscle if they're asking someone like Divya to pick up the slack.
+
+Zuckerberg is stepping up his game, and it's clear that he's picking a fight with the Winklevosses. Divya would usually find something like that stupid, but Zuckerberg is being careful. He's has been hitting the known Winklevoss weak points for years: their incomplete control of the drug trade and their constant, neverending battles with the Teamsters. Divya knows a few people on Vice, and it sounds like Zuckerberg is putting out better quality product for a lower price, and he's got Hughes going in and out of meetings with the unions all the time.
+
+But these past few weeks have been a direct challenge. Divya knows this city's only big enough for one of them. If it was anyone else, Divya would place his bets on the Winklevosses, but with Zuckerberg, he's not so sure. If Zuckerberg does look like he's winning, Divya will have to make some hard choices about whose side he's really on. He doesn't like the Winklevosses enough to go down with them if that's the way things are headed.
+
+Then Christy calls Divya up and tells him that she has big news for him.
+
+Christy runs a club that's mostly a front for a backroom gambling den, and she's been very careful to maintain her neutrality by paying protection money to both Zuckerberg and the Winklevosses. As a result, she gets all of the gossip across the city as soon as it happens. And she's willing to part with that gossip for the right price.
+
+When Divya shows up, Christy is getting one of the bouncers to throw out a cheater. There's some literal throwing involved, but Divya doesn't bother to step in. Christy's an old pro at this.
+
+It's late fall, and the air is crisp and cold, but Christy still insists that they talk outside. "It's time for a cigarette break anyway," she says, leading Divya behind the dumpsters. Divya first met Christy when he was called in to handle a fight that broke out at her club. No one died that night, but it was a close thing. Divya was still a beat cop in those days, and Christy was still pretty young, just out of college with a business degree and without the cash or the desire to get an MBA. The club ended up in her hands because the owner crossed the Italians and needed to skip out of town quickly. Christy took it over and made sure to keep the Italians happy and turned it into the sort of place that nearby college students visited on weekends. Or even weekdays.
+
+"You've got something for me, babe?" Divya says, smiling and pulling his wool coat tighter around his shoulders.
+
+"You know I do." Christy grins like a shark. "Rumor has it that Wardo froze their joint account." She pulls a cigarette out of her pack and lights it. Divya does his best not to be jealous. His fingers twitch, and his mouth can almost taste the nicotine.
+
+"Wait, really?" Divya says. "What did Zuckerberg do?" Zuckerberg's too smart and too careful to keep his money all in one place. It's hard to imagine that the closing of the account slowed him down one bit.
+
+It is easy, however, to imagine that Zuckerberg didn't react very well. From all accounts, Saverin and Zuckerberg's relationship has never run particularly smoothly -- Divya barely even knows them, and even he hears about when they're not speaking to one another. Something like this could fuck up fuck up the careful balancing act between the factions in the city if it gets out that someone managed to get the drop on Zuckerberg, and Zuckerberg didn't do anything about it. Christy blows a cloud of smoke into Divya's face. "What anyone would do in that situation. He kicked Wardo to the curb."
+
+"Shit," Divya says. "Do you think the twins know about this yet?" They're getting desperate and angry these days. Zuckerberg has been outplaying them at every turn. He's been making important inroads with the police department, and most of the drug dealers on the streets are starting to report directly to Moskovitz. The twins are going to see this one chink in Zuckerberg's armor, and they're going to pick at it with all they've got.
+
+Christy shrugs. "No idea. The news came from your side. I hate to say it, but they can gossip in a way that would put thirteen-year-old girls to shame."
+
+Divya laughs. He's seen them do it more than once, too. They like to keep tabs on which ladyfriends the Winklevoss twins are courting these days. "Thanks." He holds out a stack of twenties.
+
+Christy kisses him on the cheek and takes the money. "Anytime," she says before she disappears back inside.
+
+---
+
+The twins do know about it.
+
+A few days later, Cameron calls Divya at one a.m. "We need you to do some babysitting for us," he says. His voice is tense, impatient. They're not fucking around here.
+
+"Sure thing," Divya says and drags himself out of bed, rubbing the sleep out of his eyes.
+
+The twins still live in their parents' house, which is not that embarrassing if your house is a gorgeous brick building in the heart of Beacon Hill. It's not the largest around, but it's expensive and it is looks like it. Not many people can afford an entire house in this part of town, but it's clear the Winklevosses can. Mayor Winklevoss (and by extension, his sons) conducts all of his unofficial business there. Divya has never seen any of it past the first floor.
+
+Cameron greets him at the door. He's wiping his hands clean. His knuckles are bruised, purple, but there doesn't seem to be any blood. His face is carefully controlled, angry but too proper to show it. The sleeves of his shirt have been rolled up. Divya has spent more than enough time at the Winklevoss mansion, to know where they're going to want him, but he still follows Cameron through the hallways.
+
+"Just make sure he doesn't do anything stupid. We don't want him hurting his pretty little head in there," Cameron says, as they get near to the room.
+
+It's a makeshift holding room. The door is wood, and there's a window. The walls are painted white, with a few exposed pipes. There's a bucket in one corner to piss in. In a rare moment of generosity, Tyler even brought in a mattress, though it's probably covered in fleas and bedbugs by now. The room is only good for one or two days at most. The Winklevosses don't bother with anyone longer than that. Either you get out of the room alive and hurting, or you don't get out of it alive at all. Divya has been put on babysitting duty before, which is mostly about making sure that whoever he's babysitting doesn't die of internal or external injuries before the twins are done with them. It's also about making sure they don't get clever and concoct a way of escaping while the twins are away, but that's mostly secondary.
+
+It doesn't surprise Divya to see that the newest resident of the room is none other than Eduardo Saverin, made newly single and an easy target for the twins' anger. He's even wearing a nice suit, or what used to be a nice suit before the twins got to him. There are bruises forming on one cheek, chafe marks on his wrists. A few buttons of his shirt have been torn off, and there's a rip in the collar of his suit. They must have grabbed him off the street.
+
+He looks up as Divya opens the door. "You're here to play good cop, aren't you?" he says. His eyes are surprisingly sharp given what he just went through. Most people don't make it through one of the twins' interrogations with their wits still about them.
+
+"No," Divya says. "That's not why I'm here." He hands Saverin a cup of water and stands back to watch him drink it. There will be food in the morning. Nothing too appetizing, but there will be food.
+
+Saverin downs the entire cup in one long gulp. His eyes never leave Divya's face. "You're not going to win, you know that right?" Saverin says. "Mark can-- Mark is going to tear you apart." His voice is flat, like he's stating a fact. Divya has been working with the Winklevosses to know what it sounds like when someone is rationalizing. Saverin isn't rationalizing right now.
+
+Divya shrugs. "It will have to wait," he says. Saverin looks like he's fine. Cameron went easy this time around. Divya hands over a towel, careful to maintain the distance between them. Divya's trained and healthy and in good shape and not bleeding out all over the floor, but he doesn't have the same size or strength as the twins. If he's not careful, Saverin could get the drop on him in the right circumstances. It's not likely, but Divya's good at keeping an eye out for possible threats. After one of his early run-ins with a junkie as a beat cop, Divya has learned not to underestimate the sorts of things people can and will do out of desperation.
+
+"Do you like it?" Saverin asks.
+
+"Like what?" Divya asks.
+
+"Working for them. Playing their game." Saverin takes the ice pack Divya offers and presses it against his face. He slumps against the wall.
+
+"It's the only game in town. You know that even better than I do." There's only so far you can get without playing along.
+
+Saverin laughs. It's not a pleasant laugh. "I'm beginning to see that."
+
+----
+
+Divya leaves the Winklevoss house as soon as Tyler arrives in the morning, cracking his knuckles and stretching out his neck, ready for another day of fucking people up. Divya's not a huge fan of punching people -- it's rough on the knuckles -- but the twins seem to like it. Divya's never had to sit in on one of their interrogations, but he's seen the aftermath more times than he can count.
+
+He gets called in again to babysit after after work. There are fresh bruises on Saverin's cheeks, and his nose is bleeding. Divya hands over a box of tissues and an ice pack.
+
+Saverin gives Divya a level look, as calm as he was last night. "It doesn't matter what Mark is going to do you," he says. "I'm going to do worse." Divya doesn't intimidate easily, not after staring down some of the worst cold-blooded killers out there, but he can see the conviction on Saverin's face.
+
+And the funny thing is that Divya actually believes him. There's something in the set of his jaw, the darkness of his eyes. Divya is at least willing to believe that he's going to try. "You know he's not any better than them, right?" Divya asks. He's seen Zuckerberg's work, after all. He's seen the dead bodies, the drugs on the street. He's heard the things people say about him, half-awe, half-fear.
+
+"He's not the one who beat the shit out of me though." Saverin leans back, ice pack pressed against his face. "You know, there were times when I thought that Mark couldn't-- that it wasn't possible that he'd be involved. But that was stupid of me, right?"
+
+Divya doesn't have anything to say to that.
+
+----
+
+In the morning, when Divya goes in to check on him, Saverin is already awake. It looks like he's healing up nicely. His nose isn't bleeding anymore, and the bruises are yellowing.
+
+Divya's still thinking about what he said. Saverin's a lot sharper than Divya's ever given him credit for, whatever the rumors might say. Change coming on, a tidal shift in the waters. There's a cold war on the streets of Boston, and Divya's pretty sure most people are waiting it out, trying to see who's going to come out the winner.
+
+He thinks about what Saverin said about Zuckerberg coming to tear them apart. He just might be right about that.
+
+"You again," Saverin says as Divya steps inside. "Your bosses done with me yet?" He sneers, and Divya can see that his teeth are stained brown with dried blood. He's sitting on the mattress, back pressed up against the wall.
+
+"Yeah, for now," Divya says. He waits one moment, then two, resolving himself to his decision. Then he steps out of the doorway, an arm outstretched. "After you."
+
+Saverin doesn't get up immediately. He watches Divya with careful eyes, clearly wary. Smart guy. "Where are we going?" he asks.
+
+"Home. For you, anyway," Divya says.
+
+Saverin stands up and takes a step to towards the door. He keeps an eye on Divya the entire time, but Divya doesn't make any sudden movements. He's sincere about the offer, after all. Saverin limps slightly the entire way to the car, and Divya has to give him his own wool coat so that he doesn't freeze outside in the early November morning. He doesn't know what Zuckerberg is going to do when they get there, whether this means that they're going to dump his body in the Charles or they'll give him a pat on the back. But he figures that at least this way, he'll have something that will give him five minutes to explain himself. Zuckerberg could use a guy like him. Divya just needs to sell it to him.
+
+Saverin remains quiet while Divya drives, but when they're crossing the river, Saverin stares out of the window at the deep blue of the water and asks, "Do the Winklevii know you're doing this?"
+
+Divya snorts. He hasn't heard *that* particular nickname before. "No, they don't," he says.
+
+Saverin, to his credit, doesn't ask why.
+
+---
+
+They're greeted at the door to Zuckerberg's house by Moskovitz, who ushers Saverin inside with one hand and holds a gun to Divya's head with another.
+
+"Good to see you again, Detective Narendra," Moskovitz says. They had a run-in two years ago when Divya took him in for routine questioning. Moskovitz had treated it like a joke, smirking, making idiotic comments about Divya's suit and tie. It had been a bad day -- the twins were getting impatient with some of the work he was doing, and the captain was feeling pressure from the higher-ups and transferring that stress all the way down -- and Divya had decided that it made a lot more sense to whack Moskovitz's head against the table a few times whenever Moskovitz was being particularly smug.
+
+"I need to talk to Zuckerberg," Divya says, holding his hands up and trying to look as non-threatening as possible. He's pretty sure the only reason he's alive right now is that Moskovitz thinks he's not worth the effort. And also because he doesn't want to get blood all over Zuckerberg's doorstep.
+
+Moskovitz sneers. It doesn't look like an expression that belongs on his face. "I don't care what you need," he says. "What the fuck did you assholes do to Wardo?" His eyes are narrowed, dangerous. He's too far away for Divya to attempt to disarm him.
+
+Saverin is slumped against the far wall, like all all of his bravado from earlier is draining out of him. "Dustin, don't-- Detective Narendra was the one who got me out of there. I'd probably still be in that fucking room if it wasn't for him." Moskovitz relaxes, just a bit, but he doesn't look any less skeptical.
+
+"I'm guessing the twins wanted to know whatever Saverin knows about Zuckerberg's set up. I wasn't there for most of it." It's do or die, Divya thinks. Either he'll convince them or he won't.
+
+A new voice speaks up. "So what are you doing here now?" It's Zuckerberg, appearing in the doorway. He's dressed in a suit this time, an ugly one that doesn't sit quite well on his shoulders. There's something almost unnaturally still about the way he's carrying himself, from the straightness of his back to the lack of movement in his eyebrows. His eyes flick to Saverin, and a quick expression passes over his face. Saverin's face is a whole riot of expressions, half-masked by the bruises. He doesn't stop staring at Zuckerberg. Then Zuckerberg's attention turns back to Divya. "Chris, get Wardo to see a doctor," he says to the inside of the house.
+
+"I figured I'd bring him back as a token of goodwill," Divya says, speaking to Zuckerberg and keeping an eye on Moskovitz. Out of the corner of his eye, he sees Hughes lead Saverin further inside, a hand on Saverin's back.
+
+"And why would you do that?" Zuckerberg says. He's not tall and he's not broad and he's not carrying a firearm. There's really no reason that Divya's tongue should tie up and and his palms should go sweaty.
+
+"I want to work for you instead. Double agent, lackey, whatever you need." He doesn't back down from Zuckerberg's stare, but it's a close thing.
+
+"You've already flipped on the Winklevii. Why should we trust you now?" That's Moskovitz. Zuckerberg hasn't looked away, not once, his eyes fixed on Divya's face like he can read all his secrets.
+
+Divya says, "I'm an opportunist. I go where the power is. Right now, you've got them running scared, and I want to know that I'll have a place once the dust settles. As long as you guys stay on top, I'll stay with you." It's the truth as far as it goes. Divya doesn't feel any loyalty to the Winklevosses. They're no better and no worse than Zuckerberg, and Divya wants to come out of this with his head still attached.
+
+Zuckerberg blinks, and something on his face shifts, but Divya can't pick out what it means. "How is he?" Zuckerberg says, and it's clear he's talking about Saverin.
+
+"I didn't get a chance to check him over that closely. They didn't want him dead. They wanted him alive enough and coherent enough to tell them what they wanted to know. Well, mostly." Divya does his best not to visibly wince at that statement. Moskovitz doesn't look any closer to blowing Divya's brain out, which is good.
+
+Zuckerberg nods. "It's fine, Dustin." Moskovitz lowers his weapon, but he doesn't look pleased to be doing so. Zuckerberg continues, "The next time they ask you to do something, let us know what it is. Dustin will give you information on how to contact us."
+
+And then Zuckerberg disappears as abruptly as he showed up.
+
+---
+
+The twins are not pleased to find out that Saverin has escaped, but Moskovitz gave Divya enough bruises and scratches to make it look convincing enough for government work. It's pretty obvious that they weren't getting any useful information out of Saverin anyway, and they were only about a day away from killing him and chucking the body into the river as it was. The two of them aren't very patient when it comes to uncooperative hostages.
+
+The first assignment Divya gets after he realigns his priorities is a simple shakedown of a pawnshop owner in JP for protection money. Divya gets the word to Moskovitz by going through a newspaper and circling certain words on page five, then handing off the newspaper to a particular gyro vendor who sets up every morning a few blocks away from the police station. It's some real complicated spy games shit, ("Over-engineered," Moskovitz mutters under his breath.) but Divya gets it. This is the first time his loyalties have ever had to be hidden.
+
+Nothing happens when he visits the pawnbroker. Divya gets in, gets the money, gets out. He thinks he sees a tail watching his back when he gets out onto the street again, one of Zuckerberg's lower level lackeys. Divya's seen him at Christy's a few times.
+
+Apparently Divya passes the first test, because Moskovitz doesn't show up to put a bullet in his head in the middle of the night, and he ends up getting these odd jobs, nothing major, nothing that would give anything away if he were to turn around and give all the information to the next person in line.
+
+Winter comes the same way it always does, swift and relentless. The snow piles up next to the streets, and it's hard to tell people apart, since they all become shapeless lumps in their wool coats and hats. The police find another two bodies, Winklevoss men, face down in the street in Chinatown after a blizzard, their blood staining the snow around them red. The coroner makes a comment about wonderfully preserved they are. It's probably a message of some kind, a sign of things to come, but Divya doesn't get paid to worry about that.
+
+The twins don't put any pressure on Divya regarding the Summers case. They've got their hands full with other things. Some reporters have been demanding updates about the police's progress, but all Divya can say is that it's believed to be gang-related violence and leave it at that.
+
+Divya runs into Zuckerberg himself one night at Christy's place. Divya likes to stop by when he's off-duty and doesn't want to deal with the rowdy energy of one of the backroom gambling dens that the Winklevosses control. Christy runs a fairly small ship, neat and tidy, and Divya finds it a lot more soothing.
+
+Zuckerberg is dressed like any college guy coming off the street, just a t-shirt and jeans and a zip-up hoodie. Saverin is with him at one of the tables, not quite as dressed down, but dressed down more than Divya's ever seen him. (Which, granted, isn't much at all.) They're talking with low voices, not quite touching each other. There's a tension there, in the way Zuckerberg is holding his shoulders and the way Saverin is grimacing throughout the conversation. The cuts and bruises have faded from Saverin's face, but there are other things there that haven't entirely healed. Divya files that thought away. He plays a few rounds of poker with some of the regulars, a lot of them old geezers who couldn't give a fuck about who's running what these days. "It'll all blow over in the end, kid," they like to say. "Just don't get too caught up in all of it."
+
+There's no huge dramatic scene, but halfway through the night, Saverin leaves without Zuckerberg in tow, and Zuckerberg sits there for a few minutes, his expression still blank and unchanging, before he leaves afterwards. Divya turns back to his game, accepts the whiskey Christy hands him.
+
+He thinks about Zuckerberg and Saverin, plotting their revenge. It's a brave new world they're going to be living in. Divya just hopes he's ready for it.
+
+---
+
+Being a double agent is a fuckton of work.
+
+He has to balance his job, with Albright being Albright the entire way through, against whatever the twins ask him to do, against whatever Zuckerberg needs him to do in secret. Divya has never had much of a private life. He usually enjoys being a cop too much to stop just because he's off the clock, but now he's working fifteen hour days under a lot of fucking pressure. He understands *The Departed* a lot better now.
+
+It's understandable that when February rolls around, he's forgotten that it's an election year. No one really gives much of a shit about local elections, anyway, since the outcome is always known in advance. The only real question these days is which of the twins is going to be mayor after their father steps down.
+
+Divya is deep in a set of case notes when he hears Albright say, "You've got to be shitting me."
+
+She's watching the news. Someone is holding a press conference. The person at the microphone is saying, "I believe in the potential of this city. I believe that this city is worth the effort. So without taking up any more of your time, I would like to announce my candidacy for mayor of Boston. Thank you and good night."
+
+It's Saverin, looking polished and smooth, smiling and charming. "Did he--" Divya says. Zuckerberg isn't on stage with the rest of Saverin's entourage, but Hughes is, standing in the back as poker faced as the rest of them.
+
+"Yeah, he did," Albright says. The expression on Divya's face must match the one on hers. Wide-eyed, incredulous. At most, there's usually a token opposing candidate for mayor, someone who knows they're not going to win and makes so little effort that they might as well not try in the first place. But if someone like Saverin is stepping up to the plate with Zuckerberg's tacit backing, then it must be a serious bid.
+
+"Shit," Divya says.
+
+---
+
+"What the fuck is this shit?" Tyler yells. He's pacing the tiny office he shares with Cameron, and Divya is watching them from the far corner. It's difficult to squeeze all three of them into the office, but they manage it. The twins have an official occupation at City Hall, but no one except maybe the people who write their paychecks knows what it is. Divya is here, because he's the only person in the Winklevosses circle, outside of the twins themselves, to spend any significant amount of time around Saverin.
+
+Cameron is calmer. "It's not a big deal. He's never going to win." He's reading the newspaper. There's a story about it on page two about Saverin, mostly canned soundbites. He apparently hadn't thought about running until his old friend Chris Hughes suggested it to him, and he mentions that he feels like "Boston has given so much to me, and I'd like to give back to it."
+
+"Zuckerberg never would have let him run if he wasn't sure that he could win," Tyler says, running a hand through his hair.
+
+"That doesn't mean he will. Zuckerberg doesn't understand this city half as well as Dad does." Cameron leans back in his chair. "Quite frankly, I'm surprised Saverin ever agreed to do it. He's definitely a better pick than Zuckerberg himself, but I would have figured that Hughes would be less flighty about it."
+
+Divya thinks back to the way Saverin had looked back in the makeshift cell, with his face covered in bruises and his eyes glaring daggers into Divya's head. Saverin isn't going to let himself be flighty about this.
+
+Divya doesn't mention that. "Hughes would have been a much better choice," he agrees.
+
+"Saverin's not a real threat," Cameron continues. "At best he's a distraction while Zuckerberg tries to lock down Allston." It's not an entirely unreasonable theory. Zuckerberg has been in the process of slowly uprooting a great deal of the Winklevoss' primary sources of income. He's nearly managed to shove them out of the entire western half of the city. Boston is so fractured that controlling all of it is nearly impossible, but the Winklevosses managed it by conquering it one neighborhood at a time. The Italians still own the North End, and the Irish still own Southie, but they both still report to Mayor Winklevoss in the end. It looks like Zuckerberg is aiming to pull off a repeat.
+
+"Divya, you should keep an eye on this situation," Tyler says. "We'll need ammo if we want to take him down. If Saverin so much as shits funny, we want to know about it."
+
+Divya shrugs. "Sure thing."
+
+---
+
+Ironically enough, Saverin is running on a platform of reform.
+
+"Boston been under the grip of the same people who would bring it low, who would drag it through the dirt. I want a better future for us. I want to see us rise above," Saverin says at a speech in front of the district 6 firehouse. Zuckerberg's men are in the crowd, keeping an eye on things, and Divya is here ostensibly to watch Saverin in action and then report back to the twins. Divya is really here because he's sort of curious as to what Zuckerberg and Saverin have cooked up. They're not going to tell Divya what their long game is, so Divya is going to have to figure it out for himself.
+
+The title of mayor won't mean a lot if they can't clean out the rest of City Hall as well. Mayor Winklevoss runs his government as a secondary arm of his business empire, and that means that there's at least one person at every level who's loyal to him, especially after sixteen years in office. They wont take the transition very well. But maybe becoming mayor isn't the point. Maybe the point is that this is going to hit the Winklevosses right where it hurts: their pride.
+
+Outside, after the speech, Divya watches as Saverin shakes hands and kisses babies. He's winning over the crowd, it seems. Chang passes by and slips Divya a note, his instructions for the rest of the week. It's just information-gathering, as always. They probably still don't trust him enough to give him any real assignments. Divya doesn't blame them.
+
+The twins are in the process of trying to figure out all of Zuckerberg's weak spots, which supply lines are easy to disrupt, which people are already on the verge of turning on him. The problem is that Zuckerberg runs a tight ship, on a level of paranoia that the twins probably can't comprehend. Divya doesn't bother to tell them that.
+
+As the campaigning draws on, everything gets more tense. Zuckerberg is up to something, because quite a few local businesses are ponying up cash for Saverin's war chest. The *Globe*, the newspaper that's endorsed Mayor Winklevoss for the last four elections has suddenly decided that Saverin's "youth, political savvy, and enthusiasm are what our city needs right now." It reads a lot like Hughes wrote it for them. The Herald remains wishy-washy on the matter.
+
+Mayor Winklevoss is not pleased to be dealing with an upstart, and his displeasure seems to be radiating all the way down the ranks. The twins are on edge. Every week, it seems like another group has decided to back Saverin, despite his complete lack of experience. Zuckerberg donates a few million dollars to the local school district, a move that garners him praise and a few pats on the back, and some of that goodwill gets reflected onto Saverin, even if they're not acknowledged to be partners. Divya isn't sure they even are partners these days, but they still play at being friends in public. A few gossip blogs are all over the fact that Saverin is apparently single. Every time he's asked about it, he says that he's not willing to talk about it.
+
+"You know which way my vote is going," Christy says as she watches the news anchors discuss the latest poll numbers. She crosses her arms and leans back against the bar. Her expression is thoughtful and focused. Divya is pretty sure she and Saverin had a thing at some point, but he has no idea how that happened, and he's not sure he wants to ask.
+
+"I doubt it will matter in the end," Divya says. He's pretty sure Zuckerberg and Saverin are playing to win.
+
+Christy laughs. There's a graph on screen that shows Saverin's numbers climbing steadily higher. "You're probably right about that," she says.
+
+--
+
+"If he wants a fight, we'll give him a fucking fight," Tyler says.
+
+There's an invitation sitting on his desk, dressed up, pretty, with inlaid gold foil and cursive script.  
+
+
+
+> 
+>   
+> You are cordially invited to:  
+> Dock 45  
+> Tuesday night 10pm  
+> 
+> 
+> 
+> 
+
+It's not something Zuckerberg would do. For all his skill at fucking people over, he's not one to be dramatic about it. This has Saverin's fingerprints all over it. Divya turns the invitation over in his hands, trying to see if there's anything hidden inside the card stock. There's a slight bump near an ornate flower design. A bug possibly. Maybe they're trying to verify the information Divya is feeding them by other means.
+
+"It could be a trap," Cameron muses. "We're the last things sitting in his way." He taps his fingers idly on the disk, an uneven rhythm, like he's lost in thought.
+
+Tyler smirks. "It's not going to be a trap if we outnumber and outgun him." He pulls out a map of the docks from his suitcase and spreads it out on top of Cameron's desk, inspecting it. Divya knows the area a lot better than they do, since he's the one who has to deal with shipping problems whenever they arise. Tyler makes an impatient gesture, and Divya steps closer, looking over his Tyler's shoulder.
+
+"They're going to bring their own firepower," Divya says. "You're going to want these entrances covered." He points out three places on the map, and Tyler circles them with a thick Sharpie.
+
+Cameron looks over the marks. "Where else?" he asks.
+
+Divya points out the most likely meeting places, makes suggestions about Zuckerberg's best strategies in an area like this. He's always liked this part, the part where he gets to look at the big picture and see how everything could play out. He doesn't really want to go along with the twins to the docks, but they insist, and Divya knows better than to turn down a direct order to their face.
+
+At the end of the night, Divya suggests that it might be a good idea for him to double check the positions of various shipping containers, and they hand over the map without asking questions. It's really too easy, sometimes.
+
+"You're a busy beaver tonight," Albright says. It's late, and she's holding what must be her third cup of coffee in the last two hours. Another two deaths due to gang-related violence this week, and it's hard to give a shit when you know who's responsible, but there's nothing you can do about it. Sometimes Divya wonders how she does it, day after day. She actually believes that things can change, that she can change them. Divya wonders what it must be like to have someone like him as a partner, someone who doesn't draw the same lines she does.
+
+He's still standing by the department scanner, waiting as the image slowly resolves itself onscreen. He'll need to wipe the computer later, do his best to hide the fact that he sent it at all. "I have things to do," he says.
+
+Albright snorts. "I know," she says, and there's so much pity in her voice.
+
+---
+
+Tuesday night, the twins refuse to let Divya back out of going down to the docks with them. The last place Divya wants to be is in the middle of a firefight -- or even just an intense pissing match between Zuckerberg and the twins -- but he knows that it'll be suspicious if he doesn't .
+
+The twins have about twenty men on their team, and Tyler shows them the map and spreads them out. Five guys to back up twins and cover the meeting area and three guys for each of the other positions. It's a dark, moonless night. Divya rubs his hands together and squints his eyes.
+
+There's a spot near the water that's the most logical place to meet, and Divya leads them to it, weaving between the containers and trying to keep an eye out for Zuckerberg's men. He doesn't spot anything. All he can hear is the sounds of their own footsteps on the pavement, the mutters and the whispers of their men.
+
+Zuckerberg is waiting for them in a clearing near the shipping office, hands awkwardly shoved into the pockets of his coat, the water at his back. Moskovitz is at his side, one hand lingering underneath his arm, near his holster. Chang is standing right behind them, arms folded over his chest, but that's it, just the three of them. If Divya was the kind of person to admire reckless assholery, he'd admire Zuckerberg's balls for showing up without an entire fucking army. There's a ring of three cars behind them, engines and lights still on. It makes it difficult to read anyone's face.
+
+Cameron steps forward, smiles, spreads his arms out in greeting. "Fancy meeting you out here, Mr. Zuckerberg," he says. He's got a captive audience, and he knows it.
+
+Zuckerberg's lips twitch upwards at the corner, and then, in the otherwise quiet night, they can hear a few shouts, a few shots fired. A showdown between Zuckerberg's men and the Winklevoss's. It's not clear who won. Cameron narrows his eyes and grits his teeth at the sound of it, but he keeps his cool. Tyler snorts like he can't believe Zuckerberg's even making the effort. "I wanted to make a deal," Zuckerberg says. "We both know that the escalating level of violence is costly for both of us, so cut the shit. We'll let you keep your own section of the city, maybe Roxbury, in exchange for a truce." It's cold enough outside that his breath is visible in the night air. His eyes don't give anything away.
+
+Tyler snorts and rolls his eyes. "Fuck this, man. You've got *nothing*. Everyone is going to figure out that Saverin is just your puppet and they're going to turn on him so fast he won't know what hit him. Did you know that he's really pretty when he screams?"
+
+A flicker of an emotion passes over Zuckerberg's face, but then it passes. "You're wrong," he says, tone flat. "You're not going to win this."
+
+"You don't get it, Zuckerberg. We're going to fuck you up," Tyler says stepping forward, pointing a finger at his face, "especially after what you did to Uncle Larry."
+
+"Judge Summers got exactly what he deserved," Zuckerberg says without so much as blinking. "And so will you." He pauses. "You really shouldn't have gone after Eduardo." Divya is almost sad that he doesn't have a wire on him right now, even if he did switch sides halfway through the investigation into Judge Summers' death. Albright would be thrilled to have a confession from Zuckerberg himself. Divya really hated that case, but he's always happy to learn that he was right all along. He doesn't even care that he won't be able to close the case. Well, unless Zuckerberg knows some other schmuck he'd like to pin it on.
+
+There's the sound of guns cocking behind them, and the twins turn to see some of Zuckerberg's men pointing guns at them from behind. "We're good," one of Zuckerberg's men says. "We took out all the other ones as well."
+
+"Good," Zuckerberg says with a tight nod. He turns to focus on the twins. "Are you willing to listen now?"
+
+There's a commotion behind him, and Saverin himself steps out from one of the cars. He's angry and trying to hide it and not doing a very good job of it. He storms over to where they're gathered, shoulders square, eyes straight ahead.
+
+Zuckerberg blinks, turn, and says, "I thought I told you to stay in the car." The barest beginnings of a frown are crossing his face. Saverin ignores him.
+
+Saverin goes right up into Tyler's face and spits on it. "I don't care what kind of deal you cut with Mark. I can't wait to laugh your father out of office, you smug little prick." Next to Tyler, Saverin looks like a toothpick, and Divya is certain that he's just going to get his face bashed in again.
+
+"I'm going to--" Tyler snarls as he lunges forward. Saverin manages to dodge to the side, out of the way.
+
+Moskovitz is fast on the draw, and Tyler gets a bullet in the thigh. He crumples immediately, screaming in pain. The sound of it echos in the otherwise quiet night, and the remaining Winklevoss men tense up, afraid to react with guns at their back. A stillness settles over the proceedings, everyone frozen in place, waiting for the next shoe to drop. None of the other Winklevoss men show up, which must mean that Zuckerberg's men weren't lying about clearing them out.
+
+Cameron furrows his brow, and he says, "Wait, why aren't there more--" He turns to look at Divya, and Divya knows that Cameron has figured it it out. "You--"
+
+Divya draws his gun, fires off a quick shot, and Cameron goes down, blood spurting from a gaping hole his chest and soaking through his white dress shirt. Divya turns and squeezes out another shot, catching Tyler in the forehead. Zuckerberg's men open fire, and the rest of the twins' men go down.
+
+"Well," Moskovitz says after the dust settles. "I guess this answers the question of what side you're on." He reholsters his gun.
+
+Divya shrugs as Zuckerberg watches him with steady, unblinking eyes. "I told you. As long as you're winning, I'm on your side."
+
+Saverin looks a little sick as he stares down at the bodies. He keeps swallowing like he's trying to force down the bile. Divya realizes a second too late that this must be the first time he's actually seen mob violence on this level. Maybe this is even the first time he's seen a dead body outside of the carefully taxidermied things you see at funerals. But then the anger crosses his face again. "Fuck them," he says, more to himself than anyone else. "Seriously, *fuck them*."
+
+Zuckerberg comes up behind him, wraps an arm behind his shoulders. "C'mon," he says with his usual lack of inflection. Saverin curls into his touch and lets him lead him back to their car.
+
+Divya sighs and turns back to look at the carnage. Zuckerberg's men are in the process of moving the bodies and washing away the blood. They're doing a good job of it, but he knows if he wants this crime scene to be spotless, he'll need to help out with the cleanup himself.
+
+---
+
+The mayor is, of course, livid that his sons are dead. He tries to bury his grief in his anger, publicly announcing that there will be a full police investigation while fighting back tears. Divya, ironically enough, is put on the task force to find the twins' killers. Zuckerberg's men were thorough, and no one can pin their murders on Divya, especially since a good chunk of the other investigators are also on Zuckerberg's payroll. Being a part of the investigation is like being paid to take a few days off. Mayor Winklevoss gets a slight bump in the polls due to his very public grief, but then someone leaks footage of Tyler shooting an argumentative lackey while Cameron looks on. The bump disappears rapidly after that, though some people commenting on the race talk about how it was clearly the Saverin camp running a smear campaign. No one can prove it, though, since the video was posted anonymously. No one can argue with the contents of the video either.
+
+When Albright first hears the news of the twins' deaths, she shakes her head. "I can't say I'm surprised."
+
+"Yeah," Divya says from where he's hunched over his desk. He rubs his forehead in an attempt to force away his headache. He's been dealing with disgusting amounts of paperwork for days.
+
+"I'm sorry," she says as she sorts through some old files. "I know they were friends of yours. Sort of, anyway."
+
+Divya thinks of the sneer on Tyler's face the last time he said he couldn't do a job because it was Diwali, and he needed to spend the week with his parents. He says, "Not that close."
+
+It becomes clear that the Winklevoss organization powerless, ineffectual. The twins were high enough up in the power structure that they aren't easily replaceable, and everything is falling apart due to the power vacuum. Too many people are jockeying for the same positions. Divya isn't around to see all of it play out, but he knows that everyone else is smelling the blood in the water, same as him. Zuckerberg takes advantage of that fact, and soon enough, he's talking directly to a lot of Mayor Winklevoss' old friends. It doesn't hurt that Divya gives him as many names as he knows.
+
+Zuckerberg's influence spreads across Boston like wildfire. It was an inevitability before, and the death of the Winklevoss twins just hurries it along faster. Divya gets more jobs, more responsibilities, but it's clear that they're keeping him at a distance. Divya doesn't mind. His captain gives him a promotion for no apparent reason. Divya's mom insists that if he doesn't bring a nice girl (or boy) home with him soon, she's going to start setting him up with the pretty daughters of her friends.
+
+Boston quiets down again. Divya can feel the change in the atmosphere, the way things are settling down now that the war is over. The Irish and the Italians both seem content to broker their own peace with Zuckerberg, and as long as everyone is cooperating with Zuckerberg, he seems happy to let things run as normal.
+
+Saverin managed to be charming and well-spoken from the beginning, but he transforms into an even more compelling candidate over the course of the summer, getting fired up during his speeches and travelling all over Boston in an attempt to win people over. In August, he comes clean about his sexuality and the fact that he's been dating Mark Zuckerberg for years. "I didn't want to start off my campaign as 'the gay candidate.' I didn't want it to get in the way of discussing the issues," he says when he's interviewed by the local news channel, smile stretched wide across his face. "It was Mark's idea in the first place. He's been very supportive of my choices, and he didn't want to stand in the way of my career. But I didn't want to have to dodge the question when it comes up. I don't mind telling the whole world how much he means to me."
+
+Divya is having drinks in the Hive with Delpy when that interview comes on, and she snort-laughs into her scotch for an entire minute. "I have no idea where Chris comes up with this stuff," she says, wiping the tears from her eyes. Divya has discovered that Delpy's a lot more fun when she's not trying to fuck one of your cases over. They meet every once in a while to bitch about working for someone as psychotically workaholic and demanding as Zuckerberg. Divya's mostly just glad he doesn't get the brunt of it.
+
+"They are fucking again, right?" Divya asks, eyebrow raised. He's not as good as keeping track of the gossip as some of the others, but it does pay to be informed. Besides, he feels a weird sort of kinship with Saverin sometimes. They both escaped from the Winklevosses together, in a sense. Divya isn't so ruthless that he can't appreciate a thing like that.
+
+Delpy rolls her eyes. "Yeah, they are. Who knows how long it will last this time."
+
+Divya watches the expression on Saverin's face as he talks about Zuckerberg, the way it makes his eyes light up, makes his smile seem brighter. Divya says, "I'm sure they'll live a long and happy life together."
+
+That sets off another round of giggles from Delpy, who almost chokes on her drink at one point. "Yeah, if they don't manage to kill each other first," she says between hacking coughs.
+
+The next day, Zuckerberg donates a few more millions of dollars to the local schools, and at least one more million dollars to a Brazillian children's charity. At one of Saverin's rallies, he kisses Zuckerberg's cheek before he goes up to the podium to give his speech.
+
+If Divya was more of a romantic, he'd probably find it sweet.
+
+---
+
+"With sixty percent of the polling districts reporting in, we can now project that Eduardo Saverin will win this election with fifty-three percent of all votes. The incumbent mayor, Mayor Winklevoss, has only managed to win over forty-four percent of all voters."
+
+The stool Divya is sitting on at Christy's is not very comfortable, but Christy is wiping down the bar, and the place is quiet even with the TV announcing election results. It's early in the night yet. The regulars haven't shown up, and the students seem to be watching the election results from their dorm rooms. Divya's not up for a lot of excitement tonight, to tell the truth. He's in a thoughtful mood.
+
+It was a foregone conclusion that Saverin would win, especially with Zuckerberg's influence behind him, but it's still different, watching it play out. Divya wonders what the victory speech will be like.
+
+"It's the end of an era," Christy says. She fills two wineglasses with her favorite red, and then she blasts "Won't Get Fooled Again" over the club's speakers. She smiles at Divya, sweet and a little wicked, just like she always is.
+
+"The king is dead. Long live the king," Divya shouts over the music. He takes one of the glasses and holds it up. Christy holds up her own.
+
+Their glasses clink together.
+
+ 
+
+FIN.

@@ -1,0 +1,328 @@
+---
+ao3_url: https://archiveofourown.org/works/96040?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters: []
+date: '2010-06-21'
+fandom:
+- The West Wing
+notes: So much love to zulu for all the encouragement and the beta.
+relationship:
+- Abbey Bartlet/Jed Bartlet/Leo McGarry
+summary: '*There''s nothing false about his happiness. It would be easier for him
+  if it were.* Leo, Jed, and Abbey through the years.'
+tags:
+- Backstory
+- Pining
+title: And If You Try Sometime You Just Might Find
+warnings: No Archive Warnings Apply
+---
+
+### 1.
+
+Leo doesn't hate Abbey when he first meets her, and that's probably the worst thing of all. She smiles at him, and she kisses his cheek, and she says, "I'm so glad to finally meet you." She looks like a million bucks, all green eyes and red hair under a black beret, fitting perfectly under Jed's outstretched arm. Leo knows he must look cold and cranky in comparison. Mostly because he actually is. Leo makes a mental note to remember to bring gloves next time so that he doesn't get frostbite and lose all his fingers.
+
+He's already regretting accepting Jed's invitation to go to the movies with him and his new girlfriend. He had put up a bit of a fight at first, but Jed could be annoyingly relentless at times, and in the end, Leo had caved. Right now, Leo is reminding himself of all the other things he could be doing on a Friday night, like getting drunk at a party or sitting in a room by himself and his books or asking out one of the cute brunettes who sit behind him during Political Theory. Something -- anything -- that doesn't involve him feeling like a particularly wobbly fifth wheel.
+
+Jed just beams from beside her, his cheeks a little ruddy from the midwinter chill. The black scarf hanging around his neck was a gift from Abbey for his birthday, Leo remembers. Jed had rattled off statistics about the relative benefits of camel hair over sheep wool for at least a week, a goofy grin on his face. Right now, Jed just twists his face into a mock-scowl, the way he does when he's about to make a really bad joke. "Now that we're all introduced, can we go find some seats? The movie's going to start in five minutes, and I want a good view so that I can explain all the plot holes to my girlfriend."
+
+Some girls would get embarrassed or annoyed, but Abbey just rolls her eyes and says, "I'm surprised they let you into the building anymore."
+
+Almost against his will, Leo thinks he might actually like her a little bit. She won't take any of Jed's shit either, and she'll be sharp about it too. Leo says, leaning in towards her conspiratorially, "They did ban him from this one theater in Concord for disrupting the other patrons. He tried to give the manager a lecture about the First Amendment, but he wouldn't have any of it."
+
+Abbey laughs, her head thrown back, her eyes sparkling, and Leo can almost see the exact moment that Jed fell in love with her. "Why am I not surprised?" she asks when she finally catches her breath, a pointed glare in Jed's direction.
+
+"I should have known that the two of you would gang up on me," Jed grumbles, tightening the scarf around his neck, but there's still a teasing warmth in his tone, a smile hidden in the brightness of his eyes.
+
+---
+
+And then Leo goes off to war.
+
+It's ugly as hell, and he does a lot of things he's not entirely proud of, and it's not anything he ever wants to see again, but when he gets back, Jed is waiting for him.
+
+"The prodigal son returneth," Jed says grandly when Leo shows up on his doorstep in Cambridge. Leo is still wearing his uniform, still carrying his bags on his back. It's easier to end up here than it is to go home to see his parents, to pretend that he has some life here that he can simply slip back into. He'd heard from some of his war buddies that the war sticks with you, even back in the States, and he's beginning to see how true that is.
+
+"You really aren't as funny as you seem to think you are," Leo says before Jed pulls him into a hug, their bodies pressed close together, Jed's arms tight around Leo's back.
+
+After so long at war, sitting down at Jed's worn, rickety kitchen table is a little surreal, like a hallucination he must be having while he's still deep in the jungle. In his bags, he always carried a stack of letters tied together with an old shoelace. Some were from Mom, some were from Jo, some from Liz, but the majority of them were from Jed. Leo could always tell which letters were his, because the envelopes always bulged in the middle, barely containing their bulk.
+
+"Tea?" Jed asks and Leo says sure, why not, and that sense of disorientation, of not actually being here, comes back. Leo blinks a few times to try to clear it. The sky over Boston is overcast, the roads and sidewalks still slick with fresh rain. Leo remembers what it was like to fly through cloud cover, how you always needed to trust the instruments more than you trusted your own two eyes. The Boston air smells dry and cold, the leaves stripped from the trees, a reminder of the coming winter.
+
+The jungle was never dry, never cold.
+
+"How's Abbey doing?" Leo finally asks as Jed adds tea bags to the pot, the motions familiar, practiced. The majority of Jed's letters were about Abbey. Complaints about Abbey's studying habits, odes to Abbey's hair, long treatises about why Abbey was truly, incredibly, undeniably wrong during their last fight. By the end of his tour, Leo almost felt like *he* was dating Abbey.
+
+"She's foolishly agreed to marry me," Jed says, a smug smirk making its way across his face, and Leo knows that smile. Like the rest of Jed, that smile hasn't changed at all. Jed still drinks tea like an Englishman, with a cup and saucer instead of a mug. Jed still wears Notre Dame sweatshirts with fraying cuffs. Jed's hair still likes to fall over his forehead over his eyes. In a lot of ways, Jed's still the skinny as hell kid with the future in his eyes that Leo thought he might have dreamt up during the worst days of the war.
+
+"Congratulations," Leo says, because that's what you're supposed to say. Jed takes that as an invitation to regale Leo with the exact story of the proposal. It apparently starts with Abbey's favorite Chinese restaurant just off Harvard Square and ends with Jed accidentally setting his sleeve on fire. Leo makes sure to laugh in all the appropriate places.
+
+The conversation turns towards Jed's research, his students, the intradepartmental politics, with some occasional tangents into national politics, the environment, and the history of potatoes. Leo doesn't really do any talking. He just lets himself get lost in the even rise and fall of Jed's voice.
+
+Later, when he's at home by himself, he decides to let himself get lost in a bottle of Jack Daniels. And then, with the ceiling fan rotating above him, the alcohol burning down the back of his throat, it's really like he's never left the war behind.
+
+---
+
+When Jed asks Leo to be his best man, Leo says yes. He almost immediately regrets it, because he can imagine what it will be like. Smiling until his face hurts, event after event of watching Jed watch Abbey, making nice with Jed's parents, who have never thought much of Leo and the feeling's mutual. But he gets over that, because whatever else he may feel, he does love Jed and Abbey enough to take pleasure in their happiness. He may not fit in this relationship between the two of them, but he's willing to carve out a bit of space for himself.
+
+They have their wedding in the summer, on one of the hottest weekends of the year. There's a thick, wet heat coming off the Bay, and the humidity sticks Leo's shirt to his back, leaves his neck sticky and uncomfortable no matter how many times he tries to wash it clean. Abbey looks lovely, as always. Leo hadn't thought white would be her color, but she wears it well. She wears everything well. He only catches a few glimpses of her here and there as the preparations ramp up, a pack of bridesmaids following in her wake. He doesn't have the time to search her out. He has too many other things to worry about.
+
+Most of these things involve making sure Jed doesn't decide to make a run for it or, as is more likely, open his mouth to say something completely incomprehensible about data models halfway through the ceremony. The morning before, Jed's twitchy and excited, giving long, frequently-interrupted lectures on the marriage rituals of Medieval England, Ancient Rome, and obscure South Pacific islands. Sometimes, he'll even throw in the mating habits of primates just to keep things interesting. He looks lit up from the inside, a glow lingering underneath his skin. Leo can't take his eyes off him.
+
+Right before they leave Jed's dressing room, while Jed's still putting out his last cigarette, Jed slides an arm around Leo's neck and says, "I'm so glad you're here." His breath is warm against Leo's ear. He smells like the cologne Abbey bought for him a few weeks ago and the ash from his cigarette, almost like an adult.
+
+Leo says, "Someone had to make sure you didn't get lost trying to find the altar."
+
+Jed's smile is so beautiful it almost hurts for Leo to see it. "And of course you appointed yourself for the job."
+
+"Who else would be stupid enough to take it?" Leo says, and he can almost feel his throat closing up.
+
+During the reception, Leo takes advantage of the open bar and tries to pay as little attention to the people having fun as possible. He's on his third drink (a rum and coke, because he likes the way the bubbles mix with the bitter taste of the alcohol) when Abbey sits down next to him. "You know, as much as I hate to admit that Jed is right about anything, you really were born an old man."
+
+She's glowing too, or maybe that's just a trick of the lighting, but her smile is so wide and bright it's almost infectious. Her white dress is bunched up around her shins, and every once in a while, she shifts and Leo will catch a flash of ankle, just a tiny patch of bare skin. "I wasn't born too old," Leo says. "Everyone else was just born too young."
+
+Abbey giggles at that. The alcohol makes her less intimidating. It opens her up, loosens all the knots tightened over years and years of med school. She stands up and holds out a hand. "C'mon. You owe me a dance."
+
+It's a bad idea, Leo knows. But it's a bad idea the way Leo knows that having a few shots first thing in the morning is a bad idea, and he gets up and takes her hand all the same. "That's supposed to be my line," Leo says.
+
+"We can pretend it was yours," Abbey says, grinning, and he takes her a few times around the room, a careful few inches between them. He tries to keep careful track of the time, of how closely he's holding her, of how they must look from the outside. She doesn't bother with anything formal, though Jed did mention that she did take ballroom classes when younger, just moving and swaying however she wishes to the beat. It's more fun than Leo's had all day, and he does find himself smiling and laughing despite himself.
+
+He expects Jed to cut in at any minute, but Jed seems content to just sit at his table on the edge of the dance floor and watch, a fond smile on his face. His bowtie has gone sideways again, and his hair has somehow become a mess. Leo tries not to think about what must be going through Jed's brain. Jed always seems to see more than he lets on, and Leo doesn't want to know what he might be seeing now. He pulls away at the end of their third song, despite Abbey's grunt of annoyance. "Any longer and I'm sure your husband will suspect me of trying to run off with you," Leo says, and he must have just enough alcohol in him to let some usually hidden things show on his face, because Abbey's expression softens.
+
+She presses a light kiss on his cheek. "He just wants you to be happy," she says quietly, fiercely. "*We* just want you to be happy."
+
+He closes his eyes, trying to hold onto this moment, this feeling. The feel of her lips against his skin, the soft, sweet melodies of the band, the heat of Jed's eyes on his back. "I'll try," he promises.
+
+And he knows he will.
+
+### 2.
+
+Leo falls in love with Jenny when she burns their dinner on their third date, when she laughs nervously as she tells him the whole story of how it happened, looking sweet and rather shy. "It was my mom's idea," she confesses, biting at her lower lip. "Apparently, it's how she managed to woo my dad."
+
+"You don't need to woo me," Leo says before kissing her, because it's the truth.
+
+In the early years, Leo loves her fiercely, more than anything else in the entire world. Every day, he finds a million tiny things about her that just make him love her more: like the way she laughs every time he makes a bad joke, not out of pity or a desire to please him, but because she's never found it difficult to laugh; like the way her moods come and go quickly; like the way she'll rub the back of his neck when she thinks he's working too hard. He loves her, and he always needs the alcohol a little less when she's around.
+
+The alcohol thing becomes more of a thing slowly. At first, it's real simple, just a drink after work, when he's tired and frustrated and just plain pissed off at the world. Then one drink becomes two becomes more than he really keeps track of. He has flashbacks even when he thinks he's too old for this shit, and liquor is as good at calming his nerves now as it was back then.
+
+He thinks Jenny knows what's happening, but she never says anything. Some nights, he'll wake up to find her crying, just tiny little sobs against her pillow, her whole body shaking with them. Leo will usually close his eyes and listen, holding his breath until she stops. He never did learn how to be a good husband. He doesn't even know where to start.
+
+---
+
+He loves Mallory, when she shows up, all tiny and gurgling, her huge eyes gazing up at him from her crib. For a while during the pregnancy, Leo spends his time being terrified of fucking up the parenthood thing, too. All day and all night, imagining every single thing that go wrong. What if he forgets to support her head as he's holding her, what if he never gets the hang of changing her diaper, what if she gets really angry at him when she turns fifteen and decides to run away and join a convent. That sort of thing.
+
+When he holds her for the first time, she seems so small, so fragile, so breakable, and he knows that this is at least one thing in his life he can't afford to screw up.
+
+"A girl, huh?" Jed says when Leo calls him up to tell him the news. "Boy, you're in for quite the adventure. Let me tell you--"
+
+If Leo let's him go on, he'll never get to the rest of his list of people he still needs to call, because Jed won't stop talking about Elizabeth if Leo lets him get started. Leo really hopes *he* never becomes so insufferable. "Don't you have a wife and daughter you can harass instead?" Leo asks, interrupting. He rests his forehead against the pale blue wall by the payphone and closes his eyes, trying to grab a moment of calm amongst the insanity.
+
+"Don't you?" Jed shoots back, and Jesus, Leo's a father now. He's not sure he's quite absorbed that yet.
+
+He feels himself grin despite himself, the way he always seems to when he's around Jed, even when there's nothing more than a telephone line holding them together. It feels good, a warm, deep feeling opening up. "Yeah," he says. "I do."
+
+"I'll tell Abbey the good news," Jed promises before he hangs up. Afterwards, Leo spends a few moments holding the dialtone to his ear, just remembering the photograph Jed had sent him just after Liz was born. It was of Abbey in the living room of the farm house, bathed in morning sunlight, holding the tiny baby swathed in a pink blanket in her arms. He remembers the way he thought that Abbey could never look more beautiful than she did around her daughter.
+
+He remembers staring at the photograph for a few moments too long before putting it away.
+
+---
+
+When Jed wins the Nobel, Leo and Jenny make the trip up to New Hampshire to congratulate them in person. Jed's department throws him a party, and Leo goes to it. Jed holds court in the center of the room, talking the ears off anyone who will listen about how to correctly model household labor in developing countries and how everyone else in the field is doing it incorrectly. Abbey is at his side, of course, glowing with pride and a little exasperation. Leo has a few drinks, nothing that strong, and tries not to think too hard about how much he hates academics. Instead, he thinks about the bottle of Valium that's sitting in his medicine cabinet at home, waiting for him.
+
+Halfway through the party, Jed ducks outside for a cigarette away from Abbey's watchful eyes, and he tells Leo to come with him. On the tiny patch of grass behind the department building, they can see a surprising number of stars, even with all the light pollution of the campus, and the air is crisp and cold. Leo says, "It's kind of amazing, you know."
+
+"Yeah," Jed says. His face is lit up red and orange by the flame of the lighter for just a moment as he lights his cigarette.
+
+"You deserve it," Leo says, because Jed does. Jed deserves so much. If Leo were a little more drunk right now, he could tell Jed just how much he deserves.
+
+Jed's smile is a little strange, a little sad. "I guess Stockholm felt the same way," he says. The title of Nobel Laureate doesn't quite sit nicely on his skin yet, like he's not sure it fits. Under the eerie orange streetlights, Leo can see Jed in twenty years, still teaching these same courses, still doing the same research, when he could be doing so much *more*. He doesn't know what he's capable of, but Leo does. Leo can see it in his eyes, on his face, in every grand statement, in every quirk of his grin. Jed's capable of moving mountains.
+
+"They had a reason to," Leo says. He doesn't say any of the other stuff. The unspoken words taste heavy in his mouth, like Scotch. He'll hold them there until he's ready to say them. He waits for Jed to put out the burning tip of his cigarette before they step back inside, and he thinks about the bottle of vodka that's still waiting for him at home.
+
+ 
+
+### 3.
+
+There are some moments that change your life. Leo's moment happened in a motel parking lot in Alexandria after a late day and an even later night. He doesn't remember all of it, not even what happened before he decided to go to the motel to have a few glasses of a new bottle of whiskey. He doesn't remember where he bought the whiskey or what it tasted like or how the motel sign looked like under the street lights.
+
+Here's what he remembers:
+
+The nasty aftertaste of vomit on his tongue, between his teeth, against the back of his throat.
+
+The *ka-ching* of quarters as they slide into a public phone.
+
+The rough scrape of pavement against his cheek.
+
+The furrowed lines of Jed's forehead.
+
+The plasticky new-car smell of the seats in Jed's car.
+
+The way he grabbed Jed's sleeve as Jed was helping him up; the way he tucked his nose into the crook of Jed's neck; the way he managed to slur out a "thanks" that said everything he wanted to say and yet said nothing at all.
+
+---
+
+The day after, Leo wakes up in the spare room of Jed's apartment in Arlington. It's dark inside the room, though a bit of light peeks out from under the heavy drapes. The sun must have come out while Leo was passed out. It wouldn't be the first time. Outside the door, he hears the floorboards creak under the weight of footsteps. His head still feels clogged up, numb. He wants another drink.
+
+"Good morning, Leo," Abbey says as she opens the door. "I imagine you're wishing you were dead right now. Not that I'd blame you." She's holding a glass of water in one hand and what might be a bottle of Tylenol in the other.
+
+Leo's tongue doesn't quite work yet; his throat still feels scraped dry. "Think I'm still drunk," he says. His voice sounds like someone else's. Like someone who got hit by a truck, fell into a ditch, and then got dumped into a sewage tank. That's not a bad description of how he feels, either.
+
+Abbey sits down on the bed next to him and holds out the glass. "Sit up," she says. "I don't want to explain to my husband how you drowned to death under my watch." She smiles faintly, an expression that's not quite there. Her skin smells like flowery soap and baby powder with a tang of antiseptic underneath, like she just spent a late night at the hospital before flying down to D.C.
+
+Leo says, "I think he'd appreciate the irony," before he sits up. His head spins for a moment from the change in position. Abbey steadies him. Her hands are warm on his shoulders, and Leo feels nausea that has nothing to do with alcohol. It's always difficult, wanting things you can't have. He thinks of Jenny, who has gone off to visit her parents, Mallory still in tow. He'll have to call her soon, let her know where he is. He's running out of new ways to apologize.
+
+"He'd probably find some way of resurrecting you so he could kill you himself," Abbey says in what Leo privately thinks of her "Mom" tone. He never heard her use it before Elizabeth was born. "Now drink up. If you're not feeling the hangover yet, you're *really* not going to enjoy it when it finally hits."
+
+The water feels good as it runs down Leo's throat. Not as good as a proper drink, of course, but even he knows better than to say that out loud. Abbey would beat the crap out of him for even thinking it. "Thank you," he says, and now his voice almost sounds like something that belongs to him. "You two didn't have to--"
+
+"Don't be an idiot," Abbey interrupts sharply. "You called us for a reason." She glares at him, and the expression brings out the wrinkles that are forming at the corners of her eyes. It's not unattractive, far from it. The years have been kind to her, to Jed and her both. All the years have done to Leo is hollow him out.
+
+"Yeah," he admits. "I did."
+
+---
+
+That afternoon, Leo's hangover finally makes an appearance. The Tylenol helps a little, but the rest of the time, he makes sure to keep his head absolutely still. He tries rolling onto his side at one point, but he gives up on that idea because it really isn't worth the head-splitting pain. He's very glad that Abbey didn't open the drapes.
+
+He does his best not to wince as the door opens. A man should be able to keep his dignity, after all. "Abbey informed me that you'd really be feeling last night right about now, so I thought it would be the perfect opportunity to kick your ass," Jed says.
+
+"You couldn't take me," Leo croaks out without opening his eyes. "Also, do you think you could stop talking so loud? Or at all?"
+
+"You're not getting off that easily," Jed says, and he sounds more annoyed than angry, like he sometimes does when one of the girls gets in trouble and he calls Leo up to tell him the whole sordid story. "In fact, I have a bedtime story I'd like to read you, called The Effects Of Alcoholism, and I know you're going to *love* it."
+
+"You know, it would be a lot more merciful for you to shoot me in the head right now," Leo says. He still sees bright lights behind his eyelids, and his temples are still throbbing, and he's seen Jed make an entire classroom want to kill themselves during one of his lectures. The man has a gift.
+
+Jed says, "You seem to be under the impression that I didn't already know that. Scoot over."
+
+Leo manages to shift to the side without making his head explode, but it's a close thing. The bed dips to accommodate Jed's weight. Jed still smells the same as Leo remembers, like Abbey's favorite cologne and an illicit cigarette. Jed's body still gives off too much heat, like a furnace, even through the covers. Leo resists the urge to shift closer to it.
+
+When Jed starts reading, it's not with the booming voice he uses to make himself heard in a lecture hall, but a softer one, like the one he uses to read Mallory and Elizabeth bedtime stories when Leo lets Mallory sleep over at the farm. Leo's world starts to fade out. He can't hear anything except the rise and fall of Jed's voice, can't feel anything beyond the press of Jed's thigh against his hip.
+
+Sleep takes him.
+
+---
+
+The next morning, Leo crawls out of bed and doesn't have the urge to throw up on anything. His head still feels a little clogged, but that's normal. It always takes him at least half an hour before he's even capable of making himself coffee in the mornings. It's probably not because of the alcohol.
+
+He pads through the hallways barefoot, careful not to let the floorboards creak under his weight. He can hear the clatter of pans being moved as he gets out of the bathroom, and he makes his way to the kitchen. The last time he was in that room, Jed had invited Leo over for dinner. Leo had watched as Jed helped Abbey cut vegetables, as Abbey did amazing things on the stove, the three of them arguing about the ramifications of the newest pick for DNC chairman. Jenny had been playing with the girls in the other room, Mallory, Elizabeth, and little Ellie. Leo hadn't been drinking at the time, but he remembers the way he wished he was. He wishes he were drinking right now.
+
+"You feeling any better?" Jed asks as Leo steps into the kitchen. Jed's still dressed in his pajamas, and the pants are a little too big for him. The bottoms drag along the floor. His hair is the same mess it always is when he gets up in the morning and hasn't bothered combing it into shape.
+
+"Yeah," Leo says. "Thank you." He sits down on a chair at the kitchen table. It makes an ugly sound as he pulls it out, as he accidentally lets the legs drag over the linoleum. The kitchen window is open, casting morning light on the counter next to where Jed's standing. He can hear the rumble of car engines as they pass by.
+
+"What do you want for breakfast?" Jed asks, finally. He flits about the small kitchen, opening and closing cabinets, checking the shelves, glancing inside the refrigerator. "How about some eggs?"
+
+"Not if you're going to be cooking them," Leo says. His appetite hasn't quite recovered yet. When Jed brought him back here a few nights ago, he needed to vomit into the smooth white porcelain toilet bowl of the guest bathroom every few hours, and Jed would help hold him up with an arm tucked underneath Leo's shoulders. Leo's stomach rolls at the thought of putting anything close to his mouth.
+
+Jed snorts. "You're just saying that because you're jealous of my Famous Sunday Morning Omelets." He pulls an egg carton out of the fridge and makes a grand gesture out of retrieving a frying pan from underneath the counter.
+
+"Infamous is more like it," Leo says, and a smile creeps over his face. The last time he ate something Jed had cooked, Leo had to make it all the way through finals with food poisoning. Jed did buy him a decent meal at Leo's favorite near-campus eatery afterwards in apology, so Leo doesn't resent him for it. Much.
+
+"I hope you're not trying to feed him," Abbey says as she steps into the kitchen herself. "We're trying to make sure he makes a full recovery." She, unlike either of them, looks as though she's ready to face the day, already dressed in a pair of loose, comfortable pants and a black sweater.
+
+"You two are still ganging up on me, I see," Jed says, annoyed, but he hands over the pan to Abbey with a minimum of resistance. Abbey has trained him well.
+
+"Always," Leo promises. His gives Abbey a sneaky little smile, and she returns it. Leo lets himself pretend for a moment that he's a part of this, that he's not some outside party, but it doesn't last long.
+
+"Why don't you two boys run off to talk about manly things while I ensure that we don't die of salmonella," Abbey says as she cracks an egg open on the counter. She kisses Jed's cheek without spilling even a drop, and they share a long look the way married couples often do. They look like newlyweds still, all wrapped up in each other, and Leo's happy for them, so painfully happy for them. There's nothing false about his happiness. It would be easier for him if it were.
+
+Jed takes the chair across from Leo and folds his hands on the table and stares straight at Leo in that slightly unnerving way he has. "You should stay another night," Jed says, but Leo knows that isn't true. Nothing's changed. There's still no room for him here, between the two of them. He's just passing through, like he always is.
+
+"I can't," Leo says, though he wants to take Jed up on his offer so badly it almost aches. "Jenny and Mallory are coming home tonight." There's not all that much to look forward to at home. Leo will tell Jenny everything about this weekend, of course, and she'll yell at him for a little while for being so stupid, and then he'll kiss Mallory's forehead before he puts her to bed. And that will be that. He'll live to see another day. He'll live to fight another fight.
+
+But as he looks at Jed with the morning light pouring in behind him, with every line of concern etched on his face, Leo thinks *I could make you President one day.* It's not so much about gratitude so much as it is about being able to see Jed up at a podium, giving a speech that will send shivers down everyone's spines, as it is about being able to imagine Jed in the Sit Room, making the hard decisions, as it is about being able to believe that Jed would do the right thing if he were given the job, that he'd never be able to do anything but that.
+
+---
+
+Leo holds that thought, that image, for years and years, while he tries to cobble together the pieces of his life, while he finally goes through rehab. And when he's ready, when *Jed*'s ready, Leo makes the trip to New Hampshire, and he hands Jed a napkin, and then they get to work.
+
+ 
+
+### 4.
+
+When they get to the White House, Leo doesn't find it difficult to refer to Jed as "sir" or "Mr. President." It's not the best defense mechanism in the entire world, but it works well enough. It's easier to pretend Jed isn't Jed in the curved walls of the Oval Office, in the very heart of the Executive Branch. He's something bigger than that guy Leo met at a lecture about economic systems of Third World countries a million years ago, and that makes it impossible for Leo wallow. It's better that way.
+
+"Do you remember that time we--" the president asks one late night after the dust has settled on one crisis or another early into the first year of the administration. They're both collapsed into the sofas of the Oval Office, and Jed's jacket is off, draped over the back of a chair. It gets quiet in the White House at night, save for the occasional murmur of Secret Service radios, the occasional late-night pulled by one of the staffers. It's so different from the frantic clamor of the days.
+
+"Does this story end with the two of us getting into a drunken argument with a police officer about proper parliamentary procedure?" Leo interrupts. These moments are always the most difficult, when the lines blur, when the carefully constructed boxes of Leo's life start to break down. It makes him think of the strange, smooth slide of a pill down his throat, of things that aren't good for him, of things he's given up.
+
+"Don't think I've forgotten that still you owe me a dollar over that incident," Jed says with a pointed look, and a smirk hovers over the corner of his lips. He looks like Abbey when he's like this, that same sort of half-veiled teasing she used to use to work up Jed into angry rant about whatever pet injustice was getting his goat on that particular day.
+
+Leo says, "I don't pay up to cheaters, sir." His own smile curves up almost against his will.
+
+Jed laughs, the wrinkles at the corners of his eyes crinkling, and Leo thinks about years and years and ancient history. He's never needed more than this, not really. To grow old by their side, to know that they walked this far together, to have had Jenny with him before she couldn't take it anymore. Leo would be lying if he said he didn't have any regrets, but he doesn't regret ending up here, with the future they'll build stretching out before them, with the presidential seal underneath their feet.
+
+---
+
+The news about Jed's MS hits like a ton of bricks.
+
+Abbey voice wavers as she tell him, every word forced out like it's hurting her to say it. All Leo can do is stare, because he'd suspected, but he hadn't *known*, not until now. He thinks he liked it better when it was a possibility, a suspicion he entertained on long stretches of the campaign trail. The reality, the certainty, is so much worse. He doesn't know what to do when she starts crying. He never knows what to do when women cry, and with Abbey -- terrifying, fearless Abbey -- just sitting there, no sobs, just a trail of tears down her face, he feels utterly powerless.
+
+Leo's conversation with Jed doesn't go much better.
+
+---
+
+After Jed gives the State of the Union, after all the polling data has come in, after the rest of the senior staff has gone home, Leo sits with Abbey in the residence, waiting for Jed to get back from his last few commitments for the night.
+
+"He's been feeling better," Abbey says. "He should make a full recovery." She's ready to go to bed for the night, dressed in a pair of sweats and a moth-eaten Notre Dame t-shirt. Leo doesn't know why she asked him to stay here this late, but it's been a rough day for all of them. He feels uncomfortably overdressed in his suit, even with the wrinkles it's accumulated over the day.
+
+"Yeah," Leo says, because he isn't sure he's been able to absorb the information, and he doesn't know what else to say.
+
+Abbey's bare feet are propped up on the coffee table. Her toenails are painted a bright pink, probably Zoe's doing. Zoe went through middle school with each one of her fingers painted a different color each day, if Leo remembers correctly. Jed liked to complain about how much of her allowance she'd spend on new colors every week, but Leo's pretty sure he was exaggerating about that. Abbey looks a lot better than she did this morning, like there's a weight that's been lifted from her shoulders. "He didn't tell you earlier because he's a jackass," she says, and she's fixing Leo with an inscrutable look. "Because he's an asshole and because he does care about you and what you think, even if he has a shitty way of showing it." She places a hand on Leo's arm.
+
+"Yeah," Leo says again. He fixes his gaze on the wall behind her head, unable to say anything else. He's never felt further away from the two of them in his entire life.
+
+"Leo," Abbey says, and her voice is so gentle, Leo has to turn to face her.
+
+She kisses him then, pressing her lips against his. Her skin is soft, so soft, and he lets his tongue slide along her closed lips before he realizes what he's doing. When he comes to his senses, he yanks back, breathing harder from the rising panic than from the kiss itself. He tries not to think about the way her lips didn't taste like lipstick.
+
+"Abbey--" he says. Leo can imagine the slow, painful death Jed will inflict upon him for this. It will probably involve chopping up Leo's body into tiny pieces and feeding them to the cows. Jed knows how Leo feels about the cows.
+
+"Men," Abbey says with a snort and a roll of her eyes. "You're all spineless idiots. Just imagine what you could accomplish if you didn't spend all your time wrapped up in yourselves and your own manly self-restraint."
+
+"Abbey--" Leo says again, because his world has been turned sideways once today, and he gets the uncertain, shaky feeling that it's going to happen again very soon.
+
+Abbey says, "Don't be dense, Leo," and then kisses him again. Her mouth tastes warm and sweet, and it feels like years, decades, since Jenny left, even though it's only been a matter of months. He lets his hands press against her side, but it feels uncomfortable, illicit. The guilt tastes bitter at the back of his throat. Leo's mind drifts to the image of Jed still in bed, quietly apologizing for not telling him sooner, completely unable to meet Leo's eyes.
+
+The door opens behind them, and Leo jumps to his feet, trying not to look as though he'd just been kissing the First Lady in a very non-platonic way. *In the White House* for Christ's sake. It's Jed at the door, of course it's Jed, still dressed in the suit he wore to the State of the Union, though his tie is loose and the top two buttons of his shirt are undone. "Mr. President," Leo says, because at the very least, Leo can hold onto his dignity. A man should be able to hold onto his dignity.
+
+Jed has that dangerous look on his face, not the one he wears when he's about to tear you to shreds, but the one he wears when he's about to size you up and pick you apart. "Leo," he says, a toothy smile spreading across his face.
+
+Leo tries to use this as a chance to leave. "If that will be all, sir," he says, keeping his tone as neutral as possible. It's a trick he liked to pull on President Newman when he wanted to get the president off his ass about the latest AFL/CIO complaints. It's less effective on Jed, but it's late enough that it just might work. He tries to walk towards the door, but Abbey's hand tightens around his wrist.
+
+"Sit down," she says. "He doesn't bite unless you want him to."
+
+Jed snorts, some of that danger dissipating from his expression. "What the hell have you been doing to the poor man?" he asks Abbey.
+
+Leo feels, rather than sees Abbey's smirk, but he can perfectly imagine what it looks like, from Abbey's raised eyebrow to the challenging curl of her lips. She says, "Nothing you wouldn't do if you were in my position, honey." Leo feels his face heat up, because nothing makes sense today, and she can't mean--
+
+Jed scowls. "You shouldn't have started without me." He sounds petulant and grumpy, like Mallory when Leo would tell her she couldn't have cookies for breakfast. Jed usually only gets like that when Leo tells him very patiently that universal health care isn't something they can put into the State of the Union.
+
+"I was just getting him ready so he wouldn't freak out too much when you showed up," Abbey says, and Leo's torn between trying to remind everyone that he's *still here* and gaping back and forth between the two of them.
+
+He opens his mouth to say something, but then Jed's in his personal space, Jed's pressing a hand against Leo's shoulder and kissing him, lips on lips, the tips of his fingers brushing Leo's neck. It's too sudden, and Leo's is left there standing shock-still, still gaping, as Jed pulls away.
+
+"What the--" Leo starts, but then Jed kisses him again, deeper this time, but still hesitant, like he's still uncertain of Leo's reaction. He kisses a little like Abbey, like maybe they've picked up each others' kissing tics like they've picked up each other's speech patterns. Jed's face is partially unreadable when he pulls back. It reminds Leo of Jed at a poker table, considering his hand, not giving too much away.
+
+"We've been waiting for you," Abbey says. She wraps her arms around Leo's waist, her body pressed warm and real against Leo's back. "But then we got impatient."
+
+"You're a real stubborn bastard when you want to be," Jed chimes in, using that same look he uses when he's messing with Josh and Sam, mock-severe in a way that doesn't quite hide the playfulness underneath.
+
+Leo wants-- well, Leo doesn't know what he wants anymore, because this is so insane he's not entirely sure it isn't a hallucination induced by too much stress and not enough sleep. You're never just *given* what you want, not in anything, and especially not in this. He's stuck here, unmoving, like that proverbial deer in headlights.
+
+"Stop overthinking it," Abbey says, her voice partially muffled by Leo's neck. "You're almost as bad as *him* sometimes."
+
+Leo would laugh; he wants to laugh. He wants to do something besides stand here in a daze. "I'm not overthinking anything," he says, because he's entirely sure he's capable of doing any thinking at all right now.
+
+"You heard the woman," Jed says. "Stop overthinking it." He steps even closer, and Leo can still see a few remaining signs of the attack. Exhaustion in the tilt of Jed's head, a new grimness around Jed's mouth.
+
+Leo leans forward and kisses him, just so that he has the memory of this, so that later, he can tell himself that he had it at least once. Jed's mouth tastes like mint, like that mouth wash he uses to hide the taste of his cigarettes. He parts his lips at the first brush of Leo's tongue.
+
+"You should stay the night," Abbey says, and Leo has a bit of deja-vu to that day in the kitchen, with the morning sunlight behind Jed's back and an offer that was a hell of a lot less explicit than this one. Leo considers his options. If he says "no" this time, now that all the cards are on the table, they won't ever speak of this again. This beautiful, fragile thing that he's been handed. He's not sure what will happen if he says "yes," but it's a possibility now, one he's never had before. There's a feeling that's spreading outward from his chest, spreading along his limbs to his feet, his elbows, his nose. It feels like what he felt for Jenny in the beginning, like what he's always felt for Jed, like what he's learned to feel for Abbey. Except it's not painful any longer. It's not tearing him up from the inside anymore.
+
+"Yes," Leo says, and the word feels strange on his lips. "I will." He pulls out of Abbey's arms, somewhat reluctantly, and looks between the two of them, at Abbey's amused, tolerant smirk, at Jed's affectionate glare. He can still taste them on his tongue. Jed holds out a hand, and Leo takes it. Abbey wraps her fingers around Leo's palm. He thinks of that cold winter day when he met Abbey for the first time, and how he couldn't have imagined then that he'd have ever ended up here, right at this moment, this place. He presses a quick kiss against Abbey's lips, then Jed's. Their fingers are warm against his, as intimate as a promise.
+
+He lets them lead him into the master bedroom.
+
+And then he lets himself believe that maybe -- just maybe -- there's space for him after all.
+
+ 
+
+FIN.

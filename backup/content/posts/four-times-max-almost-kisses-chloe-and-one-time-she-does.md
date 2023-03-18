@@ -1,0 +1,114 @@
+---
+ao3_url: https://archiveofourown.org/works/5475914?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters: []
+date: '2015-12-20'
+fandom:
+- Life is Strange (Video Game)
+notes: Only contains spoilers up to episode 3. Thanks so much to my beta!
+relationship:
+- Maxine Caulfield/Chloe Price
+summary: ''
+tags:
+- five things
+title: Four Times Max Almost Kisses Chloe (and One Time She Does)
+warnings: No Archive Warnings Apply
+---
+
+1.
+
+They're thirteen, and Chloe is still wearing her blonde hair long. Max is so jealous of it, how long and beautiful her hair is, while Max needs to tame her own with headbands and tight pony tails, and it's just a plain, boring, mousy brown.
+
+The two of them are in Chloe's room, lying down on Chloe's bed and staring at the ceiling. The clock on Chloe's bedside table says that it's eleven at night, and the room is dark and hushed. The sound of CNN on the TV downstairs filters up through the floorboards.
+
+"Only three days left," Chloe says, voice barely louder than a whisper.
+
+Three days until Max moves to Seattle. Max is scared, but she's also excited, and she's been saying a lot of goodbyes. Goodbye to the house she's lived in all her life, to the middle school she'd spent so much time at, to all of her classmates, to the basement where she and Chloe used to dig through old collections of her parents' photographs and mementoes, to the lighthouse that overlooks the bay and has the most spectacular view in the whole town.
+
+Max isn't sure she's ready to say goodbye to Chloe yet. She's not sure she ever will be.
+
+Max turns her head, and Chloe's looking back at her. Her eyes are so clear and so serious. She's seemed so much older than Max ever since her father--
+
+"I'll miss you," Max says, because it's true.
+
+Chloe's lips quirk into a grin, and she's almost young again, the girl Max has been best friends with since forever. "You better, Maximillion," she says, and even with the teasing undertone to her voice, there's a softness, too.
+
+They're so close here on the bed, the warmth of Chloe's hip pressed against Max's thigh, their shoulder rubbing together. Max could-- she could just lean over and--
+
+But she's going to Seattle in three days, and her mouth is full of braces, and she's never kissed anyone before, and her heart is too full, full of happiness and sadness and longing and confusion. So she smiles back, lets their hands brush against each other, and tries to commit this moment to memory, the sort of feeling that even a photograph can't quite capture. 
+
+ 
+
+2.
+
+The truck rocks and shakes, and Max is still wired up from Nathan's angry face right in front of her own. She turns to look at Chloe, who showed up out of nowhere to save her, and Max could just throw her arms around Chloe's neck and press her lips against Chloe's cheek. She's done it before, but it doesn't seem appropriate now.
+
+This Chloe has blue hair and tattoos and gets into fights in the bathroom of Blackwell Academy, and even after saving each other from Nathan Prescott, Max doesn't know her at all. They haven't talked in the last five years, not even casual e-mails. Max is all too aware that she has no right to that sort of affection.
+
+Chloe's eyes are still focused on the road ahead of them. Her shoulders are tense, though she's slouching, an arm leaning against the side window like she doesn't give a fuck about anyone or anything. She's frowning, her eyebrows drawn together, looking angry enough to punch anyone who gets in her way, but there's something else about the way she's carrying herself, something fragile and breakable.
+
+It's a maze of contradictions. Max sees it in herself and in her classmates, that tension between wanting and not wanting to want anything. If her camera were working right now, she'd hold it up, snap a picture: *Teenage punk on the road to nowhere*.
+
+But her camera's still broken, and they're still going to Chloe's house -- which Max is almost afraid to go see, a mashup of the strange and the familiar -- and they're not really friends anymore. 
+
+But they could be again. Max believes that, and she hopes Chloe believes it too.
+
+ 
+
+3.
+
+There's a stillness to Chloe's favorite junkyard that Max wasn't expecting. It's just the two of them and the birds. The silence is punctuated by the roar of the train as it whizzes by every few minutes. The sun is out, clear and shining.
+
+It's easy to get lost, to feel dwarfed by the mountains of trash all around her, but Max enjoys poking through everything. It only takes her a few minutes to find Chloe and Rachel's hideout. It's not much more than a dilapidated shack, cluttered with rescued furniture and plastered with posters and decorated with errant graffiti.
+
+There's a place in the corner where Chloe and Rachel wrote their names on the wall, made their mark on the world. Max can imagine the two of them hanging out here together, chatting about music and school and the future. She thinks of the picture of Rachel on the “Missing” poster that Chloe's been pasting everywhere, black-and-white and smiling, and a pool of jealousy sits low in her stomach.
+
+Max doesn't have any right to be upset, of course. She and Chloe fell out of touch, and Chloe found a new best friend. It happens. It just sucks to know that Max was so easy to replace.
+
+She takes a deep breath. The air tastes musty and thick. She can see why Chloe liked this place, the way the light filters in through the holes in the makeshift ceiling, the way it rattles when a train rolls past. The way it feels safe, feels hidden.
+
+"Hey, we only need two more bottles, and then we can get this party started!" Chloe calls out. 
+
+Max peeks her head around the corner towards the sound of Chloe's voice and catches sight of Chloe grinning, waving her hands in the air.
+
+This is the first time Max seen Chloe happy -- laughing, smiling, *glowing* -- since she came back to Arcadia Bay. Max still doesn't know what she is or the extent of what she can do, but at least, she has this. At least she has Chloe's laugh and Chloe's grin and Chloe's kleptomania.
+
+"Yeah," Max says. "I've got them right here." She shows Chloe the remaining two bottles. 
+
+Chloe throws her arm around Max's shoulders, leaning her weight against Max's side. Even with the years in between, she's still taller than Max, and Max fits easily underneath her arm. "Sweet!" Chloe says. "Let's do this thing!"
+
+Max could-- 
+
+She could give it a shot and then rewind time if things went badly, but she can't even let herself entertain the thought. She needs to focus, needs to make sure she knows how this works and how to control it. Chloe's here to help, not to indulge Max's silly whims. Max can't let herself get distracted by any of this, not her feelings about Chloe, not her concerns about Kate, not her annoyance at Victoria. Focus.
+
+ 
+
+4.
+
+The pool smells strongly of chlorine and everything glows an eerie blue, even with the lights on. The water is warm, as warm as Chloe said, and Max barely even has to put in the effort to tread water to stay afloat. Everything about Max's life has started spinning out of control, but this moment exists inside a bubble. She can let herself enjoy it.
+
+As fun as it is to be out in the open water, it's easier to cling to the side, to kick their legs out behind them, to let their elbows bump against one another as they talk about it all, everything and nothing.
+
+"Don't look so sad," Chloe says. "I'm never leaving you." She sounds so serious when she says it, so convinced. It's almost nothing like when they were kids and would talk about being BFFs without quite understanding what "forever" even meant.
+
+Max just watches the shifts in her expression, the softness in her eyes that she doesn't show to anyone else, not even her mother. Max blinks once, twice, trying to capture all of it, the tilt of Chloe's head, the curl of her mouth, the neon blue hair plastered to her ears and forehead, the odd glow of her skin in the dim light. There are pictures of the two of them as kids at swimming lessons together, wearing twin smiles and mismatched bathing suits. Max saw them last Christmas, when her father insisted on dragging out their old photo albums. 
+
+It's not so different now. Even with all of the superficial changes, Chloe is still that same girl. Max knows her.
+
+For a second, Max lets herself believe that maybe-- she could just--
+
+And then Chloe says, "Now I'm getting cold here." She pushes away from the wall, grin brightening again, moving out of reach.
+
+The moment dissolves into nothing, and Max lets it go. It's okay. Chloe is splashing her with water, and they broke into Principal Well's office after hours, and whatever the hell is going on, Max isn't in this alone. It's enough. 
+
+ 
+
++1.
+
+In the warm glow of the morning light, wearing Rachel's clothes, Max feels reckless, feels brave.
+
+"I double dare you," Chloe says, bright-eyed, teasing. "Kiss me now."
+
+It's a joke to her, but it doesn't have to be. They escaped David last night, and Max is capable of doing anything right now, anything she wants to. Max could. Max *can*.
+
+She steps forward, cups Chloe's cheek with one hand, leans in, and--

@@ -1,0 +1,89 @@
+---
+ao3_url: https://archiveofourown.org/works/2521?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Dream
+- Roy Mustang
+date: '2009-01-06'
+fandom:
+- Fullmetal Alchemist
+- Sandman
+notes: I guess this kinda fits as an AU interlude between the two parts of Masters
+  of War. The Roy here is very much the same.
+relationship:
+- Hughes/Mustang
+summary: Roy meets someone in the desert.
+tags:
+- Crossover
+- Dreams
+title: Natural Blues
+warnings: No Archive Warnings Apply
+---
+
+It is quiet during the day, and today, the air hums with something he can almost taste. Roy takes off his jacket, leaves it on a bench somewhere. The sun dips low in the sky, and in the distance, he thinks he can smell the sand melting on the horizon (even though he knows that's not it, that's not it at all).
+
+A hand covers his and whispers something in his ear, and there are fingers and teeth and hair, and it's all mixed up together. He can remember the eyes the child he burned today, the smell of the families that he has killed, and the thoughts weigh heavy on his heart.
+
+I'm tired, he says, though he can't hear himself speak, and the things blend together, all together. He remembers what it was like to be at the edge of giving up, where all he could see in front of him was blackness. He thinks he can feel it now, dark tendrils curling at the edge of his vision.
+
+He thinks he was walking. From somewhere to somewhere. Maes was here, a second ago, he thinks, but he's not here right now. And there is only emptiness in his place. Sand, he thinks, shifting.
+
+He is walking, he realizes, suddenly. He has been walking across the desert, and he does not know where he is.
+
+There is a speck on the edge of the dune in front of him, and he realizes that it's a man cloaked in black, dark hair, pale skin, empty eyes, but this does not bother Roy, for some reason, any reason.
+
+Who are you, he asks, though his voice sounds dry and parched and raw. He sees that the eyes were not empty at all, but are something else, something different.
+
+Who I am does not concern you, the man says, and his voice sounds as if it were coming from nowhere and everywhere at the same time. I am the lord of this realm, he says, and that is enough.
+
+There was someone with me, Roy says. I don't remember.
+
+The man does not smile, but there are hints of amusement in his not-eyes. He will be joining you soon enough, he says.
+
+Roy laughs, and it rasps hard against his throat. He does not know why he's laughing.
+
+The man holds out a glass of water that wasn't there before (and yet was always there) and Roy takes it thankfully, feels the cool liquid slide down his throat.
+
+Thank you, he says.
+
+You do not need to thank me, Roy Mustang, he says, and that makes complete sense to Roy, even though it shouldn't.
+
+How did you know my name, he asks.
+
+I know the names of all those who are in the Dreaming, and you are mine as you are not that of any of my siblings'. You dream, Roy Mustang, and you are mine.
+
+The sun has dipped below the horizon, and they are lit by the light of the stars. Roy wants his jacket all of sudden, but it's not there.
+
+I want, Roy says, because he wants to explain himself, though he does not know how to put it in words, because it's not just about the jacket. It's about something more than that. I want to..., he says, but there are no words for it, the dream, things that he sees when he closes his eyes. There are no words to describe the twisting, pushing feeling at the pit of his stomach. The way he wants to bend and shape the world.
+
+The man smiles, thin and bare. I know, he says. You do not need to tell me.
+
+Roy nods. That makes sense too. But sometimes it's not enough, he says, pleads. Sometimes I don't think it's worth it.
+
+A raven lands on the man's shoulder and it looks as though it wants to say something, but it doesn't. Why not, the man asks.
+
+It's just a stupid dream, Roy says and buries his face in his hands. He thinks he should be more tired than he is.
+
+There's a flash in the other man's eyes that might almost be anger. Nothing has been accomplished without a dream, he says, and nothing will be accomplished without one. Do not forget that, Roy Mustang. There is no foolishness in dreaming.
+
+His eyes flash again, but there is none of the anger this time. Turn back, the man says, and your companion shall find you again.
+
+As Roy turns around and starts walking, he can still hear the man's voice. Do not forget, he is saying, do not forget that you dream, and that you should not despair, and that death will not take you before your time.
+
+Something shimmers and fades all around him, and the memories slip from his mind.
+
+A hand is on his shoulder, heavy and comfortable, as Roy is shaken awake. He is laying face first on the sand, and it has gotten everywhere, in his shirt, his hair, his mouth, his eyes.
+
+You shouldn't sleep like that, Maes says, laugh in his voice, and Roy leans up to kiss him softly. It's barely there, a brush of lips on lips, but it's still comforting, in its own way.
+
+Bad dream, Maes asks, concern tugging at the edges of his eyes.
+
+No, Roy says. The opposite, I think.
+
+He looks into the morning sky, and there are no clouds, and there is no rain.
+
+And he dreams.
+
+ 
+
+FIN.

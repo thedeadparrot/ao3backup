@@ -1,0 +1,834 @@
+---
+ao3_url: https://archiveofourown.org/works/770240?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters: []
+date: '2013-04-22'
+fandom:
+- Glee
+notes: 'Based on [this kink meme prompt](http://glee-kink-meme.livejournal.com/36785.html?thread=49550513),
+  though I do take a few liberties with it. I''ve also borrowed bits and pieces of
+  worldbuilding from helenish''s [Take Clothes Off As Directed](http://helenish.talkoncorners.net/asdirected.html)
+  and etothepii''s [things you don''t tell me](http://archiveofourown.org/series/5912).
+  So much love to zulu for the beta.
+
+
+  Other places: [DW](http://thedeadparrot.dreamwidth.org/524463.html) | [LJ](http://parrotfic.livejournal.com/40442.html)
+  | [Tumblr](http://thedeadparrot.tumblr.com/post/48604386376/fic-if-i-needed-someone-glee-kurt-blaine)'
+relationship:
+- Blaine Anderson/Kurt Hummel
+summary: BDSM AU. *Kurt may be as queer as a three dollar bill, but in New York he
+  doesn't have to pretend to act like a proper sub on top of all of that. He can hold
+  his head up high and make his own way through the big city without some dom holding
+  his leash. He can be anything he wants.*
+tags:
+- Alternate Universe - BDSM
+- Alternate Universe - NYADA
+title: If I Needed Someone
+warnings: No Archive Warnings Apply
+---
+
+### Chapter 1
+
+
+#### Chapter Summary
+
+
+
+#### Chapter Notes
+
+
+
+Kurt is sixteen the first time someone tells him that no dom is ever going to want him. 
+
+He's walking down the hall between second and third period, minding his own business, when Karofsky shoves him into the lockers and sneers, "It's pretty obvious what your mark says, fairy, but we all know that doesn't mean any dom worth his salt is going to want to bend you over."
+
+Kurt twists out of his grip, readjusting his bag over his shoulder. "Fuck off, Karofsky," he says. He keeps his head up, his shoulders square. He just got the mark on his left hip three days ago, and the spot still itches, the skin around it still raw and sore. It's smaller than he expected. It always looks so big on movie screens, in scandalous Renaissance art, in the crude stick figures his classmates have been drawing since elementary school, but the circle is no bigger than the size of his thumb.
+
+The hallway is busy, filled with students milling around between classes, but no one stops to help. It probably says something about the quality of supervision at McKinley that Kurt isn't even surprised. Not that Kurt will ever let any of this get to him. He can handle himself. Kurt's mark may say he's a sub, but he'd never kneel for someone like Karofsky, and he's not about to start kowtowing to the marked doms just because they have a problem with him. Karofsky snorts. "With a mouth like that, you'd be lucky if any dom would be willing to stick something in it."
+
+"It's too bad you'll never get a chance to find out, isn't it?" Kurt says. "I thought I told you to fuck off."
+
+That gets some whoops and hollers from some of the other people in the hallway, and things would probably have gotten worse if Ms. Erikson hadn't picked just that moment to stick her head out of her classroom. "What are all of you doing out here?" she asks. "The bell's going to ring in a minute."
+
+It takes a tense moment and a rude gesture thrown over Karofsky's shoulder, but Karofsky, thankfully, fucks off. Kurt makes a face at his back as he leaves.
+
+"Are you okay?" Tina asks. She touches his shoulder, light, careful. It's probably supposed to be awkward now that she's been marked too, but everyone's known that Kurt doesn't go for girls since he was ten. There's nothing remotely scandalous about it, and Kurt's almost grateful for their assumptions now.
+
+"I'm fine," Kurt says. He straightens his jacket, his tie, his shirt. No need to let the wrinkles get the better of him just because Karofsky can't keep his hands to himself. Kurt can handle this. He's had plenty of experience with it over the years. If that means no dom will ever want him, that's fine with him.
+
+---
+
+After getting marked, Kurt had expected his fantasies to change. He thought they'd become more like the porn Kurt could barely handle, the ones that his friends would always talk about in hushed, scandalized voices around school. The sex in those videos was always rough and claiming, a little violent. In the ones Kurt's seen, the subs are usually crying and begging at the end of it, their faces contorted into an uncomfortable mixture of pleasure and pain, and it turns Kurt's stomach over more than it turns him on.
+
+His fantasies are still vague, formless. A heavy body pressing him into the bed, hands tight around his wrists, the soft press of lips against the side of his neck. The idea of going any further than that feels like deep, dark water, still and dangerous. Kurt always feels two steps removed from-- from things like that, and any interest in it feels more intellectual than visceral. That makes things less awkward when the girls are talking about boys, about the mechanics of blowjobs or spankings or what Puck sounds like when he's begging, because in Kurt's mind it's still more of a theoretical concept rather than an actual thing that happens to people he knows.
+
+Sex isn't for Kurt in anything but the abstract. It's not anything more than the boyish crush on Finn when he thought Finn might be able to protect and take care of him long before Finn was marked as a sub, too. (No matter that Finn was straight, either. That had always felt more like a speed bump than anything else.)
+
+In old-fashioned movies, they wouldn't show power exchange, not the full extent of it. There's no one getting punished or showing off bruises or doing much more than kneeling or wearing a collar if they were a particularly well-behaved sub. Back in the day, there was a lot of hand-wringing about the unmarked children who would see it and wouldn't understand, so it was all clever double entendres, suggestive wrist-holding, possessive kissing that hints at more. In more modern romantic comedies, couples jump right in bed with one another and then get enmeshed in complicated love shapes where everyone ends up submitting to or dominating the wrong people before they figure it out and end up in the proper configurations. To be honest, Kurt likes the older movies better.
+
+The classes they take in dominance and submission are desexualized, more uncomfortable than titillating. It's about the mechanics of getting a safeword, of how to tie someone's wrists so that they don't lose circulation in their hands, of learning to kneel in a way that won't completely destroy your knees. The distance they get is the only thing that makes class bearable, the way he can keep his head held high all the way through an entire period while Mercedes holds his leash and some of the other doms snicker about how it should really be Artie or Karofsky or Santana (queers with queers, am I right, bro?). 
+
+Kurt survives it, because he knows that this is fleeting. He can leave this all behind.
+
+At night, Kurt likes to stare at the ceiling of his room and imagine an entire life for himself in New York, an apartment and a husband and a fabulous career. He can't imagine his husband's face, his hands, his body, or his hair, but he knows exactly what kind of throw rug he wants to put in front of their TV. A real husband means a real dom, a real flesh and blood person who--
+
+It hardly matters anyway. When Kurt finally graduates, NYADA acceptance letter in hand, he doesn't look back.
+
+---
+
+There are a lot of reasons why Kurt loves New York. He loves the way the buildings tower over the streets, all naked ambition reaching for the sky. He loves the way the city lives and breathes fashion, the way he can spot a gorgeous scarf or a perfect pair of boots just walking down the street like it's nothing out of the ordinary. He loves the press of people around him, loves how easy it is to lose yourself in the crowd, a whole city full of nails that stick out and can't get hammered down.
+
+But what Kurt really loves best is that no one knows him here (with the exception of Rachel, of course). There are no lockers for people to shove him into, no slushies to destroy his favorite McQueen jacket, no football players roaming the hallways looking for fresh meat. Kurt may be as queer as a three dollar bill, but in New York he doesn't have to pretend to act like a proper sub on top of all of that. He can hold his head up high and make his own way through the big city without some dom holding his leash.
+
+He can be anything he wants.
+
+---
+
+Sophomore year, Kurt ends up living in a building across campus from Rachel. They managed to luck out freshman year. Their rooms were just one floor apart, and they'd have late-night visits, early morning arguments, midday snacks, but now they can't just roll out of bed and visit each other in their pajamas the way they used to.
+
+At least this year he's managed to luck his way into a single in a mostly-freshman building due to seniority. He likes having his own space, even it's basically a closet with a desk, a chair, and a set of drawers. The walls and provided furniture scream 'blank' and 'soulless' and 'designed to withstand careless college students,' but Kurt has always worked best when there are particular limits on his creativity that he needs to work around. With a little help from the nearest hipster thrift store, he manages to make his room look like something someone would want to live in. He puts down a nice rug, finds ways to tastefully hang some of his least favorite scarves on the walls, attaches a full length mirror behind his door. He gets colored paper lanterns for the corners so he feels less like he's living in a mental institution.
+
+When he takes a moment to survey his work, collapsed on his desk chair, he gives himself a mental pat on the back. It looks good. It looks like a place that could almost become a home -- however temporary -- even if it is a little lonely. There isn't a boyfriend, a dom, to go with any of it, and Kurt's not sure if there ever will be one, not at this rate.
+
+But that's fine. It's not exactly what he had in mind for his glamorous New York life, but it'll do.
+
+---
+
+Blaine Anderson is a freshman who lives down the hall from Kurt. He wears cardigans with bowties, and he smiles at everyone, and he wears his hair slicked down and parted in a way that reminds Kurt of Cary Grant. It doesn't take anyone very long to figure out that he's the sort of old-fashioned dom you could take back to your parents, who would swear with painful sincerity that he will treat their baby sub right.
+
+He's also gay in a way that is completely unremarkable around NYADA, and Kurt is still getting used to that, how easy and accepted it is. Gareth -- one of the dancers, strong and lean and graceful, who pants after every unattached male dom in sight -- has a massive crush on Blaine, not that Blaine has ever seemed to notice.
+
+Kurt doesn't go out of his way to become good friends with his hallmates. The competition is too cutthroat, and the rivalries and tensions escalate quickly. Even amongst the Apples, Kurt has watched Laura, one of the friendliest doms Kurt's ever met, nearly get into a fistfight with Howie, a switch who can't even say "no" to the mean homeless guy down the street, over a solo. So for the first few weeks of classes, he knows Blaine by appearance and reputation only.
+
+The first conversation they have goes like this:
+
+"Oh wow, is that the newest edition of *Vogue*?" Blaine asks him. Blaine's eyes are wide and unguarded, and even with all the time Kurt has spent here, he's still not used to the casual way other men share his interests.
+
+The common room at the end of their hall is reserved for book-studying only, since trying to reserve it as a practice room for anything else is a touchy subject, and that's where Kurt likes to read, curled up on the ratty sofa that's been worn down by generations and generations of NYADA students just like him, where it's quiet save for the steady clack of computer keys in the background.
+
+"Yes, it is," Kurt says. "You can borrow it, but only if you promise not to crease any of the pages or get any food on it." He's learned from that incident last year with Jennifer and his music theory notes, even if she felt so bad about it she brought him coffee in the mornings for an entire week.
+
+"I swear on the life of my Beatles record collection that I will treat your magazine with only the utmost respect," Blaine says, holding up his hands.
+
+"Your Beatles collection, huh?" Kurt says. He lets out an exaggerated put-upon sigh. "I suppose I'll be able to trust you with it, then." He closes the magazine and holds it out for Blaine to take. "I was just about done anyway."
+
+Blaine laughs, a quick flash of teeth. "Thanks," he says. "I'll see you around, then?"
+
+"Sure," Kurt says. He finds himself smiling back. 
+
+---
+
+After that, it's almost like they're friends. Blaine drops by Kurt's room when he's around, eager to talk about classes or music or fashion. He's so new to everything, to NYADA, to New York, so excited to soak up every stray bit of wisdom Kurt is willing to part with. It only took Kurt three months to become a little jaded by it all, the big city, the elite performing arts school, the freedom from high school and parents and all those old expectations. He wonders how long it will take for Blaine.
+
+It's not like Kurt doesn't have friends at NYADA. He has Rachel. He has the Apples. It's just that now he has Blaine too, and Blaine fits into his life in a way that's so effortless it's kind of eerie. They have dinner sometimes in the dining halls, chowing down on their mass-produced food together, and they dig through the racks at Buffalo Exchange and Salvation Army together when they have free time. Rachel drags Blaine onstage with her the first time they all go to Callbacks together, mostly because Brody wants to sit that round out, and Kurt refuses to let Rachel unilaterally pick the music. Blaine is just-- there. It's not like Kurt's been friends with a whole lot of gay kids his age. Adam's graduated and gone to seek his fortune in LA. Santana pops in and out of their lives when she feels like it. The other gay men Kurt has met have been creepers or petty assholes or some awkward combination of the two.
+
+Blaine is from Westerville. He likes Top 40 more than any reasonable fan of musical theater should. He went to some ritzy all-dom boarding school before ending up at NYADA. He makes ridiculous and strangely endearing faces when he sings. He can talk about anything, from the latest proposed state constitutional amendments forbidding same-sex collaring, the worst jukebox musicals to hit Broadway, the newest, most awful thing that happened last week on *Real Housesubs of New Jersey*.
+
+Being around Blaine is easy, comfortable in a way Kurt never felt around the male doms in high school. It's not just that he's gay, it's that he doesn't look at Kurt and make the same assumptions that they did. Everyone's heard what they say about male subs, especially the gay ones, that they're slutty and needy, that they're almost not worth keeping around. Blaine doesn't seem to notice any of that. It's like he understands Kurt -- or understands the parts that Kurt shows him, anyway -- and he seems to like Kurt anyway. It feels like a new and fragile thing, making a friend here. Kurt thinks he likes it.
+
+---
+
+It really should have been like any other night. When Kurt gets back to the dorm, he's tired. The Apples' rehearsal had gone long while they tried to work out choreography for their dance hall remix version of *With Or Without You*, and apparently the world hates him, because Karen's having a room party two doors down from Kurt. If he remembers correctly from the gossip (and there is *always* gossip), Karen just finished a major composition for one of her classes, and it seems like the entire hall is out to celebrate in her double. Kurt, somewhat reluctantly, decides that he needs to make an appearance, for courtesy's sake.
+
+When he steps inside Karen's room, the first thing he notices is the way it's packed tight with people, a crush of bodies that's hard to navigate. The room is lit by desk lamps, all soft yellows and oranges that cast long shadows. The music is something with a low, throbbing beat that he can feel in his chest, and a few people are dancing. There's not enough room for a proper dance floor, so it's mostly just some rhythmic swaying, uncoordinated enough that Kurt's fairly sure that Ms. July would break out in tears just from watching them. Every surface of room is covered in red Solo cups. 
+
+A few subs are already kneeling, their heads bowed or resting against the thighs of their doms. They're not *doing* anything yet, but Kurt is fairly sure he knows where they're going to end up at the end of the night. A few of them have bracelets, a sign of being claimed without the full implications of a collaring. A few of the doms are wearing bracelets, too.
+
+Karen holds court at her desk, surrounded by a few of her friends. Her roommate, Jen, is regaling everyone with an anecdote about something Rachel did today in jazz dance class (not that Jen ever mentions Rachel by name; Kurt can tell just from the general trajectory of the story). Kurt has plenty to say on the subject, but he's not here to defend Rachel from anyone, and he doesn't let himself get sucked into the conversation.
+
+"Congratulations," he says to Karen, pulling her aside. He gives her a hug. Kurt doesn't touch people he's not close to as a rule, but everyone at NYADA is in each other's space in a way that crosses both gender and dom/sub lines, and girls are-- Kurt's fine with touching girls.
+
+"Thanks," she says. Her voice is slurred, and she smiles in a way that's a little sharp, and Kurt doesn't have time for any more social niceties for the night.
+
+He's on his way out when he catches sight of Blaine. Kurt almost doesn't recognize him at first. The lighting isn't good, and some of Blaine's hair has started to break free of the gel, and Blaine has his face tucked into the crook of dancer-Gareth's neck. One of his hands is holding a drink, and the other one is on Gareth's shoulder, tugging on the fabric of Gareth's t-shirt and distorting the neckline.
+
+The moment feels like taffy, stretched out, and maybe it's just because Kurt's never seen Blaine like this before. His hands, like this, are alien to Kurt, rough, sloppy and a little possessive, so different from the mild-mannered precision that Blaine usually shows. Kurt doesn't have a good view of Blaine's face, but his eyes look glassy and bright, unfocused. His shirt is untucked, rumpled and messy, and if Blaine were to twist the right way, Kurt can imagine that the bottom would ride up, showing just a bit of Blaine's skin.
+
+Blaine tilts his head and bites down on Gareth's collarbone. Kurt jerks back, turning away. He can still hear Gareth's breathy moan behind him. The sound -- the sight -- makes Kurt flush hot with embarrassment, and he needs to get out of there right now. He's tired, and he's never liked the claustrophobia of dorm room parties anyway. He leaves as soon as he can, speed-walking down the hallway, trying to control the blush that has started to spread across his cheeks.
+
+The inside of his room is a welcome sight, comfortable and familiar. He's not-- he doesn't have to think about it. He has plenty of other things he can do to distract him. He rushes through his bedtime routine, even though he's not sure his skin will appreciate it in the morning. He plans out tomorrow's outfit. He tries to figure out if there should be more twirls in the Apples' U2 medley. He mentally catalogues the amount of homework he needs to finish tomorrow to be on track to spend time watching feel-good movies with Rachel this weekend. 
+
+After he finishes all of that, he stares out the window at the quiet alleyway below and tries to imagine being an adult, when all of this is supposed to get easy. He can still hear the steady thud of Karen's party music through the walls. When he closes his eyes, he can still see the white flash of Blaine's teeth.
+
+---
+
+The next day, Blaine is hungover, but he's not *different*. His hair is still gelled to perfection, and his clothes are neatly pressed. They have brunch at Kurt's third favorite coffee shop, since anything more than coffee and a few biscotti will want to make Blaine want to hurl, or so he claims, and Kurt likes the sandwiches and cookies at this place. The two of them sit near the windows, morning sunlight pouring in. Blaine wears a pair of large sunglasses that are more dorky than fashionable, and he winces every time a barista shouts out a new name over the usual hum of the crowd.
+
+"Rough night?" Kurt asks. He takes a sip of his coffee. Kurt would feel bad for Blaine, but he's too busy feeling smug that he already got any drunken partying out of his system in high school.
+
+"Ugh," Blaine says. "I'm really trying not to think about how much I drank at that party."
+
+"And how is Gareth feeling this morning?" Kurt tries to keep his voice light, but he's not sure if he's succeeding.
+
+"What?" Blaine says. "Oh, um, I really don't-- Nothing really happened there. He's not looking for anything serious, and I'm not--" He ducks his head, and Kurt can see the faintest pinking of his cheeks. "I know how it must have looked."
+
+Kurt shrugs. They're in New York, and they're in college. He left Lima behind without looking back. He doesn't get to judge Blaine just because it's not what he's used to -- because they get to play by different rules here. "It's fine," he says. It comes out shorter than he intended.
+
+Blaine turns his head back to face Kurt, and Kurt can't read his expression with the sunglasses in the way. "If you want, I can put in a good word for you," he says. The confusion must show on Kurt's face, because he continues, "With Gareth, I mean."
+
+Kurt takes another sip of his coffee so Blaine can't see his grimace. *Gareth*, really? Kurt didn't even know he was a switch. Blaine would probably know better than Kurt would, but it's not like Kurt wants to keep talking about the guy that Blaine sort-of maybe was going to hook up with last night. "I saw this morning that they're developing a new musical based off *The Matrix*," Kurt says, putting as much cheer into his voice as possible. "I guess they're trying to cash in on late nineties nostalgia."
+
+Blaine perks up at that, not even seeming to notice the abrupt change in topic. "Really?" he asks. "That sounds like it could either be brilliant or incredibly awful. Who do they have writing the music?"
+
+Kurt preens. "Let me tell you *all about it*," he says, and the awkwardness between them melts away.
+
+---
+
+It takes Kurt entirely too long to realize that the reason why Blaine mentioned setting him up with Gareth isn't because Gareth is a switch (he's not), but because Blaine must have thought that Kurt's a dom.
+
+It's not the first time someone's made that mistake. Kurt doesn't like dressing like a sub, all demure modesty, doesn't like behaving like one, deferential even in the face of stupidity, and he absolutely hates being treated like one, like he can't tie his own shoes without a big, strong dom to take care of it. It's not like Kurt's lying about anything. He's out and proud about being gay and about being a sub, and he has been since high school. If people want to draw their own conclusions just because he has opinions and isn't afraid of voicing them, well, then, that's *their* problem.
+
+During Kurt's first year at NYADA, he's had more than a few offers from interested subs, the ones who heard him get into arguments with someone as bulldozer-esque as Rachel Berry in the hallways and thought they had him all figured out. It's never bothered Kurt before. He's more than capable of turning people down when he's not interested. But for some reason, this time it feels like an itch he can't quite scratch, like maybe it means something different this time around.
+
+"Blaine thinks I'm a dom," Kurt says. He and Rachel are having one of their bi-weekly lunches in the NYADA dining hall, the only days during their week where their schedules manage to line up. Sometimes it feels strange not to have her around all the time, like a missing limb. They'd been there for each other for so long, through the hellish NYADA audition process and the ups-and-downs of their freshman years, and not to mention the worst McKinley High School has to offer. Even though Kurt's been mostly self-sufficient for about a decade now, he does sometimes miss having more people than just Rachel around for him to lean on. Maybe that's what this whole Blaine thing is about, not having his dad or Mercedes or hell, even Finn in his stilted attempts at brotherly affection. 
+
+Rachel says, "And this is a problem, why?" She raises her eyebrows in a way that means she thinks she knows the answer. She has been pushing him to try to date some more after Adam, but Kurt has spent months brushing off her 'helpful' suggestions. He's gotten quite good at it, if he does say so himself.
+
+"It's not like that," Kurt says. "He's my friend, and I just don't want things to be weird if I tell him the truth." He and Blaine don't talk about romance or relationships or sex at all -- that's probably how they ended up here in the first place -- but he remembers the way the male doms in New Directions pulled away from him when he first got marked. They had always known he was gay. They just hadn't cared until they realized he could be interested in *them*.
+
+"Oh, don't be like that. It'll only get weirder the longer you hold off on telling him," Rachel says. "If he really is your friend, he won't care about any of that. And besides, isn't he gay, too?"
+
+Even though Kurt does have the humility to admit that maybe Rachel has a point, he still can't quite bring himself to take that last step. He spends hours composing and trashing awkward e-mails and even awkwarder texts. He constructs elaborate scenarios in his head where it really won't seem strange to say, "Hey, sorry, I'm really a sub. Sorry about the last few months where you thought something completely different, and can you not freak out or be weird about this?"
+
+In the end, Kurt decides to just... let it go. It's not like it really matters, if that's what Blaine thinks of him. It's nice, even, flattering to think that he passes even amongst some of the people he's closest to. There's no rush. Blaine can think whatever he thinks, and it's fine. It'll be fine.
+
+---
+
+The first time Kurt imagines what it would be like if someone were to bite him, he's in the shower. The dorm showers are not particularly great, and Kurt resents the relative lack of privacy, but the water pressure is good, and he can usually time it so that he has the bathroom all to himself when he wants it. He runs his favorite loofah over his neck, across his shoulders, soaping himself down, and it should be like it is every day, simple, easy, straightforward. 
+
+Somehow, his brain trips over something, stutters like a scratched CD. The sound Gareth made that night gets stuck in his head, and Kurt's left wondering what it would be like to want that -- to enjoy it. How much would it hurt? Kurt's never been bitten by another human being before, but he's bitten his tongue, and it is not an experience he is eager to recreate anytime soon. Kurt digs a fingernail into his collarbone (nothing like the real thing, he's sure, but just a tiny sting, a hint of what it must be like), and it doesn't do anything to him until wonders if it was -- if it was Blaine's teeth clamping down, if it was *him* Blaine had pressed him up against the wall. Kurt feels himself get hard at the thought of it, and and a pleasant sort of shiver chases its way through his limbs.
+
+Kurt closes his eyes, tries to steady himself by focusing on the spray of water on his face. He has a few usual fantasies he uses when he jerks off, another hand on his cock, rough with callouses, squeezing a bit too tight; a larger, heavier body on top of him, holding him down; a hot, wet tongue licking behind his balls. Still faceless, nameless, still safe. He wraps a hand around his cock and focuses on the heat building inside of him.
+
+He doesn't want -- he doesn't *need* some dom here with him for this. He knows exactly how to get himself off, exactly how fast to move his hand, exactly how to twist around the head. Kurt is efficient at this. He's not one of those simpering subs who are always so desperate to be claimed, who chase after the nearest dom they can find, who can't seem to talk about anything but how desperate they are to be put on their knees. Kurt doesn't need any of it to get himself off.
+
+But then he ends thinking about Blaine's hands. His fingers are long, slightly square. Kurt has seen them wrapped around coffee cups, playing piano keys, smoothing down his own hair when he's afraid some of it might have escaped the gel. They're nice hands. Kurt can imagine-- if Blaine were to-- Kurt bruises easily, it would barely take any pressure at all -- and if Blaine's hands were on his hips, holding him still, and then if Blaine bit him right there, where Kurt had seen him--
+
+Kurt comes, eyes closed, shuddering his way through it. He takes a moment to catch his breath, and then he's fine, everything in his brain back to where it's supposed to be. The shower makes cleanup easy, makes it easy for Kurt to wash it all away.
+
+---
+
+Even though Kurt's sure that things will start to get awkward after the shower incident, they don't. Blaine is warm and cheerful and comfortable, and Kurt's able to slip into their usual patterns with practiced ease. 
+
+They spend a day walking up and down Fifth Avenue in their Saturday best, pretending that they can afford any of the fabulous designer clothes they try on, gawking at tourists, and making each other laugh so hard that Blaine has to sit down at one point. He somehow manages to hit his head against a mannequin in the process, which just sets off another round of giggles from the both of them.
+
+The fall air is delicious, cool without being cold, and the sun is high in the sky, winking between the Manhattan skyscrapers. Kurt has a gorgeous black tailored jacket, maple leaf brooch, and tan scarf just for this sort of weather, and he feels untouchable when he walks down the street with Blaine at his side, like he must still just dreaming of all of this from his lonely room in Lima, Ohio, like it's too perfect, too unreal to be something that has actually happened to him. It's not a dream, though. He can hear the blare of car horns, smell the exhaust that comes up through the subway vents. He can feel the hard pavement underneath his feet.
+
+"I love New York," Kurt says. No matter how jaded he gets, he always has a perfect day or two to remind him of how much he has now, right in front of him, all the time.
+
+They're eating an early dinner at Blaine's favorite deli, sitting at the narrow counter that faces the street through the giant glass windows. From here, Kurt can marvel at the variety of people this city can hold: the tall, the short, the young, the old, the hipsters in their thick beards and tight jeans walking right next to the the businessmen with their lined faces and their neat suits, the Asian girl with huge glasses and an ironic t-shirt and an angry-looking black collar around her neck standing right next to an elderly black man leaning on his cane and wearing an olive grandpa sweater, a tan bracelet around one wrist. Blaine eats his sandwich while they pick out their favorite fashion disasters amongst the people who walk by, and Kurt dumps entire packets of crackers into his soup. They're squeezed together, a bare few inches between them, and Blaine laughs with his whole body when Kurt gets a chance to be his most witty and his most eviscerating. 
+
+It's so simple and so effortless, and it's all because Blaine still thinks Kurt's a dom.
+
+"New York is the greatest city in the world," Blaine says, "so I guess it makes sense that you feel that way."
+
+Kurt glances over at him, his face in shadowed profile, and Kurt gets distracted by a patch of stubble low on his jaw that Blaine must have missed this morning while shaving. It's oddly endearing, a reminder that Blaine isn't as perfectly put together as he tries to be.
+
+They sit like that for a minute before Kurt can tear his eyes away. "So," he says, forcing himself back into some semblance of equilibrium. "I think we should drop by Times Square next." If his voice sounds a little off, Blaine doesn't seem to notice.
+
+"Do we have to?" Blaine asks, making a face. "Isn't it full of tourists and ugly neon?"
+
+Kurt rolls his eyes, more for show than anything else. A good performer always knows how to punctuate a statement. "Yes, it is, Blaine, but you're missing the point. It's a gorgeously tacky tribute to the greatness of this city, and this Saturday will not be complete without a pilgrimage there."
+
+Blaine laughs. "Fine. But we should try to get there before it gets too dark. I need to finish this essay on the Freudian undertones of *Mamma Mia* tonight."
+
+They get to Times Square just after the sun sets, and the sky above them is painted in deep blues and purples. The square itself is just the way Kurt remembered it, garish and loud. The streets are lit up so brightly it almost feels like day. There's a mishmash of languages that occasionally rises above the surrounding din, and Kurt wants to live here and die here so badly he can taste it. Blaine starts singing "New York, New York" when they walk under the marquee of the Winter Garden Theater, doing the ridiculous two-step and spin he picked up from his high school choir, and Kurt feels transported, pulled back in time by Blaine's neat black pea coat and slick hair and warm voice in the golden theater light. Kurt joins in on the chorus, doing his best not to laugh with the rush of giddiness he feels.
+
+They find themselves in the center of the square where the sidewalk is narrow and triangular, standing side by side, going quiet so they can take it all in, the height of the buildings, the glitz and glamor of the billboards, the smell of halal meat and roasted nuts mixed in with the ambient smells of the city. Blaine's eyes are wide, and Kurt watches a Mazda commercial play over his face, all shifting whites and reds across his cheeks and forehead. There's something unexpected about the sight, that Blaine is here with Kurt and Kurt is here with him. Kurt feels his stomach twist in a way that's not entirely uncomfortable.
+
+*I need to tell him,* Kurt thinks. *He needs to know.*
+
+But that can wait until later. For now, Kurt wants to be selfish. This moment is perfect. He wants it to last.
+
+---
+
+It takes Kurt longer to work up the nerve to tell Blaine the truth than he expected. It's all Blaine's fault, really, for developing an inconvenient crush on a sub in one of his acting classes. It probably wouldn't have been a problem if Blaine didn't keep coming to him for moral support and advice, like Kurt has any helpful suggestions about wooing anyone, much less a sub. The closest Kurt ever got was asking Adam out for coffee last year and sort of maybe dating Brittany for a while.
+
+"It's just that I'm not any good at any of this," Blaine says, fiddling with the third bow tie he's tried on in the last half an hour. They're in Blaine's bedroom while Blaine's roommate, Paul, is away doing... something. He's a film major who likes talking about how he's interested in "queering the symbolism of the mark" in a way that makes him sound like he's just really interested in getting people to take their pants off. "There's not exactly a rulebook for the whole romance thing when we're both guys, you know?"
+
+If Kurt were feeling mean, he'd probably say something about how Blaine didn't seem to have this problem that time he was about to stick his tongue into Gareth's mouth, but Blaine has spent the last few days looking a little frazzled around his usually polished edges. There are worry lines around his eyes and an impatient twitch in his right leg. Kurt says, "I think you should just be yourself around him. Don't just rush into things. Find out more about him before you ask him to sub for you." He could already see Blaine planning some kind of embarrassingly public serenade, but they were at a performing arts school; that sort of thing happened once every few weeks. If nothing else, Kurt could stop Blaine from being *that* kind of cliche.
+
+Blaine sits down next to him on the bed. "How about you?" Blaine asks, nudging Kurt's shoulder with his own. "Do you have your eye on anyone?"
+
+Kurt's tongue feels too heavy in his mouth. "Yeah, kind of," he mumbles. "I don't think he feels the same way, though." He winces as soon as he says it. He doesn't even want to imagine how awkward a conversation with Blaine about his crush on Blaine could become. That's the kind of stupid sitcom thing that makes Kurt cringe everytime he tries to watch one.
+
+Blaine looks over at him, his eyes dark and quiet and thoughtful. It makes the hair on Kurt's arms prickle. "Kurt," Blaine says, and Kurt thinks that he has to be able to see it now, has to see all the things that Kurt normally keeps hidden away. "You're amazing. If I were a sub, I'd probably be grovelling at your feet right now." He says it with an earnestness that Kurt usually associates with defenses of girl empowerment pop and the proper use of hair gel, and then Blaine bites his lip and turns away.
+
+Kurt's never kneeled for anyone outside of the classes they had to take in high school, has never really wanted to, but he would drop to the floor right now if Blaine asked him to.
+
+But Blaine hasn't asked, won't ask, so Kurt just smiles, straightens Blaine's bowtie, and says, "Go sweep him off his feet, tiger."
+
+Blaine ducks his head and laughs. "Thanks," Blaine says. "You too."
+
+---
+
+Kurt has a standing appointment to Skype his dad twice a week. Their relationship these days is still good, still great, but his dad doesn't fully get what classes Kurt's taking or what clubs he's participating in or why any of them are important for Kurt's future career no matter how hard he tries. It means that there's a lot of explaining and a few awkward pauses in between Kurt's rambling about that one thing that happened when they tried to get dinner in Hell's Kitchen after seeing a show and that one time things nearly came to blows when one of the stupider freshmen claimed that Lady Gaga wasn't *really* a switch and a bisexual and that she was faking at least one of them for attention.
+
+They haven't always been close. Kurt knows that it was a lot harder for his dad to swallow the gay thing than the sub thing growing up, that they had to work for every bit of the common ground and faith and love between them now. His dad never had a problem with the idea that Kurt would be bringing a dom home one day, but it took him a while to come around to the idea that said dom would be a boy.
+
+"So, that's what Rachel's been up to. I can't believe she's still managing to antagonize her dance teachers. I thought she got over this phase last year," Kurt says with a shake of his head that he knows will make his dad smile.
+
+"How's Blaine?" his dad asks.
+
+Kurt blinks for a moment, and he wonders if he's been too obvious. He's usually so careful about keeping his feelings to himself. "He's fine," he says, picking at the cuff of his shirt. "He's been busy with school stuff."
+
+"You usually mention him once or twice," his dad says. "You haven't said anything about him at all this week." His dad's not much for subtlety, but he's definitely saying that with a question in his voice.
+
+Kurt shrugs, hunching in on himself. His dad always makes him regress into a twelve year old again, no matter how much older and wiser he feels. "We're just friends," he says.
+
+His dad smiles, blurry and a little pixelated. "I'm glad you're still making friends. Rachel's great and all, but having more friends can't hurt."
+
+"I know," Kurt says. He likes being Blaine's friend. He really does. It's just-- hard, sometimes, not just with Blaine, but with everything, classes and rehearsals and all of the other backstabbing assholes he has to deal with on a regular basis. "I miss you, Dad."
+
+"I miss you too, kiddo," his dad says.
+
+---
+
+There's this fantasy Kurt has that gets more elaborate and more ridiculous every day.
+
+It starts with him getting out of the shower. The men's bathroom is only just across the hall from his room, and Kurt wraps a towel around his waist, not bothering with anything more fancy than that. In this fantasy, it's just a quick shower, just something to rinse out the worst of the day. He doesn't lock his room because there's no point, and it's annoying, having to dig out his keys to get back inside. He even left the lights on. (And okay, Kurt knows it's stupid to try to cover up plot holes in your own fantasies, but it's his brain and it's just easier this way.)
+
+Kurt hums to himself as he steps inside his room, going through his post-shower routine on auto-pilot. And maybe, maybe there's something on his mind so he's distracted, like a new audition piece he wants to practice or a new collection he's obsessed with, and that's why he doesn't notice that Blaine is sitting on his bed -- no wait, at his desk, that's at a more concealed angle from Kurt's dresser -- reading one of Kurt's back issues to Vogue.
+
+Blaine does notice him though. "Oh, sorry. I shouldn't be--" Blaine says, standing up. 
+
+Kurt yelps, nearly jumping out of his skin. The edge of his towel slips out of his hands. He catches it before it hits the floor, but not before it reveals the mark on his left hip, dark against the paleness of his skin.
+
+If this were real life, Blaine would look away as soon as the towel slipped, ever the gentleman, and Kurt would probably be able to turn himself so that the mark would be out of Blaine's eyeline in time. But in the fantasy, Blaine stares, and Kurt freezes up, and the sort-of, not-really secret Kurt's been keeping is out in the open.
+
+"Kurt," Blaine says, careful, "is that what I think it is?" He takes a step forward with every word, his eyes going dark.
+
+Kurt has trouble finding words, but he manages to breathe out a "yes." He's feels himself getting hard from the look in Blaine's eyes, waiting for--
+
+Blaine gets in close. Kurt can feel the heat of him, the solid presence of his body, Blaine wraps a hand around the back of Kurt's head, tilting it down, forcing the angle he wants, and then he kisses Kurt. It's not anything like the kisses Kurt shared with Brittany, when he was still unmarked and trying to see if he *could* be straight, and it's not anything like the few kisses he had with Adam, which were nice but unremarkable. This is the sort of kiss that they write about in racy romance novels, when the heroine drags her newly claimed sub into a passionate kiss, with explosions and fireworks and the world shifting beneath his feet. 
+
+Of course a kiss like that leaves Kurt swooning, overwhelmed, shaky with arousal and relief. Blaine tugs the towel out of Kurt's hands and lets it pool on the floor. "All this time, I could have had you," Blaine growls. (Kurt's never heard Blaine growl or even make a noise all that similar to a growl, so in his mind, he substitutes in what Taylor Lautner sounds like right before he turns into a wolf.)
+
+"Yes," Kurt says, and he would be so exposed, so open to anything Blaine would want to do to him. Maybe his eyelashes flutter a bit, flirty, seductive.
+
+"And now you're mine, aren't you?" Blaine snarls. He grabs hold of Kurt's hips, just this side of too tight, and he bites down hard on Kurt's collarbone, and--
+
+And to be honest, this is where things usually get fuzzy for Kurt, the fantasy dissolving into a blur of Blaine's hands on his ass, his tongue on his nipples, his teeth scraping against the inside of Kurt's thighs. Or maybe Blaine cuffing his hands behind his back, forcing him onto his back, pressing a few fingers into his mouth. Kurt doesn't know the truth of any of this, how it'd be if-- if he ever got a chance to experience it for real, but just the idea of it, of the reality of Blaine's waist, his back, his arms, his hips-- that's all it really takes.
+
+The images pile up, filthy and hot and too much, until Kurt arches his back and comes, gasping for breath, biting back Blaine's name from his lips.
+
+---
+
+It turns out that the guy in Blaine's class has a dom already, someone he met in high school, and they've been pretty committed to each other ever since. They have this whole long distance thing that they don't talk about that much, so it's not entirely stupid that Blaine thought he might have a shot.
+
+Blaine seems a little bit down about it, but not any more down than he is when he gets a bad grade on a homework or assignment or when he doesn't get a callback after an audition. He wears his mopey face around, but he still goes to class and he still puts on his show face when performing and he hasn't locked himself in his room and refused to come out. Being in New Directions for three years has made Kurt an expert on handling romantic misery, but he doesn't even need to put that much effort into it this time around.
+
+"There are other guys out there," Kurt says, "other subs."
+
+"Yeah," Blaine says. They're sitting on Blaine's bed and eating a disgusting amount of leftover Halloween chocolate together. Kurt brought some over to help cheer Blaine up, but at this point he's pretty sure they're only eating it because it's delicious and it's in front of them. Paul stole some before he cleared out, but even that theft only made the tiniest of dents. "It wasn't like I was planning out his collaring or anything like that. He was cute and sweet and I thought I might have a shot."
+
+"Yeah," Kurt says. It's not like he has much room to talk when that was the same basic criteria he used when he asked Adam out last year. It took them three dates to realize it wasn't going to work out, and even then it had been more depressing for Kurt because of what it said about his long term prospects. If he couldn't make it work with a switch, someone nice and non-threatening, who could it work out with? He twists himself around so that he can look at Blaine's DVDs. He needs a distraction from the moping and the chocolate. "Do you want to watch a movie?"
+
+They end up watching one of the old Fred and Ginger movies together on Blaine's laptop screen, knees knocking together where they sit together on the bed. They both love movies like this, the old fashioned elegance of it, the way Fred leads her through the steps of the dance with just the proper hint of dominance, just the right amount of flirtation, their bodies perfectly in sync. Kurt used to watch these movies with his mom when he was little. When he and his dad were feeling nostalgic, they'd dust off their old rickety VCR and watch her tapes together. Kurt would hum along to the music, and his dad would smile at him, and it would be like a piece of her was still there, still with them. Kurt hasn't told Blaine any of this, but he knows that one day, he will. He's pretty sure that one day, Blaine will know everything.
+
+An hour into the movie, Blaine is smiling again, really smiling, his eyes crinkling at the corners. Kurt feels his chest tighten, feels the way his emotions are rattling around inside of him. There are words welling up in his throat, important words. "There's something I have to tell you," Kurt says.
+
+Blaine shifts to look at him, all of his attention turned towards Kurt. Kurt nearly chickens out right then and there, because everything is so *good* right now, and he can't--
+
+"I'm a sub," he says, blurting it out all at once. "I know you got the impression I'm a dom from somewhere, and I should have told you before, but I didn't want things to be uncomfortable once you--"
+
+Blaine's eyes widen, startled. "Okay," he says.
+
+Kurt waits for the second half of his reaction, but it doesn't seem to want to make an appearance. Blaine sits there for a few moments, blinking. On screen, Fred and Ginger are dancing their feelings, and Kurt almost wants Blaine to break out into song, a choreographed number, anything to get everything out in the open.
+
+It doesn't happen.
+
+Instead, Kurt grabs his things (coat, wallet, messenger bag) and tries to make a dignified exit. "I'm sorry, I--"
+
+"Wait," Blaine says. He still hasn't moved from where he's sitting, and the same surprised expression is still on his face like maybe he's having trouble getting rid of it. "Sorry. I just-- it's fine. I'm glad you told me." He smiles. It's a hesitant thing, but it's also a genuine one. "Do you want to watch the rest of the movie?"
+
+Kurt puts his things down and climbs onto the bed again. He half expects Blaine to tense up when Kurt gets close, but he doesn't. They just settle into the same configuration they were in before, maybe a few inches further apart, and Kurt doesn't let himself look at Blaine's face again. They don't talk again over the course of the movie, and Kurt's not sure what this means, what any of this means.
+
+Maybe he'll figure it out in the morning.
+
+---
+
+They don't see each other at all the next day. It's mostly Kurt's fault. He has classes and auditions and Apples rehearsal and lunch with Rachel, and it's a good thing that he doesn't have time to overanalyze Blaine's reaction from last night and make ten different contingency plans for how he could go about saving their friendship if Blaine was lying about this being okay.
+
+"I told Blaine," Kurt says to Rachel during lunch. She's eyeing the veggie burger on her plate like she can tell whether or not it's come in contact with any animal products by sight alone.
+
+"That you're a sub?" she asks. Her forehead furrows. "Didn't you do that last month?"
+
+"No," Kurt says. "Things just sort of... came up."
+
+"Oh," Rachel says. "Did it go well, then?" She has that smile on her face that says she's trying to be helpful and encouraging but she doesn't really understand any of it. She used to wear that same smile on her face after some *asshole* outbid Kurt on eBay at the last minute while he was trying to put together a winter wardrobe, and Kurt was trying to explain how perfect this particular striped wool scarf would have been.
+
+"Yes," Kurt frowns. "No. Maybe. I'm really not sure how it was supposed to go."
+
+Rachel pats his arm. "Blaine's a sweet guy. I'm sure it will be fine."
+
+"Yeah," Kurt says. He stares down at his salad. Even the lettuce is looking a little droopier today. "You're probably right."
+
+"Of course I am," Rachel says. "My fathers have given me so much great relationship advice, I feel like I've become an expert at it myself. Also, did you hear that the Tarantino Appreciation Society is holding open auditions for putting on a gender and sexual alignment flipped version of *Pulp Fiction*? I think I would be a shoo-in for Vivian Vega, and you'd be an amazing Michael Wallace."
+
+Kurt's never been a huge Tarantino fan, but he's still thankful for the distraction. "Of course," he says, and Rachel gives his arm a gentle squeeze.
+
+---
+
+Blaine texts that night asking if Kurt wants to grab coffee the next day. It's normal. They've done this countless times, after classes and before rehearsals, just being they're bored or tired or desperately in need a caffeine fix after a late night. Kurt refuses to read anything into this.
+
+Kurt writes back, *sure, after class?*
+
+Blaine sends a *Sounds great! :)*
+
+Kurt refuses to read anything into that either.
+
+---
+
+Kurt fidgets on his way to their usual coffee shop. Thankfully, the street is full of pedestrians who are good at ignoring the twitchy kid on the sidewalk, like all well-trained New Yorkers are. It's a quiet, cold, cloudy day, and the air feels still between the buildings. Kurt shoves his hands into the pockets of his jacket and loses himself in familiar beat of the city all around him, the traffic lights, the car horns, the construction. He has nothing to worry about. Everything is fine.
+
+Blaine's already at their usual table when Kurt gets there, two coffee cups sitting in front of him. He checks his watch a few times, his back straighter than usual, before he notices Kurt at the door. He smiles when Kurt sits down across from him. "Hey," he says.
+
+The coffee here isn't great. Kurt probably should be disappointed that he's had better coffee in small town Ohio of all places, but one of the reasons he loves his place is that it's quieter, not quite as busy as some of the more popular coffee shops. As much as Kurt loves the speed at which New York runs, he also loves being able to carve out a piece of it that's slowed down, a piece of it that feels like it's just for him. "Hey," Kurt says.
+
+"Look," Blaine says, leaning forward in his chair. "I'm really sorry if I was weird about things earlier. It just took me by surprise. It's really okay with me. It's more than okay. I just--" He holds out a hand palm down, a wry, careful smile on his face. It's an offer. Kurt isn't sure what for. It could just be about friendship, a chance for Blaine to show that he isn't afraid of touching Kurt now that he knows the truth. It could be--
+
+Kurt reaches out, palm up. Their fingers slide together first, the barest brush of skin against skin. Kurt's breathing picks up, his heart hammering in his chest. Their palms line up, Blaine's hovering over Kurt's for a moment, and Kurt feels like he's at the edge of a cliff, looking down at all the terrifying possibilities below.
+
+Blaine squeezes Kurt's hand once, warm and gentle, before he changes the angle and wraps his thumb and middle finger around Kurt's wrist. Kurt stares at it, the place where they're touching. It's a formal, old-fashioned gesture, asking someone to sub for you this way.
+
+"Blaine--" Kurt says.
+
+Blaine looks at him with his wide, earnest eyes. His fingers tighten in a way that send sparks up Kurt's spine. "I had this whole speech planned out, and I-- it was mostly about how you're the most incredible person I've met here, and how I'd be really honored if you would be willing to sub for me tomorrow night. We could get dinner beforehand, and--"
+
+Kurt's mouth has gone dry. "You didn't even know I was a sub until two days ago," he says. And there was the guy in Blaine's acting class. Kurt doesn't even remember his name, but he does remember the way Blaine looked when he talked about him.
+
+Blaine lets go of Kurt's wrist. He pulls back. "I-- I'm sorry." He runs a hand over his hair, smoothing out the gel even more. "I know that I'm supposed to know what I'm doing and that I'm supposed to be the responsible one, but I just-- I'm still trying to figure things out. For myself. And you-- I think I always knew how I felt about you. If you just want to be friends, I'm okay with that." He smiles, awkward and lopsided. "I can handle it if you say no."
+
+"I'm not saying no," Kurt says. He doesn't know what to do with his hand now. It's just sitting there, alone. He turns it over, palm down on the polished wood of the table.
+
+"Oh," Blaine says. His forehead furrows. "Is that a yes, then?"
+
+"Yes," Kurt says. His head is spinning. He's pretty sure that's a good thing.
+
+The smile that spreads across Blaine's face is blinding. "Great!" he says, and then he lets the subject slide. They spend half an hour talking about other things, like Rachel's latest audition and the newest rumor that one of the ballet dancers managed to get his main rivals kicked out for cheating in one of his *Kinesthetics of Anatomy* classes. It would be normal, like any other conversation they've had together, but these small, pleased smiles sneak across Blaine's face, and Kurt can't help feel an echo of them, deep inside his chest.
+
+Unfortunately, it's not so long before Blaine has to run off so that he can grab some time in one of the practice rooms. Blaine says, "I'll stop by your room at seven." He stands up, pushing his chair in behind him.
+
+He gathers his things, circling the table, stopping next to Kurt. He leans over and whispers into Kurt's ear, "Don't touch yourself tonight, okay? Not until we see each other again." His breath smells like his drip coffee, and his hair smells like that raspberry hair gel he uses. He smells so strongly like *Blaine*, like all the fragments of him that Kurt has kept tucked away in the corners of his mind. Blaine runs the tip of his middle finger over Kurt's wrist and across the back of his hand. The path he leaves behind tingles.
+
+And then he's gone. It takes Kurt a moment to get his breathing back under control, to regain all the feeling in his limbs. He flexes his fingers, his toes, trying them out again. He's never felt so pulled out of himself before, like his body doesn't quite belong to him. They used to talk about surrender in his dominance/submission classes, and it had always sounded uncomfortable and a little terrifying to give up that much of himself to someone, to anyone. Now he thinks of the way Blaine touches him when they're together, the way Blaine smiles when he's happy, the way Kurt feels when Blaine's sitting right next to him, and it doesn't seem scary at all.
+
+---
+
+It's not just because Blaine told him not to. Kurt spends the night feeling like he put his skin on too tight, filled with a strange new neediness, desperate for touch. When he tells Rachel about his date, she squeals with delight, giving him a quick hug and a squeeze on the arm, and Kurt's left wondering what it will be like if -- when -- Blaine wraps his arms around him.
+
+He's never subbed for anyone before, and even with the high school classes there to prepare him, Kurt wonders what Blaine might want. He tests out ideas in his head, feeling out the shape and the weight of them, of being on his knees, of a heavy paddle against his ass, of a gag forcing his mouth open. Maybe he'll have Blaine's hands on his neck, around his wrists, leaving bruises, leaving *marks* on his skin. Thinking about the possibilities leaves Kurt's body hot and shivery, wanting and knowing he can't do anything about it, which just makes the wanting all the more sweeter.
+
+He tosses and turns on his bed, wondering if he could just rub himself off against the softness of his sheets, even though he knows that's a letter-of-the-law sort of argument. He wants-- he likes that this what Blaine wants, that this is what Blaine has asked for. Kurt can be good. He wants to be. He's wired up, a hum of electricity underneath his skin, and it's frustrating, surprisingly intense. It's never been like this before, like all the cells in his body are aligned, ready, waiting. 
+
+He closes his eyes and tries to keep still. It takes him a long time to fall asleep.
+
+---
+
+Blaine picks him up from his dorm room at seven. He's dressed neatly, but not any more formally than usual, in his white collared shirt, gray sweater, corduroy jacket with elbow patches. Kurt's seen him in similar outfits before, but now there's *intent* behind it. Now it has all sorts of new and exciting meanings.
+
+Kurt himself had spent half an hour on Skype with Mercedes, panicking to her about what to wear (*what if he's expecting something subbier* and *why do I own this, this is awful* and *it should not take this is long to pick out a pair of pants*), until she told him to sit down and get his shit together. "First off, the Kurt Hummel I knew in Lima could put together a fabulous date outfit in his sleep with one hand tied behind his back, and second off, doesn't he live on the same hall as you? Face it, boo, he's already you at your best and at your worst."
+
+Kurt had said, "Stop making too much sense, Mercedes." But he had taken her advice and reminded himself that if he hadn't already scared Blaine off, he wasn't going to do that over dinner if his socks and his shirt didn't perfectly complement each other.
+
+"You look great," Blaine says, his voice warm. He holds out a single sunflower for Kurt to take. They're one of the only flowers that are still in season this late into autumn, and Kurt likes the brightness of yellow against the drab whiteness of the dormitory walls.
+
+"Why thank you," Kurt says. He does a little twirl that makes Blaine smile wider, so that he shows off more teeth. Kurt takes the flower and places it an empty water bottle, leaving it on the shelf next to his desk, where he can stare at it while he's stuck doing homework and remember this night.
+
+They go to a Thai restaurant they've been to before with Rachel and Finn when Finn had been in town visiting them. It's the sort of place you find packed wall-to-wall with students, loud and boisterous and constantly moving. It's not typical first-date material, not the type of place where the waiters are dressed up and there are nice kneeling pads on the floor. Here, there are mismatched chairs, ugly fluorescent lights, waiters frantically wiping down tables so they can seat another party. The food is amazing and inexpensive, and Kurt loves they way it feels like a proper city restaurant, everything happening too fast and all at once.
+
+While they eat, they talk about normal things, Kurt and Blaine things, about music and theater and school work and juicy dorm room gossip. It's just like any other time they've had dinner together, except for the way Kurt is having trouble keeping his nerves from getting to him. He watches Blaine's mouth, his arms, the bob his Adam's apple, the slope of his jaw. Kurt's watched before, but it feels heavier now. It sends a pleasant anticipatory shiver through Kurt's body, from his head to his toes.
+
+Blaine is neat and efficient when he eats, precise in his every movement, and Kurt can't stop thinking about Blaine's *fingers* where they're wrapped around his chopsticks, and how they--
+
+"Something on your mind?" Blaine asks. The tone of his voice is innocent, but his eyebrows are rising, and there's a grin at the corner of his lips.
+
+Of course, Kurt could play this game, too. "I have no idea what you're talking about," he says, dropping his lashes and straightening the napkin in his lap.
+
+The grin on Blaine's face breaks into a full smile, wide and ridiculous, and Kurt's chest lurches with how much he *wants*.
+
+---
+
+After dinner, they linger outside Kurt's door.
+
+"We don't have to," Blaine says. He pulls back, just a half-step, too far away, and Kurt can behave himself like a good sub, he really can. He's *not* going to pull Blaine into his room after him.
+
+"No," Kurt says. "I'm pretty sure we do."
+
+That startles a laugh out of Blaine. "Okay," he says.
+
+He follows Kurt inside, watching as Kurt turns on the lights, straightens the sunflower hanging over his desk, puts his keys down into his favorite repurposed ashtray. After Kurt's done with his usual routine, they end up standing in the middle of Kurt's room, staring at each other with the stupidest grins on their faces until Blaine manages to drag his eyes away from Kurt's lips.
+
+"Right," he says. "What's your safeword?"
+
+That was probably the only assignment in his classes at school that Kurt had actually liked. He and Tina and Mercedes would sit around his room and giggle to each other about the ones Finn and Puck had decided upon and speculate on safewords of famous celebrities and reality TV stars. "Couture," he says. He likes the way it sounds rolling off his tongue, and he likes the way this moment feels effortless, lighter than air.
+
+Blaine nods. He steps closer, and something on his face shifts, taking on a certain intensity that Kurt hasn't seen before. "Sit on the bed," Blaine says, and his voice is softer, rougher than it usually is.
+
+Kurt sits on the bed. He has a moment of wondering if he should cross his legs, if his back is straight enough. He almost wishes he'd paid more attention in his classes. He's pretty sure they had an entire class period devoted to proper posture. But then Blaine is straddling his lap, using one of his hands to tilt Kurt's chin up.
+
+"Tell me if I do anything that makes you uncomfortable," Blaine says. His breath ghosts over Kurt's cheeks before he kisses him.
+
+Blaine's lips are softer than Kurt imagined they'd be, gentler. There aren't any fireworks, but there's a warmth that spreads through him from every place that he and Blaine are touching, heating up all the cold places inside of him.
+
+When Blaine pulls back, his breathing is a little short, and his cheeks are a little flushed. "Okay?" he asks.
+
+"Very okay," Kurt says.
+
+They undress down to their underwear apart from each other. Kurt is thankful for that, because he can already feel his hands beginning to shake from nerves, and now there's all this skin everywhere, his own and Blaine's. It makes Kurt wonder if Blaine ever feels exposed like this, stripped of all his defenses.
+
+Kurt reaches for the waistband of his boxers, but Blaine steps in close, nudging his hands away. "Let me do that," Blaine says.
+
+Blaine eases Kurt's boxers down over his hips and over his erection. He kneels at Kurt's feet to get a good angle, and there's something so *wrong* and *illicit* about it that makes Kurt squirm. 
+
+Blaine doesn't seem particularly bothered by it. "God, look at you," he says. He leans back, letting Kurt step out of his boxers, and he stares at Kurt's cock, which is hardening even further under Blaine's gaze. Blaine puts his hands on Kurt's hips, and his fingers brush over Kurt's mark. Kurt shivers, and Blaine's focus shifts. He runs a thumb over the circle, a feather-light touch, a tease.
+
+Kurt's breath stutters in his chest, because this is new -- he's never shown anyone his mark before, not even his dad. Kurt was never like Puck or Santana, proud to show off their marks at New Directions pool parties, tugging down their swimsuits so everyone could get an eyeful.
+
+And now Blaine is touching it, his fingers moving slow and gentle. It's the most terrifying and wonderful thing Kurt has ever experienced.
+
+"Please," Kurt says. His voice sounds so high and so broken already, and Blaine has barely even touched him.
+
+Blaine surges forward, pressing a wet kiss against the mark, his tongue tracing the lines of it. Kurt whines, his cock going rock hard and leaking. It's never been this sensitive before, like all of the nerves there are wired straight into his dick. "Wow," Blaine says. His voice has gone deep and raspy, and his eyes are wide and dark.
+
+Kurt reaches down to touch himself. He's so turned on it wouldn't take much; he just needs to--
+
+"No," Blaine says, sharp with command. "Don't. I want to--"
+
+Kurt moans, hips bucking against Blaine's hands. His own hands are clenched into fists, and when he looks down, all he can see is Blaine, the shine of his hair, the redness of his lips, the slope of his shoulders. Kurt trusts him with this. "Please," Kurt says again. The waiting was good. The waiting was *great*. But he's been in at least a low level state of arousal for over twenty-four hours now, and he really really wants to come right now. He wants Blaine to be the one who makes him come.
+
+"Hey," Blaine says. "I've got you." His breath is warm on Kurt's skin.
+
+He stands up and presses soft kisses along the line of Kurt's neck before wrapping a hand around Kurt's cock. It's not like this when Kurt does it to himself. Blaine's hands are rougher and he favors a different grip, and Kurt wants to know if this is what Blaine does when he's by himself, if he's thinking of Kurt when he does this. The thought of it makes Kurt shudder and let out a low groan. "Blaine," he says, drawing out the vowels, his eyes falling closed. He's so close.
+
+"I want to see you come," Blaine murmurs. "I wondered what it would be like if I could-- if you would ever let me see it." His hand speeds up as he nibbles along the edge of Kurt's jaw.
+
+"Yes," Kurt says. "I want you to see it too. *Please.*" He can't get his hips under control. He's fucking the circle of Blaine's fingers, and it's not enough, he wants-- he needs Blaine to say it.
+
+"Now, Kurt," Blaine says, and the he's biting down on the place where Kurt's jaw meets his neck. The pain blossoms there, radiating outwards until every one of Kurt's nerves is lit up, from his ears to his elbows to his toes.
+
+Kurt comes.
+
+It takes him a few moments to get his vision and his body back under control, and even then he's left feeling limp, slumping forward and using Blaine's shoulders to support himself. Blaine's arms are wrapped around his waist. One of his hands is messy with Kurt's come, and Kurt tries not to feel a rush of heat at the reminder that *this actually happened*.
+
+"Wow," Blaine says. He helps Kurt onto the bed and climbs on next to him before he straddles Kurt's stomach. "Was that--?" He presses a kiss to Kurt's sternum, his head ducked so Kurt can't see his face.
+
+"That was fantastic," Kurt says. He yawns, feeling sleepy, but Blaine's still hard, and Kurt wants to make him come too, wants to be the one who makes Blaine feel good enough to come. "Can I?" he asks, reaching for the waistband of Blaine's briefs, where Blaine's own mark, two simple vertical lines, peek over the cotton.
+
+"Yeah," Blaine says. He shifts his legs to make it easier for Kurt to get them off. "I'm close. Won't take much."
+
+It feels a little weird to think about it that way, but Blaine's dick is beautiful, hard, leaking, curved upwards in a way that's almost inviting. "What do you want?" Kurt asks. He's not-- he needs some direction here.
+
+"Just your hands," Blaine says, rushed, out of breath.
+
+The feel of another boy's cock in his hand makes Kurt feel giddy, ridiculous. It's almost as nice as the way Blaine moans and says, "Crap. That's so good," and the bright warm feeling that chases its way across Kurt's cheeks at the praise.
+
+Blaine kisses Kurt when he comes, wet and sticky, all over Kurt's chest. He worries Kurt's bottom lip between his teeth, his hands solid and strong on Kurt's shoulders.
+
+They stay like that for a moment, Blaine covering Kurt with his body, their cheeks pressed together, and Kurt can feel the way the way Blaine's breathing begins to even out again. Kurt wonders for a moment if he's managed to cheat his way through this somehow. He thought-- he thought sex, submission, might be difficult, the way most things in Kurt's life are difficult, but it's easy, the way most things involving Blaine are easy.
+
+Kurt cleans them both off with some tissues from his nightstand while Blaine smile dopily at him from the bed. "You're even more amazing than I thought you might be," Blaine says, his voice soft and almost awed. Kurt flushes with pleasure from the compliment.
+
+Kurt throws the tissues away and curls up next to Blaine on the bed. The mattress is narrow, so they're pretty much on top of one another, a messy tangle of limbs. Blaine runs an absent hand through Kurt's hair. "Sleep?" Kurt asks. It's not that late, but he's already tired, and Blaine is so warm and so comfortable in his bed.
+
+Blaine yawns. "Sleep," he says.
+
+They sleep.
+
+---
+
+Kurt wonders if the other shoe is going to drop in the morning, but Blaine wakes up and gives him a messy, inexperienced blowjob, refusing to let Kurt touch him until Kurt comes down his throat while Kurt's fingers twist spirals into his sheets. He kisses Kurt afterwards, the taste of Kurt still in his mouth.
+
+"This means we're dating, right?" Blaine asks afterwards. He buttons up his wrinkled shirt and slides on his slacks, and it's something of a relief for both of them that his walk of shame is so short. His shirt is tucked in, but his hair is a mess, breaking out of its gel into unruly curls and his morning stubble is beginning to come in. Kurt can't help but be charmed by it, the sight of Blaine so undone.
+
+"Of course," Kurt says from where he's sitting on the bed. He tilts his head up so that Blaine can give him a kiss.
+
+"Good," Blaine says. He grins before he pulls Kurt's door closed behind him, and his smile is bright and warm.
+
+---
+
+When they're in public, not much changes besides the way Blaine is more casual about touching him, hands on his shoulder, at the small of his back, around his wrist. Kurt remembers the way Quinn used to make Finn do her hair after Cheerios practice or when Lauren Zises had Puck gagged for an entire day for mouthing off at her at an inopportune time (granted, it was a weekend day, but it had made last-minute rehearsing for Regionals more than a little awkward). 
+
+Blaine doesn't really seem into any of that. At first, it's a relief, because a lot of those things used to make Kurt really uncomfortable, and he's sure if he and Blaine ever get around to negotiating a real contract, public humiliation would be on his list of hard limits. Kurt likes that Blaine doesn't make him kneel during meals in Blaine's room, surrounded by Chinese takeout boxes, that Blaine will let him choose awful, awful Off-Off Broadway shows to go see together, that Blaine never gets mad when Kurt doesn't refer to him as 'sir.'
+
+It's-- good, better than Kurt ever imagined a real, actual relationship would be. They scene together, of course they scene together, and they do normal things like Blaine tying Kurt to the headboard and fucking him slowly, refusing to let Kurt come until he's so desperate for something, anything he can barely remember his own name; like feeding Kurt chocolate by hand and letting Kurt suck the melted bits off his fingers; like leaving mouth-shaped bruises on Kurt's stomach, his thighs, the curve of his ass. Blaine always lets him set the pace and listens to what Kurt says he does and doesn't like about what they do together. Kurt isn't into all of it. Handcuffs are mostly just uncomfortable -- Kurt likes restraints with more give to them. The thought of hot wax just sounds deeply unpleasant, and ice cubes don't really do anything for him either way. Blaine never pushes the issue when it comes up. Maybe it's a problem, that Kurt doesn't like everything that Blaine seems to be into, but Blaine doesn't say anything about it and Kurt doesn't want to have that conversation either.
+
+Then Rachel breaks up with her latest boytoy.
+
+"He was just this passive aggressive asshole, and he was really bad at taking direction, always coming without permission and ignoring orders when he didn't feel like following them. I hate it when subs think they just have to be hot and show up and expect me to do all the work. Ugh." She waves her broccoli floret in Kurt's face.
+
+Kurt's heard a few variations on this rant from Rachel before, but this is the first it's ever bothered him. "Were you ever serious about him?" He gets the feeling that Finn is still waiting around for her to figure things out while he's back in Lima, like some weepy story of a sub waiting for his dom to come home for him, and Kurt doesn't know if he thinks that's romantic or just kind of sad.
+
+She shrugs while she chews. "We never really talked about it. Like, we negotiated a contract, but it never specified a length of time, and I think we were planning to figure it out later. Of course, caring for a needy sub would be a major time commitment and even now, the world can be hard on career women. I'm not sure if that's what I'm really looking for, you know?"
+
+Kurt nods. When he and Blaine do talk about relationship things, it's mostly things like classes they could take together and the bow ties Blaine will be wearing for Christmas and whether or not Blaine is allowed to offer advice on how to fix the first verse on the main theme of *Pip, Pip, Hooray*.
+
+They don't talk about the future, about what any of this might mean for them down the line. He knows that college is all about trying new things and experimenting. He also knows that Blaine likes him, likes spending time with him, likes the dinners and the scenes and the everything else about being college boyfriends, but maybe that's all it is, long term.
+
+Blaine doesn't talk about his parents all that much, but he did mention why they'd wanted him to go to Dalton over a more arts-focused private school, something about developing character and strong moral fiber. Kurt can just imagine what kind of sub they're expecting their son to date, a quiet obedient thing who they could coo over for being so sweet and well-behaved. Knowing the way Kurt's life has gone, Kurt would probably make mean, snarky comments about celebrities and tease Blaine about his awful taste in music and would wear clothes far too flashy and attention grabbing for a respectable male sub.
+
+Kurt knows his own dad would love Blaine, would love his polite manners, his open, earnest face, the way Blaine laughs and smiles so easily. The two of them could talk about sports things, share embarrassing stories about Kurt, maybe even rope Finn into a conversation about action movies. Knowing the way Blaine makes friends, he'd slot into their family unit like he was always meant to be there.
+
+Kurt can't say the same thing about meeting Blaine's family.
+
+He remembers what the doms used to say, back in the hallways of McKinley, about nobody ever wanting him, and it's not true. Kurt hasn't been crying himself to sleep here in New York all by himself. He has Blaine, and he had Adam, and he has all the other people who have looked at him and wanted him. Kurt left those stupid insults behind when he left Ohio, but sometimes when he sees a beautiful, obedient sub in the subway, a worn-in collar around his throat, a blissed out smile on his face, looking like everything that Kurt isn't, those words still linger at the back of his mind.
+
+---
+
+That night, Blaine has him blindfolded with a necktie, one of the fatter ones with blue and red stripes that Blaine never wears. Kurt kneels on the soft throw rug that he stole from Rachel's freshman dorm room, curling his fingers into the threads. Blaine's hand is warm on Kurt's naked back. The blackness in front of Kurt's eyes is a little unsettling, but with Blaine here, it's just quiet, comfortable. There's only one person who can see him like this, naked and exposed and vulnerable.
+
+"Color?" Blaine asks.
+
+"Green," Kurt says.
+
+Blaine presses a soft kiss on the top of Kurt's head, and he runs his fingers across Kurt's back, leaving a pleasant tingling sensation in their wake. A thumb presses against Kurt's lips. Blaine must have moved in front of him. Kurt sucks on the thumb, scraping his teeth over the knuckle, enjoy the feeling of *part of Blaine* inside him. It always makes him hot, always makes him feel open and needy. Kurt takes as much of it as he can, relishing the pressure Blaine puts on his tongue, the reminder that Blaine can-- Blaine can do anything and Kurt will want--
+
+This isn't enough. Kurt's so hungry for it, he lets out a moan around Blaine's finger, sucking down on it as hard as he can as a reminder, as a promise.
+
+"Okay," Blaine says, and there's a smile in his voice that makes Kurt want to preen. "Open."
+
+There's another hand at his jaw, the slightest bit of pressure. Kurt opens his mouth obediently, and Blaine's thumb slips away. Kurt hasn't thought that being blindfolded would do all that different, hadn't realized how every touch, every sound, every smell would feel *more*, more than enough to make him gasp and shiver. He's at Blaine's mercy right now, and even though Kurt's known he's a sub for a while, it stills catches him by surprise how much he enjoys it.
+
+For a moment, all he can focus on is the sound of Blaine's breathing, the rustle of his clothes, the slide of a zipper being undone. Kurt expects the brush of Blaine's cock against his lips, the tip already slick with pre-come. Anticipation coils low in his stomach.
+
+"Color?" Blaine asks again. His voice is breathier this time.
+
+"Green," Kurt says.
+
+Blaine slides his cock into Kurt's open mouth, a hand on the back of Kurt's head to steady him. The sensation of Blaine filling him up, stretching his lips, the deep musky smell of him here, is more intense than Kurt had realized. He can't see the look on Blaine's face, can't hear anything over the rush of blood in his ears. He wants-- he slides down faster than Blaine's hand is moving him. He can be good. He can be so good.
+
+Distantly, he feels Blaine's cock bump the back of his throat, and then his gag reflex acts up. He pulls back, coughing, angry at himself. He's been trying to work on deep throating for weeks now, and he hasn't quite figured out how to do it right. And Blaine isn't going to want some sub who can't-- Kurt reaches out, trying to find Blaine again so he can -- Kurt's hand collides with one of Blaine's legs, and that's something Kurt can work with.
+
+"Hey," Blaine says, but that doesn't mean anything. 
+
+Kurt should be-- he can-- he manages to get his hands on Blaine's hips. He leans forward. Blaine's cock brushes against his cheek.
+
+"Kurt, hey," Blaine says, "slow down."
+
+Kurt stops, loosening his grip on Blaine's hips. He wants his mouth on Blaine's skin again, wants that bit of connection, but he can do this. He can wait for Blaine's direction. He can.
+
+Blaine pulls back, too far away for Kurt to chase after, and all of a sudden it's too dark and too cold and too alone. Maybe this is it, the point at which Blaine decides that Kurt's not worth the effort and he's just going to-- going to find someone else, someone who is better at this, who can-- Kurt starts to shake. "Blaine?" he chokes out, his voice going high and strangled.
+
+All of a sudden, Blaine is there again, wrapping Kurt up in a tight, warm hug. "Hey," he says. "I'm here." He pulls the blindfold off Kurt's eyes with clumsy, frantic fingers. Even with the lights dimmed, Kurt has to blink a few times before he can focus on anything.
+
+Kurt returns the hug, clinging to Blaine's shoulders. He rests his forehead against Blaine's neck, where he smells like sweat and aftershave and raspberry hair gel, familiar, comforting. "You weren't there," Kurt says. "You were gone."
+
+"I'm sorry," Blaine says. "I didn't-- I didn't realize."
+
+"I wanted you to stay," Kurt says, and he's not sure whether or not he's making any sense.
+
+"I want to stay," Blaine says. He stands up, tugging Kurt up with him. Kurt sways, unsteady on his feet, but Blaine just pulls him onto his bed so he doesn't have to worry about making his legs work properly.
+
+They curl up together underneath Kurt's comforter, and this has always been one of Kurt's favorite parts, the way Blaine in his bed has always felt so warm and so safe. The night is still young, but Kurt doesn't want to move, and the thought of having sex right now is deeply unappealing. He's strung out, exhausted. He dozes off.
+
+When he wakes, Blaine is still there, still warm, still safe. The sky is dark outside his window. The clock on his bedside table reads 1:07am. "Hey," Blaine says. "You've been kind of weird tonight. Do you want to tell me about it?" He speaks quietly, like they're sharing a secret. It's more of an invitation than an order.
+
+Kurt huffs out a breath. Anytime, anyplace else and he'd be afraid of articulating things, of making them real, of giving them weight, but this is Blaine. This is the safest Kurt could possibly be. "This is-- this is actually serious, right? I'm not making it up in my head?"
+
+Blaine's forehead furrows, eyebrows going flat. "Yes, of course it is. Why wouldn't it be?"
+
+"Some of the guys, the doms, in my high school used to say that no one would-- that no one could ever want me," Kurt says. If he closes his eyes, he can hear the jeers that would chase him down the hall, that he wore his hair wrong, that he dressed funny, that he was way too frigid and dominant. "And there was this whole thing with Rachel and her newest guy, and--"
+
+Blaine runs his thumb over Kurt's cheek. "*I* want you," he says, quiet and fierce, like he can wash away all those years with just three little words. "I never dreamed that there were subs out there like you. I didn't realize-- and then there you were. There were times, in high school when I was so angry it used to scare me. I was always afraid that I could-- I didn't want someone who would let me hurt him."
+
+And that's all wrong, because Blaine could shatter Kurt to pieces, and there's nothing Kurt could do to stop him. It has nothing to do with sex or power exchange, but it's true all the same.
+
+"I was thinking of getting you a bracelet," Blaine says. He brings Kurt's wrist to his lips and presses a kiss to the underside of it. "But then you said that all the modern day styles were tacky and they wouldn't go well with any of your outfits."
+
+"They are and they wouldn't," Kurt says. He imagines a thick leather band around his wrist, having to coordinate it against the colors of a shirt, how much to show and how much to hide, and then whether or not it would unbalance an ensemble with the asymmetry, ugh, he doesn't even want to think about that. (But on the other hand, something rests warm and low in his chest at the thought of having a reminder of Blaine to carry with him, to show off to the world, so that they could look at Kurt and know exactly why he's so happy.)
+
+Blaine laughs and tugs Kurt closer, which is pretty impressive considering they were already half on top of each other. "I'd still get you one if you wanted it," Blaine says. "Even if you ended up hating it and shoved it into the back of your sock drawer, never to be seen again." His eyes say everything that he can't quite put into words, and Kurt can't quite believe that he'd somehow missed all of this before.
+
+Kurt curls a hand around Blaine's hip, feeling the hard knob of bone against his palm. "If I bought you one, would you wear it?" It wouldn't be so weird for a dom to wear a bracelet. It's coming into fashion for couples to get a matching set. Kurt imagines the black leather against Blaine's skin, seeing it when they're walking together in the hallways of NYADA or on the streets of New York, a public sign that Blaine is as owned as Kurt feels.
+
+Blaine kisses the tip of Kurt's nose. "Every day," he says.
+
+---
+
+The cuff that Kurt buys for Blaine is simple with an edge of sophistication, elegant braided black leather, a simple metal clasp. Female doms tend to wear flashy ones, brown leather, brightly colored studs. The expensive ones have actual jewels. Male doms wear black ones, and it's in fashion to have metal spikes. Some of the gay male doms Kurt knows tend to make theirs flashier, colored studs on black, just incongruous enough to feel transgressive, like a 'fuck you' to the mainstream.
+
+That look doesn't quite fit Blaine, who wears his flashes of color in ways that are smooth rather than sparkling. Kurt likes the old-fashioned subtlety of this one, and when Blaine wears it, he makes it look timeless.
+
+When they're out together, Kurt likes to touch it, likes the way Blaine smiles when he does so, likes the texture of the leather against his skin, likes the looks they get sometimes, curious and confused.
+
+"What do you think?" Kurt had asked, the first time Blaine tried it on.
+
+Blaine had run his fingers over the twined strands, and he'd had this look on his face, five different emotions chasing across it at once. "It's perfect," he said, and his voice had been hushed.
+
+When they scene together, Kurt likes to nuzzle Blaine's wrist, likes the way the smell of the leather mixes with the scent of Blaine's sweat, likes the way Blaine obviously takes care of it, keeping the leather smooth and supple. It's not so different from the way he takes care of Kurt.
+
+*I love you,* Kurt thinks, as he presses a kiss to the palm of Blaine's hand, but he's not ready to say it out loud, not just yet.
+
+---
+
+Kurt has heard people talk about having a 'hell week' before, but he's pretty sure all of those people are talking out of their asses, because they have nothing on what Kurt has to deal with this time around. 
+
+Kurt has three final papers due this week, each one of them longer than ten pages. Tech week for the Tennessee Williams play reading group's annual play reading is going disastrously because two of the seniors have somehow decided to hold a competition to see who can do a better job undermining the whole show with their passive-aggressiveness. Kurt doesn't even know what it's about - something to do with the staging of a monologue, not that anyone will tell him which monologue it is or what's wrong with the staging of it. The Apples are going through some kind of deep philosophical split over whether or not they should sing ironic covers of songs written before 1973, and it's almost at the point where a civil war might break out amongst the club. Finn is having some kind of existential crisis about his future, and Kurt keeps getting weird e-mails from him about sweater-vests that he does not have time to deal with. Rachel is thankfully not having a meltdown, but she's convinced that Ms. July is still after her and it makes her twitchy and paranoid while she's anywhere near the dance studios, and that makes *Kurt* twitchy and paranoid too. To top it all off, Blaine's joined the sole all-male a cappella group at NYADA, and now Kurt's free evenings and Blaine's free evenings no longer overlap. They still see each other, but they can only make it work late at night. By then, Kurt is either wired on coffee because everything is imploding or he's so tired he passes out after five minutes of catching up.
+
+"If I have to hear them snipe at each other one more time, I am going to *kill them both with a rusty spoon*," Kurt says. He's sitting at his desk in his room, and he's trying not to break things while reading his Facebook feed. There's all this reading group drama all over the place, and Kurt is just not ready to deal with any of it. He types up a cranky Facebook message and then deletes it.
+
+"You've had a rough week," Blaine says. He wraps his arms around Kurt's neck and rests his chin on the top of Kurt's head. If it were any earlier in the day, Kurt would be angry at him for messing up his hair, but it's too late at night for it to matter. The leather of Blaine's bracelet brushes against Kurt's neck.
+
+Another update shows up on Kurt's news feed, and he swears there is actually some kind of red haze appearing in front of his eyes. If there was some sort of technology that allowed him to strangle people through the internet, he wouldn't even hesitate right now.
+
+Something of that must have shown itself in the tensing of his muscles, because Blaine tightens his arms and says, "It's going to be okay."
+
+"Yes," Kurt hisses. "It will be once I find a way to dump their bodies into the Hudson without getting caught."
+
+Blaine spins Kurt's desk chair around and holds Kurt's face in his hands, leaning forwards so their foreheads touch. "Hey," he says. "Close your eyes."
+
+Kurt, somewhat reluctantly, does so. Blaine almost never gives Kurt direct orders outside of a scene, and when he does, Kurt knows it's because he thinks it's important. Kurt isn't compelled to follow them, not really, but it can be nice when they're alone together and it isn't even sexual. They haven't tried blindfolds again, but he still likes this part, where it's dark and all he has to do is focus on Blaine's touch, his orders.
+
+"Take a deep breath," Blaine says. Kurt does. "Now let it out."
+
+When Kurt breathes out, he does feel a little better. Not better enough to get through this week without seriously maiming someone, but the immediate desire to hurt someone has passed.
+
+"Again," Blaine says.
+
+Kurt does it again. He sinks a little, his heart rate slowing, his whole world reorienting towards Blaine.
+
+"One more time," Blaine says. His pinky bumps against the lobe of one of Kurt's left ear.
+
+This time, the world seems to slow, like Kurt's life is no longer on the verge of spinning out of control, like maybe he can survive this. He can feel the way his lungs fill in his chest, the way they collapse again afterwards. As a singer, he's always been aware of his breathing in a way that most people aren't, but this feels different, entirely mundane, the sort of thing that happens every moment of every day.
+
+"You can open your eyes again," Blaine says.
+
+Kurt blinks his eyes open. Blaine is still there, his eyes soft and concerned. Kurt finds himself smiling. The world's sharp edges feel sanded down, smooth. "Hi," he says.
+
+"Better?" Blaine asks.
+
+"Much better," Kurt says. He leans forward and presses a quick peck to Blaine's lips. "I love you." It takes Blaine's sharp intake of breath for him to realize what he's said. "I mean--"
+
+"I love you too," Blaine says. He gives the back of Kurt's neck a little squeeze, warm and affectionate.
+
+"Good," Kurt says, and Blaine laughs.
+
+---
+
+They find themselves in Times Square again, because Kurt can't seem to keep himself away. Blaine grumbles a little bit, but Kurt has seen his music collection, and he *knows* how much of it consists of original cast recordings of Broadway musicals. Blaine isn't fooling anyone but himself. New York never seems more at its best or at its worst than it does right here, and one day, it will be where Kurt lives, because home for Kurt has always been a stage. (And being with Blaine has always been like that, a chance to perform for someone he loves, a chance to earn every bit of his applause.)
+
+They climb to the top of the TKTS booth steps together, Kurt grabbing Blaine's hand and leading the way. The air is chilly, January cold, drafty from the winds that howl between the skyscrapers. It's almost too much, trying to take it all in at once, but Kurt wants to. Kurt wants to remember every bit of this moment, the sight of the square lit up, every billboard screaming for attention, the sound of people, the tight crush of Manhattan traffic, yellow cabs threaded through the rest of it, the feel of Blaine's fingers tangled up in his. 
+
+Kurt's heart feels so big, so open and so ready, like he could hold all of New York City in it.
+
+"I heard Rachel wants to move off campus next year," Blaine says. The spring semester is about to start up, and they need to make plans for the next year.
+
+"Yes," Kurt says. "I think she's hit her breaking point." There's no question that he's going to be going with her. The dorms are, well, they're fine, but they're not great, and he does miss having Rachel around. It'll be nice to have some place where he can step back, where he won't feel like he's marinating in the crazy of NYADA 24/7.
+
+"I'll miss you," Blaine says. He slides his hand up so that he can wrap his fingers around Kurt's wrist. Somewhere close, a car horn blares.
+
+Kurt blinks. "You could-- You could come with us," he says. Blaine isn't required to stay in the dorms, and it would be easier to afford an apartment in the city with three people as opposed to just two, especially if Blaine's parents are willing to help him pay the rent. Blaine and Rachel get along well, perhaps a little too well for Kurt's taste, and Paul likes to joke about how he has a single for all the time that Blaine spends in his own room these days.
+
+"Really?" Blaine says. He beams. "I'd love to." Kurt can just imagine it. A tasteful loft with exposed brick and a cramped bathroom, windows that show their age, an old cathode ray TV in one corner taking up too much space, Rachel's re-appropriated rug underneath their coffee table, Blaine napping on their worn-in, second-hand couch, his hair sticking up on one side.
+
+They climb down the steps. Blaine hops off the last step, ridiculous as always. The lights of the city reflect in his hair, and Kurt remembers the first time they were here together, the way his stomach had dipped and curled. His stomach decides to do it again, just for old time's sake, and Kurt says, "This is where I fell in love with you."
+
+Blaine's eyes widen. "Oh," he says. His smile gets smaller, but it doesn't lose any of its warmth. "I heard you singing in the showers the first week of school."
+
+"What?" Kurt says. It seems ridiculous to think anything could have happened that long ago, before they had ever properly met.
+
+"You were amazing," Blaine says. "I always knew that there would be all these incredibly talented people in New York, but that was just..." He trails off, shrugging like he can't quite find the right words.
+
+"Please," Kurt says. He feels so full right now, filled up to the brim, and he wants everything, wants to hold it all in his hands, wants to feel it.
+
+Blaine just looks confused. "Kurt?" he asks, his eyebrows arching.
+
+"Please kiss me," Kurt clarifies.
+
+And that time, Blaine gets it. He grins and dips Kurt, kissing him right there, in the heart of the city, next to giggling tourists and underneath the light of a billboard for NBC's newest sitcom. Kurt swears he can almost feel the steady pulse of New York all around him, or maybe that's just the rush of his own blood, his own heart skipping a beat. Blaine's hands are steady at the small of his back.
+
+When Blaine pulls him upright again, they get a few cheers and some weird looks from the small crowd that's gathered around them, but Kurt doesn't care about any of them. "Just for the record, I'm still in love with you," he says.
+
+"Me too," Blaine says. He tucks his fingers underneath Kurt's belt, gives it an experimental tug that makes Kurt's blood run hot.
+
+"I want to go home," Kurt says. Times Square will still be here later, still waiting for them, and right now, he just wants Blaine to put him on his knees and make him beg. They'll live together next year, and Kurt will have it, the apartment and the dom and the ridiculous roommate and the glamorous New York life he's dreamed about for so many years.
+
+"Okay," Blaine says. "Let's go." He grabs Kurt's hand, squeezes it once. His smile is so wide and so bright, and his eyes are sparkling, and Kurt thinks of ridiculous things, like *always* and *forever*, but maybe they're not so ridiculous when they come to Blaine.
+
+Blaine gives Kurt's arm a gentle tug, a question in his eyes. Kurt answers by chasing after him, and they run off together like that, laughing as they disappear into the New York night.
+
+FIN.
+
+
+### Chapter 2: Timestamp Meme
+
+
+#### Chapter Summary
+
+
+
+> Written for the prompt from chiasmuslovesme: Oh, I always like this prompt, hooray! How about "If I Needed Someone," and however many months it is later after they move in together off-campus?
+> 
+> 
+
+
+#### Chapter Notes
+
+
+
+> Originally posted [on Tumblr](http://thedeadparrot.tumblr.com/post/55333847707/chiasmuslovesme-asked-you-oh-i-always-like-this)
+> 
+> 
+
+
+"Hey," Blaine says as he slides into Kurt's lap. "Color?" He presses a soft kiss to the tip of Kurt's nose, and Kurt wrinkles it involuntarily. He looks so calm like this, with his lungs pulling in deep, even breaths, with his legs spread, with his arms bound behind his back, laced together from his wrists to his elbows. Not too tight, just enough give to make it seem like Kurt could struggle against it if he wanted to.
+
+"Mmm," Kurt says. His eyes have drifted shut.
+
+It's not very often when they have an evening together, just by themselves. All too often, they just tumble into bed after a long day of classes and rehearsals, quick and desperate, and while Kurt doesn't seem to mind it, sometimes Blaine thinks he needs to put some effort into being a better dom, the kind who can really draw it out and make it really good for Kurt, the kind that Kurt deserves.
+
+But tonight's different. Rachel is back in Lima for her father's birthday. Santana is staying with her sub for the night instead of crashing on their couch like she usually does (and really, they did not need to know any of the details of how her 'bad, bad girl' needed to be punished. Blaine could have gone the rest of his life without knowing that.) The apartment feel almost eerie, how quiet it is apart from themselves.
+
+"Hey," Blaine says. He runs a thumb along one of Kurt's cheekbones, enjoying the softness of his skin, reaping the benefits of Kurt's obsessive skincare regime. "*Kurt*."
+
+Kurt blinks a few times, coming back to himself a little bit. "Green," he says. "Come on. Please." He shifts his hips, restless, and Blaine feels Kurt's hard cock press against his ass. "I want--"
+
+"Shhhh," Blaine says, his lips curling up into a smile. "I know what you want."
+
+They don't do this as often as Blaine wants to. Kurt needs to go down farther than usual so that he won't feel awkward or self-conscious about it, and sometimes Blaine gets carried away when Kurt begs for his mouth or his cock. But when they do get a chance do this, it's good, it's really good, and it always leaves Blaine craving more.
+
+Blaine presses a quick kiss against Kurt's lips before he reaches for the lube. Kurt's eyes are dark, pupils blown wide. He stares at Blaine's face as Blaine press one finger inside himself, not shifting from his place on Kurt's lap. The lube is slick and cold. Blaine tried this a few times at Dalton -- old-fashioned boarding schools are not as full of dom-on-dom depravity as people like to whisper about -- and it had surprised him how much he liked it, how much he wanted to know what it would be like with someone else.
+
+Two fingers, and the stretch is a little uncomfortable, in the best sort of way. Blaine lean back slightly, and his hard cock brushes againt Kurt's stomach. Kurt makes a noise, high-pitched and needy, not so different from a whine, and Blaine loves this, loves the way Kurt will give all this up just for Blaine. "Please," Kurt says with short, panting breaths. "I want to see. Let me--"
+
+"No," Blaine says. A third finger now. He closes his eyes and bites at Kurt's earlobe, making a soft pleased noise into Kurt's ear.
+
+Kurt pulls at the bindings on his arms, not quite thrashing, but making his eagerness known. Blaine likes this, likes the way the black silk rope looks against Kurt's skin, likes the way it shows off the strength of Kurt's arms, the breadth of Kurt's chest. "I'll be good," Kurt says, "so good."
+
+"You're always good," Blaine says. "I can't wait until I have your cock in me." He spreads his fingers a bit, enjoying the stretch of it.
+
+Kurt leans forward, pressing a sloppy kiss to the corner of Blaine's lips. "*Please*," he says, and every bit of desperation shows on his face.
+
+"Okay," Blaine says. He grabs a condom and shifts himself into position, sliding the condom onto Kurt's cock and lining it up so that he can press back against it, so that he really feels it as it pushes its way inside.
+
+There's a little bit of burn because Blaine was impatient for it, too. "*Kurt*," he says, because he doesn't have any more words than that. "Fuck." He feels full and stretched, Kurt's cock hot and thick and hard inside of him. He lifts himself up, enjoying the slow, sweet friction when he presses back down again.
+
+Kurt tilts his head back, showing off the long, pale column of his neck. The sight of it always makes Blaine's blood run hotter, and his heart has a stutter-stop moment when he wonders what it would look like with a collar around it, with *Blaine's* collar around it. They haven't really talked about it, and maybe Kurt will balk, but Blaine wants-- He bends down so that he can put his lips and teeth there, underneath Kurt's chin, drawing out a low moan from Kurt. He wants to leave a mark for tomorrow, a reminder that for now, Kurt is his. Kurt is here, and Kurt wants him, and Kurt is inside him, and collar or no collar, it's already perfect.
+
+Kurt's hips twitch, not a full thrust, but a pleasant bit of friction "One day," Blaine says, trying to sound conversational, but he knows that the breathless tone in his voice probably gives him away, "one day, I'm going to tell you to hold me down and fuck me until I can't sit properly the next day."
+
+"Yes," Kurt says. "Yes, Blaine, I want to, please, let me--" His hips jerk again, rougher this time, and Blaine rides it out.
+
+Blaine closes his eyes, focusing on finding the right angle, so that Kurt's cock is pressing right *there*, right where it makes Blaine's body tighten, a burst of pleasure behind his eyelids. His own neglected cock twitches, leaking a little pre-come. He twists his hips, picking up speed, pushing Kurt back against the bed so that his shoulders are pressed against the mattress, his back arched in a way that doesn't seem comfortable in order to accommodate his arms.
+
+Kurt's hips are clumsy and eager, legs pushing him up as best as they're able. His feet scramble for purchase on the cotton sheets. His eyes are squeezed shut. His mouth is hanging open. Blaine wants him like this always, so lost in his own pleasure that he doesn't have room to think, so far gone that he's wholly and completely Blaine's. "So close," Kurt chokes out between frantic breaths. "So good. So tight, and--please. Fuck. I can't. Please."
+
+"It's okay," Blaine says, gritting his teeth and grinding his hips down. "Come on. Come for me."
+
+Kurt comes with a loud, wordless shout. His face is twisted up in pleasure, his body taut as a bowstring, a light sheen of sweat caught in the lights. Blaine might think he loves this part best, the way Kurt looks when all of his carefully constructed walls have been stripped away and all that's left is a ball of raw desire.
+
+Blaine pulls back as Kurt catches his breath, letting Kurt's softening cock slip out of him. Blaine makes sure to take off the condom, tying it up and throwing it away, before undoing the bindings around Kurt's arms. Kurt takes a moment to shake his arms, stretching his shoulders, twisting him wrists. Blaine wants to make sure that everything is okay, but Kurt's eyes go bright, focusing in in Blaine's still-hard cock. "Please?" he says, licking his lips. "Can I?"
+
+"Yes," Blaine says, that hungry look on Kurt's face always makes him so hard it hurts, and his cock is messy, dripping with pre-come.
+
+Kurt grabs hold of his hips and dives for Blaine's cock like he's been *starving* for it. After an orgasm, Kurt's blowjobs are messy and eager, a little sloppy, but he more than makes up for that in sheer enthusiasm.
+
+"Come on," Blaine says. "I'm almost there." He grabs hold of Kurt's hair as Kurt swallows him down. Kurt figured out how to get his throat to relax a couple months ago, and he's been showing off his new skill every chance that he gets.
+
+Blaine's already so close. The feel of Kurt's throat tightening around the head of his cock is all it takes. The orgasm rips through his body sweetly, leaving his body shaking and sated. Kurt swallows it all down (another thing he's proud of mastering). When he pulls back, he licks his lips, looking pleased with himself.
+
+Blaine grins at him. He lets himself flop back onto the bed, arms and legs starfished out, grinning at Kurt. If good orgasms make Kurt uncharacteristically sloppy, they make Blaine goofy and silly and fond. Kurt crawls up Blaine's body and presses a kiss to his lips, slow and easy and comfortable. He curls an arm around Blaine's waist, smiling so hard his eyes crinkle, just the tiniest hint of teeth, and it makes Blaine's heart twist over in his chest the way it always does. "Good?" Blaine asks.
+
+"Always," Kurt says.
+

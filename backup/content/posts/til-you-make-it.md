@@ -1,0 +1,229 @@
+---
+ao3_url: https://archiveofourown.org/works/9615839?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters: []
+date: '2017-02-07'
+fandom:
+- Don't Trust the B---- in Apartment 23
+notes: Written as part of [Fandom Trumps Hate](http://fandomtrumpshate.tumblr.com/).
+  Excellent beta assist from Zulu.
+relationship:
+- Chloe/June Colburn
+summary: '*"I ran into Ellen Page yesterday in a Duane Reade condiments aisle," Chloe
+  says. "Gave her this long sob story about my girlfriend and her tragic medical condition
+  that makes her eyes really big and forces her to wear ugly sweaters, and she invited
+  me to her birthday party."*'
+tags:
+- Fake/Pretend Relationship
+- Ellen Page's Birthday Party
+title: '''Til You Make It'
+warnings: No Archive Warnings Apply
+---
+
+June never gets advance warning before these things happen, which makes sense, because if she did get advance warning, then she could *prepare*, and then maybe she could actually stop them from happening in the first place.
+
+But no, she's never that lucky. Which is how she starts her Thursday night intending to sit at home in fluffy slippers and her warmest pair of pajamas, and somehow ends up in the shortest dress she owns, freezing in the February night air while standing outside one of the sketchiest warehouses in Brooklyn.
+
+June totters a bit on her high heels, trying not to slip on the patches of black ice. Chloe -- of course it's Chloe who dragged her into this -- is blazing a trail ahead of her, leading her towards a doorway with two angry-looking bouncers. It's those stupid long gazelle-like legs of hers. June has to walk twice as fast to cover the same amount of distance.
+
+"Chloe--" June says. "Chloe-- what are we doing here again?" She's pretty sure Chloe told her... something. There's a reason she left the house, right? Most of the time, June remembers the sequence of events that gets her into these positions, but she's been distracted by work all day. Probably enough that Chloe managed to hijack her while she was worrying about her meetings tomorrow.
+
+Chloe doesn't seem to be interested in explaining anything to her, though. "Come on," Chloe says, making an impatient gesture with her hand. "I want to make sure we get in before Allison Janney gets too smashed to give me the keys to her summer home." It's the kind of reasoning that only makes sense in Chloe's head.
+
+June manages to catch up to her just as they get to the door. The bouncers glower at the two of them (which really just means their expressions don't change the tiniest bit). Chloe grins, though. It's that grin that June's come to dread. It means that Chloe is about to do something completely insane, like blow up someone's car or start an Instagram war with James Spader. June's about to apologize in advance to the bouncers for whatever is going to happen next when Chloe grabs her hand and drags her forward.
+
+"I'm Chloe, and this is June. Ellen's totally expecting us," Chloe says.
+
+The bouncer on the right looks down at his clipboard, looks back up at Chloe, squints for a moment, and then steps aside.
+
+"Wait," June says, as Chloe forcibly drags her inside, "that worked. How the hell did that work? And who's Ellen?"
+
+"I ran into Ellen Page yesterday in a Duane Reade condiments aisle," Chloe says. "Gave her this long sob story about my girlfriend and her tragic medical condition that makes her eyes really big and forces her to wear ugly sweaters, and she invited me to her birthday party."
+
+"Er," June says. She looks down. Over her short dress, she is wearing one of her favorite winter sweaters. It has a polar bear knitted on the front of it. In her defence, it was cold out tonight, and Chloe didn't give her a whole lot of time to prepare.
+
+"It's the biggest party in town every year, and James isn't quite famous enough to get us an invite." Chloe continues.
+
+"Hey," James says. "I'm plenty famous enough." He somehow magically appeared right behind them as they entered the warehouse, which is really quite amazing since June was pretty sure they were alone on that street before they came inside. Luther is by his side, touching up his hair. "I just didn't want to waste some of my famous-person points on getting in here when I could be using them to be doing Japanese commercials instead." 
+
+"Are we talking literally or metaphorically here?" June asks. It can sometimes be difficult to tell when it comes to James.
+
+"Literally, duh," James says.
+
+"I'm so glad they've put all the tallies online now," Luther says. "I hated having to track all of those by hand. All that paperwork!" He shudders.
+
+Chloe just rolls her eyes. "Whatever!" she says. "This conversation is already boring me!" James smiles at her indulgently, not put off in the slightest by Chloe's rudeness.
+
+She doesn't let go of June's hand. June didn't realize her grip that was that strong, but maybe her hobby of climbing up fire escapes to steal curtains and resell them on eBay helps with that.
+
+The warehouse is huge, cavernous even, with high ceilings and a network of catwalks that circles the space, but it's been clearly turned into some sort of club. There's bright flashes of colored lights, a mass of bodies writhing on the dance floor. Nearly everyone is wearing some sort of flannel, though. Even James, now that June's looking for it. She squints. He does look a little like Dawson wearing that. But not enough to make June nostalgic, which is a relief. Luther has a flannel shirt tied around his waist.
+
+But then June realizes that *she's* not wearing any flannel. Wait, did she miss a memo somewhere. Did Chloe miss a memo somewhere? Chloe isn't wearing any flannel either. Are they going to have to go back to their apartment and find some flannel? Did June even bring any flannel with her from Indiana? She worries at the sleeves of her sweater.
+
+"Stop," Chloe says. She holds up a hand right in front of June's face.
+
+"What?" June asks. She pushes Chloe's hand out of the way.
+
+"Whatever you're doing, stop," Chloe says. 
+
+Now that's really just unfair. "I'm not doing anything!"
+
+"Uh huh," Chloe says, with that tone of voice that means she has stopped listening five seconds ago. She's already looking through the crowd, until she zeroes in on what she's here for. She continues to crush June's fingers with her own. June can't tell what Chloe saw, but it's not like she can get away right now.
+
+James disappears as quickly as he appeared, so it's just the two of them as they make their way towards the far corner of the warehouse.
+
+"Hey," June says, as they pass by a blur of plaid, "is that Nina Dobrev?"
+
+Chloe doesn't even turn to look. "That bitch better not be here after what she did at Francis Ford Coppola's last wine tasting."
+
+They eventually get to a collection of couches, tucked into a far corner of the warehouse. There's a bunch of women sitting there, not quite talking to one another. It's a lot of flannel. A lot of them have short hair and glasses. At the center of them is Ellen Page, sitting just a head higher than anyone else, on a large brown easy chair that's been placed on a platform that's raised above floor height. She is also wearing flannel. It's tartan red, in a shade that matches June's sweater. June has the weirdest impression of watching British historical dramas, a queen holding court amongst her peons.
+
+Chloe, of course, walks right up to Ellen Page, pulling June along with her. Ellen Page smiles at the both of them, but it's the bored sort of smile of the very rich and very famous. James wears it all the time. Entertaining the idea of an audience.
+
+"I loved you in *Juno*," June says before she can stop herself. Chloe tightens her grip in displeasure, but June doesn't mind that. Chloe dragged her into this (literally). Chloe can deal with the consequences.
+
+"Is that right?" Ellen Page says. She raises one eyebrow.
+
+"You and Michael Cera were *super* cute together," June continues. She gets the impression that this is the exact wrong thing to say from the array of angry-dagger looks she gets from the audience.
+
+Chloe chooses that moment to cut in. She lets go of June's hand and throws her arm over June's shoulders, exploiting her height advantage for leverage to drag June in closer. She smells like expensive perfume. "I'm sorry about my girlfriend," she says. "She's *bisexual*." June is about to protest that she's not bisexual, but then she remembers that really there's nothing wrong with being bisexual, and then she has to convince herself that it's really quite normal for young girls to come out of watching *Sleeping Beauty* with a crush on Maleficent.
+
+Ellen Page just nods sagely. "I see what you mean about the sweaters."
+
+"Hey!" June says. She pulls the sweater tighter around her body, like it can somehow defend her against judgment.
+
+"It can be hard to live with sometimes, but we make it work, don't we, honey?" Chloe gives her a big wet kiss on the cheek. June quietly tries not to freak out. She's only seen Chloe be this affectionate with bottles of alcohol before, and it's actually kind of terrifying to be at the center of it, like being hugged by a grizzly bear.
+
+"Uh, sure," June says, while trying to remember all the rules she learned in Girl Scouts about dealing with wild animals. She's pretty sure 'smile nervously' and 'agree with everything it says' isn't on the list, but it doesn't seem like the worst way of handling this right now.
+
+"Anyway, great party," Chloe says, somehow managing to yank June closer to her. June ends up with one cheek pressed against Chloe's right boob. It's a little uncomfortable, but June's always liked Chloe's boobs. "I need you to tell Allison Janney that I've already got my plane tickets, so she should find me as soon as possible or else I *will* tell Aaron Sorkin that she wants to work with him again."
+
+Ellen Page smiles at that, beatifically, unconcerned. She's listened to her petitioner and has now rendered her verdict. "Of course," she says. She raises an eyebrow as if to say *is that all?* She's cool enough that she doesn't even need to say it out loud.
+
+"That sounds great. Thanks!" June says with a little wave, because she knows Chloe won't say it herself. She wraps her other arm around Chloe's waist, just so she can make sure she doesn't fall on her face. She's really not used to walking around in these heels.
+
+Chloe is obviously done with this conversation, her interest in Ellen Page only lasting long enough for her to get what she wanted. She uses her leverage on June's shoulders to lead them both away. 
+
+Because of the awkward angle, it takes June a few moments to realize that Chloe is smiling. It's not a pleasant smile -- well, Chloe doesn't really have any pleasant smiles -- but it's not quite as terrifying as some of the smiles that June has seen on her face. She looks almost -- happy? Like, real-happy, not I-got-joy-out-of-destroying-someone's-life-happy. And, well, that's rare enough to see that June takes a moment to enjoy it.
+
+---
+
+June decides she needs a drink for any more of this, and thankfully, there is an open bar. She shrugs off Chloe's arm and heads straight there, joining a cluster of people waiting for their own drinks. Chloe doesn't follow her. That's probably for the best. June's pretty used to Chloe's... everything at this point, but that doesn't mean she doesn't need time off from it every once in a while. Like an OSHA-mandated work break.
+
+One of the other girls waiting for a drink holds up her hand in a fist to June. She's Asian, has a lot (*a lot*) of piercings, dark, heavy makeup, and in general, seems way too cool to be even talking to June. "Nice catch," she says. "Your girlfriend's super hot, and I'm sure she's killer in the sack."
+
+"Uh, sure," June awkwardly bumps her fist against the Asian girl's. It's not that she doesn't know that Chloe is attractive and could sleep with pretty much anyone, man or woman, that she wanted to. It's just that she doesn't think about it very often, the same way she deliberately does not think about what Chloe might be hiding under the kitchen sink or the way she deliberately changes the conversation when Eli tries to tell her about his porn preferences.
+
+"It's always the crazy ones, right?" the girl says, almost wistful. "A lot of effort, man, but the sex is totally worth it." 
+
+It's not like June has polled Chloe's sexual partners or anything, but yeah, she's pretty sure most of them would agree with this girl. June's helped more than one disoriented guy walk out the front door without falling over after spending a few hours in Chloe's bedroom. 
+
+Chloe chooses that moment to reappear. She's smirking in a way that means she has gotten up to something, and June feels her stomach sink. Is she going to have to do some damage control when all she wants to do is get a drink and gawk at some famous people?
+
+"Hi, girlfriend!" Chloe shouts. She throws her arms around June's neck and kisses June straight on the lips. It's not a lingering kiss, more for show than anything else. Not enough to even mess up June's lip gloss. June likes it more than she should. Chloe's not a good kisser or anything -- it's like a whole bunch of other things she's never been bothered to learn how to be good at -- but she's enthusiastic about it in the way she's usually only enthusiastic about causing bodily harm to other people. 
+
+The Asian girl shoots June a jealous look from behind Chloe's shoulder, but she also gives June a thumbs up and a wink.
+
+Chloe lets go of June long enough to let June get a drink, but after that, she threads her arm in June's, drags her to a table with a good vantage point for seeing the dance floor, and doesn't let June get more than five feet away from her. She glares at anyone who tries to start a conversation with them. Every once in a while, she'll throw her arm around June's shoulder or wrap her arm around June's waist, like she feels it's necessary to keep up the charade.
+
+June thinks that maybe she should be worried about Chloe's behavior, but the alcohol is helping her relax. Chloe's physical affection is also rare enough that June's letting herself enjoy it. For now, Chloe's attentions seem more protective than threatening. Chloe hasn't ripped out anyone's extensions. Chloe hasn't tried to start a thermonuclear war. By Chloe standards, they're doing pretty good.
+
+At some point, June ends up with her head on Chloe's shoulder, just leaning there. Chloe's shoulder is the perfect height for it, and Chloe doesn't seem to mind. Chloes is explaining to June something about firefighters and how difficult it is to get their uniforms off and how suspenders really aren't as sexy as they look on TV. June lets her eyes fall closed. She tucks her arm around Chloe's back, a half-hug, the way she did with her ex-fiance before they broke up. She half-expects Chloe to start in on a lecture about how gross being clingy is, but Chloe just leans into June's arm, so imperceptible that June wouldn't have even noticed if her eyes were open, and she continues her spiel without pausing once.
+
+Somewhere down the line, June finds herself sitting up again, watching the dance floor as Chloe regales her with a story that somehow involves a foil-wrapped burrito, a halal food truck, and the U.N. Security Council. June does her best to make the right noises in the right places as Chloe talks, even if she's not paying close attention. Most of her attention is focused on the crowd, trying to see how many celebrities she can name. It's more difficult than she thought it would be. She's having trouble telling all the CW actors and their attractively chiseled faces apart.
+
+She thinks that Stephen Amell might be talking to one of the guys from *Gossip Girl* when James comes by to visit them. James throws himself into one of the free chairs, looking vaguely annoyed. Luther brushes some lint off his shoulder. James says, "This event is way overrated. I mean, if we were at Mark Wahlberg's Kids' Choice Awards afterparty, *someone* would have taken off their shirt by now. I can't believe they're worth the same number of points."
+
+"That's because you do parties all wrong," Chloe says. "You don't wait for fun to start happening. You *make* the fun."
+
+James shrugs. "That sounds like effort when I could just sit around and wait for everyone to do what I want them to do. Pass."
+
+"Wait," June says, rewinding the conversation a few seconds. "What sort of fun are you talking about?" She gets that sinking feeling that she's missed something here. Something important.
+
+Chloe doesn't respond, but the smile on her face says everything she's not saying out loud. She glances towards the dance floor, at another woman, dark-haired, Latina, who looks like Penelope Cruz. 
+
+And after June remembers where she is, she asks, "Is that Penelope Cruz?"
+
+"Oh yes." Chloe says. She pulls out her phone. "This is going to be good."
+
+"I know you're still kinda new to this whole 'famous person' thing," James says to June, "but you shouldn't stare at a famous person too long or else they might come over to you and ask if you want their autograph."
+
+June is about to respond to that statement, but then someone walks up to Penelope Cruz and throws a drink in her face. There's a lot of women around here with long brown hair, but she's pretty sure it's Kristen Stewart. 
+
+"Yes!" Chloe says. She pumps one fist in the air and lets out a whoop. "TMZ is going to pay like a gazillion dollars for these photos."
+
+"Wow," James says. He blinks a few times. "You really did it."
+
+"I said I would, didn't I?" Chloe says. "It turns out that people are really easy to manipulate when you exploit all their emotional weaknesses for personal gain."
+
+That explains Chloe's absence for a while. It was probably too much to hope that it was just about getting keys from Allison Janney. June feels her stomach sink. Maybe she was getting her hopes up? Over what? She knows Chloe well enough to know that she has plans inside of plans inside of plans. That's just how Chloe's mind works. Concocting drama so that she can sell a celebrity catfight to TMZ is actually pretty mild for Chloe.
+
+But sometimes, Chloe just does things to mess with June and doesn't drag anyone else into her schemes. June had wondered if the whole night had been about that: trying to make June uncomfortable, trying to make June break, and not realizing how much June actually enjoyed it. And then, at the end of the night, maybe June could try to turn it around, push Chloe's comfort levels until Chloe was the one who broke.
+
+Oh, no. June feels her stomach sink even further, like it's trying to get swallowed up by her uterus. Is she *enjoying* being Chloe's girlfriend? June once printed out a list of symptoms of Stockholm Syndrome just in case she might need it later. She tries to go over it in her head as fast as she can. 
+
+"I think you might have broken June," James says. He squints at June, studying her, but in that absent way he gets when it's a mild curiosity and not actual concern.
+
+Luther says, "She hasn't moved out of the apartment yet. She was broken a long time ago."
+
+Chloe grabs hold of June's hand. "No one asked your opinion, Luther," Chloe snarls. She's squeezing hard enough that June starts worrying about the circulation in her fingers.
+
+June tries not to whimper. "I'm okay," she says instead. She downs the rest of her drink in one go.
+
+And that's the end of that conversation. Across the room, Penelope Cruz and Kristen Stewart have stopped fighting. They look like they've made up and are now hugging it out. So, at least there's that.
+
+---
+
+Apparently, once Chloe's gotten her pictures, she's bored of the party. It is getting late, and June needs to be at work tomorrow, so she doesn't exactly argue when Chloe wants to leave.
+
+Chloe spends the entire taxi ride back home hunched over her phone. June doesn't say anything, staring out the window at the lights of New York as they pass them by. 
+
+She's not freaking out. Okay, maybe a little bit. That's a lie. A lot. It's a lot of freaking out. Because having a crush on Chloe is terrifying and anxiety-inducing. Chloe is just short of being a diagnosable psychopath. Chloe is already terrible at boundaries and common decency, in general and with June specifically. Chloe already has a former roommate stalker who is desperately in love with her. June was so certain she wouldn't have anything in common with Robin, but maybe June needs to schedule a weekly lunch where they can drink cocktails and talk about how pretty Chloe's lips are. June glances over at Chloe and does her best not to sigh out loud. Chloe's lips are really pretty.
+
+Chloe doesn't comment, probably too busy starting a bidding war between TMZ and Perez Hilton to notice June's attention right now.
+
+But when they step back into apartment 23, Chloe folds her arms across her chest and insists, "You're being weird again."
+
+"What?" June says. "Me?"
+
+Chloe studies her, eyes sharp and intent. "Definitely weird."
+
+*Hold still*, June reminds herself. *Stay calm. Hold still. They can smell your fear.* "You're really going to have to give me more than that, because I have no idea what you're talking about."
+
+"You've been weird since Penelope Cruz threw down with Kristen Stewart," Chloe says.
+
+"No, I haven't," June insists, and because Chloe has taught her that the best defence is a good offense, she says, "*You've* been weird this whole night!"
+
+"Well, that's complete bullshit," Chloe snorts, but then she looks down at her feet, biting at her lip, and wait, Chloe really has been weird all night.
+
+June says, pointing her finger at Chloe in triumph, "Aha! So you even admit it!"
+
+"No, I didn't!" Chloe says.
+
+"You didn't need me to pretend to be your girlfriend," June says. "And if you wanted to mess with me, you would have been a lot more aggressive about it." The pieces all start fitting together in her head. "Wait, *you didn't need me to pretend to be your girlfriend.*" It's not like Ellen Page would keep straight people out of her birthday party, probably. She let James in after all.
+
+"Yeah, whatever," Chloe says. She turns away, pretending to fix her hair, which is ridiculous, because it's not like anyone is even going to see it before tomorrow. 
+
+"You liked it!" June says. "You liked pretending that we were dating!" There's a light, airy feeling in her chest, the kind that she gets on one of the very rare occasions where Chloe demonstrates actual emotions about anything. This one is even sweeter, because this one is about June. This is about how Chloe *likes* June.
+
+"Ugh," Chloe says, making a disgusted expression. "I knew you'd be weird about it."
+
+"Oh, no," June says. She can't keep a smile from spreading across her face (the one that Chloe insists makes her look like a serial killer). "This isn't me being weird. This is me being *delighted*."
+
+Chloe freezes. She looks June over. "Huh," she says.
+
+"So," June says, folding her arms across her chest and barrelling ahead before Chloe and interrupt and ruin everything. "I figure we have two options. One: we can go on with the rest of our lives pretending this never happened."
+
+"Or...?" Chloe asks. She's started smiling again, and it's still not a pleasant smile, like a tiger about to eat its prey.
+
+But maybe this time, June wants to get eaten, and okay, that's a terrible pun, but she plunges on ahead. "Or you can take me back to your bedroom and we can figure out what it means to be girlfriends for real."
+
+Chloe grabs ahold of her hand one again, and this time, her grip strength is actually comforting rather than intimidating. Her smile somehow manages to get even wider and brighter. "Let's go," she says.
+
+"Make sure you record it for me so I can masturbate to it later!" Eli calls from his window.
+
+"Sorry, no can do!" June yells, way too giddy to be politely Mid-Western about it, and she's still laughing as she lets Chloe drag her back to her room.
+
+ 
+
+FIN.

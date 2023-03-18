@@ -1,0 +1,21 @@
+---
+ao3_url: https://archiveofourown.org/works/2144?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Kara Thrace
+date: '2008-12-02'
+fandom:
+- Battlestar Galactica (2003)
+notes: Short drabble thing.
+relationship: []
+summary: Kara flies.
+tags:
+- flight
+- Drabble
+title: Joy
+warnings: No Archive Warnings Apply
+---
+
+When Kara flies, something in her pours out in wave, something wild and joyous and rushing and beautiful. It dances on the tips of her fingers, at the edges of her vision. It sings in her, in songs that have no words, no melody, that feel like the bright cackle of a laugh and the beat of a perfectly executed kill.
+
+It is the hum of the engines, the dryness on her tongue, the tightness of the collar around her neck. It dances and it sings, and Kara dances, dances to the same rhythm, and sings, sings in perfect harmony.

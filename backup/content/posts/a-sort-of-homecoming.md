@@ -1,0 +1,242 @@
+---
+ao3_url: https://archiveofourown.org/works/554604?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Ben Affleck
+- Matt Damon
+date: '2012-11-04'
+fandom:
+- American Actor RPF
+notes: 'This is unbetaed. Read at your own risk, etc.
+
+
+  I wrote this when I was stressed out of my mind and just wanted to write something
+  mellow and comforting. Apparently, that means writing gen fic about bffs being bffs
+  in Boston.'
+relationship: []
+summary: Ben and Matt make *Whitey*.
+tags:
+- Boston
+title: A Sort of Homecoming
+warnings: No Archive Warnings Apply
+---
+
+Sunday evening, Ben swings by with a pen tucked behind his ear and notebook tucked under one arm. Half the time, he forgets his laptop in Matt's living room anyway, so Matt's not surprised to see him without it. They read all their e-mail on their phones or their iPads these days anyway, and it's not like Ben ever has to go any further than just down the street to get it back.
+
+"Have you seen Terry's latest draft of that dinner scene?" Ben asks. "I think we need to tweak some things, but--"
+
+Matt just opened that particular e-mail when he sat down, only just ready to write after an afternoon of chasing Izzy around the backyard. "Calm the fuck down, man," he says. "Give me a minute here."
+
+Ben snorts. He dumps the notebook on the glass coffee table where they work. It's half-covered in script pages, uneven stacks of partly crumpled paper. If Matt were to sort through them, he'd probably find that three quarters of them are out of date. They've been rewritten or thrown out entirely. In theory, they don't even need to use paper anyway, but Matt likes the feel of a pen in his hand, scribbling notes in the margins. Typing all that out just doesn't feel the same. Ben settles down on the floor, dragging a few pillows off the couch with him. He's located his laptop from wherever it was, and he's frowning at the screen.
+
+Sometimes, Matt thinks of the dingy LA apartments where they wrote out drafts of Good Will Hunting. They mostly lived off pizza and their friends' beer back then, working through all night writing sessions that would leave Matt's wrists stiff and sore at the end of it, and then they would sleep through the next day, the shades pulled down over the windows so the sunlight wouldn't get in their eyes. But Matt's body can't handle that kind of punishment anymore, and Ben knows better than to even think about touching alcohol on Matt's property. The room they work in now is larger, airier, with bigger windows and better lighting. If it's quiet -- as quiet as you can get with an Affleck around -- Matt can hear the sound of his daughters giggling as they watch television in the other room, occasionally broken up by the sound of Lucy trying to quiet them down.
+
+There's a dog-eared copy of Black Mass somewhere in this mess of paper that's been traded between the two of them over the past few months. Technically, they could afford two separate copies, but there didn't seem to be a point when Matt could just borrow Ben's. And maybe Ben yells a bit about how Matt shouldn't be touching his shit, but Matt's pretty used to it by now. Once you've shared a bathroom with someone for more than five months, you get used to being in each other's spaces, comfortable with someone else's things.
+
+Matt reads the new pages of their script. They're good, solid stuff. He doesn't quite have Ben's eye for the way it will look, mapping out the storyboards in his head and positioning the cameras where they need to be, but he knows how the storytelling beats work. They need this scene to establish this particular relationship at this particular time so that later on they understand why Connolly does what he does.
+
+"I think it needs more of something," Ben says. "It's not quite... At this point they're still feeling each other out. I think Whitey needs to sell himself more." He chews on the cap of his pen, restless the way smokers get when they don't have have something in hand.
+
+Matt sits back on the sofa. "But he can't show his hand too soon. He can't show weakness. This FBI guy? This FBI guy is a chump. He's a kid, and he's an easy mark. Whitey doesn't need to fucking sell himself to anybody. People should know who the fuck he is and what he can give them." 
+
+Ben nods and shrugs in a way that clearly means, *Sure, okay. We can work with that*. " So what if we..."
+
+It's easy like this, the back and forth. There's a rhythm that only the two of them share. It settles between them like an old sweatshirt, one that's worn in and comfortable, one that still fits after all these years.
+
+---
+
+Oscar afterparties are always a little wild. Ben thinks that the shine wears off after the first time you show up, but then again, the first they showed up, they took home a couple of gold statues. There's nothing else like the high of winning your first time. They were Hollywood's golden boys back then, and hey, maybe even sixteen years later they still are. Matt is laughing at something Jen's saying to him, head thrown back, grinning wide and happy. 
+
+Everyone wants a piece of Ben tonight. *Argo* only took home two Oscars, for editing and sound design, but it was nominated for every category under the sun. All these people who want to talk to him have stories, about how they were clutching at the armrests, biting their lips, crying in their seats. Ben can only smile and say thank you, I'm really glad you enjoyed it. He doesn't think he'll ever fully get used to the way people react to the movies he makes, for all the practice he's had.
+
+They have their own table at the Vanity Fair afterparty for the six of them: Matt and Lucy, Ben and Jen, Casey and Summer. The music is loud, and the lights are just bright enough that you can figure out which other major or minor celebrity you're talking to at any given moment of time.
+
+Matt didn't have to do anything tonight but present the award for Best Supporting Actor tonight, that fucker, and he's slouching in his seat . Ben's been a nervous wreck for hours now, and he still can't quite shake the feeling now that it's over. Matt puts an arm around Ben's shoulder and says, "I'm really fucking proud of you, man."
+
+Matt's hair is growing out again so he doesn't look like a cancer patient anymore, and he's grinning that million-dollar smile of his, and he's probably a little buzzed from the free drinks. Ben finds himself grinning back, because it's Matt, because they're old now, and they're still here. Seven years ago, it would have seemed a little nuts that he would have made it this far, happier and more successful than he could have imagined. He knew Matt would be here. Matt was always the one who had his shit together. "Yeah," Ben says. "I'm pretty fucking proud of me, too."
+
+Jen rolls her eyes at them, but she's still smiling, and Matt punches Ben in the ribs. As good as it all is, Ben knows he can't let himself get complacent. They have more *Whitey* to work on, of course. Terry's got a completed draft now, and Ben needs to start getting the money in line before they do a rewrite. He'll probably see Matt again at his place a few days from now, and they'll figure out how to compress the third act a bit, cut down on all the big reveals so it won't feel like too many dramatic revelations stacked on top of one another.
+
+But that can wait until later. For now, Ben just grins as Clooney approaches the table, holding out a hand and telling him that *Lincoln*'s sweep of the major awards was bullshit. Matt slides away, but that's okay, Ben will find him later. He always does.
+
+---
+
+It doesn't matter how long it's been or how much he's changed, every time Matt comes back to Boston, it feels a little coming home.
+
+He spends time here, of course. Holidays with his parents and Sox games at Fenway when he can spare the time. Ben's premieres when he has them in town. Filming things like *The Departed*.
+
+Right now, filming on *Whitey* hasn't fully ramped up yet. Ben's busy all the time doing director shit. He usually invites Matt to go along with him so Matt can get a feel for the whole process, and sometimes Matt goes and sometimes Matt doesn't. Today isn't one of the days where Matt goes along. Today, he has other plans.
+
+There's a pattern to the way Matt reacquaints himself with Boston. Lunch in the smallest hole-in-the-wall he can find in Chinatown. A walk through the Common and Public Gardens, crossing the bridge over the duck pond, taking a moment to watch the swan boats as they swim past. Taking the Red Line towards Alewife at Park Street, where the clanging and screeching of the Green Line trains overhead haven't changed a bit over the last twenty years. Having a milkshake at Mr. Bartley's in Harvard Square.
+
+Ben calls while Matt is riding the escalator down into the Harvard T station. "Where the fuck are you, asshole?" Ben asks.
+
+"Hahvahd," Matt says, and his tongue doesn't fit around the word quite right the way it used to.
+
+"That's just pathetic," Ben says. "Do I need to put you on the schedule for the dialect coach?"
+
+"Fuck you too," Matt says.
+
+There's a beat, just a simple switching of mental gears. "So how is it?" Ben asks.
+
+"I think the students are getting younger on me," Matt says. He glances around, making sure no one is attempting to hijack him for an autograph.
+
+"They do that, yeah. See you thirty minutes?"
+
+"Yeah," Matt says, and he smiles at the familiar dingy beige tile of Harvard Station, at the smell of Dunkin Donuts coffee and the excited Asian tourists. Matt pulls his hat down low over his eyes and heads down the ramp towards the inbound trains.
+
+He needs to do this every time he films here, needs to remind himself of where he's from and what he's doing here. In Boston, Matt can't half-ass anything. Hell, he can't even full-ass anything. If they fuck up this movie, no one will forgive them for it, and he'll spend the rest of his life being harassed by Wahlberg for falling down on the job.
+
+Boston is a part of him, a piece of him that he won't ever lose. He knows Ben understands that. He knows it whenever they bitch about the Sox, who have managed to completely fuck it up again this year, when they try to remember the name of that kid who lived down the street who had the first Atari on the block, when they just sit together and work and Matt knows that there's no one else in the entire fucking world that he understands half as well as he understands Ben.
+
+A train pulls up. A few passengers get off. Matt gets on.
+
+There's a stretch of track between Kendall and Charles/MGH, where the train rises out from underneath Cambridge to cross the river, and it doesn't matter how many times Matt's seen it. He still cranes his neck to look out the window behind him so he can see the familiar skyline, from the shimmering blue glass of the Hancock Tower to the oversized Citgo sign next to Fenway.
+
+And even after all these years, it still makes him smile.
+
+---
+
+The nice thing about directing Matt is that Matt always knows what he means. 
+
+"You need to give it more--" Ben says, with a vague wave of his hands.
+
+Matt nods. "Yeah," he says. "Maybe I can lean forward a bit in this scene, get a little more in his face." He mimes the action, and Ben can see that he's right, that this is exactly what it needs. Casey's Billy Bulger is guarded and careful at the beginning of this scene. Matt's Whitey Bulger has to play off that or they'll lose all the energy.
+
+They're in a Southie bar, the kind they spent a lot of time in when filming *Good Will Hunting*, except now Ben's old and Matt's older and Casey's not as twerpy as he used to be. The place is scuffed up from too many workboots, and the lights are kept low to give the place a sense of menace and approaching dread. Casey's tapping his fingers against the table in a way that hasn't gotten any less annoying since he was fifteen, restless. He and Matt have known each other so long they might as well be brothers themselves, and Ben knows their familiarity will show up on the big screen. That's all he needs here.
+
+"Action!" Ben yells and the set quiets down. Matt settles back into Whitey's skin underneath his leather jacket. Ben's seen it a million times before, the way Matt can become someone else at the drop of a dime. He trusts in it, believes in it.
+
+The scene starts smoothly enough. Matt lets loose and Casey stands his ground, and Ben can feel the way everything fits together. He can see the movie in this, every gesture and every facial expression, every cut and edit he will need to make. As an actor, you only get a sense of things from the inside. It's hard to know how it will all play out afterwards until the director makes a final cut.
+
+"C'mon, Billy," Whitey says on Ben's monitors. "Just throw me a fucking bone, here."
+
+"I can't," Billy says, holding up both hands. "You know I can't."
+
+"This is bullshit. You fucking owe me," Whitey says. He leans forward, and his presence fills the frame. "Ma is--"
+
+Billy slaps the table. "Don't fucking bring Ma into this." His face is a mask of anger, and Casey is overdoing it a little. His sneer is too broad, and his body language is too exaggerated.
+
+There's a beat of silence that goes on too long, and Matt can't hold a straight face. He bursts out laughing. That sets Casey, off too, and then all the tension in the scene dissipates. "Sorry," Matt says. "Sorry."
+
+"Cut," Ben yells, and the crew jumps into action to set up the next take.
+
+Ben's been on enough film shoots with Matt and Casey to know that it'll take a bit of time for them to get over this case of the gigglefits. In the past, he'd be right in there with them, trying to keep a straight face and failing miserably while Gus or Kevin rolled their eyes. Now, Ben is the one rolling his eyes as he waits for things to calm down.
+
+"You've got to stop doing that, man," Matt says to Casey.
+
+"Doing what?" Casey asks through huffed out laughs. "You're the one who keeps messing up my scene, asshole."
+
+Matt makes a face so ridiculous it gets a few giggles from the crew as well. He's always been good at charming the pants out of every crew he's ever worked with, and this one is no exception.
+
+"I don't look like that," Casey says. He punches Matt in the arm, where hair and makeup won't get too mad at them for messing up all their hard work. "Fuck you."
+
+Matt glances over at Ben with a knowing smirk and shrugs. That gets a genuine laugh out of Ben, because it's a little like turning back the clock twenty years, from the annoyance on Casey's face to the steady ease with which Matt winds him up. "Don't make me come over there," Ben says.
+
+"Yes, Mom," Matt says.
+
+"I can tell Entertainment Tonight about that thing that happened at your sixteenth birthday party," Casey says.
+
+"Fuck both of you," Ben says. "I'm going to light you two so horribly, people are going to ask me if you were always that ugly."
+
+"Are you really saying that to People Magazine's Sexiest Man Alive?" Matt says. He fakes running his hand through his hair, head tilted back as if he were in a glamor shot.
+
+"Fuck yeah, I am," Ben says. "That was in 2007, man. It was all downhill from there."
+
+"Pretty soon, you're going to be a wrinkled husk of a man," Casey agrees.
+
+"How am I even friends with you guys?" Matt asks.
+
+"You just haven't figured out how to get rid of us yet," Ben says.
+
+"Kind of like mold," Casey deadpans. 
+
+---
+
+There's a game in Fenway on one of their few days of downtime, and Matt makes the phone call to get them some tickets. Everyone bends over backwards to find a couple of good seats for them, and there was a time when Matt would have been embarrassed by it all, but he's over that now. Might as well make the most out of the benefits of fame while he still has it.
+
+Matt lost his favorite Sox hat three years ago, and this new one isn't quite as comfortable. He still feels pleasure when putting it on, a certain kind of homecoming.
+
+It's a mid-day, mid-season game, so it's not a packed stadium, but it is a game against the Yankees, so it brings out the worst in everyone, Matt and Ben included. There's a lot of booing and heckling, and the hometown crowd is fired up. Ben practices his Boston accent, dropping his 'r's like he's back to being Chuckie again. They used to do this all the time, sit around and just rag on each other while in character, which wasn't that far off from what they did out of character, to be perfectly honest about it.
+
+Ben gets expensive peanuts and a Coke, and Matt gets a Heineken, even though he hates it. There was this one time when Matt tried to scam one of the Fenway beer guys into selling some Budweiser to them, but they were thwarted by the fact that Ben was fifteen and looked like it. Now, Matt feels a little bit of vindication every time he can buy shitty beer legally while the Sox are playing.
+
+Without the rest of their families, it feels even more like high school. The first time they went to a Sox game together, Matt was thirteen and Ben was eleven, and Matt remembers the way Ben fell off his seat and scraped his knees and got annoyed at all the adults who were fussing over him. Ben was a whiny little shit when he was eleven, but that's okay because Matt was used to it by then. Ben's still kind of a whiny shit now, but that's only because he knows Matt will listen to him, really fucking listen to him, and he knows that Matt won't judge, because Matt won't.
+
+They boo with the rest of the crowd when Ortiz whiffs the ball for a third strike in the middle of the sixth inning.
+
+"This is such bullshit," Ben says. "Fuck this crap."
+
+"It's like they know we're here," Matt says. "They really want to show us how bad they can be." He tries to decide whether or not he's comforted by the fact that the Red Sox are down by ten points at the top of the seventh. It's nice to know that some things don't ever change.
+
+Ben snorts. "They're putting on a great show," he says.
+
+"How far do you think they'll get before they choke this year?" Matt asks. He steals some of Ben's peanuts, mostly because he's hungry and the nearest peanuts guy is three sections over. 
+
+"Don't even fucking say that, man," Ben says. "Why the fuck did you have to say that?"
+
+To be a Red Sox fan is, by its nature, to be a lot superstitious and a little self-hating from a lifetime of disappointment and thwarted dreams. Matt has long since resigned himself to his fate. Ben's still a little bit in denial about it, but he hates admitting that there's anything he can't do through sheer force of will. "You know it's true," Matt says. "We're not going to get to the playoffs. If we get to the playoffs, it's going to be even worse, because we're going to get crushed early on. If we somehow make it to the World Series, it's just going to be another chance for the Yankees to humiliate us entirely."
+
+"Really, you should just shut the fuck up," Ben says. He waves a peanut half-threateningly in Matt's face, and he's trying on his 'serious badass action hero' expression.
+
+"You shouldn't threaten me, asswipe," Matt says. "Didn't you hear about how I'm a mob boss these days? You may be a big-shot director, but that's never stopped one of us before. Next thing you know, you're going to find a horse head in your bed for not casting Johnny Fontaine in your next movie."
+
+"You really aren't as funny as you think you are," Ben says. "You're like the opposite of funny, and you're convinced you're hilarious."
+
+The crowd erupts into boos all around them. Ben grimaces. Another Red Sox batter has just been struck out. Two rows behind them, a guy in a blue Yankees hat is cheering loudly and waving around a slightly battered foam finger. Matt, who is usually pretty good at not hating people he's never met, spitefully thinks that he has ugly glasses and a stupid face.
+
+"At least I'm not him," Matt says, sticking a thumb over his shoulder.
+
+"Seriously," Ben says, "fuck that guy."
+
+---
+
+Before they leave, they visit their old street. 
+
+At this point, Ben's almost a zombie, running on caffeine and sheer desperation. He's pretty good at not showing anything to anyone while on set, but he needs an extra hour in the morning so he can drag himself out of bed Filming a movie is a little like running a marathon, like a slow, steady slog towards the finish line. There's always another scene to shoot, another set of designs to approve, another actor who wants to talk about their character motivation. 
+
+It's not that Ben doesn't love it. Ben has loved it since he stepped onto his first movie set, wide eyed and eager to take on the world. It's just that Ben needs a week of sleep and rest and relaxation before he's a functioning human being again, capable of the long, intense focus needed for hours and hours in the editing room.
+
+Matt's the one who wakes him up early, calling at six am to say, "We should go visit the old neighborhood. Come on, it'll be fun."
+
+Ben was originally going to sleep for another few hours. Their flight out of Logan is right before noon, and he stayed up late for their wrap-up party the night before. "Jesus," Ben says. "Let a man get some sleep." He rolls over and shoves his face into his pillow, hoping that Matt will just *go away*. 
+
+He has a moment to believe that Matt might have given up, but then the banging on his door starts. Ben knows it isn't the cleaning staff.
+
+"Get your lazy ass out of bed, Affleck," Matt yells. It comes through too loud and too shrill over the crappy speaker of Ben's cell phone, and it comes across too quiet and muffled through the door of Ben's room. "We're taking your car."
+
+Ben rolls out of bed. "Fine, fine. Let me put on some pants on first."
+
+It's early enough, and it's a weekend, so there's not much traffic as they cross the Charles over the Harvard Bridge, following Mass Ave until they reach Central Square. The sky is a cloudy gray but not threatening rain, a classically Boston sort of day. Finding parking is just as shit as it always is.
+
+Central Square has changed since they lived here. There's a strange mix of hipster stores next to old, run down record shops next to the McDonald's that's been there forever, and the benches and light fixtures are new. There's even a different flavor to the hobos that hang out there. The street where they lived aren't so different, though. There are new things, a new coat of paint here, a new street sign there, but it feels familiar, like coming home for the holidays after a year away at school. It leaves Ben swamped in nostalgia, an almost indescribable combination of yearning and fondness.
+
+The expression on Matt's face echoes the way Ben feels. He's grinning, warm and fond, his eyes darting everywhere to categorize their old haunts. The house with the waist-high chainlink fence at the corner. Casey once tore his hand on the top of it, a deep cut that bled for what seemed like days. There's the intersection that they'd routinely jaywalk across on their way to school. The traffic lights at the intersection are better. The pedestrians are not.
+
+When they pass by Matt's old house, Ben says, "Did you know that Jason Bourne used to live here?"
+
+"And you have the gall to tell me that *I'm* the unfunny one," Matt says.
+
+The house looks the same, with the same blocky frame, the same dusty windows. The paint of the front door is still chipping at the bottom edges. They've replaced the doorbell that Ben was far too familiar with, but this one has also been rubbed smooth with repeated use. The bottom step of the porch is no longer crooked at a thirty degree angle.
+
+Ben chews on his bottom lip. He's not sure what else to say.
+
+"Do you miss it?" Matt asks. He has his hands shoved in his pockets and he's looking down the street towards Ben's old house.
+
+"Sometimes," Ben says, "I miss how easy everything seemed."
+
+Matt laughs. "Bullshit. You were the angstiest teenager when we were growing up. It only seems easier because it's all relative."
+
+"That's deep, man. That's really deep. You should write a book and fill it with your wisdom," Ben says.
+
+Matt just shakes his head and rolls his eyes.
+
+Ben takes a deep breath. Really, what does he have to miss from back then? He's happy. He's healthy. He has three adorable kids. He has the most amazing wife in the entire world.
+
+And he has Matt. He doesn't even care about how gay that sounds. He knows how easy it is to drift apart from old friends, especially in Hollywood, where everyone wants a piece of everyone else. Through everything, Matt has been his rock, his touchstone. They've been friends for twenty-five years, and Ben hopes that in another twenty-five years, they'll still be friends, still making movies together, still laughing about the good old days, still living down the street from each other.
+
+He takes one last look at the house. "Come on," he says. "Let's go home."
+
+ 
+
+FIN.

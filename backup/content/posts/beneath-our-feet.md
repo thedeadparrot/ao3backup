@@ -1,0 +1,25 @@
+---
+ao3_url: https://archiveofourown.org/works/101927?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Kyoshi
+date: '2010-07-20'
+fandom:
+- 'Avatar: The Last Airbender'
+notes: 'Written for [Big Damn Heroes](http://onomatopoetic.dreamwidth.org/421011.html)
+  and the prompt: ''Avatar: The Last Airbender, Yangchen and/or Kyoshi, balance'''
+relationship: []
+summary: Though she is the Avatar, a master of all four of the elements, she will
+  always be an Earthbender first and foremost, solid and strong and connected to the
+  ground beneath her feet.
+tags:
+- Travels
+title: Beneath Our Feet
+warnings: No Archive Warnings Apply
+---
+
+There are few things that Kyoshi loves more than her island, the thick woods that ring her villages, the mountains ranges capped with white snow. She knows every inch of the land, from the caves of the badger-moles in the East, to the cliffs of the West. In the summers, she cleans her face of makeup and eats the fresh fruits that grow in the damp shade, letting the juice run freely down her chin. She swims in the cool salt of the ocean and speaks with the sea serpent that lurks in the waters nearby.
+
+In winters, she wraps herself in the thick furs of the Northern tribes and travels out into the world, to the warmer climes of the Fire Nation, to the sprawling cities of the Earth Kingdom. She enjoys the adventure that comes with traveling. The rare sight of frog-camels making their way across the desert, the feel of an air glider in her hands as she weaves her way from mountain to mountain, the children who flock to her wherever she goes. But there are still times when she will watch the sun rise over the eastern horizon and wish for the comfort of familiarity.
+
+Though she is the Avatar, a master of all four of the elements, she will always be an Earthbender first and foremost, solid and strong and connected to the ground beneath her feet. And so when spring comes again, when the snow melts, when she can cast off her furs, she will make the journey back home, to the land she holds in her heart.

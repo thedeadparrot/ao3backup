@@ -1,0 +1,468 @@
+---
+ao3_url: https://archiveofourown.org/works/137765?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters: []
+date: '2010-12-05'
+fandom:
+- Sherlock (TV)
+- Fullmetal Alchemist
+notes: 'Originally written for [this kinkmeme prompt](http://sherlockbbc-fic.livejournal.com/4777.html?thread=13534633#t13534633).
+  It''s more of a fusion than a crossover, so you don''t need to be familiar with
+  FMA to read it. Man, I haven''t written any FMA in years. Many thanks to [![[personal
+  profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)[**zulu**](http://zulu.dreamwidth.org/)
+  for deleting my extraneous commas and being a horrible enabler.
+
+
+  Now with [podfic](http://amplificathon.livejournal.com/1370844.html).'
+relationship:
+- John/Sherlock
+- John/Mary
+summary: John comes back from the war broken in more ways than one.
+tags:
+- Alternate Universe - Fusion
+title: Equivalent Exchange
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+John comes home after work one day to find that Sherlock has turned the entire flat into a transmutation circle.
+
+Not just the sitting room, of course. That would have made too much sense. Besides, Sherlock did that one last month, shoving the telly and the sofas into one corner and stacking his books around the chalk drawing, when John just wanted to settle down with the paper for the night.
+
+Today, John stops at the threshold of the flat, chalk lines at his feet, and resists the urge to scream. Sherlock wanders by, nose shoved in a book, the chalk dangling carelessly from his fingers. "Just because you don't need one doesn't mean they're not useful," he says without looking up. "And besides, I needed to see if I could replicate the particular conditions of Johnson's escape."
+
+John wonders if he could get revenge on Sherlock by transmuting all of his experiments with human body parts into coal. It would be easy enough, rearranging all the carbon atoms and separating out the iron and oxygen and hydrogen. But that would mean Sherlock having a fit for days, maybe even weeks, because he's Sherlock, and Sherlock is a grand master at holding grudges. "I'm sorry," John says. "I didn't realize that my wanting to live here *inconveniences* you."
+
+Sherlock glares at him. "I warned you what I was like before you moved in," he says.
+
+He had. When they'd first met, Sherlock had said, "I play the violin at all hours of the night, I don't speak for days at a time, and I'm fond of drawing transmutation circles all around the flat. At least you'll be used to them, since you were a State Alchemist before you were discharged." He had given John a long look. "Because of your leg and your shoulder."
+
+That was at least half the truth, and John had been too impressed to mind all the other things.
+
+John's minding them right now, but he realizes that's not entirely fair. "Fine," John says. "I'll be upstairs. Call if you need me."
+
+Sherlock just grunts in approval and goes back to drawing the symbol for water in front of the refrigerator.
+
+---
+
+"I'm don't mean to pry," Lestrade says, in a tone of voice that says he absolutely means to pry, "but why don't you need to do alchemy the way everyone else does? With the circles and things?"
+
+John stares after Sherlock, who is chalking a simple reading circle around the evidence to get a better sense of the compounds involved. "It's a long story," John says, with a small smile. He's already tried to tell it once to Harry, but he hadn't been able to get past the part where he'd met Mary without breaking down. He doesn't think he wants to make another attempt while at one of Sherlock's crime scenes.
+
+"Sorry," Lestrade says. He is really rather observant, no matter what Sherlock says. "If you can't tell me, it's fine."
+
+"Not yet," John says. "Maybe one day." He almost even means it.
+
+---
+
+For most of his life, John thought he understood about love. He listened to the silly pop songs, watched the ridiculous romance movies, and even went so far as to date a few women in his time. Mary had specialized in earth alchemy, the manipulation and destruction of rock and stone and ground, and *she* was the one who asked he him out on their first date. For a while, John understood all that rot about being lifted up where you belong. Mary liked candlelit dinners in the mess and high-quality cigars after a a patrol. John liked the way she would run her fingers through the short, military cut of his hair and the way that she smiled, like there was something was bright and beautiful inside of her needing to get out. Their CO hadn't been pleased with their fraternization, but John hadn't cared what she thought. He was happy.
+
+It didn't last very long.
+
+What John hadn't realized was all the ways love could cut you up, the way love could tear you to pieces. There were silly pop songs and ridiculous romance movies about that, too, but they'd never felt real to him. Not until he had to sit on the side of a dusty desert road and pronounce Mary dead with her blood spilling over his boots and then record the time of death with shaky, uncertain fingers.
+
+---
+
+"I really don't think you should hold me responsible for the actions of other people," Sherlock says, glaring.
+
+"I'll stop when you stop *taunting* them," John says. "You do realize that doing that will usually involve them physically harming you in some way, right?" He presses his hands together and then places them on Sherlock's broken arm. He coaxes the bone into reknitting, into forming as if there'd never been any damage in the first place. John keeps most people from figuring it out by drawing simple medical circles on the palms of his hands while everyone's watching, but Sherlock sussed it out after twenty-four hours of being in John's presence.
+
+"If you had come by faster--" Sherlock says, his eyes focused on John's face.
+
+John rolls his eyes. "I didn't exactly run slower just to spite you," he says. Sherlock's arm is warm between his hands. John can *feel* the way blood flows through his arteries and veins. Before Sherlock, he hadn't done any alchemy of any sort for a while, because of the unnatural feeling of the circle inside himself. It always reminded him of things he'd rather forget.
+
+"If you got an automail replacement for your leg, this wouldn't be an issue," Sherlock says, "but you're too busy wallowing in your own martyrdom. She would have wanted you to move on, you know." His eyes are boring straight through John's forehead.
+
+"Don't ever talk to me about her," John snaps. He's never so much as mentioned Mary to Sherlock, but he's a lot angrier about the attempt at manipulation than Sherlock's apparent research into his history. "And don't ever try to use her against me again." He lets go of Sherlock's arm and takes a a deep, steadying breath. "All right," he says. "Try it now."
+
+Sherlock twists his shoulder and bends his elbow, testing the strength of the bone, his face carefully impassive. "It seems to be back in working order," he says. "Thank you." His smile is small and tight.
+
+"You're welcome," John says.
+
+---
+
+John doesn't dream of the gate and of what he saw inside. He does dream of the hills of Afghanistan, brown against a pale sky. He dreams about the smell of Mary's hair, shampoo and motor oil and desert sun.
+
+Since moving in with Sherlock, John has begun to dream more of London, its rainy nights and darkened streets. He dreams of dead bodies in darkened rooms and water soaking into his shoes and Sherlock bouncing about the flat, still high on the energy of the city. The dreams of the war, the other war, are beginning to fade.
+
+Some days, John wonders if he's losing parts of himself to this, to Sherlock's world. He wonders if one day his memories of Mary will become less vivid and sharp, if they will take on the same hazy edges as John's childhood romances. John's never put much stock into memories before, but he needs these, needs them as a reminder of what he's lost, of what he's left behind.
+
+---
+
+Sherlock has never asked John about it, not once, not even the moment after he figured it out for the first time, his eyes so bright and so fascinated John had shivered slightly from the intensity of it. John thinks that maybe Sherlock wants to figure it out for himself. Maybe Sherlock considers it cheating to hear it straight from John's mouth.
+
+That doesn't mean Sherlock has stopped studying John, however. He'll sometimes ask John to do mundane alchemy just so he can observe the movements of John's hands. He'll sneak peaks at John's charts and John's medical records when John ends up in hospital. Mycroft has implied more than once that Sherlock has come directly to *him* for information regarding John's past.
+
+John suspects that Mycroft knows the truth about John's abilities. John can't be the first one to have tried it. John can't be the only one who has seen.
+
+Sherlock's fascination should unnerve John more, should make John terrified of being found out by anyone who could possibly use it against him. But John likes being the center of Sherlock's attention, likes the thought that he, of all people, can hold it. He likes the idea that one day he might be understood and *known* by someone so utterly brilliant and sharp and fantastic.
+
+John has been alone for such a very long time.
+
+---
+
+
+*Need your assistance. Come immediately.  
+
+SH*
+
+
+Of course, this means that John ends up standing in a compost heap for three hours while Sherlock searches for the exact discarded eggshell that will point them towards the blackmailer. John holds a torch for him, trying hard not to think about how tired he is or how that moving thing that's rubbing against his ankle is probably a worm or how he hasn't eaten anything since this morning, because it was rather a busy day at the clinic.
+
+Sherlock doesn't notice or doesn't care.
+
+John used to watch as Mary worked on engines, smiling at the way she would curse at them under her breath, at the spots of grease on her face that would dot her face, at her smile of satisfaction as the engine hummed to life afterwards. John hadn't known anything about cars, but it warmed him to see her caught up in her enthusiasm. She would practically glow with it on those days, and John loved her all the more for it.
+
+Sherlock glows with it, too.
+
+Sherlock almost fucking vibrates with it, and John can't look away, not even for a moment. Sherlock holds a small sliver up to the light, so focused he's probably forgotten that John is even here.
+
+"Is that what we're here for?" John asks. He peers at it, trying to see what Sherlock's seeing.
+
+Sherlock hums at the back of his throat. "Possibly," he says, and then he's off again with John doing his best to keep up.
+
+---
+
+In medical school, they received a lecture during their first days of Advanced Alchemy about the dangers of what they were about to learn.
+
+"What you will learn here will invaluable to your work as a doctor. In many ways, the human body works like a machine, one that pumps chemicals and moves bones and fires electricity over synapses. You will learn how to fix that machine, how to keep it in perfect balance. It will become tempting, over time, to believe that your understanding of this machine will allow you to go further than what we will teach you. This isn't true."
+
+Never once did the lecturer ever utter the words "human transmutation," but it wasn't necessary. All alchemists knew there was one place they should never go.
+
+It was true, what she had said. The lines between the medical transmutation they learned and human transmutation itself were thin. John sometimes imagined that they were balanced on a knife's edge, waiting to cut you open, waiting to make you bleed.
+
+---
+
+John takes a long, deep breath, feeling a lightheaded rush of blood through his system. Sherlock is quiet and tense beside him, eyes especially eerie in the dim light.
+
+Down the alleyway, they can hear the assassin who's chasing them, his heavy feet loud on the pavement.
+
+"We're going to have to go through him," John says.
+
+Sherlock nods and begins to draw a circle with the chalk he always carries with him, but there's no time for that. John slaps his hands together, then presses them against the ground. He pulls up a wall between them and the assassin just as he begins to shoot at them, pulling the extra mass from the patch of ground underneath the assassin's feet. Sherlock smirks at that, the swearing and cursing and confusion as he and John slip past, disappearing once again into the night.
+
+Afterwards, John tries not to remember the way it felt to be in Afghanistan, with bullets flying overhead and blood rushing underneath his skin. Maybe it's true what Mycroft says, that John misses it even after what he's lost, that John still wants it back.
+
+---
+
+"Tell me about her," Sherlock asks one morning as John's coming down the stairs.
+
+John is still too sleepy to properly process anything. "Who?" He's still operating on autopilot as he reaches for the kettle and the teabags.
+
+"Mary Morstan," Sherlock says. "Do try to keep up,"
+
+John freezes in place, hand still on the handle of the kettle. "You want me to tell you about her?" He cannot imagine what Sherlock wants to know. Maybe he already knows all of John's secrets and wants confirmation of his cleverness. Maybe he wants to exploit John's emotional vulnerability for some reason, break John down to get at some other information.
+
+"You were in love with her. You had an intense emotional reaction to her death," Sherlock says. His eyes are fixed on John's face, staring through him, cataloging every twitch and passing expression. "I want to understand it."
+
+God, Sherlock was the only person John knew who would need to make a study of what *love* felt like. It's absurd, and John wants to laugh. He's tempted to lie or obfuscate the truth, to making something up that's almost as convincing as the real thing. His memories of Mary are all he has left since the military cleaned out her locker and sent all of her possessions back to her parents. This is a part of himself that Sherlock shouldn't be able to demand of him.
+
+"I met her when she came in with a shard of glass in her palm -- apparently she was playing basketball with some of the Americans when she fell onto the pavement -- and after I cleaned it out, she told me I was cute," John says, finally. "Then she asked me out on a date."
+
+Sherlock listens, completely rapt, as John tells him about Mary's nail polish collection, the cardboard box full of small glass bottles that she only pulled out for special occasions. John tells him about Mary's laugh, too loud and too nasal, but still so wonderfully a part of her that John had loved it all the same. John tries to explain the way it felt to look at Mary in the mornings, with the sun on her hair, and the broad smile on her face, the way it had made his life seem like it was worth living even when things got really bad, even when he couldn't remember why he was here in the first place, why it had seemed so important that he serve.
+
+"And then what happened?" Sherlock asks when John gets to the end, to the message over the radio that had almost frozen John's blood in his veins.
+
+"I found her dying. She'd been shot," John says flatly. "We were in a war zone. It wasn't a surprise."
+
+Sherlock tilts his head, recording this in his hard drive. John looks at the ground, rubs at his eyes to push back the tears. He never did make that cup of tea. It takes Sherlock a moment to pick up on John's discomfort. "Oh, yes. That's all I need. Thank you."
+
+John nods and disappears back into his room so that he can sit on his bed and stare at the ceiling. His breath is ragged in his chest and in his throat, still imagining that he can will the pain away.
+
+---
+
+There's something different to 221B Baker Street after John tells Sherlock about Mary. John relaxes now that Mary's no longer a secret, no longer something he has to keep carefully away from Sherlock. Sherlock, for his own part, decides to be less of a prat. His experiments take up less space in the kitchen. There are fewer requests for help while John is at work. Sherlock doesn't use any of what John said against him, not even the part where John admitted that there are pictures of him in a mullet somewhere on the internet.
+
+There's still an empty space in John's story, the part between Mary's death and John's arrival in the basement of St. Bart's. John knows that Sherlock must be curious about that. Sherlock is remarkably adept at filling in gaps in stories, at piecing together stray bits of data, but John hasn't given him enough to put it all together.
+
+It's on the tip of John's tongue, though. It's only a matter of time before whole truth comes out.
+
+---
+
+"She was in a car park recently; you can tell by these marks on the laces and the mud on the soles of her boots," Sherlock says, twirling about the crime scene. "She must have left them behind after her meeting."
+
+John places his hands on the body, trying to get a sense of the cause of death. Dead bodies are more difficult to get a read on. They don't operate the same way living ones do. Still, John finds traces of potassium chloride in the vascular system, most likely from an injection to the arm. John can get a bit of a read on the puncture wound.
+
+Sherlock is still speaking when John pulls himself back out of the body. "In a moment, Dr. Watson is going to confirm my hypothesis about the injection to the upper arm," he says.
+
+John doesn't mind that Sherlock is ruining the surprise for everyone -- not Lestrade's team this time, some other DI named Gregson -- because it's amazing just to see how Sherlock's mind works, how quickly he puts everything together. "It was an injection to the upper arm," John says. "I also found traces of potassium chloride in his system."
+
+Sherlock beams at him, an expression that is both surprisingly lovely and somewhat unsettling. John smiles back, because there's something infectious about Sherlock's good moods, about the way he gets caught up in his own brilliance. When John is feeling honest with himself, he admits that he's more than a little addicted to the experience. Sherlock says, "I think I know where we can find her supplier," when they get away from the police and their prying eyes.
+
+"Then what are we waiting for?" John asks, and then they're off again.
+
+---
+
+John sometimes wonders if Sherlock has sex, if he enjoys it.
+
+There's been no shortage of offers, as far as John can tell, from Molly Hooper on the first day they met to the automail mechanic with the ink stains on his fingers just last week. Sherlock barely seems to notice their attention. It's obvious that the work always comes first for Sherlock on emotional terms. The idea that Sherlock could ever genuinely care about another human being seems odd, like John's mind can't quite make sense of it. People are just fleshy bags of interesting evidence to Sherlock, as far as John can tell.
+
+Sex, on the other hand, doesn't require any emotional investment at all. John figures that Sherlock must have tried it at least once, maybe when he was younger, still in uni, perhaps. John can imagine that younger Sherlock, bright-eyed and eager to pick apart the entire universe, not entirely grown into his arms and legs.
+
+He'd have been irresistible, then, just like he's irresistible now. Less so, maybe. John likes men who wear their own skin comfortably, who know themselves and what they want.
+
+Not that John understands anything like that. He'd loved Mary with an intensity that had taken him by surprise. Now that she's gone, he feels cut off, adrift in the sea of human relationships. He doesn't know what to look for in romantic partners any more. He doesn't even know if he wants to look in the first place.
+
+Maybe that's why he likes being around Sherlock, who demands a lot of John, but who doesn't ask John for anything that John isn't willing to give.
+
+---
+
+The second they step into the room, John knows exactly what happened, what the cause of death is. He can smell it. That particular mix of blood, candle wax, human excrement, and something else, something undefinable, has burned itself into John's brain. He resists the urge to be sick all over the floor when he catches sight of the circle painted with careful white lines and the remains of the man who attempted the transmutation right next to it. His body had been ripped in half; the legs are by the window and the head and arms are by the sofa. There's a lump of vaguely organic matter in the center of the circle.
+
+"You already know what happened here," Sherlock says. "You barely even needed to look." His voice is soft, almost gentle. John doesn't understand that, but he doesn't understand Sherlock all that much these days.
+
+They've been following a lead on another case, possible kidnapping, a father who took the kids and never came back with them. Now they know why. "Yes," John says. "They died, probably by accident--"
+
+"The lake," Sherlock offers, because that's where they found the clothes, blood on the shallow rocks. No bodies, though. They thought they might find the bodies here.
+
+"-- and he wanted them back." John feels the bile rising in his throat, like it's choking him. He's certain that Sherlock has deduced what happened, but John needs to say it, needs to confess his own sins. "He tried human transmutation, and it killed him."
+
+Sherlock is still and silent for a long moment. Usually, he'd be hopping about the crime scene, trying to piece together a mental recreation of what happened. He's not, right now. He's waiting for John.
+
+"It didn't kill me, when I tried it," John says, and it all has to come out now, because he won't be able to work up the nerve ever again. "It almost did, but it just took part of my shoulder and my leg. That was the price for the knowledge behind the gate." He can't bear to look at Sherlock's face, at what it must look like. His palm is sweaty on the handle of his cane. "You can't create souls out of carbon and oxygen and nitrogen, much less pull them back from where they've gone." John swallows. "If he had survived, he would have known how to do alchemy without a circle as well."
+
+"Can the technique be taught?" Sherlock asks finally.
+
+John wants to laugh around the pain in his chest, because of course that's what Sherlock wants to know. "No," he says. "It's knowledge that comes at a price." He closes his eyes, because it's too much. It feels like he's been numb since he faced down the gate, all of the feelings shut away, but now someone has shoved a knife into him, and all his emotions are spilling out. "It's not worth it, Sherlock. Don't even consider it. I know that it's all very new and fascinating and unexplored and all of that, but if you try it, it will be the most idiotic thing you will ever do in your entire life." John's hands are gripping Sherlock's coat now, fingers tight around the wool. Sherlock's looking down on him with an expression on his face that John can't read. John feels like tearing Sherlock open so that he can understand, feels like tearing himself open so that Sherlock can see all the broken pieces inside of him.
+
+"That wasn't what I was asking," Sherlock says. He places a hesitant hand on John's shoulder, like he's trying to mimic something he's seen done before, but hasn't ever done himself. It's a reassuring weight, the presence of another human being, even if it's just Sherlock, and John wants in closer. He wants in closer because he needs to remember what it's like to be a real person, with real skin and real nerves and real hands and fingers and bones. Sherlock's the only person who knows, now, and that means something, even though John doesn't know what.
+
+"Good," John says. He forces his hands to unclench from Sherlock's coat, forces his breathing back to normal. Sherlock doesn't pull his hand away, and his mouth is turned upwards into an almost comforting semblance of a smile, like he understands that John needs this on some level.
+
+And for the first time in a while, John thinks that maybe somewhere inside Sherlock is the ability care about someone else, that maybe Sherlock may actually care about *him*.
+
+---
+
+John half-expects Sherlock to stop watching so intently, now that John has told him the whole truth, but Sherlock doesn't. Sherlock seems to want to study John *more*. It's not just when John does alchemy any more. It's when John's making tea and when John's trying to interview a witness and when John nods off while on trains. John hopes he hasn't grown an extra head without noticing or something like that, because he can't figure out what Sherlock finds so interesting.
+
+There are cases to chase still, and John settles back into London, and he feels, for the first time in a while, strangely, inexplicably happy. He gets a therapist, a new one, a London one. After Mary's death, he'd been put in counseling for a while. During those sessions, John sat quietly for the entire mandated time, picking at a loose thread on his shirt while the counselor had looked steadily on. This one's different, though. John actually wants to talk to her.
+
+John spends a lot of time waiting for Sherlock to ask for details of the transmutation itself. What methods did John use? Where did he make the attempt? What was the final result? It's the grandest experiment of all, really. To know a human being so well that you can recreate one. Isn't that a dream worth striving for?
+
+Sherlock doesn't ask, though, so John doesn't tell him about the dusty, abandoned, half-destroyed building that he worked in. He doesn't talk about how he'd carved the circle into the ground with his knife, the not-Mary thing that had been waiting for him when he'd woken up.
+
+"I think you need to learn to let go of your past," John's therapist says, one quiet morning as John talks about the color of Mary's eyes.
+
+John thinks on that for a while, turning the thought over in his mind.
+
+She's right, of course, and John discovers that he's at least willing to try. He doesn't forget Mary, and his memories of her are just as vivid as they were before, but it hurts less to think of her. The ache is low and deep and throbbing, not sharp and bright and excruciating. Maybe this is what healing is supposed to feel like, like you're slowly rebuilding yourself, day by day, piece by piece. It's not easy, but John finds that he likes it.
+
+"Where are you going?" Sherlock asks one afternoon as John pulls on his coat, checking his pockets for his wallet and keys to make sure they're where he expects him to be. "Your session with your therapist isn't until tomorrow."
+
+"I'm going to talk to a mechanic about a leg," John says. He wasn't ready to do this before, but he's ready to do this now. He *wants* to do this now, because Sherlock can run awfully fast, and John wants to be able to run next to him.
+
+Sherlock smiles, a thin, uncertain thing, like he's not sure if he's allowed to be happy about it. "Ah, right," he says.
+
+"Don't wait up," John says, and then he smiles back.
+
+---
+
+The first time John kisses Sherlock, it's not a surprise. An anti-climax, really. Their lips meet, and their noses bump, and John laughs into Sherlock's mouth as Sherlock uses a hand to cup John's cheek.
+
+"Don't take this as a sign that I've forgotten about the transmuted pig liver in the cheese drawer," John says afterwards, while they're still standing in their kitchen, the remnants of breakfast still on the table, Sherlock's other hand still pressed against the back of John's neck.
+
+Sherlock rolls his eyes. "It'll take a week to determine--"
+
+"That wasn't a question," John says, holding up his hands. "I really don't want to know."
+
+Then Sherlock gets a text from Lestrade about a new case, and that means a cab, a crime scene, a chase through London streets, and even though everything should be different, it's not, not at all.
+
+---
+
+Being in a relationship with Sherlock is virtually identical to sharing a flat with him and going on cases with him except there's more sex.
+
+The concern for Sherlock's well-being isn't new. The arguments about the proper use of kitchen utensils aren't new. The theft of John's very illegal firearm isn't new. The transmutation circles in the bathtub aren't new. The assumption that they're a couple by people John's never met certainly isn't new.
+
+But the permission to slide his fingers into Sherlock's hair is new. The way Sherlock groans when John sucks on his cock is new. The raw, slightly painful, burgeoning feeling in John's chest is new.
+
+He's a bit afraid of it, this feeling in his chest.
+
+Sometimes he dreams of the road in the desert again, red blood still at his feet, but it's not just Mary's broken body he finds at the side of the road any longer. When John wakes from those dreams, sudden and violent and gasping for breath, Sherlock will curl an arm around his shoulders and tangle their legs together, a silent offer of comfort. John's never told Sherlock about what happens in those dreams. He suspects Sherlock already knows.
+
+With Sherlock Holmes, you see the war on the streets of London, and John's certain that it won't be a surprise this time, either.
+
+---
+
+"Look," John says, "I just want to ask you a few questions."
+
+The teenager -- more of a boy, really -- doesn't seem convinced. He's shaking as he holds the knife out, terrified and uncertain. John tries not to make any sudden movements, keeping both hands in sight. Back alleys are bad for this sort of conversation. No one is very reasonable when backed into a corner, the inexperienced least of all. "I don't believe you," the boy says.
+
+"I'm not here to--" John starts, but then there's a sudden burst of sound from the skip behind the boy. Just a cat rattling about, probably, but it's just enough of a distraction for John that he doesn't see the knife as it's coming towards him, as it slides into his chest.
+
+It doesn't hurt at first, but then pain explodes from somewhere in John's ribcage. He falls as the boy runs away, carrying the knife with him. John lands face up, jarring the air out of his lungs. John's vision goes fuzzy at the edges, his breathing too shallow. He knows he's losing too much blood, but he can't think, can't think. Seconds, minutes pass. Funny, John had come back to London expecting to die alone, and it seems strange to contemplate now. His shirt soaked with blood, sticking to his skin. The ground is hard underneath his body. The air smells vaguely of rotting tomatoes.
+
+"John!" a voice says -- Sherlock -- and then there are hands on John's chest, trying to staunch the blood.
+
+John can't move. It takes too much, more than he can give. He wants to grab Sherlock's shoulder, wants to press his nose into Sherlock's hair, but Sherlock is so far away.
+
+"You *idiot*," Sherlock says, which is just so bloody typical of him. John can feel the beginnings of a smile forming on his face. Sherlock's leaning over him, a dark splotch against the pale gray of the sky. Sherlock's lips are dry and chapped against his own as Sherlock kisses him.
+
+And then everything goes white.
+
+---
+
+
+ `From: sh@thescienceofdeduction.co.uk  
+
+To: mycroft@dsux.org  
+
+Subject: notes`
+
+
+
+`I know you have access to his notes. I want a copy.`
+
+
+
+`SH`
+
+
+
+ `From: mycroft@dsux.org  
+
+To: sh@thescienceofdeduction.co.uk  
+
+Subject: Re: notes`
+
+
+
+`You know as well as I do that his work was a complete failure.`
+
+
+
+`MH`
+
+
+
+ `From: sh@thescienceofdeduction.co.uk  
+
+To: mycroft@dsux.org  
+
+Subject: Re: notes`
+
+
+
+`I *am* quite a bit smarter than he was. I won't make the same mistakes he did.`
+
+
+
+`Give me the notes, Mycroft, or I will tell Mummy about Bolivia.`
+
+
+
+`SH`
+
+
+
+ `From: mycroft@dsux.org  
+
+To: sh@thescienceofdeduction.co.uk  
+
+Subject: Re: notes`
+
+
+
+`Really, Sherlock. Threats are so unnecessary.`
+
+
+
+`Expect the package next week, and do try not to make a mess of it.`
+
+
+
+`MH`
+
+
+
+ `From: mycroft@dsux.org  
+
+To: sh@thescienceofdeduction.co.uk  
+
+Subject: Answer your phone.`
+
+
+
+`While I know you detest these assignments, ignoring my calls will not put me off. Stop being so childish.`
+
+
+
+`MH`
+
+
+
+ `From: mycroft@dsux.org  
+
+To: sh@thescienceofdeduction.co.uk  
+
+Subject: I am tired of your games.`
+
+
+
+`Yes, it is very impressive that you have managed to slip by the surveillance detail, but I really do need to speak to you.`
+
+
+
+`Mummy is worried as well.`
+
+
+
+`MH`
+
+
+
+ `From: mycroft@dsux.org  
+
+To: sh@thescienceofdeduction.co.uk  
+
+Subject: Enough of this`
+
+
+
+`I will find you eventually, you know.`
+
+
+
+`MH`
+
+
+
+ `From: glestrade@met.police.uk  
+
+To: sh@thescienceofdeduction.co.uk  
+
+Subject: New Case`
+
+
+
+`I came by the flat and Mrs. Hudson said you hadn't been around in a while. Where the hell have you been?`
+
+
+
+`I've got a new case if you're interested. I know things have been hard, but we could really use your help.`
+
+
+
+`-Lestrade`
+
+
+
+ `From: sh@thescienceofdeduction.co.uk  
+
+To: glestrade@met.police.uk  
+
+Subject: Auto-reply: New Case`
+
+
+
+`If you're receiving this e-mail, it's because I haven't logged onto this account for 2 weeks, and I've got much better things to do at the moment than listen to your pathetic little problems.`
+
+
+
+`Alternately, I'm dead. Either way, I'm no use to you, and you might as well fuck off.`
+
+
+
+`This goes twice for you, Mycroft.`
+
+
+
+`SH`

@@ -1,0 +1,283 @@
+---
+ao3_url: https://archiveofourown.org/works/22387126?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Crowley (Good Omens)
+- Aziraphale (Good Omens)
+- Anathema Device
+date: '2020-01-24'
+fandom:
+- Good Omens (TV)
+notes: 'This is the result of me getting very into tarot for a brief moment in time
+  and somehow getting the wires crossed between Crowley pining and tarot readings.
+
+
+  Anathema uses the Rider-Waite-Smith deck here because it''s the classic and because
+  I''m sure this deck belonged to her mother or grandmother. I bet she has some of
+  the fancier, newer decks back in Malibu. I''ve also embedded the images of the cards
+  here. There is some nudity in it that may be NSFW depending on where you work.
+
+
+  Many thanks as always to everyone who dealt with me while I was writing this. I''m
+  sure I was very insufferable.'
+relationship:
+- Aziraphale/Crowley (Good Omens)
+summary: 'While stuck in a holding pattern after the world doesn''t end, Crowley gets
+  a tarot reading to tell him things he already knows.
+
+
+  (The Mortifying Ordeal of Being Known by a deck of cards.)'
+tags:
+- Tarot
+- Pining Crowley (Good Omens)
+- South Downs Cottage (Good Omens)
+- Divination
+- Embedded Images
+title: It's in the Cards
+warnings: No Archive Warnings Apply
+---
+
+"Well, you're probably the last person I would have expected to show up on my doorstep," Anathema says. She folds her arms across her chest and shoots Crowley a skeptical eyebrow.
+
+Crowley glares at her the best he can through his glasses.[[1]](#fn1 "The best he can isn't all that good.") "I was just-- you know, driving around." He waves a hand through the air in a vague gesture. "And somehow I ended up here." He considers turning around to glare at the Bentley as well, but the Bentley is no longer susceptible to Crowley's intimidation techniques, much to Crowley's chagrin.
+
+"That only answers about half of the question," Anathema points out.
+
+Crowley shrugs halfheartedly. He's not sure he wants to get into the long chain of events that have led him to this point, at Anathema's door.[[2]](#fn2 "Aziraphale had shooed Crowley out of the cottage several hours earlier for what Aziraphale described as \"malingering\" and Crowley described as \"lounging decoratively\". Somehow, \"yelling at his gardenias\" had turned into \"getting in the Bentley,\" which became \"driving around in the Bentley,\" and then along the way, it morphed into \"arriving at Jasmine Cottage\".") But now that he's here, he might as well make the most of his opportunity to annoy the resident humans, because it's a beautiful autumn day, and Tadfield is still irritatingly idyllic, and Crowley is itching to inject a little bit of demonic chaos into it.
+
+Anathema lets out a heavy sigh. "I guess you might as well come in."
+
+The inside of Jasmine Cottage smells like the inside of a New Age shop[[3]](#fn3 "Crowley is not responsible for New Age shops, but he <em>is</em> responsible for selling the owners ever increasingly ridiculous \"medicinal\" herbs whose only real value is to give humans and other mammals constipation."), like burnt incense and essential oils, but it looks like every other cottage in the area[[4]](#fn4 "Including, it must be said, Crowley and Aziraphale's own."): small and cozy, low ceilings and off-white walls. It's taken on personal touches as well. A family photo of Anathema with the rest of her family hanging in the foyer, colored crystals sitting on the bookshelves, scattered notebooks spread across an antique wooden desk.
+
+"So, uh, this is... habitable," Crowley says. He and Aziraphale haven't bothered to visit any of the nearby cottages yet. They've spent most of their time these past few months settling into their new home. Aziraphale's only place of residence for the last few centuries was the bookshop, and Crowley has been trying to figure out what sort of mass annoyance he can get away with when his closest neighbors are a flock of sheep and a mild-mannered goat.[[5]](#fn5 "In the plus column he has managed to make the goat cranky enough to kick someone in the crotch. In the minus column, that person was Crowley himself -- it was lucky he hadn't bothered to manifest any genitals at the time.") Neither of them are particularly skilled at small talk, but Aziraphale is the only one who bothers even the slightest bit with politeness. 
+
+Anathema snorts. "Are you sure you're the Serpent of Eden? You haven't even convinced me it's a good idea to let you inside."
+
+"I'm *great* at temptations when I want to be," Crowley insists, because even if he's retired, he still has some professional pride. "Used to get loads of commendations from Downstairs."
+
+Anathema raises an eyebrow. "Uh huh," she says. "Anyway, I guess I should offer you some tea. That's the English thing to do, right?" She doesn't bother to wait for an answer, just turns on her heel and leads the way deeper into the cottage.
+
+Crowley follows her, mostly out of a lack of any better options. The kitchen of Jasmine Cottage is much the same as the rest of it. A row of glowering family portraits line the walls, most likely of the less-fun side of the Nutter clan. A vase sits in the middle of the center table on top of a checked tablecloth, sprigs of fresh herbs poking out over the rim: rosemary and coriander and myrrh. Also sitting at the table is Computer Boy, the one with the glasses and the perpetually confused expression on his face. He's wearing some kind of tech company t-shirt, and he has half a slice of toast shoved into his mouth, and he freezes when he sees Crowley. "Uh," he says through a mouth full of toast. "I didn't realize that we, um, were expecting visitors this early." 
+
+"We weren't," Anathema says. "This one decided to show up unannounced." She jams a finger in Crowley's direction. Crowley gives Computer Boy a jaunty little wave and a flash of his fangs.
+
+Computer Boy pales slightly, but he does finish chewing his toast.
+
+While Anathema goes off to busy herself with the kettle, Crowley pokes around the counters and shelves. There's the usual sorts of kitchen things: pans and plates and salt shakers. There's witchy things as well: a pestle and mortar, offering bowls and chalices, a cedar chest tucked into a far corner. He also finds a deck of cards sitting on the counter. It's larger and thicker than the deck of playing cards that Aziraphale carries around for his silly magic tricks. It looks well-used, the edges worn, but also well-cared for. The stack sits neat and even, and none of the corners are bent or misshapen.
+
+"Oh hey, you found my tarot deck," Anathema says from somewhere behind Crowley's shoulder. "I have plans to do some readings later today."
+
+"They're just a bunch of playing cards, you know." Crowley had loved playing tarocchini with merchants while getting rip-roaring drunk in Florence in the 15th century. It had been a fun time but nothing worth pretending had divination properties. Of course humans had to go and decide they'd become masters of the occult while he was taking an extended nap.[[6]](#fn6 "Crowley has many opinions about the Order of the Golden Dawn, almost none of them good. He can report for a fact that there is a special place in Hell for one Alestair Crowley -- not the least because that bastard had the temerity to swipe Crowley's name and then get up to all sorts of useless nonsense while wearing it.")
+
+When he turns to look at her, the slightest hint of a smile crosses her face. "It's a tool," she says, shoving a steaming mug into Crowley's hands. "Its power is in the energy it channels from us. Did you want a reading yourself?"
+
+"Nah," Crowley says. Some part of his reptilian brain is ringing warning bells, but he refuses to let a human get one up on him, inadvertently or not. His already slouchy posture gets slouchier.
+
+The almost-smile on Anathema's face turns into a full-blown smirk. She grabs the deck off the counter and waves it in front of Crowley's nose. "Oh, are you scared? Like you said, it's just a set of playing cards."
+
+Crowley hisses at her. "'Course I'm not *scared*."
+
+"Oh yes, I can tell how unafraid you are," she replies as she settles in at the table and shuffles the cards with practiced ease. "I understand it. It's always difficult to hear truths you don't want to hear."
+
+"There's nothing that deck could tell me that would bother me in the slightest," Crowley scoffs. He takes a casual sip of his tea. It's some sort of fancy Starbucks chai thing.
+
+"Then it's not a problem for me to do a reading for you, is it?" she asks.
+
+Computer Boy has finished his toast, and he hops up out of his chair. "I'm just, um, going to be in the, uh, other room." He dashes out of the kitchen before anyone can stop him.
+
+Crowley stares Anathema down[[7]](#fn7 "This is also made much less effective by the sunglasses."), but she just meets his gaze with a placid -- if also smug -- expression.(It is particularly distressing to Crowley that his normal demony powers of intimidation are ineffective against her. He would be loathe to admit it, but he is worried that he's losing his touch.) With a huff, he decides it's easier to give in -- he's never had a tarot reading before, and it could be something new, novel. He grabs the chair recently vacated by Computer Boy and settles into it. He leaves the mug of tea on the counter, because he's never been fond of drinks unless they're alcoholic.
+
+Anathema gives the deck a few more shuffles before placing it face-down on the table between them. "Tap it," she says.
+
+"Tap what?" Crowley snaps. He's already here, isn't he? What the hell does he need to do anything else for?
+
+"The deck," Anathema says with a roll of her eyes. "Tap it. You have to make sure it's aligned to your energies."
+
+Crowley raps his knuckles on the cards and as far as his occult senses are concerned, no energies are involved, aligning or otherwise. "Happy?" he asks.
+
+"Yup." Anathema grabs the deck and gives it one more shuffle. "Do you have a question you'd like to ask the cards?"
+
+Crowley deliberately does not think about Aziraphale this morning at their own kitchen table, leafing through a thick hardcover -- from this century even, miracle of miracles -- spread open in front of him, the sunlight from the window catching in the halo of his hair and making him glow. He also refuses to think of this holding pattern they've been in since they've moved out of London, where Aziraphale putters around their cottage doing all the things he did back in his old bookshop -- reading his books, nibbling on his scones, moving stacks of knick-knacks from one corner to another under the pretense of 'cleaning' -- and Crowley watches and waits for a sign, any sign, that he can bridge this one last gap between them. "No," he says.
+
+Despite his skepticism, Crowley's corporation holds its breath as Anathema draws the first card. She lays it flat on the table. "This position is meant to represent you right now, in the present. It's the Eight of Swords." On the card is a woman, standing bound and blindfolded on sandy ground, eight swords shoved into the ground around her. "It represents feeling trapped, powerless." Anathema studies Crowley's face. "Sound familiar?"
+
+
+
+![Eight of Swords tarot card](https://i.imgur.com/H2PWRPm.jpg)
+
+
+
+"Not a bit," Crowley lies. Last night, before he went to bed, he had spent the evening talking with Aziraphale about bees[[8]](#fn8 "Other topics covered were: investment bankers, woolen socks, unfortunate tattoos, and that thing that happens when you say a word too many times and it stops sounding like a word."), and during a lull in the conversation, he had looked at the two feet that had separated Aziraphale's armchair from Crowley's favorite lounging couch, and it had felt like a yawning chasm, impossible to cross.
+
+Anathema hums and draws another card before laying it horizontal over the first. "This is the challenge, the problem you're facing. The Hierophant is a figure of order and tradition and religion." She laughs. Crowley refuses to let himself react. "I'm sure you have your own interpretation."[[9]](#fn9 "Of course it is distressingly literal, but Crowley would much rather cut off his own tongue than admit that.")
+
+
+  
+
+![The Hierophant tarot card](https://i.imgur.com/z3Ky7GE.jpg)
+
+
+
+The figure on the card looks like a Pope, all fancy robes and silly hat. Crowley has always been fond of Popes. They're always the most fun -- and frequently, the easiest -- to tempt into all sorts of sins. Some days he misses being able to drop in on the Borgias when he's in a mood. Those bastards knew how to throw a wild party. Aziraphale had preferred Venice at the time, but his sour distaste could be felt from clear across the Continent.
+
+Another card, placed to the left of the crossed cards. Lightning striking a building, setting it on fire as a few figures leap to their deaths in the foreground. "The Tower," Anathema says, "represents upheaval, traumatic change. It's one of the most dramatic cards of the Major Arcana. This is the position of the recent past."
+
+
+
+![The Tower tarot card](https://i.imgur.com/7ezzoHl.jpg)
+
+
+
+"Don't need some cards to tell me the world almost ended," Crowley snorts. It didn't get much more upheaval-y than that, did it?
+
+Anathema shrugs as if she hadn't also spent a whole day panicked and terrified on an army base, trying to avert the Apocalypse. "Sometimes it's useful to be told things we already know."
+
+The next card is placed to the right of the cross. "The near future. The Two of Swords. A difficult decision needs to be made."
+
+
+
+![Two of Swords tarot card](https://i.imgur.com/AxHTHW1.jpg)
+
+
+
+"What's with all the blindfolded women with swords?" Crowley asks. In this one, she's sitting down, the swords crossed across her chest.
+
+"The suit of Swords are all about action, change, conflict. The ones that are tuned to your energies are all about inaction and stasis, hence the blindfolds." Anathema looks at him with something almost akin to pity, and Crowley hates her, just a little bit.
+
+Crowley scowls some more. This is fine. He's great at decisions. He made the decision to visit the angel on the Eastern Gate after his first great temptation. He made the decision to propose the Arrangement so he could see Aziraphale more often. He even suggested the cottage after the Apocalypse didn't happen, made the decision to leave London for a bit during their semi-retirement. Whatever comes next should be easy. Nothing to be worried about. Maybe he just has to help Aziraphale update his wardrobe, just has to make that terribly difficult decision about whether Aziraphale should go with blue or cream for the color of his next waistcoat.
+
+The next card is placed above the cross, this one displaying a pair of humans holding cups underneath a caduceus and the head of a chimera. "This card is in the position of the ideal outcome, the Two of Cups. It symbolizes partnership, balance, and love." Anathema smirks as she says it, and Crowley feels all of his stupid, useless organs doing acrobatics inside his stupid, useless human-ish corporation.
+
+
+
+![Two of Cups tarot card](https://i.imgur.com/J7eEeQD.jpg)
+
+
+
+It's unnerving, to feel laid bare like this, to feel raw and exposed by a silly human witch and her silly human playing cards. It's just-- a cold reading, like the little astrology blurbs Crowley convinced the humans to put in their newspapers, advice so generic that it could apply to anyone, anything. Who wouldn't want partnership and all that? Just because Aziraphale carves little bits and pieces out of Crowley's heart every time he smiles in Crowley's direction doesn't mean the cards know jack shit about him or his life.
+
+He resists the urge to hiss at the deck because he may be semi-retired, but he's still a demon and he's above petty resentment towards inanimate objects[[10]](#fn10 "The Bentley, if it were capable of vocalizing the sentiment, would vehemently disagree."). Instead, he meets Anathema's gaze and gives her the most nonchalant shrug he can manage.[[11]](#fn11 "This one actually isn't bad.")
+
+She draws the next card, putting Crowley -- briefly -- out of his existential misery, and places it below the cross. This one looks significantly more dour than the previous one. A moon hangs over a craggy beach as a figure holding a walking staff leaves a tower of cups behind. "Eight of Cups," Anathema says. "This is what's living in your subconscious, what's animating you right now. You've left behind things that no longer serve you and you're searching for a new purpose. You haven't found it yet, but at least you've cut ties with what's holding you back."
+
+
+
+![Eight of Cups tarot card](https://i.imgur.com/oqAKysc.jpg)
+
+
+
+Crowley has to object to this one in principle. He does have a new purpose, even after he and Aziraphale turned in their resignations[[12]](#fn12 "Though it is more accurate to say that they were fired -- a bit literally in one case.") to their respective employers after 6000 years of doing the barest minimum they could get away with. He's responsible for filling all the letterboxes in a five mile radius with useless flyers and for waging war on the squirrels that keep trying to eat his raspberries off his bushes and for arguing with Aziraphale about the varying quality of adaptations of Le Carré novels late into the night.
+
+Anathema draws another card, and instead of placing it on one of the axes of the cross, she lays it to the bottom right of the current configuration. It's a knight on a horse carrying a stick. The horse is orange and the knight's tassels are orange and the knight's tabard is an ugly shade of yellow. "This is some advice the deck is giving you. You have to tackle this problem like the Knight of Wands, with energy and recklessness and impulsiveness."
+
+
+
+![Knight of Wands tarot card](https://i.imgur.com/I7puBoD.jpg)
+
+
+
+The last few times Crowley was impulsive around Aziraphale he was told that (a) he was being ridiculous, (b) they're not even friends, and (c) he goes to fast. He wonders if Anathema would ever forgive him if he were to set the deck on fire and then grind the ashes beneath his heels for good measure.
+
+The next card is placed above the knight so that the cards are arranged in a column. This card also has sticks on it, planted into the ground and decorated with garlands of fruit and flowers. There are people in the background holding flowers as well. Anathema continues, "This card is meant to be your current environment, the outside energies that you're working within right now. The Four of Wands is all about the home, a happy one full of celebrations and friends and family."
+
+
+
+![Four of Wands tarot card](https://i.imgur.com/3sORZ5X.jpg)
+
+
+
+It was last week, perhaps, when Crowley had found a half-drunk mug of tea cooling on the window sill in the foyer, no angel in sight to lay claim to it. Aziraphale had probably been in the other room, chatting on the landline telephone to some other ancient book collector attempting to acquire even more books for their already overflowing shelves.[[13]](#fn13 "At one point Crowley thought he could keep up with the rate at which they were multiplying by miracling up more bookcases, but for some reason that just made them multiply faster.") Crowley had looked at the mug, just sitting there filled with cooling tea, and he had thought about Aziraphale standing in that same spot, gazing outside while radiating a sunny contentment as he sipped his ridiculous leaf beverage, and Crowley had felt so much it had physically hurt, like his puny human body couldn't contain all of its feelings and was bursting at the seams trying to hold all of it in.
+
+Anathema draws another card and places it above the Four of Wands. There's a column forming to the right of the cross now.
+
+"Oh, come on. We both know that's not what he looks like," Crowley says. The card is labeled "The Devil" but it's an absolute shit portrayal of him. Lucifer had never been a fan of satyrs, thought they were nasty little buggers, and while he did have a fondness for goats[[14]](#fn14 "Crowley has it on personal experience that they really must be the spawn of Satan."), he had never bothered sticking their legs onto any of his corporations. This drawing of him also has an embarrassingly small number of horns compared to the real thing. Oh, and the humans chained up in front of him? That's a laugh. The old man had never tortured a single human soul when he could foist it off on some other demon in his vicinity. Crowley asks, "What's he meant to represent?"
+
+
+
+![The Devil tarot card](https://i.imgur.com/5RwLEfe.jpg)
+
+
+
+"The Devil is meant to represent unhealthy attachments. You know, addictions, destructive behaviors, things like that. This is the hopes and fears card. Maybe it's meant to be about you holding onto things long after you should. Maybe it's meant to be about a fear that you'll fall back onto destructive behaviors. Or maybe it's being literal." She shrugs. "This one's always a tough one to crack."
+
+"No clue," Crowley says, and he does not mention six thousand years of trying and often failing to get Aziraphale's attention. All those schemes that were calibrated to be just bad enough to get Aziraphale to show up for a thwarting but not so bad that Aziraphale would be *genuinely* cross at Crowley for them. Invitations to every kind of meal he could discover-- or invent -- just to see Aziraphale's expression brighten and his mouth curl into a delighted smile. Every single way Crowley could twist himself up into knots just for the mere possibility Aziraphale would be pleased with him afterwards. Would he keep doing it forever? Well, he's been at it this long with no possible end in sight, and he's still doing it.
+
+He also doesn't mention that Satan is *definitely* pissed at Crowley for his whole screw up with misplacing his son and then assisting said son in thwarting Armageddon, so he's not willing to count out the literal interpretation yet either.
+
+"Just one last card," Anathema says, "the final outcome." 
+
+"Yeah, yeah, yeah. Get on with it." Crowley refuses to hold his breath or let his fingers twitch or to do any of the things his body attempts to do in anticipation.
+
+With a theatrical flourish, she flips over the last card, placing it at the top of the column. Crowley can only blink at it in bafflement. It's of a young man carrying a sack over one shoulder, standing at the edge of a cliff, one of the only tarot cards he recognizes. The Fool. He does look like an idiot, to be honest, blissfully unaware of anything.
+
+
+
+![The Fool tarot card](https://i.imgur.com/qtUXREo.jpg)
+
+
+
+"The first card of the Major Arcana. The Fool represents new beginnings, new opportunities, the start of a new journey. Stepping out into the unknown." Anathema leans back in her chair for the first time since she started the reading.
+
+"So what does it mean?" Crowley asks. He looks at the cards laid out in front of her, this blur of words and images and meanings, and he tries to make sense of it.
+
+"It means whatever you want it to mean," Anathema says. "The cards are just a tool, remember?"
+
+There's a banging on the front door, pulling them both out of their reverie. Computer Boy apparently answers it, because the kitchen fills with children, the Them chattering away and arguing about magic as Dog bounces happily at their feet.
+
+Anathema sweeps the cards up off the table and shuffles them back into the deck, and Crowley, much to his own annoyance, is almost a little sad to see them go.
+
+Pepper elbows Brian out of the way and settles in one of the chairs. "I get to go first. I want to know what I'm getting for Christmas," she demands, staring at Anathema with big, round eyes. The rest of the children circle around the table, eager and curious to see what happens next.
+
+Anathema laughs. "Of course," she says, redirecting her attention. "Let's see what the cards have in store for you today." She does a few showy, extravagant shuffles of the cards that would make Aziraphale jealous, and the children "ooooo." Everyone seems to have decided that Crowley is an inconvenient bit of furniture and are ignoring him to the best of their abilities[[15]](#fn15 "Which, it must be said, are very impressive.").
+
+He decides that it's as good a dismissal as he's likely to get, so he might as well wander out the way he wandered in, through the front door and back out to where the Bentley is waiting for him. Anathema spares him one last glance before he leaves, her expression turned knowing and sympathetic after all her needling. That's humiliating enough to be a good cue to beat a hasty retreat.
+
+Crowley drives[[16]](#fn16 "The Bentley, if asked, would say he did absolutely none of the actual driving.") back to the cottage, *their* cottage, without any detours this time. He finds Aziraphale in the sitting room, curled up in the exact same armchair Crowley left him in, the exact same giant leather-bound tome spread open on his lap. Crowley allows himself five seconds of self-pity over the fact that Aziraphale has been too distracted to miss him. But then Aziraphale looks up at the sound of his footsteps and beams, lighting up not only his face and the room but probably the entirety of southern England as well.
+
+"Oh, Crowley, you're back!" Aziraphale says. "And you're looking much more settled as well. I said the fresh air would do you good."
+
+Crowley ambles forward. "Wasn't too bad," he says. He ends up standing next to the arm of Aziraphale's chair, with Aziraphale looking up at him with those soft, earnest eyes of his, somehow made happier just by Crowley's presence.
+
+"I do hope you enjoyed yourself," Aziraphale says. "I know I can be... a bit dull, when you're so used to moving, um, faster." He fiddles with his bookmark, which he's had since 1947. It's faded and fraying at the edges. He bites at his bottom lip, clearly nervous and trying not to show it. With a sudden clarity, Crowley can see that Aziraphale is also caught, tangled up in millennia of rules and restraint, unsure of how to move forward, of how to escape.
+
+Crowley thinks of the Swords and their sharp edges, thinks of being trapped and held between one thing and the next, of being the one to lift the blindfold and see what's really in front of him. He thinks of that rubbish, reckless Knight of Wands wanker with his ugly tabard and the Hierophant with his silly hat, the stranglehold of tradition. He thinks of sticks planted into the ground, rooted and growing, and about this house, this home that he's made for himself, for the both of them together. He thinks of the Cups, of partnership and survival and moving on. And in the end, he thinks of the Fool, ready and willing and unafraid to step off that cliff and into the unknown. He takes a deep, unnecessary breath. "Don't be an idiot, angel," he says. "I love you just as you are."
+
+When he leans over to press his mouth to Aziraphale's, he can feel Aziraphale's smile against his lips.
+
+ 
+
+FIN.
+
+### Footnotes
+
+1. The best he can isn't all that good.[↩](#ref1 "Jump back to footnote 1 in the text.")
+
+2. Aziraphale had shooed Crowley out of the cottage several hours earlier for what Aziraphale described as "malingering" and Crowley described as "lounging decoratively". Somehow, "yelling at his gardenias" had turned into "getting in the Bentley," which became "driving around in the Bentley," and then along the way, it morphed into "arriving at Jasmine Cottage".[↩](#ref2 "Jump back to footnote 2 in the text.")
+
+3. Crowley is not responsible for New Age shops, but he *is* responsible for selling the owners ever increasingly ridiculous "medicinal" herbs whose only real value is to give humans and other mammals constipation.[↩](#ref3 "Jump back to footnote 3 in the text.")
+
+4. Including, it must be said, Crowley and Aziraphale's own.[↩](#ref4 "Jump back to footnote 4 in the text.")
+
+5. In the plus column he has managed to make the goat cranky enough to kick someone in the crotch. In the minus column, that person was Crowley himself -- it was lucky he hadn't bothered to manifest any genitals at the time.[↩](#ref5 "Jump back to footnote 5 in the text.")
+
+6. Crowley has many opinions about the Order of the Golden Dawn, almost none of them good. He can report for a fact that there is a special place in Hell for one Alestair Crowley -- not the least because that bastard had the temerity to swipe Crowley's name and then get up to all sorts of useless nonsense while wearing it.[↩](#ref6 "Jump back to footnote 6 in the text.")
+
+7. This is also made much less effective by the sunglasses.[↩](#ref7 "Jump back to footnote 7 in the text.")
+
+8. Other topics covered were: investment bankers, woolen socks, unfortunate tattoos, and that thing that happens when you say a word too many times and it stops sounding like a word.[↩](#ref8 "Jump back to footnote 8 in the text.")
+
+9. Of course it is distressingly literal, but Crowley would much rather cut off his own tongue than admit that.[↩](#ref9 "Jump back to footnote 9 in the text.")
+
+10. The Bentley, if it were capable of vocalizing the sentiment, would vehemently disagree.[↩](#ref10 "Jump back to footnote 10 in the text.")
+
+11. This one actually isn't bad.[↩](#ref11 "Jump back to footnote 11 in the text.")
+
+12. Though it is more accurate to say that they were fired -- a bit literally in one case.[↩](#ref12 "Jump back to footnote 12 in the text.")
+
+13. At one point Crowley thought he could keep up with the rate at which they were multiplying by miracling up more bookcases, but for some reason that just made them multiply faster.[↩](#ref13 "Jump back to footnote 13 in the text.")
+
+14. Crowley has it on personal experience that they really must be the spawn of Satan.[↩](#ref14 "Jump back to footnote 14 in the text.")
+
+15. Which, it must be said, are very impressive.[↩](#ref15 "Jump back to footnote 15 in the text.")
+
+16. The Bentley, if asked, would say he did absolutely none of the actual driving.[↩](#ref16 "Jump back to footnote 16 in the text.")

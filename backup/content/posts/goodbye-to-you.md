@@ -1,0 +1,422 @@
+---
+ao3_url: https://archiveofourown.org/works/20408692?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Blaine Anderson
+- Eduardo Saverin
+date: '2019-08-27'
+fandom:
+- Glee
+- The Social Network (2010)
+notes: 'Written for Sperrywink as part of Fandom Trumps Hate. Thanks once again for
+  the donation!
+
+
+  Thanks so much to merisushine36, for helping to bounce ideas over this and for betaing;
+  Dark\_Eyed\_Junco, for listening to me whine about my writing non-stop and for the
+  excellent cheerleading; everyone who gave me space and energy and time to push me
+  into finishing this when I was doubting myself, but especially silverandblue, for
+  demanding to know if I finished writing the orgasms yet.'
+relationship:
+- Blaine Anderson/Eduardo Saverin
+summary: Eduardo starts the night in a diner and ends the night at a karaoke bar and
+  maybe falls a little bit in love along the way.
+tags:
+- Crossover
+- Age Difference
+- One Night Stands
+- Singing Your Feelings
+- Karaoke
+title: Goodbye To You
+warnings: No Archive Warnings Apply
+---
+
+Over his many years of visiting New York, Eduardo did his best to avoid any and all of the tourist traps. The Empire State Building, the Statue of Liberty, the Brooklyn Bridge, even parts of Central Park. His friends in the area were also of the same opinion. They would take him out to Michelin star restaurants, new clubs so exclusive that there were D-list celebrities desperate to get in, bars that felt the need to come up with some fancy new twist to draw in new customers.
+
+But every once in a while, Eduardo was forced to do business with a newcomer to the city who wanted to, like so many newcomers to the city, do something that was quintessentially touristy. In this particular case, it was a dinner and a show on Broadway.
+
+That was how Eduardo ended up squashed into a booth at the Spotlight Diner, surrounded by middle-aged Swedes in frumpy business suits who were chatting politely and companionably to each other and to Eduardo in their lightly accented English.
+
+It was the only time Eduardo's schedule and their schedules managed to line up, a one day layover in New York City between Eduardo flying from Barcelona to San Francisco, at the tail end of a tech conference the Swedes had attended. Eduardo knew his assistant responsible for scheduling the dinner definitely deserved a raise for wrangling this much of a meeting at all, but he was feeling worn down, jet lagged and more than a little cranky from an unproductive trip to Spain. Still, he was able to listen to the Swede's pitch for their new modular wearable technology design with genuine interest. They were as excitable about it as they were about their particular dining establishment, and Eduardo couldn't help but respond to that sort of genuine display of emotion. 
+
+The diner was chintzy in a way that was entirely self-aware, like it was daring someone to accuse it of poor taste. Lots of deep maroon reds and shining chrome. A string of Christmas lights lining the stage placed in the center of the room. A grand piano was placed in the center of the stage. Framed posters of past Broadway musicals were plastered to the walls. The uniforms on the waiters and waitresses matched the decor, red and black polos topped with the best show smiles a performing arts education could buy.
+
+About halfway through the meal, interrupting Eduardo's well-rehearsed story about standing behind Mark's shoulder the first time he launched Facebook, a man stepped out onto the central stage and sat at the piano. Well, he was maybe more of a boy than a man. He couldn't be older than twenty-five. His dark hair was slicked down so severely that Eduardo wanted to visit the bathroom to make sure his own wasn't as obvious, but the boy's smile was bright, guileless and sweet.
+
+"Good evening, ladies and gentlemen," the boy said. He placed his hands on the keys and tapped out a simple scale. "How is everyone doing tonight?"
+
+The crowd responded with polite applause. The boy's smile didn't dim one watt. Eduardo was about to turn back to his story when the boy started to sing.
+
+At first, Eduardo couldn't place the song. It was slower, stripped bare to just a piano accompaniment, though the words were familiar. There was something generic in the melody, but it also struck a chord deep in Eduardo's memory, resonating on a frequency he'd almost forgotten he'd even had.
+
+It was an older song, a bit overwrought, from a woman who was trying to get over a breakup, saying goodbye to her lover and their relationship. He'd heard it blasting out of dorm rooms in college, lovelorn students playing it on repeat. He listened to it himself after his first college girlfriend dumped him for a senior. (And maybe once after that whole thing with Mark and Facebook and...) 
+
+If it had been playing on the radio, Eduardo could have brushed it off, let the brief bit of nostalgia pass him by, but it was the immediacy of the live performance, something in the raw emotion in the boy's voice. He was a performer who sang with his entire face, his entire body, as if every fiber of himself was given over to the performance. His smile had slipped away, only to be replaced by something between a frown and a grimace, his entire expression reflecting the feelings in the music.
+
+Eduardo didn't know him, had never seen him or heard him before, but he felt-- he *wanted* in a way he hadn't in a very very long time. Not since he was younger and stupider, at least. It had felt foolish then as well, the reckless way he had wanted things and had even believed he could have them.
+
+He took a deep breath and watched the boy finish his song. Eduardo clapped along with the rest of the diner as the boy stood and gave a deep bow, a grin spreading across his young face as he waved to the crowd. He stepped off the stage and disappeared back into a back room, still dressed in his waiter's uniform, and Eduardo had to force himself to stay seated, to keep himself from following after him.
+
+After the performance, the diner settled back into its usual rhythms, and Eduardo reluctantly turned back to his original conversation with the Swedes and his interest in investing in their startup. Throughout the night, he kept one eye out for the boy, who returned to being a waiter about halfway through dessert, as Eduardo was trying to understand a story that the excited Swedes were telling about running into Elon Musk at Burning Man. A nametag pinned to the boy's polo read "BLAINE".
+
+Eduardo did his best to focus on his guests as he polished off the rest of his cake, but his mind was clearly elsewhere, and the Swedes bid him good night after he finished paying for the meal so that they could make it to their show on time. Blaine was at the bar, chatting with the bartender. He smiled and laughed at something she said, his face lighting up with an untroubled brightness. Had Eduardo ever been that young? He couldn't remember.
+
+For the most part, Eduardo had never had problems picking up people. He had a lifetime of learning how to present himself, how to fit in, how not to ruffle any feathers, how not to be too awkward, too foreign, how not to be too *different* for the people around him. He knew how to approach people in a way that wasn't threatening. He knew when to pull back when he wasn't welcome any longer, when to cut his losses.
+
+There was one disastrous exception to that rule-- one that Eduardo was not particularly proud of, one that still tasted bitter in the back of his throat. (He still had trouble seeing Mark's name in the news, still got a sinking feeling in the base of his stomach when Facebook released their quarterly financials.)
+
+And now here Eduardo was, terrified to talk to a waiter, as self-conscious as he was when he first landed in America, a stranger in a strange land. He took one step forward, closer to the bar, and then stopped, unsure of what his next step would be.
+
+Blaine shook his head at something else that the bartender said before turning around so that he could resume his rounds. His eyes met Eduardo's from halfway across the room, and his lips quirked into a small smile. He crossed the rest of the way, stepping right up to Eduardo without the slightest trace of hesitation.
+
+"Hi," he said in his most pleasant customer service voice. "Can I help you with something?" His eyes were large and dark. His eyebrows were thick and expressive. Up close, he looked both older and younger than he did at the piano. There were the beginnings of laugh lines on his face, but his expression was open and welcoming.
+
+Eduardo blinked. "I, uh, just wanted to say that I really enjoyed your song, earlier."
+
+"Oh, you mean 'Goodbye to You'?" Blaine asked. Something in his posture relaxed. His smile brightened. "It's one of my favorite oldies."
+
+Eduardo did his best to hide his wince at that. "Uh, yeah. It was a great cover."
+
+"Thank you!" Blaine said. "It's always nice to hear from a fan." He leaned in closer and let his lashes drop a fraction, his tongue wetting his lips. "Especially the cute ones."
+
+It knocked Eduardo off-balance. He was still a bit new to doing this with other men, no matter how urbane he'd become or how far away from his parents and their disapproval he was. Even with spending time around Chris in college, he was never entirely comfortable with it, with this simmering *want* that had always felt too big, too ungainly to fit inside his skin. The few times he'd slept with men were few and far between, but he wouldn't consider himself a blushing virgin or anything. Still, it was rare for him to be straight-up propositioned by younger men. At least outside of Greenwich Village. "Yeah," he said, clearing his throat. "I'm Eduardo, by the way. When do you get off work?"
+
+Blaine tilted his head to one side. "I'm free at eight," he said. He held out a hand, and Eduardo obediently gave his phone over so that Blaine could program his number into it.
+
+"I'll text you then," Eduardo said. It was only an hour away, but Eduardo wanted to linger, wanted to see if Blaine performed again, wanted to be around to hear the emotion in his voice, wanted to watch the open expressions that crossed his face, wanted to drink all that rare honesty in while he could. He wasn't sure he could pull off any of that without coming across like a stalker, though.
+
+"Good," Blaine said, his smile small and intimate. "I'm looking forward to it."
+
+ 
+
+---
+
+Eduardo waited out the rest of the hour doing something he *never* would have allowed himself to do on a normal day: he hung around Times Square. Mostly, he sat on top of the TKTS bleachers and answered e-mails and checked his Facebook feed, ignoring the multilingual chatter of the tourist clustered around him. As the sun set, the technicolor glow of the screens and billboards illuminated the scene, giving it a picturesque quality, as perfect as a postcard.
+
+It reminded Eduardo of the summer he spent here on an internship, when he was much younger and much stupider, when he was here and not in Palo Alto, when Mark had decided to-- decided to do whatever the fuck he did. He'd been-- not happy, that wasn't quite the right word-- he'd been hopeful, maybe. All he could see was the possibilities of the future. 
+
+Now he was older and hopefully wiser. He owned his own company. He'd been part of startups that rose and fell. He had seen new generations of wide-eyed graduates from Harvard attempt to make their mark on the tech industry. And yet, here he was, being led by his dick all over again. (Except, with Facebook, with Mark, that hadn't been about his dick. With Christy, maybe it was, but Mark was-- Mark was something different, something far scarier.)
+
+He checked his phone again. The clock read 7:52 in crisp white letters contrasting against his phone background: a photograph of the view from his balcony in Singapore, the glimmering lights of a city amid a pink-blue-orange sky. He understood, from his years of experience, that it was a bad idea to be too eager, to show your hand too early. It was a game of chicken, almost. The first one to blink loses. He checked his e-mail again, then Facebook, then Twitter. He resisted the urge to jitter his leg.
+
+At 7:57, he got a text.
+
+**Blaine:** *Hi. I got out a little early.*
+
+Eduardo blinked at it for a moment before realizing that Blaine wasn't a businessman, wasn't another investor or a tech frenemy who Eduardo saw socially for networking reasons. Blaine was a kid who played piano in a Times Square diner who almost definitely wanted a career on Broadway and didn't give a shit about whatever power plays happened via digitalonline communication.
+
+He typed out a response.
+
+**Eduardo:** *Hey. Want to get a drink somewhere?*
+
+**Blaine:** *Sure*
+
+**Blaine:** *I could really use some coffee actually*
+
+The next text from Blaine was the name of a coffee shop that was only a few blocks away, on the edges of Hell's Kitchen, just far enough away to avoid most of the crowds.
+
+**Eduardo:** *Yeah I can do coffee*
+
+---
+
+Eduardo made it to the coffee shop first, despite his best efforts. It was cozy and quiet, this late in the day. A few people were camped out at their tables, staring grimly and blearily at their laptops, surrounded by empty coffee mugs and tiny plates littered with crumbs. The barista underneath the 'order here' sign was on her phone, a smile peeking out underneath her pierced upper lip. She looked up as Eduardo approached the counter, giving his suit and his haircut and his shoes a calculating once-over, and then, once her judgment had passed, took down Eduardo's order for a cold brew and a discounted muffin.
+
+Blaine arrived at the coffee shop a few minutes later. The front door tinkled as he opened it, drawing Eduardo's attention away from his caffeine. Blaine had changed out of his waiter's outfit into a neat button down shirt and a bowtie of all things. His hair was still severely gelled down, but it gave him an odd, timeless quality. Maybe it was what the kids wore these days. Eduardo was just far enough out of touch to find that sort of thing surprising.
+
+"Hey," Blaine said to him. His smile was smaller than it had been at the diner, but it almost felt all the more real because of it. He settled his bag down on the chair opposite Eduardo's and then went to order his own drink.
+
+He came back with a cup that was dark and steaming, and then he proceeded to dump two packets of sugar and an entire container of creamer into it.
+
+"Long night?" Eduardo asked.
+
+"Maybe wishful thinking," Blaine said. There was that look again, up from underneath his lashes. Eduardo wouldn't necessarily count him as being *good* at flirting, but he was charming all the same.
+
+Eduardo laughed, almost despite himself. "I guess we'll find out," he said. He found himself smiling back.
+
+They sat in silence for a moment, just sipping their drinks. Eduardo didn't want to look away from Blaine, couldn't look away, and Blaine didn't seem to want to either. "So, what brought you to the Spotlight Diner?" Blaine asked eventually.
+
+Eduardo shrugged. "Work dinner," he said. He wasn't in the mood for explaining about the Swedes.
+
+"That explains the suit," Blaine said with a nod. "Is that why you're in New York?"
+
+That made Eduardo wince and duck his head. "Do I really look that out of place?" That stark reminder of what it was like to not fit in anywhere.
+
+"No," Blaine said, "but when you're in my job, you get to meet people from all over. I've gotten pretty good at picking out the locals." His smile became smaller, a little more secret. He lowered his voice. "It was the shoes, actually. They were way too clean."
+
+"Oh," Eduardo said, thinking about the New York City sidewalks, the way they smelled in the worst heat of the summer. "Yeah, this was just a pitstop on my way to San Francisco tomorrow, but I did spend a few months here doing an internship years ago. I do come back from time to time for business meetings."
+
+"And what sort of business is that?"
+
+"Venture capital for tech startups, mostly," Eduardo said.
+
+A furrow formed between Blaine's eyebrows. "Huh, really?"
+
+Eduardo felt like an odd gap had formed between them, something cultural or generational. Something that could widen far enough to be a canyon if he let it. "I, uh, was one of the first investors in Facebook." It was a story he trotted out to impress people during parties. He'd managed to get the rhythms of it down such that it didn't even hurt to repeat it anymore. And yet, he didn't want to tell it that way to Blaine. It felt dishonest, somehow, even if Eduardo wasn't lying about any of it.
+
+The reference to Facebook seemed to spark Blaine's interest, at least. "Really? That's cool." Eduardo waited for the followup questions. ("What was it like? Is Mark Zuckerberg cool? What happened after that?") But Blaine only studied him with curious eyes and said, "What else have you done?" like he actually cared about the rest of Eduardo's career.
+
+Eduardo cleared his throat. "That's probably the only one you've heard of." There had been other startups, of course. Many of them were even still around and had made it through several rounds of funding, but Eduardo didn't know if Blaine wanted to hear about that. "How about you? What do you do when you're not at the diner?"
+
+Blaine let out a little laugh and a shrug. "I'm doing pretty much exactly what you'd think. Auditions. Side gigs. Sharing a place in Brooklyn with three other actors. I graduated from NYADA last year and I'm still trying to get cast in something."
+
+It sounded like hell as far as Eduardo was concerned, but so did getting up on stage and pouring his heart out to a crowd of strangers, and Blaine wanted to do that for a living. Hell, he was even currently doing that for a living. "Sounds stressful," Eduardo said. "I'm not sure I could do it myself."
+
+Another shrug from Blaine. Another smile. His eyes shone when he was happy. Another benefit of watching him up close. "It's not as bad as it could be. It's nice having other people around who understand what it's like. And it's-- it's worth it."
+
+Eduardo watched him, at the warmth on his face as he talked about it. "What's worth it?" he asked. He was curious, because sometimes he saw in others that conviction, that purity of purpose, but it was foreign to him. Eduardo did what he did because he was good at it and because it made him money, and that was really all he needed.
+
+Blaine turned his head to the side. His smile faded just enough to take on a wistful cast. "There's this feeling when you get up on stage or you perform in front of people. It's just-- I don't know how to explain it to someone who doesn't already know how it feels."
+
+Eduardo didn't know what to say to that, so he just nodded, trying to absorb it all. He'd given talks at conferences before, but that had always been more nerve-wracking and uncomfortable than freeing. All those eyes. All those expectations. "You're really good," he eventually said. "I'm sure you'll get something at some point."
+
+Blaine bit his lower lip. "I hope so."
+
+Eduardo's phone picked that unfortunate moment to buzz. He checked it, because it wasn't unusual for people to try to contact in a state of panic at all hours of the day and night, what with time zones being what they were. It wasn't urgent, thankfully. Just an invitation to a house party in West Midtown from a guy he met at a business executive retreat a few years back.
+
+Blaine raised his heavy eyebrows in question. "Important?" he asked.
+
+Now it was Eduardo's turn to shrug. "Just a friend who heard I was in town and wanted to invite me to a party." He would go if he had nothing else to do, but this coffee date, as new and as awkward as it was, did still count as 'something.'
+
+"You don't have to stick around on my account," Blaine said, "especially if you're not in town for much longer and you want to see them."
+
+Eduardo paused, checking Blaine for any trace of polite rejection, a chance to let Eduardo down easy, but his expression was earnest. It only took a second, but Eduardo made his decision. "If I do go, would you like to go with me?"
+
+That seemed to surprise Blaine. "Uh," he said, blinking, his open face broadcasting his hesitation. "Yeah. If you're sure."
+
+"I'm sure," Eduardo said.
+
+---
+
+The guy hosting the party was Cody Chandler, a big shot at a local venture capital firm, best known for tossing money at Seamless and Etsy in the early days. His wife was Angela Chandler, a COO for a rideshare startup that Eduardo could never remember the name of, but he was pretty sure it was billed as 'Uber for cats.'
+
+They lived in the penthouse suite of a towering condo building and had already shipped their two kids off to boarding schools. As a result, they frequently hosted parties for the movers and shakers in the local tech scene. Eduardo hadn't had the opportunity to visit one before, but he knew of them purely by reputation alone.
+
+The friend who forwarded the invitation was Tad Michaels, who ran in these circles because he liked to found startups with more ambition than technical or business know-how. He was on his fourth right now.
+
+Night had fallen when they arrived, and the party was already in full swing. Tad greeted Eduardo at the door with a friendly fistbump and a curious once-over of Blaine, who lingered a few feet behind Eduardo. It suddenly struck Eduardo that he would have to lie about why he was trailing a twenty-something in a bowtie behind him.
+
+"This is Blaine," he said. "He's, uh, one of our interns."
+
+Blaine blinked at first, but then a slow grin curled up one corner of his mouth. "Hi. Nice to meet you."
+
+Tad nodded at him with the vague condescension and disinterest he must also treat his own interns with. "I'm Tad," he said with a gesture towards the bar. "The drinks are over there. Help yourselves to some snacks."
+
+The main living room was surrounded on two sides by giant floor-to-ceiling windows that led out to a rooftop porch area. Half of the room was tastefully filled with couches and coffee tables, topped with fashionable throw pillows and art books, respectively. There was a large bar set up on one side of the room, manned by a neatly dressed bartender. Next to it was a table with neatly-plated platters of food spread out over it.
+
+The snacks were hors d'oeuvres: pigs in blankets, stuffed mushrooms, avocado toast. Blaine tried a few of them and made some appreciative noises to the politely smiling waiter standing behind the table. Eduardo got a bottle of fancy local microbrew from the bartender. Blaine, unsurprisingly, was carded when he asked for his own. Eduardo took the opportunity to peek at the ID and was relieved to see that it didn't *look* fake to his inexperienced eyes. He was also relieved to see that it said that Blaine was twenty-three years old.
+
+"It's a nice place," Blaine said to Eduardo, making a gesture towards the room. "There was this one time I got invited to a networking event for a big shot Broadway producer. It was a little bit like this."
+
+Eduardo shrugged and thought about how he would need to get something stronger than beer if he was going to survive the night. "Show offs are show offs in every industry," he said.
+
+Blaine tilted his head to the side to look at him. He looked as though he was about to say something, but then thought better of it.
+
+They made their way through the party. Eduardo chatted with some of his other New York acquaintances. He caught up on what extracurriculars their kids had been enrolled in, their newest jobs and their newest companies, the latest gossip and hubbub. The patter of the smalltalk was familiar and automatic. Blaine smiled in all the right places, asked all of the right questions, and otherwise blended in as well as any other intern would have, ridiculous bowtie and all.
+
+Eventually, the others drifted off into their own conversations, leaving Eduardo and Blaine to themselves in one corner of the outdoor porch. Night had fallen, but the city still glittered and hummed all around them. The sweeping skyscrapers above and the bustling streets below. It was early enough in the summer that the air was warm and dry, not filled with stifling humidity that settled over the city during the hottest months.
+
+"You're good at that," Eduardo said to Blaine, nodding towards the generalized partygoers and Blaine's interactions with them. "I can see why you're an actor."
+
+Blaine studied him with a curious look on his face, his brow furrowing. "I'm not doing anything special," he said. "What I'm doing, you're doing it, too."
+
+The statement drew Eduardo up short. He had never thought of it that way, as acting, even if he could see the truth in it. "You're a natural at it," he insisted. "You make it look easy."
+
+"So do you," Blaine said. He took a sip of his drink and continued to watch Eduardo, but his expression held no suspicion or wariness.
+
+It had never been easy for Eduardo, growing up, It had always been work. He learned each of them one by one, the rules and rituals of it all over the years while sitting in on parties just like this with his parents. His father liked trotting him out like an expensive trophy. Eduardo had learned when to smile and when to laugh and what was too affectionate and what wasn't affectionate enough.
+
+"It's different," Blaine continued, "when you're up on stage. Even though you might be someone else, you don't have to-- you don't have to hide anything anymore. You can just-- let it all out." Some of the polite mask Blaine had worn for the party had fallen away, leaving just the sweetness and openness of a boy who had sung about heartbreak to a diner full of tourists without the slightest bit of shame.
+
+Eduardo thought, then, about reaching out, about touching him in a way that would not be appropriate if Blaine really was an intern. Would his mouth taste as sweet as it looked? Would his hands be as warm? Would Blaine even let him, now that he had seen the world Eduardo lived in? "That does sound nice," he said instead. He leaned against the railing and looked out over the city again. Each pinprick of light against the buildings was a window, and there was a person behind each window, and each person had a whole life that they were just living. And not one of them gave a shit about Eduardo and his problems. It was freeing, in its own way.
+
+"It is nice. Better than nice. It's the best feeling in the entire world," Blaine said. He placed his hands on the railing as well, following Eduardo's gaze over rooftops and city streets, and his smile was far away.
+
+Eduardo said, "You don't have to stick around here on my account," because it felt almost cruel to keep someone like Blaine trapped here, at this party where he was forced to be smaller and quieter and less than himself.
+
+Blaine shrugged. "It's not that bad, but--"
+
+Eduardo turned towards him. "But?"
+
+"Some of my friends are heading to karaoke and they wanted to know if I wanted to go with them."
+
+"You should," Eduardo said. He liked the thought of Blaine laughing and smiling with his friends, having fun, experiencing the best feeling in the entire world with them.
+
+Blaine placed one hand on Eduardo's shoulder. It wasn't too intimate for the party, but it still felt-- it felt like it could be. "Come with me," Blaine said. "It'll be fun."
+
+And maybe it was the pleasant buzz Eduardo was getting from the alcohol, or maybe it was the jet lag or maybe it was just Blaine's presence, something new and young and maybe even a little special, but he said, "Sure, okay. Let's go."
+
+---
+
+The karaoke bar was dive-y in a way that Eduardo hadn't seen in a while. There wasn't a single shred of knowing irony accompanying it. The walls were brick and covered in neon. The floors had the faintest stick to them, the kind that even a thorough mopping couldn't get out for whatever reason. A stage was set up at the front of the room. A permanent fixture, it seemed, with a microphone stand flanked by a television screen.
+
+"Blaine!" a voice called out as soon as they stepped inside. A girl with long hair and a vaguely manic smile waved at them from a table. There were two other figures sitting with her, a boy and a girl.
+
+Blaine beamed at them and bounded over, leaving Eduardo trailing in his wake. They greeted him with hugs and easy laughter and even a complicated handshake. "This is Eduardo," Blaine said, tugging on the sleeve of Eduardo's shirt. Eduardo definitely felt overdressed for the company, even in his cheapest travelling button-down and his slacks. They all seemed so young, so excitable. Life hadn't yet had a chance to really wear them down.
+
+Eduardo was introduced to them one-by-one. The girl who greeted them was Rachel, a self-described diva who lived her life to become Barbara Streisand. She had already sung twice tonight, within the first hour, when most of the patrons weren't drunk enough to even consider it. The other girl was Santana, who was sharp-tongued, mean in a way that Eduardo remembered from his days in boarding school, always trying to assert her place in the pecking order. ("Don't tell me you've managed to find a sugar daddy already, hair gel. That's pretty pathetic, even for you.") The boy was Sam, who apparently was one of Blaine's best friends in high school and whose specialty seemed to be annoying Santana with his bad impressions of celebrities.
+
+Their chatter was pleasant and distracting, a list of names and places and things that Eduardo wasn't familiar with, but that they all had a common frame of reference for. It did remind him of his own college days, that easy camaraderie, that feeling of belonging. He drifted away from the table at some point to get himself a drink from the bar, something strong enough to get through the horribly out-of-tune version of "Wonderwall" that was being belted out on stage right now.
+
+When he came back, Rachel was shoving Santana towards the stage, and Santana was trying to hide her smile behind a scowl. Eduardo shot a look at Blaine, who said, "She's really good, but she likes to pretend karaoke is a waste of time." By the time Santana had her song cued up and she was standing in front of the microphone, she was smiling. It was more of a smirk than anything else, but it was a smile nonetheless.
+
+The music started up, a slow 90's ballad, and Santana closed her eyes. When she opened them again, her face was a mask of sorrow, and she sang a song about unbreaking her heart that Eduardo hadn't heard since his own high school days. "Her girlfriend broke up with her again," Blaine explained in a low voice. "They've been doing the on-and-off thing for years now."
+
+"Ah," Eduardo said, for lack of anything else to say. His last real breakup had been four years ago, though he'd tried a bit of dating in between, but he still winced in sympathy. He had been reeling from his epically bad, very public breakup for roughly a decade now, and he was even drunk enough to admit that to himself.
+
+Santana finished singing, closing her eyes as she belted out the final notes. She gave the audience a quick bow as they applauded her song. The smile returned to her face, a slow-motion fade-in, and it did seem like she was happier now that she had taken a turn at the microphone.
+
+"You should sing something, too," Blaine said. His eyes twinkled. He nudged Eduardo's arm with his elbow, and he was so very young and so very eager, and Eduardo didn't want to let him down, even if he knew he was going to.
+
+"Yeah, dude," Sam said. "You totally should." He had signed up to sing some Aerosmith, and he was now waiting for his turn at the mic. Eduardo had no idea of what to expect of his singing ability since apparently he was an underwear model most of the time.
+
+"I'm not nearly drunk enough to do that," Eduardo said. He took another sip of his drink and thought about getting another one. His alcohol tolerance really wasn't what it used to be when he was in college, but it wasn't bad, either.
+
+"I'll ask you again in an hour," Blaine said, and then he laughed.
+
+---
+
+An hour later, Eduardo had sat through at least five musical theater majors and/or graduates who belted out every solo note like it was opening night, a guy with a ZZ Top beard performing a slurred out version of Nickelback, and a group who attempted to do *Take Me To Church* where one person was a half a second too late on every word.
+
+Eduardo was also another two drinks in and had gotten into an argument with Rachel about the importance of social media as a means for self-promotion, when he dropped that he knew Mark Zuckerberg and had been a founding member of Facebook.
+
+"Wait, really? You were really there?" Rachel asked, her eyes going wide, and Eduardo suddenly remembered why he didn't casually tell people this sort of thing most of the time when he was sober.
+
+"Yeah," Eduardo said, wincing, "really."
+
+"Wow," she continued. On stage, Blaine and Sam were finishing up an entirely too energetic version of "I'm Still Standing." Rachel was also drunk enough to also have lost some of her filter, or maybe she was just like this blunt all the time, Eduardo had no frame of reference. "Can you introduce me to Mark?"
+
+Eduardo's stomach rolled in a way that had nothing to do with alcohol. "We're not exactly on speaking terms right now," he said. "There was a whole--" He made a gesture with his glass so that he wouldn't have to say the words.
+
+Rachel gasped. "Oh my God, you're that guy, aren't you? The guy from that book? One of my exes was super obsessed with it. You're, like, famous."
+
+It maybe hadn't been one of Eduardo's smartest ideas, talking to that reporter, venting all of his anger and frustration and even a dash of heartbreak, but he wanted people to know the truth about Mark, about who he was and what he could do. Not that it changed much of anything. But it had felt good at the time.
+
+Now, the reminder of it felt like picking a scab too early, reopening the wound and leaving it raw and bleeding. Mark was-- Mark was fine, rolling around in his billions of dollars and his ubiquitous company. He probably never thought about Eduardo at all. And here Eduardo was, still basking in his reflected glory. He flinched away from the conversation, away from Rachel's big, interested eyes and her pushy lack of tact. He was drunker than he had been in a while, and it was leaving him teetering on the edge of doing something stupid about these feelings, like screaming really fucking loudly, or crying into Santana's shoulder.
+
+He was out of his seat before he realized he was doing it, heading towards the stage, towards Blaine. He and Sam had finished their song, and Blaine was still radiant and glowing from the performance, the brightest, the most beautiful thing in the room.
+
+"Hey," Blaine said. "Are you singing something now?" He was also a little sloshed, his cheeks an appealing shade of pink. He listed into Eduardo's side, his head pressed against Eduardo's shoulder. His hand found Eduardo's. He twined their fingers together.
+
+And Eduardo was drunk, and he was hurting, and Blaine had said it was the best feeling in the entire world, and it couldn't be all that bad if Blaine liked it, right? "Yes," he said.
+
+---
+
+There were lights pointed at the stage. Eduardo squinted into them as he waited for the music to start. His stomach roiled again, a clenched tension in his gut. He couldn't see the crowd, but he could hear them in the rumble of conversation all around him, the occasional laugh. For a moment, he thought about chickening out, about heading back to the table and braving Blaine's disappointed, puppy-dog expression.
+
+But then the lyrics started to scroll on the monitor in front of him, and it was too late. He opened his mouth to sing. He was all too aware of how awkward, how bad, his singing was, compared to Rachel's, Santana's, Blaine's, and even Sam's polished voices. He dropped words, missed notes, fumbled his way through the rhythm.
+
+And yet, even despite that, when the song hit the chorus, he found himself closing his eyes and belting out the words.
+
+
+*Cry me a river.*
+
+
+Behind his eyelids, Eduardo saw Mark's face from across a deposition table, his expression cold and dark and hostile. He remembered every twitch across Mark's features, every slight wince when one of Eduardo's barbs struck home. And for the first time in a long time, he let his own remembered feelings sweep through him, all that rage, all that pain, all that frustration, all that deep betrayal.
+
+
+*You don't have to say what you did. I already know.*
+
+
+He let himself remember the moment when Sean offered him that check, the moment after that when he destroyed Mark's computer. He let himself remember the end of the legal battle, the settlement that should have maybe felt like a win but hadn't felt like much of anything at all. The alcohol dulled some of the sharper edges, but it was still a deep ache, a lasting one.
+
+
+*Don't it make you sad about it?*
+
+
+The song faded away in a litany of *cry me a river*s that felt as if they were bleeding him dry, an old-fashioned bloodletting to rid himself of bad humours. It left him feeling emptied out but also lighter, free for the first time in years of some of the emotional weight that he had been carrying. Eduardo opened his eyes again. When the music stopped, he caught a glimpse of Blaine past the glare of the lights, on his feet, clapping wildly, a beaming smile spread across his face.
+
+Eduardo stepped off the stage in a daze, shaky with emotion, and made his way back to the table. 
+
+Blaine launched himself at Eduardo when he got close, pulling Eduardo into a hug. "That was great," he said into Eduardo's ear. His body was warm and solid, and Eduardo was drunk enough and maudlin enough to think to himself that this was the only warm, solid, real thing he'd felt in a decade.
+
+"I'm going to kiss you now," Eduardo said, because he wanted to and he just sang a breakup song in front of a room full of strangers and now anything seemed possible.
+
+Blaine laughed and drew back just far enough that he could meet Eduardo's lips with his own. His mouth tasted of beer and the grease from the mozzarella sticks Sam had ordered from the bar, and Eduardo thought-- and Eduardo loved him. Loved him for being young and happy and free in a way that Eduardo had never been. Loved him with the same reckless abandon (and probably the same alcohol) that led him to get up onto a stage and sing his heart out. 
+
+"No one wants to see you sticking your tongue down an old guy's throat, pipsqueak," Santana called, her voice carrying over the general din of the room. "Get your horny asses a room."
+
+Blaine laughed again, this time against Eduardo's lips. The sound of it was a gentle rumble in his chest. "Uh, that's just how Santana is. We don't have to if you don't want to," he said to Eduardo, his voice laced with hesitation.
+
+"I want to," Eduardo said with a painful sort of honesty he didn't often let himself indulge in. "Come back to my hotel with me?"
+
+Blaine's smile in response was small and sweet, and his eyes shone bright and beautiful. "Okay," he said, and he let Eduardo lead him towards the door.
+
+---
+
+It took until they stepped over the threshold of Eduardo's hotel room for Eduardo to sober up enough to feel uncertain about this whole situation. Blaine lingered behind his shoulder, still wearing his bowtie, his smile suffused with warmth. He looked eager, young and bright and sweet, and Eduardo felt tired and old and washed up in comparison.
+
+But then Blaine backed him up against a wall, got up onto his tiptoes and kissed him. It was a careful kiss, not too pushy, but it felt urgent. When he pulled back, Blaine looked straight into Eduardo's eyes, and Eduardo had no idea how to read the expression he saw here. "I know--" Blaine said. "I know you're leaving tomorrow, but I just wanted to--" His hands gripped Eduardo's hips.
+
+"Yeah, okay," Eduardo said, because he wanted it, too. He leaned forward, pressed his forehead against Blaine's.
+
+Blaine bit his bottom lip. "I know I can-- I've been told I can come on strong. That I can be, uh, clingy." From this close, Eduardo could hear, could feel, the waver in his voice. "But I like you."
+
+"Why?" Eduardo asked before he could stop himself, the remnants of the alcohol loosening his tongue.
+
+Blained blinked once, twice, his eyelashes heavy and dark in the dim entranceway light. "You're-- you're nice. Or you want to be-- you're trying to be nice. It's clear that some asshole broke your heart and you're still messed up about it, but you-- you're still here. You're still inviting strangers to your networking parties, even when you have to tell people he's an intern. You're still managing to get up on stage even when it scares you. And I like that about you."
+
+The words left an ache in Eduardo's chest, a feeling too large for his ribs to contain it, and he didn't know what else he could do besides kiss Blaine again. He pulled the two of them deeper into the hotel room, towards the large bed there.
+
+Blaine fell back onto the bed with the slightest of nudges from Eduardo, loafers still on. He wore them without socks, and Eduardo found himself charmed all over again. Blaine spoke again, a confession tumbling out of him. "I'm-- I don't know if I'll ever get cast in anything, if I'll have to go back to Ohio like my brother did, if I'll ever really fall in love, if it will just be-- if all of this--" He made a gesture that seemed to include all of New York City. "-- if it will be anything but a waste of time."
+
+Eduardo kicked off his own shoes, shrugged off his jacket, and flexed his socked toes in the hotel carpeting. It was a reminder that Blaine really was that young, that he had so much more living and learning to do. He slipped the loafers off Blaine's feet and crawled onto the bed so that he could lay down at Blaine's side, curled towards him, his nose brushing Blaine's own. "It won't be," he said. "Even if it doesn't work out, it won't be a waste of time. You're trying to do something you love."
+
+If someone gave Eduardo a choice, he would do it all over again. All those nights in Mark's dorm. All that time in meetings with dead-eyed lawyers. Sure, he got a nice payout from it all, and he couldn't deny the feeling of satisfaction he'd gotten out of being awarded it. But even the parts of it that hurt, that still hurt, he'd do it again in a heartbeat. Blaine's answering smile was faint, and his eyes were wide. "See?" Blaine said. "This is why I like you." He cupped Eduardo's cheek and kissed him again, wetter and hungrier this time.
+
+Eduardo nudged Blaine onto his back so that he could straddle Blaine's hips. Blaine let out a soft noise and tipped his head back, so Eduardo had a beautiful view of the line of his neck, the pulse of his Adam's apple. He kissed his way down Blaine's throat, clawing at the knot of Blaine's bowtie until it came loose in between his fingers. He undid the top few buttons of Blaine's shirt and pressed his lips against the sharp angles of Blaine's collarbones, tasted all that newly exposed skin with his tongue.
+
+"Oh," Blaine said, his voice breathy. The sound of it settled low in Eduardo's belly, sending another rush of arousal through all of Eduardo's body. Blaine's hands sunk into Eduardo's hair, his fingers digging into Eduardo's scalp.
+
+Once he got all the buttons of Blaine's shirt undone, he yanked it off of Blaine's shoulders, rucked up the hem of Blaine's undershirt so that he could press his lips against the indentation of Blaine's belly button. Blaine laughed at that, clearly ticklish there. The vibrations of the sound radiated through him, and the smile on his face seemed to glow in the darkness of the room. Eduardo moved on to the buttons and zippers of Blaine's fly next, fingers brushing against the warm bulge of Blaine's erection.
+
+Blaine sat up so that he could squirm out of his pants and boxers, but he also took advantage of his leverage to get his hands on Eduardo's shirt, trying to pull it up over Eduardo's head without undoing any of the buttons. It did come off, but not without difficulty, and Blaine laughed again. The happiness on his face was so beautiful that Eduardo had to kiss him, had to get Blaine's undershirt off so that they could be pressed together, bare chest against bare chest. Blaine continued laughing into Eduardo's mouth and hooked one leg around Eduardo's so that he could bring his crotch against Eduardo's. 
+
+The feeling of it, the hard press of Blaine's body against Eduardo's, was electric. "Fuck," Eduardo hissed out. He was embarrassingly close to coming already, just from this touch, this intimacy.
+
+Blaine's hands had snuck between them to undo Eduardo's belt. He reached inside the waistband of Eduardo's pants, his hands almost unforgivably hot as they wrapped around Eduardo's cock. Eduardo let out a low moan. His breath was short. It was difficult to breathe.
+
+And he wanted to get closer somehow, to sink into Blaine's skin, to taste some of that brightness, to feed off it. "Yeah," he said, biting at Blaine's lips and grinding his hips down into Blaine's. His hands traced frantic patterns across Blaine's shoulders, his chest, his stomach, his hips.
+
+Blaine freed Eduardo's cock from his pants, and then it was just-- it ended up tucked into the crease of Blaine's hip. Blaine's own hard cock was pressed low against Eduardo's pelvis, the tip of it leaking wetly into Eduardo's pubic hair. Blaine's hands had migrated to Eduardo's back, tracing their way down Eduardo's spine and grabbing hold of Eduardo's ass and pulling the two of them somehow even closer.
+
+Eduardo groaned again, rutting up against Blaine once, twice, and then coming messily over the both of them. Blaine surged up again, turning them so that Eduardo was beneath him. His gaze was dark and rich, filled up with an emotion that made Eduardo's heart rate pick up even as he came down from his own orgasm.
+
+"Yeah," Eduardo said, his voice hoarse, "come for me." He reached down to feel Blaine's cock in his hand, the velvety hard thickness of it
+
+Blaine made a keening noise and smashed his lips against Eduardo's, the kiss too desperate to be anything but awkward. He came like that, gasping into Eduardo's mouth, dripping wetly over Eduardo's hand.
+
+"I really like you," Eduardo said, because he felt so much in this moment, in this place and time, with this person, but all the words were jumbled up, caught in his throat.
+
+Blaine's mouth twitched up in the corners, like he was trying to smile but couldn't quite make the expression stick. "I really like you, too," he said.
+
+---
+
+Eduardo woke early in the morning, while the sky was still dark, but there were the barest beginnings of sunrise on the horizon. He was still operating a little bit on European time, and there was a nervy energy under his skin. A headache lingered from the drinks he'd had the night before, and his mouth tasted disgusting.
+
+He glanced over at Blaine, who was still asleep. He was curled up on his side, and his face was cast in soft shadows. He looked tiny, dwarfed as he was by the large bed and the excessive number of pillows and the bleached white hotel sheets.
+
+Eduardo still loved him.
+
+But in the harsh light of day, he knew it was like loving a perfect sunset or a perfect meal. It was a love for something fleeting, something that couldn't last. It was to be savored for as long as possible and then let go again. Trying to hold on past that point would destroy everything about it that made it special.
+
+Blaine turned over in his sleep, murmuring under his breath. One of his arms flailed out, looking for Eduardo, and when he didn't find him, he blinked awake. 
+
+"Hey," Eduardo said. He inched himself closer so that Blaine could lean his head against his hip and throw an arm over his lap.
+
+Blaine was still fuzzy with sleep, and his hair was breaking free from his hair gel into surprising curls, and Eduardo's nerves were lit up every place their bodies were touching. "Hey," Blaine said. "I know you're leaving today."
+
+"Yeah. I should start heading to the airport in about an hour. The traffic getting to JFK is always awful."
+
+"Mmm," Blaine said. He looked up at Eduardo, and in the morning light -- which was getting lighter every minute -- he looked soft and vulnerable and breakable.
+
+"I--" Eduardo started, because if he couldn't find the words to be honest now, he didn't know when he'd ever find them. "You're braver than you think. I wouldn't have known how to be-- if you weren't there. And when you're--" He swallowed. "When you're a big shot Broadway star, send me a ticket, okay?"
+
+Blaine tugged Eduardo closer. "Okay," he said. The word was partially muffled by Eduardo's hip.
+
+Eduardo let himself slide down the bed until he was laying down again. Blaine's arms wrapped around him, and Blaine tucked his nose into the nape of Eduardo's neck. It wouldn't last. It couldn't. At some point, Eduardo would have to let go.
+
+But Blaine's body was warm and solid, and the bed was soft and inviting, and Eduardo let himself sink into this moment, let himself memorize every bit of it. He had an hour left, after all. He might as well enjoy it while he still could.
+
+ 
+
+FIN.

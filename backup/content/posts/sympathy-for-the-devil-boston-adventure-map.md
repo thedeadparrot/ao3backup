@@ -1,0 +1,301 @@
+---
+ao3_url: https://archiveofourown.org/works/263146?view_adult=true&view_full_work=true
+author: merisunshine36, thedeadparrot
+characters:
+- Mark Zuckerberg
+- Eduardo Saverin
+- Chris Hughes (Social Network)
+- Dustin Moskovitz
+- Christy Lee
+- Sean Parker
+- Marylin Delpy
+date: '2011-10-10'
+fandom:
+- Social Network (2010)
+notes: Click the banner to open the map. The ficlets that are part of the map have
+  been reposted below.
+relationship: []
+summary: A collection of ficlets for the Sympathy for the Devil-verse (plus map).
+tags:
+- Multimedia
+- Maps
+title: Sympathy for the Devil Boston Adventure Map
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+[![Boston Map Adventure](http://i.imgur.com/fwxvNPv.png)](http://thedeadparrot.github.io/fic-projects/mafiamap/mafiamap.html)  
+[(click me to open!)](http://thedeadparrot.github.io/fic-projects/mafiamap/mafiamap.html)
+
+
+
+  
+
+
+
+### Harvard
+
+The first time Christy ever speaks to Mark Zuckerberg, she's camped out in the library before her art history midterm, and feeling resentful toward whomever came up with the concept of a well-rounded liberal arts education. He ambushes her in one of the reading rooms, where she's built a small fort for herself out of old, leather-bound books with musty pages.
+
+The drawstrings on the hoodie he's wearing are frayed from chewing; beneath his eyes there are dark bags from one too many sleepless nights. "I want in," he says, sans introduction. Christy can't decide if she's impressed at how ballsy he is, or just annoyed.
+
+"Zuckerberg, right?" she asks. They shared a freshman writing seminar last semester, but never had any reason to talk to each other. "Who sent you?"
+
+Her operation runs mostly underground, but a big part of getting new faces around her poker table is feeding the campus rumor mill. Mark Zuckerberg isn't the first person to come after the kind of connections Christy can offer, and he's not going to be the last, either.
+
+He makes a face; asking for things apparently causes him great pain.
+
+"The poker game this Friday night. I think I should be there." His fingers flex open and shut around the strap of his bookbag, and Christy is almost charmed for a moment, because oh, how sweet, he's nervous.
+
+"Sorry. You'll need an invitation from a current member."
+
+Usually the rejected slink off at this point, but Zuckerberg stands his ground.
+
+"So you think I'm not good enough to be in your little club," he says. He's loud enough that they get a glare from a person the next table over, which they both ignore.
+
+*Exactly*, Christy thinks. She smiles toothily and tries to come up with a way to let him down easily.
+
+"Find someone to sponsor you, and then we'll talk."
+
+"Fine." Mark shoves his hands into the pocket of his hoodie before turning on his heels and stalking out of the library.
+
+This probably isn't the last she'll see of Mark--he's not the type to give up so easily. But Christy quit being a pushover a long time ago.There are only a few people in this world that she's willing to take shit from. Zuckerberg isn't one of them.
+
+ 
+
+### Eduardo's Old Apartment
+
+"You really dropped out of Harvard?" his sister says over the phone.
+
+Eduardo shoves one of his boxes to the side. The room looks more like a storage container than anything anyone would live in, boxes still stacked up around the room, the only light filtering through the windows and onto the floor. "It's more like I never went there in the first place," Eduardo says. "A better opportunity came up."
+
+It was lucky that he found this place, that he's just finishing off the lease of a friend of a friend from college. He's not sure he'd have been find something on such short notice. The place he has now is nice. It's in the South End, part of a row of brownstones. It's old and lovely, with flaky heating and plumbing and bad ventilation. Eduardo's charmed by it. He's figured out the nearest route to his closest subway stop, and he's memorized the directions to his office from the State street station. His sister says, "And you decided to stay in Boston?" She laughs. "I thought you might want to go someplace warmer after all those years in Chicago."
+
+It's still summer, mid-July, and Boston is still hot and humid, humming with summer energy. Winter won't be coming for a while yet. Just yesterday, he joined a pack of tourists on the Freedom Trail, following them around to the various historic buildings, the old statues, the places where important battles were fought and won. "I think I'll like it here," Eduardo says, glancing out his window onto the street. A couple is walking their dog. A guy with a backpack rolls by on his bike. The day is bright and clear, with just a hint of breeze from the window. Eduardo says, "I really do," and he believes it all the way through.
+
+ 
+
+### Moon Island
+
+Dustin doesn't tell anyone this (not even Chris), but he goes out to Moon Island once a week to the firing range that's right up against the water, with a good view of the harbor and the city in the distance. There's something simple, stripped away about practicing on a range. It's just you and the gun and the target without anything else in the way. He sometimes wonder if this is what it's like being a Jedi, just this, the humming rightness underneath his skin, the steadiness of his own breath in his chest, the steadiness of the gun in his hands.
+
+Chris doesn't like guns, and Mark doesn't like to shoot things, so this is Dustin's thing, the thing that he does. There's a breeze coming off the harbor today that still smells like water, like days of walking next to the Charles, like doing things just because you can. The sun is bright and clear overhead.
+
+Dustin lines up the sight with the center of the paper target, feet apart like Sean taught him, hands careful on the handle, and then he grins to himself. Chris would tell him to stop showing off and Mark would tell him that it's stupid to risk this on his antics, but Dustin doesn't care. Neither of them are here right now. It's still just him and the gun and the target, same as always. He closes his eyes, takes a deep breath, and pulls the trigger.
+
+He doesn't need to open his eyes.
+
+ 
+
+### The Docks
+
+Billy's been hanging out down by the docks all his life; it's written onto his genetic map. When his parents met, his dad was a short order cook at a greasy spoon diner near BU, his mom a delicate young coed from a well-heeled family in New York. His dad picked up extra work at the docks, and his mother fell in love with his rough worker's hands and the perfect pancakes he used to make. Or at least, that's his how mom likes to tell it. Billy strongly suspects that he was a surprise, the result of ten minutes of fun in the back seat of his dad's old Ford. He's seen their wedding certificate, and he can count backward nine months from his birth date.
+
+Contrary to what Dustin believes, Billy is not an idiot.
+
+He rolls a joint and stretches out on the steps leading down to the empty dry dock, a massive structure that always makes him feel small and unimportant. The sun shines hot and bright on his face; the damp concrete cool against his back. As a kid he liked getting lost here, this miniature city of shipping containers whose shape and size changed daily. He had been all ready to sit the longshoreman's exam like his dad and his grandfather before him. Then his mother signed up him up for his first Princeton Review course at age 14, shattering all his dreams of watching the sun rise slowly over the Atlantic.
+
+Billy is jolted from his reverie by the arrival of the mangy, one-eared cat who spends her days getting into fights with the enormous rats who also call the dock home. They've spent countless hours together watching the towering forklifts move the shipping containers back and forth from the freighters to the docks.
+
+"If I dropped out of school, every day could be like this," Billy muses aloud. The cat yowls in agreement. Or maybe she's just hoping Billy will feed her today.
+
+His cell rings in his pocket. It's Mark--he probably has another shitty request, like the time Billy had to steal his mom's checkbook over fall break so that they wouldn't default on their rent. More often that not, Mark Zuckerberg is ambitious to a fault. The Winklevii have their piece of the city, and Mark has his. Billy doesn't get why that's not good enough.
+
+He gets to his feet, bends down to give his feline companion a goodbye scratch on the head. She winds her way around his legs, staring up at him with luminous, hungry eyes.
+
+Billy's not gonna lose any sleep over whatever it is Mark wants him to handle this time. He'll just stick around until this stops being fun. Then he'll put on his suit and tie, ask his grandpa to set him up with some cushy job with one of his golf buddies, and kiss all of this goodbye.
+
+ 
+
+### Mark's House
+
+Dustin is released from his first stint in jail on 11:23 a.m. on a Tuesday morning. Eighteen months for extortion, but he was on his best behavior and got out early. Just enough time on the inside to fuck him up a little. Every meal, shower, and activity was set to a time limit, creating a world where the lack of responsibility let him get out of his own head for a while, and lack of anything else to do meant he was stuck inside it more than ever before.
+
+The shirt he had on when he first arrived doesn't fit quite right anymore; the material stretches awkwardly across his shoulders from all the days there was nothing to do but sit out in the yard, smoke and lift weights and trade gossip with the other inmates. There are four tiny scars on the back of his hand where a guy who used to work for Winklevoss stabbed him with a fork he'd smuggled in from God knows where. Dustin traces them absentmindedly with his thumb as the bus drives him back into town; the dreary late-November landscape flashing past outside the window.
+
+He stands on the porch for five minutes before he gets up the nerve to put the key in the lock. The house has a new coat of paint; it was probably Eduardo's doing. Across the street, there's a tiny pink bike parked on the sidewalk that he's never seen before.
+
+The door opens suddenly, and Dustin takes a defensive step backward. It's Chris, tie loose and sleeves rolled up past the elbow. His mouth twitches with the laughter he's trying to hold back.
+
+"I thought I should come out before you ran away," he says, leaning against the doorway.
+
+Dustin scowls. "It's been a while, you could have moved, or...I don't know."
+
+Chris grabs him by the shoulder and hauls him inside. The dumpy couch that was Dustin's bed for longer than he'd like to remember hasn't moved an inch, nor has the old table, the first piece of furniture they ever bought.
+
+"I didn't know what you would want for your welcome home dinner, so I got some of everything. Mark said he'd be here, but..well." Chris makes an apologetic face.
+
+"Anything sounds good, I...Jesus," he exhales heavily. Chris is treating it like it's all just so normal, like *Dustin* is normal. When Dustin called his mother the night before the trial, she told him not to bother coming home again. When it comes to family, Mark and Chris and Eduardo, as messed up as they all are, well, they're pretty much all Dustin's got right now.
+
+"Hey," Chris says, nudging Dustin with his shoulder, "I'm glad you're home, we need you around here."
+
+"I'll miss being able to sleep through the night," Dustin grins, "but yeah--it's good to be back."
+
+ 
+
+### Police HQ
+
+Being a police detective really isn't a whole lot like how it looks on CSI, no matter what Erica's mother might think. It's more paperwork than anything else, sitting at her desk and listening to the click-clack of keyboards, the muted conversations, the whirring printers. Narendra has this thing where he taps out uneven rhythms on the edge of his desk, humming underneath his breath. He probably doesn't even realize that he's doing it.
+
+Erica grew up reading Nancy Drew books, grew up turning over rocks and taking fingerprints off mugs and holding up her magnifying glass to tiny shreds of fabric. Her professors in college tried to drill it into her head how hopeless and unglamorous police work really is, but Erica never cared then, and she doesn't care now.
+
+"We've got a case," she says to Narendra, slapping a folder down in front of him.
+
+Narendra puts down his phone and looks up. Erica doesn't even want to know what he was just working on. "What is it?" he asks.
+
+"A shooting in Roxbury," Erica says. "They've already cordoned off the area."
+
+Narendra nods and stands up, gathering his coat. Whatever else he does in his spare time, he's a decent cop and a decent detective. "Let's go," he says.
+
+It's summer now, thick and humid and hot. "What do you think?" Erica says. Her hair is pulled back away from her neck and it's still uncomfortable. The body is covered in blood, red splotches soaked through his clothes, a beat-up Sox jersey and ugly sweat pants. Typical.
+
+Narendra frowns, "It looks like Zuckerberg's moving south."
+
+"Why do you say that?" Erica asks.
+
+Narendra shrugs. "The guy's name is Taggart. Works for the Connellys in Southie. From what I hear he was hassling one of Zuckerberg's newest recruits about the shipments coming in through the docks."
+
+"Zuckerberg wouldn't bother handling something like this personally," Erica says. She remembers Mark in college, cool and self-possessed even then. The last time she saw him he was running with low-lifes like Sean Parker, and last she heard about him, he was in Cambridge, out of the hair of Boston PD, at least for the time being.
+
+"Probably not, " Narendra says. His fingers twitch, like he needs a cigarette. "He's still involved, though."
+
+Erica nods and takes a deep breath, blowing it out slowly between her teeth. Narendra's almost certainly right. A chill runs down her spine. This might be the first body they're going to find, but it's not going to be the last. She remembers Mark in college, cold and ambitious and more than a little vicious. If they end up on opposite sides of this, Erica's not going to cry herself to sleep at night, but she's not going to be happy about it either. *What are you doing now, Mark?* she thinks.
+
+She's not sure she wants an answer.
+
+ 
+
+### The Hive
+
+So the thing about Mark Zuckerberg is that he's kind of a gigantic weirdo.
+
+And that's fine. Marylin doesn't have a problem with Mark's leftover computer science major tics. She just gets that not everyone else coming in is as prepared for it. Take Amy, the newest person brought on to monitor their "imports." She's not new to the game, but she's new to the East Coast, and she's new to *Mark*, and that's enough.
+
+The Hive is getting busier these days, filling up with Mark's newest allies and his old friends, but everyone knows better than to mess with Marylin's pool table. It's an old-fashioned sort of place, wood paneling and a bar that's seen better days, dim lighting, a dartboard that's almost more hole than cork. Marylin always feels welcome here. When she gets inside, she spots Amy drinking with some of her friends and watching the Bruins game on the television, laughing and shaking her head at one of other new guys.
+
+"Hey," Marylin says, coming up behind her, tapping her on the shoulder. "Can I talk to you?"
+
+Amy looks up and shrugs. "Sure, what about?" She's got a wary look on her face, like she's afraid Marylin is going to haze her or something like that.
+
+"Let's play some pool," Marylin says. She hands Amy a cue. The hesitant expression on her face doesn't go away, but she takes it without complaint.
+
+"Okay," Amy says. She calls stripes as Marylin racks the balls before settling on one of the rickety old stools. "So what's this about? I'm not stepping on anyone's toes, am I?"
+
+Marylin shakes her head, "Nah, I just wanted to give you a heads up on how things work around here." She takes her first turn, breaking the ball rack with practiced ease. Marylin likes hustling the arrogant newcomers, the ones who think that joining up with Mark is an excuse to be a jackass. Amy's not one of those. She cut her teeth with Sean Parker on the West Coast, after all. None of Marylin's solids drop into a pocket.
+
+"Heads up how?" Amy asks as she takes her turn. She's got sloppy technique, but that isn't the point of this exercise.
+
+"Don't ever talk to Mark directly unless he wants to talk to you directly. That's the first rule," Marylin says. She gets a purple solid into the far right corner. "Two, if you want to play cards, don't play it around here. Everyone cheats. The quietest ones are the most dangerous, so don't ever turn your back on someone you can't hear. Don't bother Chris on Wednesdays."
+
+"I'm not going to be tested on any of this, right?" Amy smirks, but Marylin can tell that she's listening.
+
+Marylin drops the yellow in one of the center pockets. Then two more in the near corners. She's just getting warmed up. "Just don't make my life harder, and we'll be fine."
+
+Amy nods like she understands, and Marylin thinks that yeah, maybe she's going to be okay.
+
+ 
+
+### Christy's
+
+Sean's favorite spot in Christy's place is at the bar all the way in the corner, right behind the taps. Where he can see everything that's going on, but no one can see him. He's not supposed to be in Boston, anyway. Chris eventually got the charges dropped, but he's still not too sure whether he's welcome here.
+
+Someone slides into the seat next to him, and Sean's more than a little surprised to see that it's Cameron Winklevoss. He's wearing an old hoodie spattered with raindrops, trying to pass himself off as the common man and failing. He'll never shed that air of power that clings to the Winklevoss family like a shadow; that made all of Boston bend to their will while simultaneously harboring years of resentment.
+
+"I'll have what he's having," Cameron says, shouting over the din of the nine to five crowd blowing off steam after a day at the office. Sean decided to bypass the backroom--there are too many people he's not in the mood to run in to.
+
+"You planning on buying me something?" Sean asks. "Because I was about to leave."
+
+Cameron just smiles and catches the shot of top-shelf whiskey the bartender slides toward him, knocks it back easily. While Mark was part of the Winklevoss machine, Sean had only been on the receiving end of blunt directives from Cameron. Now his charm is dialed up to full blast. "I was hoping to offer you something better than a drink."
+
+Sean leans away from Cameron and shakes his head. "Sorry, but I don't put out on the first date."
+
+"Look, Parker. We're both men of business here. I think it's time you did some work for my brother and I. Zuckerberg didn't know what to do with you. But with us, you'll have free reign."
+
+Cameron peels a twenty from his billfold and tosses it onto the bar, paying for the shot twice over. Sean knows he's showing off. It's not the money that's impressive, but the fact that Cameron Winklevoss still thinks Sean is someone worth courting.
+
+"I don't need a decision now, just think about it," Cameron says, pulling out a business card and setting it down next to Sean's hand. The moisture from the bar leaves dark spots on the heavy paper.
+
+Sean watches the sea of people part around Cameron as he makes his way to the guarded entrance of the less legal side of Christy's operation. He recognizes one of Mark's guys in the crowd, wonders if he'll remember Sean, if he'll report it back to Mark, if Mark will come looking for him.
+
+Sean orders another drink and hopes it will offer up some clarity.
+
+ 
+
+### Eduardo's Condo
+
+Christy puts on one last burst of speed to overtake Eduardo on the way back to his condo. He called her up out of the blue two days ago to invite her on a run; it's the first time in years that they've had a conversation that didn't take place over a poker table at her bar.
+
+"Wanna come in?" he says, fishing his key out of his shoe. His perspiration-soaked hair falls into his eyes. Eduardo usually likes to talk while he runs, but he's barely said ten words all morning. Word on the streets is that he and Mark are on the outs, and it's looking like it's true.
+
+She stares up at the sun. It's early, but there are already enough tourists out that she had to give up on the sidewalk and run in the streets a few times on the way back. "I'm kind of a mess; I really should get home." There are a couple of big deliveries coming in later this morning. Christy needs to be on hand for those, not to mention that it's her mother's birthday. She can't forget to call *again*.
+
+Eduardo shrugs. "I have a shower. I have coffee--come on."
+
+His condo is still showroom-empty, with only a couch, coffee table, and a rumpled bed for furniture. Christy scoped out this particular location herself when she first moved out of her apartment in Cambridge, but balked at the price--Zuckerberg must really be invested in Eduardo if he's willing to shell out this much cash.
+
+Eduardo kills an entire bottle of water inn a few long gulps, the long line of his throat still shiny with sweat. As interns in Manhattan, they'd round out their sixty-hour workweeks with a run to Brooklyn Bridge and back every Sunday, the heat sticky and relentless even in the morning.
+
+"So are you going to tell me what's going on with you and Mark? I noticed the absence of flip-flops in the foyer," Christy says dryly.
+
+He runs a hand over his face and sighs. "I don't really want to get into this with you. Let's just say that Mark and I had a difference in opinion. So I closed the account he's using to fund the operation. I had to." He taps his fingers against the cool granite surface of the counter. "We'll be fine," he says, mostly to himself.
+
+It's funny that Eduardo thinks he can get away with something like this. Knowing Mark's temper, she's surprised that he's not in an alley somewhere with a bullet in the back of his head.
+
+She huffs out a soft laugh under her breath. This fight is one to stay out of. "Well. Good luck with that."
+
+ 
+
+### Celuzza's Bar
+
+"Mark, my boy," Celuzza says as soon as Mark comes in. It's mid-day, way before the busy evening rush, and the place is almost entirely empty except for the old guy that always seems to sit in the back corner of the bar, nursing his scotch.
+
+"Dom," Mark says, accepting the bear hug and cheek-kiss Celuzza gives him. "Sean sends his regards." That's not an entire lie. Sean sometimes tells Mark to give Celuzza a high-five for him, which Mark suspects is part of some weird inside joke that Mark doesn't understand.
+
+"California is treating him well, then?" Celuzza asks. He leads them to his private table where he tends to conduct his business, tucked away so that they can be seen but not overheard.
+
+Mark shrugs. "I guess." Sean sounds fine over the phone, but Sean always sounds fine over the phone. Celuzza has the bartender bring over a pint of beer for Mark and some whiskey for himself. Mark takes a sip of the beer, something he doesn't recognize. He's not all that worried about Celuzza killing him just yet. If they wanted him dead, he'd have been dead years ago.
+
+"Your young man is doing very well as mayor. People are very impressed." Celuzza makes a grand gesture with his hands.
+
+Mark still hates this part, the carefully worded pleasantries and small talk, but he can appreciate the sentiment. "I'll let him know that you said that," Mark says, "but let's cut the crap. Some of your friends aren't paying their dues."
+
+Celuzza waves a diffident hand. "It wasn't the smoothest of transitions, as you know. There are still some who want to know why they should be listening to an out-of-town upstart like yourself, even if you did bring down the Winklevosses."
+
+Mark watches Celuzza's face for any signs that he's lying. "I'm not here to play politics," Mark says, "that's Chris and Eduardo's thing. I'm here because there are easy ways of taking care of this problem and there are difficult ways of taking care of this problem, and I just wanted to give you a chance to convince them that the easy ways are the best for everyone else involved."
+
+Celuzza is quiet for a long moment, his genial expression still fixed to his face. Mark waits it out. Mark is a lot more patient than people realize.
+
+Then Celuzza laughs, a wide, genuine smile spreading across his face. "You're still that same punk kid you always were," he says, "but all right, I'll speak with them on your behalf, remind them that you're not someone they want to cross."
+
+"Good," Mark says. "Make sure they don't try it again." He presses his tongue against the roof of his mouth and thinks that this must be what real power tastes like.
+
+ 
+
+### City Hall
+
+It takes Chris a moment before he's ready to set his formal resignation on the mayor's desk, a sleek, modernist construction of glass and brushed steel that practically screams *Eduardo Saverin*. He leans it against the side of his mug, cool to the touch and still half-full.
+
+A couple months back, Chris had a run-in with some union thugs who didn't like Eduardo's stance on bringing new casinos into town. When he woke up the next morning and went into the bathroom in search of more painkillers, he realized that he didn't recognize himself anymore, and not just because of the way his face had been rearranged. Not long after, he quietly began to make plans for his retirement.
+
+Eduardo's shiny-new assistant gives Chris a wave and a smile as he's on his way out. She's on the phone, trying to get Eduardo booked on a last-minute flight somewhere and asking for an aisle seat. Chris bites down on his tongue and repeats to himself, *not your job anymore*.
+
+At the last second, Chris plucks the receiver out of her hand. "Eduardo likes the window seat."
+
+"What?"
+
+"The window seat. He likes being able to look outside."
+
+The scowl on her face softens into an appreciative smile. "Oh. Thanks."
+
+Chris ignores the greetings tossed his way as he aims for the exit, trying to get out before he changes his mind again. But he slows when he hears his name being called, followed by the sound of running feet. A pang of guilt lances through his gut as he turns and waits for Eduardo to maneuver his way around a group of noisy schoolchildren chasing each other around the plaza.
+
+"You're leaving?" Eduardo pants, slightly out of breath. His punishing schedule doesn't leave much time for the gym anymore.
+
+Chris squints up into the bright sunlight, tries to suppress the smile that always threatens to break through at the sight of Eduardo, impeccably tailored as always, standing in the shadow of such an awkward building. There's probably something symbolic in this, although he doesn't know what.
+
+"Yeah," Chris says. For the first time, he's happy to find that he means it. "I think it's time."
+
+"But why me?" Eduardo asks. "Why not Mark, or Dustin, or..."
+
+Chris thinks back to those rough few months when Eduardo first got involved with the business, when he'd stumble over some grisly incident that had Mark stamped all over it and disappear for a few hours, leaving Chris to wonder if he'd ever come back.
+
+"Because," Chris says, looking him directly in the eye, "you're the only one who won't try and stop me."

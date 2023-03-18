@@ -1,0 +1,166 @@
+---
+ao3_url: https://archiveofourown.org/works/25659490?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Booker | Sebastien le Livre
+- Joe | Yusuf Al-Kaysani
+- "Nicky | Nicol\xF2 di Genova"
+date: '2020-08-02'
+fandom:
+- The Old Guard (Movie 2020)
+notes: 'Takes place roughly in the 1920''s-30''s.
+
+
+  Song title cribbed from Joy Division''s "Love Will Tear Us Apart."
+
+
+  Thank you so much to azephirin for her help with the encouragement, audiencing,
+  and betaing!'
+relationship:
+- "Booker | Sebastien le Livre/Joe | Yusuf Al-Kaysani/Nicky | Nicol\xF2 di Genova"
+summary: After a rough mission, Joe and Nicky make sure that Booker doesn't spend
+  the night alone.
+tags:
+- Threesome - M/M/M
+- Bad Decisions
+- Depression
+- Suicidal Thoughts
+- Alcohol Abuse/Alcoholism
+- Pre-Canon
+- Unsuccessful Comfort Sex
+- Booker | Sebastien le Livre Needs Therapy
+title: all my failings exposed
+warnings: No Archive Warnings Apply
+---
+
+Booker has taken to carrying a flask in his jacket when he goes anywhere. It's useful when he needs a top-up in the middle of a long stakeout or a planning meeting that drags on, or when the world feels just a little bit too heavy. Andy clearly doesn't approve, but she also clearly gets it, that bone-deep ache that Booker carries around with him. And Booker, with his dreams of the ocean, that open mouth drowning and drowning and drowning, has some sense of why.
+
+It really is a curse, for a father to live well beyond his children.
+
+Joe and Nicky, though, are a bit more of a mystery to him. He knows a sketch of their history. Crusades. Murdered each other a few times before realizing the other one wouldn't stay dead. Over the last hundred years, Booker has learned many things about the two of them. The way Nicky likes his coffee -- with a splash of milk and a cube of sugar -- and the way Joe favors his right side in a fight. But the thing that he doesn't quite understand, the thing he can't quite wrap his head around, is how they're *okay*. They wake up easily in the mornings without dark bags under their eyes, and they don't go into every death with the secret, silent hope that it will be their last.
+
+They're lovers, which stopped being slightly odd to Booker about fifty years ago, the kind of bonded warrior pairs they write about in ancient Greek poetry. But that doesn't seem to quite explain it, because Booker's had lovers and Andy's *definitely* had lovers, and even on certain occasions, Booker and Andy have had each other.
+
+And well, despite all that, Booker is definitely not okay. Neither is Andy, for that matter.
+
+He's in the makeshift kitchen of this particular safehouse scrounging through their alcohol stash for anything that he can use to refill his flask when Joe finds him.
+
+"I think there's a new liquor store down the block," Joe says. They try to put their safe houses in quieter, hidden locations, but cities have a way of growing and changing in ways they don't expect.
+
+"No point in getting anything good," Booker mumbles back. Plus, he's not sure he has the energy to leave the safehouse at this moment. "Not like I'm tasting it." They're still speaking French right now, a concession to their last trip to Marseille. It had been hard, going back there, just seventy years later. Enough time for everything to be completely different and yet achingly, painfully familiar. A street corner where he had once kissed his wife. A park where he had once taken his sons.
+
+Booker has never claimed to be a strong man or even a particularly good one. After they were done dealing with a few bounty hunters who had been tracking them since their previous job, he decided to visit the old graveyard and to look at the final resting place of his family. The years had worn the gravestones down since their funerals. The words were fading. The stone itself had gotten darker with age. It had felt odd and unsettling to think of their bodies rotting and decaying in the ground, while Booker's own looked the same as it had always had.
+
+Joe watches him, tight-lipped and careful. That bit is unusual. Joe's never been one to mince his words. "What?" Booker snaps.
+
+"You know," Joe says, his voice pitched low and soft, the way he sometimes does when they have to deal with children, "we wouldn't have come back here if we didn't have to."
+
+Booker snorts. "Does it even make a fucking difference? We're still here, aren't we?" He finds an unopened bottle of wine in a dusty cubbyhole. He doesn't even bother looking at the label before uncorking it and pouring it into his flask. It's not going to be enough, but it should tide him over until he can get some proper liquor.
+
+"Nicky and I noticed that you were--" Joe pauses. "--We noticed that you were having difficulty, being back."
+
+Booker doesn't say anything to that, just gives Joe a flat-eyed stare that he *knows* Joe understands. Joe doesn't usually fill the silence with empty words, so he probably has a point somewhere in here.
+
+Joe nods and meets Booker's gaze. "We thought that you shouldn't be alone tonight."
+
+It's unusual for them to have a safehouse with multiple bedrooms, much less multiple beds, but they lucked out at this one. Andy had lost a good chunk of her arm and part of her face in an explosion, and while she had healed up quickly, she was still cranky and went to bed early. Booker was looking forward to having his own space again for the night, a chance to drink himself to sleep. The thought of sleeping on the floor or in a chair in Joe and Nicky's room is excruciating. "Why? It's not like I can kill myself," Booker says. Once the flask is full, he starts drinking straight from the bottle. It's better than Booker expected, but he should have known that Andy would have good wine lying around. She was probably gifted the bottle a century ago and then promptly forgot she even had it. "And I was assuming you two wanted some of your own alone time."
+
+Joe sighs. "We're a team," he says, simply. There's something close to pity on his face. 
+
+For a moment, Booker lets himself imagine clawing Joe's eyes out with nothing more than his fingernails, leaving the body in the kitchen for Nicky to find and wake on his own. But Andy would not be pleased to see them killing each other over a petty squabble, if only because of the amount of blood it would leave behind. "I'm assuming you don't want me there while you're fucking," Booker says, trying to be as crude as possible. He wishes they had something harder than the wine to drink, but he takes another swig of it anyway.
+
+ Joe gives him an odd look and then shrugs. "You could if you wanted."
+
+That brings Booker up short. "You don't mean that," he says, and the words sound stupid the moment they're out of his mouth. He has no idea what Joe actually means.
+
+"You wouldn't be the first person we've invited into our bed," Joe says. He pauses, weighing his words for a moment. "And Nicky's worried about you."
+
+It strikes Booker as odd that he never knew that about them, but the four of them do have plenty of time apart, spaces in between missions where Booker buys bottles of alcohol and finds a nice place to lie low for a few months, and Andy, Nicky, and Joe go who-knows-where. Plenty of time for whatever bedroom games they apparently play. Booker's first instinct is to say no, to go back to his original plan of drinking until unconsciousness finds him. It's the better choice, the simpler one.
+
+But there's also something tempting about the thought of another warm body -- two, in this case -- to chase away just a bit of the cold. It's not Booker's usual drug of choice, but he's been known to indulge in it from time to time. Mostly women, though there have been a few men scattered over the decades. They were more of a curiosity than a real passion of Booker's, but male bodies worked just as well as female ones to numb the pain. He looks at Joe, who, for all the centuries he has on Booker, always seems so goddamn young, like the years have never touched him. This would be different from those nights Booker has spent with Andy, where it was about commiserating in their shared despair. This would be about being allowed into the bubble of Joe-and-Nicky, whatever secret thing it is that holds them and sustains them while Booker and Andy always feel as though they're on the verge of falling apart. Booker opens his mouth, and he says, "Yeah, okay, sure," even as his stomach churns and he gets that same terrible, awful feeling that he gets just before a mission goes south.
+
+---
+
+Nicky is reading on the bed as Joe ushers Booker in. He's reading by the light of a small lamp, giving his features a golden glow. He looks up as they enter, and he smiles. "Ah, Booker," he says, "I'm glad you decided to join us."
+
+Booker shrugs. He wants to say something sarcastic, but his tongue feels too heavy to form words. He's not sure he's glad to be here.
+
+Nicky glances past Booker's shoulder and meets Joe's eyes. Some wordless form of communication happens between them, and Nicky's expression sharpens, his eyes darkening as he focuses on Booker's face. His lips curl upwards. "Oh, so it is like that, then?" he says. A rhetorical question, not expecting an answer. "Come here."
+
+Booker goes, trying not to stumble over his feet. He doesn't know what he's doing here, how he's supposed to fit. Nicky grabs a handful of Booker's shirt and draws him into a kiss.
+
+Nicky is a pushy kisser, Booker learns, when he's so rarely pushy anywhere else. It's an odd, disconcerting revelation, especially since it comes with the knowledge that *Joe* probably likes that Nicky is a pushy kisser.
+
+He feels Joe's hand on his back, a steadying presence. Booker's never done it like this before, with three bodies to a bed, but apparently they have. Maybe he should treat this like the early days, when he was still the new one on the missions, trying to keep up with a team that had already been working together for centuries. He should be used to it by now, following their lead.
+
+Joe presses in closer, his breath soft against Booker's ears. "What would you like tonight?" he asks. His voice is pitched lower, and his accent is stronger. Joe's French is usually maddeningly perfect with only the barest hint of an Arabic accent to it, but now it's heavier, like he just stepped off a boat from Cairo.
+
+Booker draws back, ducking his head to avoid Nicky's eyes. "I--" he says, and he can feel Nicky's hands, steady and sure, on the buttons of his shirt. "I don't know."
+
+He probably doesn't need more than this, to be quite honest, just the weight and heat of their bodies, a chance to close his eyes and pretend that-- that he won't have to see the next day and the next day after that, this unbroken line of time from now until the moment death finally takes him.
+
+"All right," Nicky says. He parts Booker's shirt and pushes it off his shoulders. Joe pulls it off the rest of the way as Nicky cups the back of Booker's neck. "What do you think?" he says over Booker's shoulder.
+
+"I could put my mouth on him," Joe says, conversational. His hands slide around Booker's waist and work to undo the buckle of Booker's belt. "Do you think he'd like that?"
+
+"You do have a very skillful mouth, my love," Nicky murmurs, his voice thick with lust, and an involuntary shiver chases its way down Booker's spine. When they're on a mission, they're all business. If Joe and Nicky ever talk to each other like this, they only do it between themselves. It feels a little unnerving to be allowed to see this side of them, to be allowed this deep inside this space that usually only contains the two of them.
+
+Booker turns, catching Joe's eyes for a moment. Joe's gaze is dark and assessing, with that slightest predatory gleam that Booker usually associates with someone's neck getting sliced open. "That sound good to you?" Joe asks.
+
+At Booker's nod, he leans forward. Joe's kiss is sharper than Nicky's. He likes to bite, and his beard scratches at Booker's cheeks. One of Joe's hands sneaks down, slides into Booker's pants to cup Booker's hardening cock. Booker sucks in a breath, grabs at Joe's shoulder to steady himself. He hears Nicky laugh behind him, the rustle of fabric as Nicky sheds his clothes. 
+
+Joe pulls back, his hands pressed against Booker's shoulders. He gives Booker a small shove, sending Booker tumbling backwards onto the bed, landing against Nicky's now-bare chest.
+
+He barely has time to orient himself to their new positions before Joe starts stripping off his own shirt, undoing his own belt and pushing his pants and underwear down his legs. He's a handsome man, and his body is muscled and strong, and Booker has always known both these facts, but now they feel startling and present and real in the dim light of their bedroom.
+
+"My Yusuf is beautiful, isn't he?" Nicky says in a murmur next to Booker's ear. "I do love watching him." He wraps one arm around Booker's torso, just below Booker's ribs and above his stomach. He's slighter than Booker, not quite as broad, but his grip is still sure where it tightens around Booker's side. They've all touched like this, been close like this before, dragging each other out of harm’s way while their feet or legs healed or pulling each other up onto ledges during a difficult climb, but none of that could have prepared him for this, the way Nicky's body curls around his own.
+
+Joe kneels between Booker's sprawled legs and slides Booker's underwear and pants the rest of the way off. Maybe Booker should be doing something, but they don't seem to be bothered by his lack of engagement, willing to arrange him however they please.
+
+He thinks of closing his eyes, but he can't quite stop himself from watching as Joe presses his legs further apart. Joe leaves a kiss on the inside edge of Booker's knee, his hands resting on Booker's thighs. He looks up and gives Booker a wink right before licking the head of Booker's cock.
+
+"Fuck," Booker says, breathing the word out. He can feel Nicky's hardness against the small of his back, the sharp catch of Nicky's breath in his chest.
+
+Booker has been blown before, but it's usually a quick, rushed thing, a prelude to something else. That apparently isn't Joe's modus operandi, though. He takes his time, tonguing at Booker's foreskin, letting his teeth graze along the shaft, a teasing bit of suction at the tip. Everything he does is slow and deliberate, calculated to make Booker moan and grit his teeth and struggle to keep his hips still. All the while, Nicky drops filthy words into Booker's ear about how much Joe likes putting things into his mouth.
+
+He gets a grip on Joe's curls, not trying to force his head in any particular direction, just wanting it there to ground and anchor himself to something. Joe lets out a soft little hum from the back of his throat. The feel of it sends electric shocks across all of Booker's confused nerves.
+
+"He's so lovely like this," Nicky whispers. "It's so difficult to see that when his mouth is taking you apart." He's not wrong. Booker is just letting himself ride the sensations: the wet heat, the pressure, the skill of Joe's tongue. Nicky nips at the back of Booker's neck. "You are, too, you know. You don't always see it, how very important you are to us, to *Andy*." And yeah, Booker knows that, because they're all fucking terrible at understanding technology and paperwork and how to navigate the twentieth century, even several decades in, and they'd all be hopeless without Booker's help.
+
+That's some sort of signal for Joe, maybe, because then he's taking Booker's cock into his throat, and the feeling of it is so sharp, so intense, Booker comes even without meaning to, the orgasm stealing through his body in a heady rush and leaving him breathless and panting.
+
+Joe pulls back, looking smug and self-satisfied. He licks his lips, which are raw and red from being stretched around Booker's cock. He gives Booker a quick, gentle kiss before looking past Booker's shoulder, once again meeting Nicky's eyes. "Amore mio," he says and gives Nicky a longer, filthier kiss, trapping Booker between their two bodies.
+
+It's stifling, being caged between the two of them, especially now that he's come and whatever arousal propelled him to this point is beginning to fade. He squirms out of the way, finding a patch of unoccupied bed. Nicky lets him go without complaint. Joe barely even seems to notice.
+
+Booker watches them as they lose themselves in each other. Joe kisses Nicky with a fierce, hungry desperation, and Nicky clings to Joe's shoulders hard enough to leave finger-shaped bruises that heal as soon as they form. They rut against each other with a comfortable sort of push and pull, a familiarity with each other's bodies that must come with their centuries of experience. Soft endearments fall from their lips, so quiet that Booker can only pick out one word in three.
+
+Joe draws back and lets out a low moan as he comes, his head bowed, his mouth hanging open. Nicky doesn't look away from him: their eyes stay locked together as he wraps a hand around his own cock, stroking himself until he follows. Nicky smiles first after that, soft and adoring, and Booker has to turn away from it. It makes him think of shrapnel being forced out of his healing body, a foreign object ejected from a place it doesn't belong.
+
+He's staring at the wall when he feels another hand grasp his own. It's Nicky's, drawing him back towards the center of the bed. Joe left the room at some point, leaving the two of them alone. "Hey," Nicky says. He's the watchful one, careful where Joe has a tendency to be reckless. "You should stay for the night." His stomach is still painted in white come, both his and Joe's. He presses a kiss to Booker's palm.
+
+Booker doesn't know what else to do with himself, so he says, "Sure."
+
+Joe returns with a few rags. He's smiling and happy, and Booker tries to remember the last time he felt like that, so easy and carefree. Maybe before his arrest, before the war. Several lifetimes ago. Joe cleans Nicky with a tenderness that Booker recognizes from the way they are after a battle, when more often than not it's blood and dirt that he's wiping away from Nicky's body. Andy and Booker are usually left to care for themselves. After Joe's done, he still flashes Booker a grin and drops a kiss on Booker's forehead before he settles onto the bed himself, sliding into the space between Booker and Nicky's bodies.
+
+The two of them drop off into sleep almost immediately, but Booker ends up staring at the back of Joe's head and listening to the steady in-and-out of their breaths long into the night before sleep finally claims him.
+
+---
+
+Booker wakes at dawn, when the light filtering in from the windows is more gray than gold. He crawls out of bed, careful not to disturb Joe and Nicky, but they're so wrapped up in each other -- with Joe tucked around Nicky as always -- that he probably doesn't even need to bother.
+
+He stumbles out into the kitchen after getting dressed in order to retrieve his opened bottle of wine and his flask. He finds Andy sitting at the kitchen table, smoking and reading the morning newspaper, frowning at whatever the world has in store for them today. She looks up and gives Booker a calculating once-over, taking in Booker's clothes, his hair, his face. "I should have warned you not to go with them," she says.
+
+Book flinches. "Well, you didn't," he says.
+
+Andy sighs. "They tried that with me a few times, after we lost Quynh." Her eyes when she meets Booker's are ancient and fathomless. "They mean well."
+
+"They do," Booker mumbles out.
+
+Andy's expression softens. Not a lot, but enough to remind Booker that they do-- that at least the two of them understand each other. "Sebastien," she says, "you should have come to me instead."
+
+Booker closes his eyes. He just woke up, but he feels exhausted, like every part of him is heavy and weighed down: his head, his torso, his arms, his legs. There's this fantasy he has of going out into an empty field and lying down, closing his eyes and letting his body rot to pieces, all the bits of him breaking down until they can be reclaimed by the earth. It's an idle thought, because after each death by dehydration, his body would return itself, as whole and as cursed as it has been for the last hundred years, refusing to let time take it the way it should. He thinks that maybe Andy has that same dream sometimes. She would. "Yes," he says, "I should have."
+
+ 
+
+FIN.

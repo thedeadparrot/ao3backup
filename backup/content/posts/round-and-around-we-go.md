@@ -1,0 +1,539 @@
+---
+ao3_url: https://archiveofourown.org/works/966394?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters: []
+date: '2013-09-14'
+fandom:
+- Fast and the Furious Series
+- The Birthday of the World - Ursula K. Le Guin
+notes: 'This is an AU where [sedoretu](http://fanlore.org/wiki/Sedoretu) marriages
+  are common and accepted. Also, it''s a super belated birthday fic for M.
+
+
+  I''m trying to finish it as part of [10 in 10](http://archiveofourown.org/collections/ten_in_ten),
+  so it''s not going to be polished for a while, but it will probably be frequently
+  updated.'
+relationship:
+- Brian O'Conner/Dominic Toretto
+- Brian O'Conner/Mia Toretto
+- Letty Ortiz/Dominic Toretto
+- Letty Ortiz/Mia Toretto
+summary: Thing is, Dom hasn't ever been the marrying type.
+tags:
+- Sedoretu
+- Alternate Universe
+- OT4
+title: Round and Around We Go
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+### Chapter 1
+
+
+#### Chapter Summary
+
+
+
+#### Chapter Notes
+
+
+
+Thing is, Dom hasn't ever been the marrying type. 
+
+That's been true since the first day his Ma sat him down and explained that a real man stays grounded, that he has responsibilities to his family, that a real man works with his husband to make sure their wives are taken care of, that a real man makes sure there's always food on the table and money in the bank. 
+
+That life just ain't Dom's.
+
+It's not what most people think. Dom's never backed down from responsibility, and his family always come first in his mind. But he's seen how quickly it can all fall apart. He watched his father burn. He went inside. He saw the way the rest their marriage, Ma and his Evening mother, his Morning father dissolve slowly into misery, drifting apart until there was only three of them left, him and Mia and Ma.
+
+Dom never wants to do that to anyone again, not the people he loves, and Dom is *restless*. Jesse once said that sharks couldn't stop swimming or else they'd die. Something about water and gills and oxygen that Dom never paid much attention to, but he likes the image of himself like that, can't ever slow down, can't ever stop.
+
+Letty's not so different, he thinks. That's why they're in this together, always in motion, always planning the next job, the next race. Dom knows she spends time in Mia's bed, but that doesn't mean anything long term, that doesn't mean marriage for any of them. Mia says they talk about things, girl things, and she smiles that mysterious pre-med smile of hers, and Dom doesn't have anything to say to that.
+
+---
+
+For a while, it's easy.
+
+Lazy Sundays between jobs, just him and Letty in the garage. Kicking their feet up on Dom's old couch in the corner, scent of motor oil in the air. The afternoon sun hanging low in the sky, gold and orange through the thick LA smog.
+
+"Come on," Letty says. "Tell me who you'd want." She's wearing that grin of hers, all white teeth, a shark's grin if Dom ever saw one. It's a game they play sometimes, imagining that they'd been different people, easier people. The kind that can settle down, get married, pop out a few kids.
+
+Dom's slept with boys before, of course, the Evening boys who follow the races and like to feel up his car afterwards, when the metal is still warm to the touch. Dom likes the way their eyes go round, the way their breath comes short when they run their fingers over the detailing, because Dom understands allure of it. Speed is the sweetest drug. 
+
+None of them are good enough for Mia, though. No point in letting any of them get close. No point in letting any of them stick around.
+
+A lock of hair falls in front of her eyes. Dom pushes it back, tucks it behind an ear the way she likes. "Don't need anyone else."
+
+Letty barks out a laugh. "You known Vince has been looking," she says.
+
+"Vince's always been looking," Dom says. Fifth grade, Vince made Mia a Valentine's Day Card out of crayons and construction paper, and he'd asked Dom to give it to her with nervous, shaky fingers.
+
+"Not just Mia's he's been looking at," Letty murmurs. Her smile gets wider, sharper, makes Dom's blood burn the way she always does. But it doesn't matter. Vince is not an option. Never was. Never will be. They're brothers, but not in this.
+
+Dom pulls her close, kisses her to shut her up, feels the way she melts underneath his hands. Dom loves it when she's the baddest bitch around, the way she'd put you in the ground before she'd take your shit, but he loves her like this, too. Pliant and warm, sweetly giving.
+
+She laughs as he flips them over, and then Dom's kissing her quiet again, smiling against her lips.
+
+---
+
+Dom doesn't think much of Spilner when he starts sniffing around the shop. He shows up every day, like clockwork. Tuna sandwich and puppy dog smile, grinning at Mia like he even deserves the time of day from her, much less the annoyed roll of her eyes and the twitch of a smile she can't hide.
+
+Dom can see he's pretty, the way Mia likes them. He's looks more like a surfer, all blond-haired, blue-eyed, than a racer, than a guy who craves the taste of the quarter mile. But Dom knows the way he looks at cars, *Dom's* cars. Dom knows what he wants, but he's just a punk wanting what he hasn't earned.
+
+Dom's met more than his fair share of kids like that. The kind that swaggers in and puts on a shit-eating grin and gives no fucks about respect or hard work or anything else that would make him worth Dom's attention. Brian's no different. Nothing special. Nothing new.
+
+---
+
+But maybe Dom's wrong about that. He's been wrong before.
+
+---
+
+"You should give him a chance," Mia says, humming to herself as she fills the pot with water underneath their crappy faucet. The water pressure is awful, and it's always going to be until Dom can find the money to get a new pump. Mia nudges him aside with an elbow, shooting him an annoyed glare when he doesn't move fast enough. The kitchen is still Mia's domain. Their entire home is, really. Dom's no good at staying away from the garage, and it's up to Mia to make sure that the rent gets paid and the house doesn't collapse down around their ears.
+
+"And I'm giving him one," he grumbles. "Almost more than he deserves." Spilner's been working off his debt in the garage, smirking and laughing with Leon and Jesse, staring at Mia's ass like he isn't being obvious. Vince is spitting mad about it, of course, but since when *isn't* Vince spitting mad? Mia shoves the pot into Dom's hands, and he puts it on the stove, turning the burner up to high.
+
+"He's nice," Mia says, swatting Dom's arm. "I like him. A lot more than most of the guys you bring around." She grins at him, looking all of about ten years old again, sweet and sunny and smug about getting one over her brother. Dom's been watching over Mia for a while, but they've never argued about boys before. Girls, sometimes, but boys are usually a safer subject.
+
+"He's young, and he's stupid," Dom says.
+
+Mia laughs. "He'll grow out of it," she says. She glances out the window towards the backyard where the guys and Letty are goofing around in the hazy late-afternoon sunshine. Leon's got Spilner in a headlock as Jesse cheers them on and Letty rolls her eyes over a smirk. Vince scowls in the corner. They haven't broken anything yet, but it's probably just a matter of time.
+
+"Probably won't," Dom says.
+
+---
+
+Still, it's hard not to like the kid, just a little. He's good to Jesse and Mia, and he works hard, eager to please. Dom can respect that. He always has before.
+
+---
+
+"Shit, Dom," Brian says when Dom tells him about Linder. His expression is wide and startled, like he doesn't know what to say. In the shadowed light of the garage, his eyes look gray, so pale they're almost white.
+
+Dom shrugs. "Ancient history." He's over it now.
+
+"Dom--" Brian says. He reaches out, a hand covered in oil and grease, before pulling back, flinching like he's been burned. He blushes. Not much, but it's there. Dom knows exactly what it means, because he's seen it before. Brian's not so different than some of the other boys Dom's fucked, a pretty speed junkie with more balls than sense.
+
+Dom imagines shutting the garage door, so that they're left in the shuttered darkness of the garage, leaving only small patches of light through the upper windows. He imagines grabbing Brian up by his shirt, dragging him close, imagines kissing him in the old, dusty air, surrounded by the things his father left behind.
+
+He takes a deep breath, and Brian steps back, and Dom can't take any of it anymore. It's bullshit. It's all bullshit. He turns away and walks out of the garage, back out into the afternoon sunshine. Mia's got the time. She can let herself be distracted. All Dom's got is the next quarter mile and the quarter mile after that.
+
+---
+
+"Mia's sweet on him," Letty says, the next time they have a free moment together. She's resting her head on Dom's chest, twisting absent patterns in the sheets.
+
+"Yeah," Dom says, "seems like." He runs a hand through her hair. It's stiff with sweat, tangled and messy after a long day hard at work on her Nissan. He presses a kiss to the top of her head. He likes her best like this, rough and raw and relaxed, more like herself than she is any other place besides behind a wheel.
+
+"You're sweet on him, too," Letty says.
+
+Dom tenses, knowing that Letty can feel it. "It's not like that," he says.
+
+Letty rolls her eyes. "Just invite him to Race Wars," she says. "Let him prove his chops." Her smile is lazy, unconcerned.
+
+She sits up, rolling her shoulders, and Dom watches her. It's hard to believe there was a time when he didn't notice her trailing after him and the other boys, eager to prove herself. "You trying to say something here?" Dom asks.
+
+"If," Letty says, raising her eyebrows, even though it's stupid, even though it's never going to happen, "if we could, would it be him?"
+
+Dom closes his eyes and doesn't say anything. There's nothing he wants to say.
+
+---
+
+He invites Brian out to Race Wars next to the beach. They sit under the bright midday sun at Dom's favorite roadside shack. The fries are crap, but the burgers are good. 
+
+There's something about LA that crawls under Dom's skin, the sun and the surf and the bitter aftertaste of the humidity on his tongue. The heat of the pavement underneath the squeal of his car tires. The blur of the street lights as Dom hits the gas, shifting gears. The shout of the crowd as he crosses that final line.
+
+He won't get to keep it, though. Nothing's built to last, not in Dom's game, but this is still home for him, for a while.
+
+Brian smiles at him from across the table, all blond hair and pearly white teeth, a California boy if Dom ever saw one. A few passing girls flutter their fingers at the pair of them as they walk by -- in packs of twos, Evening and Morning, probably imagining him and Brian as their future husbands.
+
+Not going to happen anytime soon, but Brian raises his eyebrows at them, flirty, like they even have a chance. Dom clears his throat. "What's that all about?" he asks.
+
+"Nothing, man," Brian says with a non-committal half-shrug. His slips pull into a small, sly smile. "Just, thanks for this. It's a big deal."
+
+Dom stares at him, steady and level, and Brian puffs up under the attention, shoulders going back, head going up. A puppy eager for praise and physical affection. Dom feels old, all of a sudden. "Prove you can do this," Dom says, "and you've got nothing to thank me for."
+
+ --
+
+But maybe it's not that easy. They do another job to help Jesse out, and it goes bad real fast. Vince gets hurt. Mia gets involved. They find out that Brian's a fucking cop.
+
+"No more running," Brian yells in front of Dom's (*Dom's*) house, and it's bullshit, like everything else that comes out of his mouth. It's too much, too fast, everything spinning out of control like a bad turn. Brian's eyes are clear, angry, desperate. Like he gives a fuck about any of them, like maybe he gives a fuck about what happens to Dom.
+
+But it's not true, and Dom's got bigger things to worry about than just another cop who thinks he knows shit about Dom's life and Dom's choices. Jesse. Jesse and Johnny Tran.
+
+It's over fast, both of them, and all of a sudden they're things Dom won't have to worry about anymore. Brian turns over his Supra, his ten second car, handing over the keys like it's nothing.
+
+They stand for a moment like that, the smell of the burning Charger lingering on behind them, but Dom didn't get to where he is by refusing to take chances. The keys feel lighter than they should be, an unfamiliar weight.
+
+Brian doesn't say anything. Dom doesn't ask any questions. There are sirens in the distance, coming closer.
+
+Dom puts LA in his rearview mirror. He doesn't look back.
+
+
+### Chapter 2
+
+
+#### Chapter Summary
+
+
+
+#### Chapter Notes
+
+
+
+When Dom gets back to LA, it feels like a city of ghosts.
+
+His Ma would probably laugh and say that the title doesn't quite fit, that a city of angels shouldn't be considered anything so sad or so dour. Then again, she never moved more than a mile from where she grew up, and she'd planted her roots deep. She could remember the birthdays of every single kid on their block, and every week, she would play bridge and gossip with the other mothers on Sunday nights. Their Evening mother was more of a homebody, staying at home with him and Mia, making sure they did their homework, that they cleaned their room. She'd sing by the stove as she cooked dinner, and her eyes would crinkle when she smiled.
+
+They're both long gone now. Dom was still inside when their Evening mother passed, but he was there when he and Mia had to put his Ma in the ground. It had a bright day, cool and clear, a winter funeral, and Mia had squeezed his hand every time Dom felt like he was close to crying.
+
+Letty's funeral is busy, busier than it should be, and Dom's been in this game long enough that he can smell the heat lurking nearby. He knows better than to go in close, but he finds a good vantage point on a nearby hill where he can stand and watch. He's too far away to hear anything, but he doesn't need to. He watches as the preacher gives a speech, watches as Letty's younger sister dabs her eyes with a handkerchief, watches as the suits linger on, tailing Mia as she makes her condolences to Letty's mother.
+
+From what Mia's said, Brian's still a cop. Working for the feds now. Dom catches sight of a blond head amongst the suits, and he knows exactly who it is, who would think that at Letty's *funeral* of all places--
+
+Dom grits his teeth. It's another bright day, not so different from the last one he went to. He's wearing his sunglasses. He doesn't cry.
+
+---
+
+There's a moment when Dom's behind the wheel, racing through the wide, familiar streets, that Dom almost forgets. A quarter mile, Brian at his heels, and it's like-- like nothing's different, like all Dom needs is a stretch of road in front of him, an engine rumbling in his car, the ease of knowing what to do, how to get there, how to *win*, where winning is the simplest, the sweetest thing in the entire world.
+
+Dom had almost forgotten what it was like, how it had tasted, and here and now, the old memories bubble up again to the surface.
+
+But it doesn't last. The race ends. Letty's still dead. Brian's still a cop. The next quarter mile is elusive, still out of reach.
+
+---
+
+"It's not his fault," Mia says.
+
+Dom's nursing a headache from where Brian got a couple of good kicks in. Their makeshift dining room is quiet. Mia doesn't make much noise as she moves about, grabbing an ice pack from the freezer, gauze for where the wound reopened on Dom's back.
+
+"If it weren't for him--" Dom says.
+
+"If it weren't for him, you'd be in jail right now," Mia says. Her lips are pulled into a flat, angry line. Dom wonders if she's fucking Brian. They'd been hesitant but easy with each other during dinner, sneaking glances and smiles. Dom knows that Mia has kept her nose clean while he's been gone, deep in her studies. It'd be a good for her to start seeing a cop.
+
+Dom turns his head. The wall of the store is the same pale blue its been for the last twenty-five years. Dom remembers watching his fathers paint it together, shoulder to shoulder, laughing when Dom tried to help out. His hands had been stained blue for days afterwards, and his Ma always tutted at him and shook her head during meal times. The chair he sits in still squeaks when he leans back. He takes a deep breath. It's wrong. This is all wrong.
+
+"I miss her too," Mia says. She blinks and turns her head away, and Dom remembers that one time, when he'd come home from work late to find the two of them curled up together on the couch. Mia's head was pillowed on Letty's stomach, and Mia's hand was curled around Letty's hip while Letty's fingers tangled in Mia's hair. Dom hadn't said anything at the time, just watched for a moment, feeling something warm and fond expand in the center of his chest, before heading upstairs for a shower and some sleep.
+
+Dom clenches his jaw. "I never should have--" Dom doesn't cry, as a rule. He didn't cry when his father died. He didn't cry when he was being sent to Lompoc. He didn't cry when he watched Letty's funeral.
+
+Mia pulls him into a hug. Her arms are stronger than Dom remembers, but in Dom's mind, she'll probably always be sixteen, too young and too smart for her own good. "I know," she says, holding him close. "You don't have to say anything. I know."
+
+---
+
+Most of the time, Dom doesn't understand why Brian does half the shit he does. There are times when he's the cop, all law and order and following the rules, and there are times when he'll grin behind the wheel like he was born to it, and there are times when he'll bail Dom out of a bad situation for no reason whatsoever.
+
+He's not expecting it when Brian volunteers to help him go after Braga in Mexico. He's not expecting to see Brian showing up in the doorway of his room, hair ruffled and smelling of Mia's shampoo.
+
+Dom's not sleeping. He always has trouble sleeping before a job. After a job, he'll sleep for days at a time, but before a job, he's wired up tight, staring at the ceiling while he goes over the plan in his head, making sure he doesn't forget anything.
+
+"Hey," Brian says. His eyes are half-lidded, sleepy, sated. "You ready for tomorrow?"
+
+Dom turns to look at him. "Ready enough," he says. He sits up. "Question is, are you ready, O'Conner?"
+
+Brian steps in closer. Lights spills in from the hallway. His cheekbones look good like this, sharp a little dangerous. So do his shoulders in his t-shirt. Dom meant what he said to Gisele. He can appreciate a good body, regardless of the make. "Always have been, Dom," he says.
+
+There's a tease in his voice that makes him sound like he's talking about more than just the job, but Dom doesn't have the time for that now. "Good," Dom says. "We gotta be prepared."
+
+Brian nods, once, before he turns around and leaves.
+
+---
+
+There's a moment, when they're standing on the hill overlooking the town, when Brian turns to look at Dom and a fierce, determined expression crosses his face. "For Letty," he says.
+
+"For Letty," Dom agrees. The sun is bright overhead, making him squint, and the day feels heavy, weighted down with unfinished business.
+
+Brian steps in closer, putting a solid hand on Dom's shoulder. "Hey," he says.
+
+Dom turns to look at him, and there's no hesitation or uncertainty there. When Dom first met him, Brian was just this kid, reckless and desperate to prove himself. He's evened out now. Steadier. Five years and a lot of experience will do that to you, Dom's learned. He's not the same man he was then, either. He's learning that you have to hang onto the things that you love, that sometimes, it isn't worth it.
+
+"We've got this," Brian says, and then he reaches out, holds Dom's head between his hands, and presses a quick, firm kiss against Dom's lips. His hands are rougher than Dom expected, his breath warmer. He leans his forehead against Dom's after he pulls back. "We can do this, Dom. We have to." His voice goes low and scratchy at the end, thick with emotion.
+
+Dom breathes in, breathes out. He pulls away and licks his lips. They taste like dust and sweat and Mexican sun. He doesn't say anything else. Braga is waiting for them. He'll deal with all of this later.
+
+---
+
+"We'll get you out," Mia promises. She shifts, and the metal feet of the cheap prison chair scrapes on the linoleum floor. "Brian will--"
+
+Brian haunts her right shoulder, arms folded across his chest. "Anything it takes, Dom," Brian says. "I keep my promises. *Anything.*"
+
+Dom tilts his head to the side. There's something about the clench of his jaw that tells Dom that Brian's a shit poker player. He's surprised that never noticed that before. "I get that," Dom says.
+
+"I remember what you said," Brian says, "about Lompoc. It's not-- we won't let it come to that." He shakes his head, and Dom knows what's coming. He knows what he's done, and he knows how the federal government feels about that.
+
+"Okay," Dom says. His orange jumpsuit is scratchy, stiff and new. By the time he'd left prison last time, his jumpsuit was worn in and comfortable, frayed at the hems, with a stubborn stain on one hip after a nasty fight in the cafeteria. He wonders how long it'll take to break this one in.
+
+Mia reaches out, brushes her hand against his. "We won't," she says, and Dom almost believes her.
+
+
+### Chapter 3
+
+
+#### Chapter Summary
+
+
+
+#### Chapter Notes
+
+
+
+> So I've run out of pre-written fic right about now, and I'm in a mad dash to keep up with new stuff to post each day. This means that each chapter will probably keep get shorter until I manage to figure out exactly how many words I can write in one day. Sorry!
+> 
+> 
+
+
+The first night they spend together, just the three of them, is quiet. The sounds of the night drift up from the streets above as Brian and Mia whisper amongst themselves, heads bowed together. They sneak looks at Dom's back like their borrowed apartment isn't so small that they're rubbing elbows every time one of them moves half a foot in any direction, like Dom can't see what they're doing.
+
+Dom sits down on his bed, one of two of them crammed tight into the small room. The springs squeak from the weight of Dom's body.
+
+He closes his eyes. Breathes in. It smells like dust and old sweat, and it reminds Dom of the last time he was here, the first time he'd left LA behind and met up with Letty in this dingy apartment. It was just the two of them, then. Wrapped up in each other, pressed close together and breathing each other in. For a moment, he thinks he can feel her phantom presence, pressed up against his side.
+
+Mia whispers something again, voice too soft for Dom to hear, and Brian grunts something in response.
+
+Dom turns over in the bed. He wants to try to get some sleep before they have to move on tomorrow. They're still too close to the border, and they need to start moving early in the morning. He waits to hear Brian and Mia settling down for the night, the sounds of them arranging themselves on the other bed.
+
+But its his own bed that dips, jostling Dom to the side. "Shove over," Brian says. He presses a hand against Dom's shoulder, pushing him towards the wall.
+
+"What the hell do you think you're doing O'Conner?" Dom asks. Over his shoulder, he can see the ghost of grin around his Brian's lips, the lift to his eyebrows. It's almost affectionate.
+
+"We thought you shouldn't be alone tonight," Brian says, and before Dom can respond, he wraps an arm around Dom's waist, and Dom can feel the press of his lips against the back of Dom's head.
+
+The last time Dom slept with anyone's arms wrapped around him was that last night by the beach, with Letty tucked up underneath Dom's arm, her hair tickling Dom's nose. The thought doesn't sting the way it used to. They've gotten their justice, their revenge. It doesn't have to hurt anymore. Brian tightens his arm, shifts in closer so his front is pressed against Dom's back.
+
+"Don't argue, Dom," Mia says from the other bed, and Dom can hear her smirk in the sound of her voice.
+
+"Yeah," Brian says. "Come on, let's get some sleep."
+
+Dom takes a deep breath, forces himself to relax. "All right," Dom says. "All right."
+
+---
+
+Dom and Brian don't have sex that night or the night after or the night after that.
+
+It wasn't so long ago that they were coming to blows, sneering at each other over the hood of a car. Now they're almost-- they're friends. Now Brian will lean in close after dinner, letting their shoulders brush together, and now Brian will tell him things that they've never talked about before with a wry, strange smile on his face.
+
+Brian says, "You-- you gave me something, when I was undercover. I was always happier around you, you and Mia. It was like-- I had someplace where I could belong, where I wasn't afraid to be myself."
+
+Brian says, "We'd talk about you, me and Letty, when we had the chance. She didn't like me all that much, but she understood the work, how important it was for us to bring Braga down, and she did it for you, because she wanted you to come back for her."
+
+Brian says, "There was a time when if I could have-- I would have followed you anywhere. I spent a lot of nights wondering what would have happened if I had followed you the first time around. And then Letty showed up back in town, and Braga was killing off drivers, and it seemed like the perfect opportunity to get a little bit of that back again."
+
+Brian says, "Mia's always known, I think. She thought it was funny at first, how I felt about you, but then it all fell apart after Race Wars, and she would hang up on me every time I tried to call or slam the door in my face when I came around. It hurt like a bitch, but I knew I deserved it."
+
+Brian says, "Fuck, I just really fucking love you, okay?"
+
+And Dom will lean in and kiss him. He's getting used to the way Brian's eyes will flutter closed, and the way his breath will catch as their lips meet. He's getting used to the tight curl of Brian's fingers on the back of his neck. He didn't think of Brian much when he was on the run, but when he did, he thought of him as the cop hiding underneath the stupid, eager kid Dom knew. Now that they're here, that they're themselves, Dom can see that Brian's more of the kid than the cop, even now, five years later.
+
+Sometimes, it makes Dom's chest tight. It's not quite love, not yet, but it could be.
+
+
+### Chapter 4
+
+
+#### Chapter Summary
+
+
+
+#### Chapter Notes
+
+
+
+After they pull themselves out of the river, Mia frowns at them and shoves towels into their arms. "Go get cleaned up," she says. She shoots Brian a significant look, and Dom wonders what the hell is going on between the two of them sometimes. It's like they have their own fucking language some days.
+
+The apartments they're living in now are bigger, two bedrooms, a bathroom with faucets that are beginning to rust. Dom can tell that Mia's itching to clean it up a bit, decorate it with some of the memories of home, but they're only going to stay here a month, maybe two if they're lucky. No point in putting effort into it. She's not used to the way Dom's life works yet. 
+
+Sometimes Dom is angry about the things Mia's lost, the things that Dom had tried so hard to give her. They had a fight about it the first week after he got out, about adulthood and making your own choices and putting your family first. Mia had won that one. She's won most of their fights since she was little.
+
+Dom takes a long shower. His body is sore from the fight and the fall, exhausted in the way he always gets after a big job. Letty always got more hyped up, adrenaline rushing through her system, and she'd liked to ride Dom hard afterwards, knees around Dom's ribs, eyes fluttering closed as she lowered herself down around Dom's cock. Dom liked run his fingers over the bruises the job would leave on her body afterwards, cataloguing her scars, the reminder that they were still alive. Their bodies knew what to do, how to move together, and it was easy, so easy.
+
+When he gets out of the shower, his muscles are loose, relaxed, and he makes a choice. "Brian," he says when he steps out of the bathroom. "Come in here."
+
+Brian sticks his head in. "Hey, Dom. What's going on?" He blinks when he sees that Dom hasn't dressed yet. His eyes remain stubbornly on Dom's face.
+
+Dom yanks him into the room by his arm and pulls him into a fierce kiss, backing him up against the nearest wall. Brian doesn't fight it, just opens his mouth, lets Dom *take*.
+
+When Dom pulls back, Brian's eyes are clear and thoughtful, but he doesn't ask the question. Dom can see it on his face.
+
+"Coulda died out there," Dom answers.
+
+"But we didn't," Brian says. His hands are still resting on Dom's hips.
+
+"No more bullshit," Dom says. "I don't want to live a life of fucking regrets. I have too many of them already."
+
+"All right," Brian says. "Okay." He doesn't resist when Dom drags him down onto the bed, when Dom pulls his shirt over his head, when Dom undoes the buttons of his jeans, when Dom wraps a hand around his cock.
+
+Brian's not the same kid he was five years ago -- age has sanded off his rough edges -- but there's some of that in his face, open and wanting and willing to give Dom anything that he asks, and it reminds Dom of LA, of the beach, of home.
+
+---
+
+Rio is heat and sweat and Vince, older and haggard and weary, but still Vince in all the ways it counts. 
+
+Rio is also Reyes and Elena and Hobbs and the cross that hangs around Dom's neck. 
+
+It's a second chance, one that Dom's never thought he'd get. Elena's not-- she's not Letty, not even the ghost of her. She's sweet where Letty was cold, calm where Letty was wild, but she is tough as nails, fierce and unflinching in the face of danger. Sure, Dom has a type.
+
+Elena gets along with Mia. Dom's seen them make small talk about families and food and all the best places to visit the next time they're in Rio. It never goes any farther than that, though. He doesn't catch them watching each other or leaning in too close or smiling secret smiles at each other. Dom doesn't talk to Mia about it, and Mia doesn't talk to Dom about it either. She has other things to worry about.
+
+After Rio is France. France is beautiful. France is quiet and peaceful in ways that Dom never thought he'd crave.
+
+They live in separate houses, Mia and Brian and the baby in one, Elena and Dom in the other. Ma never would have approved of them living in sin like this, all settled and not yet properly married. But it works. It's good.
+
+Dom's never thought of family as a moving thing, something you can take with you, but when Mia announced that she was pregnant, it felt like a beginning to something, something big and something new. There was something past the next quarter mile all of a sudden, and now Dom wanted to be around to see it.
+
+Not many people get second chances. Dom's luckier than he has any right to be.
+
+
+### Chapter 5
+
+
+#### Chapter Summary
+
+
+
+#### Chapter Notes
+
+
+
+When Hobbs shows up and shows him the grainy photograph, Dom wants to believe it's a trick, a trap somehow, but Hobbs doesn't deal in bullshit. He's a cop that doesn't fuck around. It's one of the reasons why Dom ever liked him in the first place.
+
+If he says they've got a picture of Letty from last month, he means they have a picture of Letty from last month.
+
+"Are you going to be okay with this," Brian asks, "if we find her?" He watches Dom's face, careful, like he's afraid of what Dom might do if he had half the chance.
+
+The wind rustles the curtains of Dom's living room, and if Dom stays still, he thinks he can almost hear the beach outside. "I'll be fine," Dom says. He can handle Letty. He knows her, knows how she thinks, how she moves, how she reacts. The years don't change that, not for him, not for her.
+
+Brian raises his eyebrows. It's not much, but Dom's seen it enough times that he knows what it means. "We're going to be in this together," Brian says. "She was my friend, too." He puts a hand on Dom's arm. "Don't pull any shit without me."
+
+Mia walks in right then. She's holding Jack against her chest, rubbing a soothing hand up and down his back, like she's afraid to let him go. "I just heard the news," she says, and she's doing that thing where she's trying not to frown, but she's clearly pissed off anyway. Growing up, she was the first of them to really know or understand Letty, the first of them to fall in love. She has as much skin in this as any of them.
+
+She gives Jack to Brian to hold before pulls Dom into a hug, squeezing him tight. "I don't care what you have to do," she says. "Bring her back to us."
+
+"I will," Dom promises. He feels it, the weight of the responsibility on his back.
+
+"*We* will," Brian says.
+
+---
+
+Letty sneers at Dom the first time he sees her again, and it feels like a memory, an echo from another time. It's been a while, but Dom feels it again, missing her like a forgotten limb.
+
+Dom takes a bullet in the shoulder for his troubles, and when they finally get back to the base, he's in enough pain that he can't remember the way she looked at him, blank and cool and uninterested.
+
+"We'll figure this out," Brian says. The temporary quarters that Hobbs has given them is cold and sterile, gray walls and fluorescent lighting. They each have their own rooms, but no one mentions that Brian's is basically empty, same way no one mentions that Han has left all his stuff in Gisele's room, either.
+
+The beds are military issue, stiff and hard and uncomfortable, and the sheets are scratchy . France has spoiled Dom. "Not much to figure out," Dom says. "She doesn't remember us." He leans back so that he can stare at the ceiling. His shoulder aches, but they gave him good painkillers, so it feels like a dull, heavy throb instead of a sharp, searing pain.
+
+"We'll get him," Brian says. "We'll get her, and then we can go home." He looks toward the wall, where his phone is charging, and Dom knows he wants to call Mia and Elena, check up on Jack. Dom wants to listen in, wants to close his eyes and imagine the beach, Elena smelling of sunshine and cocoa butter, Brian laughing bright and loud at something Mia said. Instead, he sees the garage, hears the slap of metal on metal, the cranking of gears, the buzz of a saw. Jesse's waving his hands about, talking about the future of the combustion engine, while Letty bends over the hood of her car, and Dom's busy glaring at everyone who's craning their heads to get a good look at her ass. It's been so long since he's really thought of it.
+
+Dom takes a deep breath, and when he breathes out, it comes out a little shaky. "Home," he says, and he's not sure what that means anymore.
+
+
+### Chapter 6
+
+
+#### Chapter Summary
+
+
+
+#### Chapter Notes
+
+
+
+After the race, Dom is expecting the caginess and the anger. Letty never did learn how to be a good loser, but then again, neither did Dom. She gets out of the car and slams the door behind her, spitting angry at him, looking ready to claw his eyes out, showing her teeth. Dom's expecting all of that.
+
+What he's not expecting is for her to unbend a little, for her to shake her head and laugh and Dom's stories, a small familiar grin at the corner of her lips. She's uncertain and wavering, an inbetween person torn between the woman she is now and the girl she used to be.
+
+Up close like this, she's a mass of details that he'd forgotten, the curve of her chin, the curl of her hair, the fullness of her lips, the furrow of her forehead. He finds himself leaning in, trying to get closer. It reminds him of the dog that Old Man Sheppard down the street had owned, a mean thing that would growl at anyone that walk past. Dom had tried to get close to it once on a dare from Vince, and he'd almost lost his fingers in the process. He knows better than to get to close now.
+
+He almost says something stupid, about how they'll always manage to find each other in the end, about how she'll always have a place, whether she wants it or not, with Dom's crew, with Dom's *family*. But she's not ready for that, not yet. He gives her the cross back instead. It's real. It's solid. She can carry a piece of him with her.
+
+Love is an aching thing, Dom's learned. It can eat away at you from the inside. He hopes it won't come to that, but it might, and that's scarier than any of Shaw's plans for world domination could ever be.
+
+---
+
+There's a moment, when Dom is staring at the sky above them, clouded over and gray. His back hurts like a bitch, and Letty is wincing in a way Dom hasn't seen since she broke her leg and several ribs that last time they were in Columbia. The remnants of the car's windshield crackles as they sit up, as they pull themselves to their feet.
+
+They're lucky to be alive, but they are. They're alive.
+
+---
+
+The first night Letty spends with them, she's cool and watchful and quiet. When she was younger, she used to get in people's faces, used to get loud, just so she could prove to everyone that she could pull her weight and that she wasn't going to take shit from anyone. Now she's keeping her head down, refusing to do anything that could make herself a target.
+
+"You alright?" Dom asks her during dinner. Brian's giving them space, watching them from the other end of the table out of the corner of their eyes. He's catching up with Roman and telling Han some of the best stories from when they were growing up and getting into trouble together, like that time one of Roman's ex-girlfriends set him up on a blind date with an Evening girl out of spite, and how Roman had freaked out for half an hour once he found out after he kissed her.
+
+"They don't like me," Letty says. Earlier, Tej had made a joke, and Letty had barely cracked a grin, and it had been awkward afterwards, everyone shooting Letty uncomfortable looks as Hobbs tried to keep everyone on track.
+
+"They don't know you," Dom says.
+
+"Did they know her?" Letty twists her lips into a grimace and fiddles with her knife in a way that would make most people nervous.
+
+"Few of them." Brian and Han are the only ones Dom knows for sure, though Gisele had probably met her a few times while Letty was running drugs for Braga.
+
+"I'm not who they're expecting," Letty says.
+
+Dom thinks of the Letty who would to punch men in the balls when they got too close, who would smirk at every filthy joke. "You're not that different."
+
+Letty snorts, "I find that hard to believe."
+
+Dom wonders what she'll do when she meets Mia, her steady warmth, her patience, her ability to understand Letty better than any of them. Dom used to watch them tease each other over dinner, Letty doing her best to get a rise out of Mia, and Mia refusing to take the bait. They'd smirk at each other, a private joke that Dom wasn't ever allowed in on. "It's alright," Dom says. "You will."
+
+
+### Chapter 7
+
+
+#### Chapter Summary
+
+
+
+#### Chapter Notes
+
+
+
+It all goes to shit fast after that. Shaw's fast, and he's mean, and he doesn't play with any sort of fairness. Riley is one thing. Dom respected her, but he never really liked her. Going after Mia is a low blow, one entirely out of bounds.
+
+They fight, and they win, but they lose Gisele in the process. It reminds Dom of Vince, of Jesse, of Letty herself, once upon a time. One day, they'll stop losing people, and one day it will stop hurting.
+
+----
+
+With the fire from the exploded plane still lighting up the sky, they take a moment to catch their breaths, to see what's left. Dom's body aches in muscles he didn't even know he had. Mia grabs Letty and drags her into a tight hug, and Dom watches the way Letty moves on instinct to hug her back. She's always hugged Mia different from any of the rest of them. There's something gentler about the way she touches Mia, comfortable and easy. For all that Letty relaxes around Dom, around Mia she seems younger, happier, not quite so tough or so brittle.
+
+"So, LA, huh?" Hobbs says, coming up behind him. "I guess it's probably worth all of this." Brian's thrown an arm around Roman's neck, and Elena is letting Han lean on her shoulder while Tej gives him a comforting slap on the back. This is how they pull through this shit, by having each other.
+
+Dom doesn't close his eyes, but he thinks of the tile floor of their kitchen, the place where the pattern changes because his fathers ran out of a certain color tile. He thinks of his bedroom, the way his mattress dips to one side, the ugly water stain on the ceiling. He thinks of the way the LA sun gets late in the afternoon, hazy and warm, and the way the streets sound underneath his tires. "It is," Dom says. "It's always been worth it."
+
+---
+
+The old house has two master bedrooms, one that belonged to Ma, and one that belonged to their Morning father. Before, when they were the only ones living there, Mia had taken Ma's room, and Dom had kept his old room from when he was growing up.
+
+Now that Letty and Brian and Jack are living with them, Dom's moved into the other master bedroom and they've redecorated his old room so that Jack's stuff will fit in there. Letty spends her nights in Dom's new room, and Brian in Mia's. Letty's still feeling her way around things, still uncertain and uncomfortable and putting up an angry, brave face about it. Brian is especially wary around her, as much as it is clear that he still cares. They don't talk much, and Dom wonders what it was like, when they were working together. They weren't close, the first time around, but that must have changed. Maybe that will change again.
+
+Mia's been faring better, taking Letty out to go visit their old haunts, telling Letty old stories, and Dom doesn't mind so much because it means that means Brian and Dom can get some more time alone together. Letty always comes back from those trips looking more like herself, like her skin fits on right, like she knows exactly who she is. Her memories don't come back, but it doesn't matter. She's still herself, and that's all that matters.
+
+They spend their days cleaning and cooking and fixing the place up after years of disrepair. Dom gets a new water pump, and Brian replaces the loose floorboards on the second floor, hammers down the nails that stubbornly stick up. Letty runs her fingers over Brian's Supra, learning its shape, its weight. Mia even reopens their shop, pulling in a few extra dollars here and there.
+
+After a life of living too fast, Dom's surprised how easy it is to settle in their routines. LA is the same it's always been, but it feels different now. There's no Vince or Jesse or Leon, filling the house with the sound of their boots on the floorboards, and every once in a while, he'll be awoken by the sound of Jack crying in the middle of the night.
+
+But Letty's right. It does feel like home.
+
+---
+
+Dom wakes late one morning to the smell of pancakes and the sound of laughter in the kitchen. Letty's side of the bed is cold, the sheets shoved haphazardly to the side. He gets dressed, pulls on a pair of sweatpants and a t-shirt and climbs down the stairs. 
+
+The three of them are at the kitchen table. Mia is holding Brian's hand, leaning a head on his shoulder, and Jack is in Letty's lap, giggling. The midday sun is coming in through the back door, the windows. A stack of blueberry pancakes sits in the middle of the table. Brian's eaten half of his.
+
+"Dom!" Brian says. "Glad you could make it." He's grinning in a way that makes him look younger, all of those years stripped away until he's just a punkass kid again, inserting himself into Dom's life without Dom quite noticing it.
+
+"What's going on here?" Dom asks.
+
+Mia covers her mouth for a moment. "We've come to a decision," she says. She shoots Letty a look, and Letty rolls her eyes even as she can't hide her smirk.
+
+"Oh?" Dom says. "And what might that be?" He's still a little fuzzy with sleep, relaxed, filled with the warmth and affection of being here, being together.
+
+"We want you to marry us," Letty says. She holds out a hand, and Dom takes it, letting her tug him towards the table.
+
+Mia takes Dom's other hand as he sits down in the empty chair, leaning over to give him a kiss on the cheek. "I know how you feel about marriage, but I think it would be good for us, for Jack, to make it official." She smiles at him like she knows she's going to win this fight.
+
+Brian just raises his eyebrows and shrugs his shoulders.
+
+And Dom feels--- he feels ready for this, ready to slow down, ready to settle. He couldn't have chosen himself a better place, a better family, a better life. This is more than he could have ever asked for, after Linder, after Race Wars, after losing Letty the first time. "All right," he says. "All right."
+
+ 
+
+FIN.
+

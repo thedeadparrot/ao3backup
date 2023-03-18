@@ -1,0 +1,60 @@
+---
+ao3_url: https://archiveofourown.org/works/2690?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Tenth Doctor
+- Jeremy Clarkson
+- Richard Hammond
+- James May
+- The Stig
+date: '2009-01-13'
+fandom:
+- Top Gear (UK)
+- Doctor Who
+notes: Written for thermidor in the Yuletide 2008 Challenge. Lots of love to hannahrorlove
+  for the beta.
+relationship: []
+summary: '"No. I veto this idea," Hammond said, rubbing his forehead. "We are not
+  reviewing a TARDIS that is shaped like a police box."'
+tags:
+- Crossover
+- Crack
+title: You Don't Have To Be Crazy To Work Here, But It Helps
+warnings: No Archive Warnings Apply
+---
+
+"What?" Hammond said. "Are you *mad*?"
+
+Jeremy looked quite pleased with himself, as usual, so James said, "I can't believe you've only just realized that now."
+
+"I think it's a brilliant idea," Jeremy said, beaming.
+
+The Stig was suspiciously quiet, but then again, he had also trained for seven years with Tibetan monks before having his eyes replaced by high resolution optical sensors. This sort of thing probably didn't faze him in the least. Unless he was sleeping in his helmet, which was another possibility.
+
+James glanced at the Doctor, who waved from his place in the TARDIS' doorway. The TARDIS itself was parked at the start line of the Top Gear racing track. It looked comfortable there, if James said so himself. "Hello!" the Doctor said. James thought he saw Hammond pale a bit.
+
+"No. I veto this idea," Hammond said, rubbing his forehead. "We are not reviewing a TARDIS that is shaped like a police box."
+
+"I've actually become rather fond of the police box part. Took a few centuries, but I've come around to it," the Doctor added, helpfully.
+
+"Can we at least have the Stig race it around the track?" Jeremy pleaded. At that moment, he seemed much more like the five year old boy he really was as opposed to the middle-adged man with a receding hairline he looked like most of the time.
+
+The Stig tilted his helmet to the side in a way that indicated that he wouldn't be completely adverse to the idea.
+
+They all looked at the Doctor, who had put on a pair of spectacles and had started scratching his chin. "Well, I don't usually let just anyone drive the TARDIS, but seeing as I'm a huge fan -- brilliant work, by the way -- sure! Come on in. Of course, I'm only aiming to beat the Konigseggseggseggseggseggseggseggseggsegg CCX with Top Gear spoiler, but I think this old bird might be capable of doing better than that." He patted the wood and grinned from ear to ear. James was pretty sure it wasn't natural.
+
+Then they all looked at Hammond, who threw his hands up in disgust. "Oh, all right. But don't blame me if this goes horribly, horribly wrong."
+
+Jeremy beamed again and grabbed the stopwatch out of a production assistant's hand, while the Doctor showed the Stig all the knobs and switches on the main console, hopping a bit as he did it. "Now this one goes the main influx reactor," the Doctor was saying as the Stig refused to react to his instructions in any way. "Don't touch it unless you want to cause leakage into the time vortex while we're in the air."
+
+James rolled his eyes and stepped back from the track, so that if the TARDIS wasn't as easy to handle as a car, Jeremy was the one who would get run over. Hammond had the same idea and stepped back also. "Well," James said. "It won't be boring. I can tell you that."
+
+Hammond said, "I just hope they don't kill anyone. Well, maybe with the exception of Jeremy."
+
+They watched as Jeremy gave the TARDIS the signal to go. The TARDIS seemed to do rather well, actually, though it did knock over a stack of tires as it was navigating the hammerhead. It was coming around Gambon corner when it disappeared into thin air, causing Jeremy to jump up and down in frustration. "That's the third Stig we've lost this year," he said.
+
+"Oh, bugger," James said. "I guess this means we need to find another one."
+
+ 
+
+FIN.

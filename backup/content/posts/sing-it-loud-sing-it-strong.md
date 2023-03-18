@@ -1,0 +1,117 @@
+---
+ao3_url: https://archiveofourown.org/works/5795539?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters: []
+date: '2016-01-23'
+fandom:
+- 'Star Wars Episode VII: The Force Awakens (2015)'
+notes: 'Unbetaed. From the kinkmeme prompt: ["Rey orders Poe to praise Finn."](http://tfa-kink.dreamwidth.org/1082.html?thread=1186362#cmt1186362)
+
+
+  Sorry, not sorry, to the Carpenters for the title.'
+relationship:
+- Poe Dameron/Finn/Rey
+summary: Poe's quiet during sex. Rey plans to change that.
+tags:
+- Kink Meme
+- Praise Kink
+- Threesome - F/M/M
+title: Sing It Loud, Sing It Strong
+warnings: No Archive Warnings Apply
+---
+
+Poe is silent during sex. He'll squeeze his eyes shut and grit his teeth and bite his lips, and at most he'll let out a soft gasp or wheeze from the back of his throat. He holds back, like he needs to keep himself together, be the older, more experienced one out of the three of them. Rey doesn't think he means to do it, just from the way Poe touches them and the way he's hungry for, soaks in their touch. She can only imagine it's the result of living in barracks, habits so ingrained that he still leans on them when the three of them are alone in Poe's cramped but solo quarters. It's a marked difference from the easy affection Poe gives out when he's not in bed.
+
+Finn, by contrast, is loud. He'll moan and he'll beg and he needs so openly and honestly that Rey always wants to give him what he asks for, even when she knows she should make him work for it a little bit. He responds so well to verbal commands, he doesn't need more than a single word to be eager and ready. He's still uncertain about himself, though. He's so unsure of his skill that he can work himself into knots over it.
+
+And Rey-- Rey ends up being the connective tissue between them, acting as Poe's voice and Finn's touch. She's happy to do the work, especially when it's so pleasurable. More often than not, they look to her for guidance and direction, and she's more than happy to give it.
+
+Tonight, she's sitting with her back to the headboard, knees up, feet planted. Poe has his chin resting against the mattress as Finn fucks into him behind. All of them are naked, bare skin in a variety of different shades. From this angle, Rey can see the expression on Poe's face, the way he sinks his teeth into the thin sheets. Finn's bent over Poe's back, pressing sweet kisses to the angles of Poe's shoulder blades. The mattress rocks with every thrust.
+
+They're beautiful together, all that strong, curved muscle shifting against each other. Their sweat gleams in the dim light. She wants to run her hands over and through Finn's hair, feel it prickle, wiry underneath her fingertips. She wants to press her lips against Poe's jaw, where his evening stubble is coming in bristly and dark. She could. They'd let her. But she has other plans for tonight.
+
+She leans over to bite at Poe's ear. He likes the edge of pain, she's discovered. An extra scratch from her nails, dark bruises on his hips. Finn's so nervous and conscientious about things that he's not able to hurt Poe the way Poe wants him to, but Rey's happy to fill in those gaps. Poe hisses and jerks as her teeth dig into his flesh.
+
+"You should tell him," she says when she lets go, a whisper into Poe's ear. "You should tell him how much you love this."
+
+Poe lets out a choked gasp, the sheet falling away from his mouth. The spike in his arousal filters through the Force.
+
+Rey figures that's as good a sign as anything. "If you want him to fuck you harder, you're going to have to ask him for that." Usually, Rey is more than happy to give Finn directions on Poe's behalf, but she's not in the mood to do that sort of work tonight. She wants to see what Poe's like when he finally lets go.
+
+Poe opens his mouth and, takes a deep breath. Finn snaps his hips, smooth and slow. Rey watches as Poe bites back a moan.
+
+"He wants to hear it," Rey says. She can feel the thread of Finn's apprehension, his confusion and concern over what they might be talking about. She sits back, letting Poe digest her words.
+
+Finn thrusts again. "Fuck," Poe spits out. 
+
+A bead of sweat slides down Finn's temple. Rey rocks forward onto her knees so that she can lick it off, salt and skin on her tongue. 
+
+Finn turns his head, eyes wide and wanting. He moans, low and deep and needy. Rey kisses him, listening to Poe's harsh breaths between them. Finn licks into her mouth, sloppy and desperate, just the way she likes him. Her own arousal is usually a slow burn on nights like this, but her body clenches, a wetness gathering at her center.
+
+"Poe," Rey says after she pulls back, loud enough for Finn to hear it. "Tell him." She licks her lips, like she can still taste Finn there.
+
+Finn frowns, clearly confused, but Poe jerks his head in the semblance of a nod.
+
+"S'good," Poe slurs out.
+
+Finn's frown softens, but some of the confusion still lingers in his expression. "Uh," he says. "What--"
+
+"Louder," Rey says to Poe, "or I won't let you eat me out later." She sits back against the headboard, trying to look unaffected. The two of them seem to like it better when she pretends not to be involved
+
+Poe lets out a soft whine at that. He loves giving head. He's almost as cocky about his skill with his mouth as he is about his skill at piloting anything that will fly. Rey has fingered herself more than once to the sight of Finn losing it with Poe's lips wrapped around his cock.
+
+"You heard me," Rey says.
+
+Poe closes his eyes and takes a breath. His voice is rough, but the words are much clearer. "So good," he says. A gasp. "Love the way you fuck me."
+
+Finn's eyes go wide and round. He's not used to hearing Poe be vocal like this. Finn glances up, looking to Rey for guidance. She nods, once, and Finn relaxes a fraction. She can feel his pleasure, sitting deep in the center of his chest.
+
+"More," she says to Poe. "He likes it."
+
+Finn moans in agreement. His hips jerk, perhaps without even realizing he's doing it.
+
+"Your cock is just-- fuck," Poe says. His fingers curl into the sheets, clinging to them. "Want it harder." His voice is choked off and faint and Rey feels a thrill at hearing the way Poe has fallen apart.
+
+Finn nods, though Poe can't see it. "Yeah," Finn says. He adjusts his knees, his feet so he can get better leverage. Rey loves it when Finn gets like this, so focused on the task at hand that all his uncertainty and hesitation just falls away. Finn drapes himself over Poe's back, shifting his hips so he has a better angle.
+
+Finn's so sweet, so gentle, and so good with a blaster, that it's easy to forget how strong he is. When he fucks Poe harder, the whole bed shakes with the force of it, his hips driving Poe deeper into the mattress.
+
+At first, Poe goes quiet. He gasps ragged and wet into the sheets. But then he lifts his head up, and words start spilling out of his mouth. Once he starts talking, he doesn't stop.
+
+"Yeah, just like this," Poe hisses, "more, fuck, just-- so good, yeah, love the way it feels when you just go at it, fill me up so good."
+
+Finn's responding to the words. Rey can feel the flush of his pride and see the flash of his smile.
+
+"More, come on," Poe says. "Harder." His breath is hitching in the way that means he's about to come.
+
+"Yeah, okay, yeah," Finn says and snaps his hips harder. He lets out these rough grunts with every thrust and moans as Poe starts to rock back into them. He's close to the edge as well.
+
+Poe's the one who comes first, letting out a wordless shout, shuddering through the intensity of it. 
+
+Finn follows him a few moments later, groaning into Poe's shoulder.
+
+It takes them a moment to catch their breaths. They bask in the afterglow. Finn flops over onto his back at Poe's side. He's right at the edge of the mattress, about to fall off, but they all have enough experience maneuvering here that they can stay on. Rey pulls Poe up into a kiss. He doesn't exactly fight her on it, but he doesn't exactly help her either, so it takes a little bit of extra work on Rey's part to get their lips to line up. 
+
+"Did you like that?" she whispers into his mouth after she pulls back.
+
+Poe nods, letting out a soft hum of approval against his lips.
+
+"Hey," Finn says with a bit of a whine in his voice. He always gets needier after an orgasm, and Rey has no intention to leave him hanging.
+
+Poe meets her eyes. "Tell him," she says with a slight nod of her head.
+
+Poe's left hand flails out, landing on Finn's shoulder. "That was great, buddy," he says, more coherent now that he's come. Finn shimmies over, close enough to curl up against Poe's side.
+
+"Thanks," Finn says, and he smiles wide enough that his eyes crinkle. He rests his head on Poe's back, cheek against Poe's shoulder blade, and Rey doesn't think she's ever seen Finn this pleased, this relaxed after sex.
+
+"You did very well yourself," Rey says to Poe, because she is proud of him. It's time she gave him his reward. She runs her fingers through his hair. He leans into her touch, titling into her hands. She spreads her legs wider and pushes his head between them. Her eyes fall closed when his lips press against her clit.
+
+He's languid like this, long slow licks against her sex. "Yeah," she says, groaning. "Right there." His tongue pushes into her, warm wet pressure right where she wants it. His teeth graze her clit, sending sparks of pleasure through her body.
+
+She's already so worked up that it doesn't take a whole lot for her orgasm to wash over her. Her hips spasm, her fingers digging into Poe's hair. She comes down with long, heavy breaths, back slumped against the headboard. This is probably her favorite part. As good as the rush of pleasure felt, it's nothing compared to the warmth it leaves behind in her wake, the knowledge that she's wanted and she's welcomed here, that they love her enough to give this to her.
+
+When Poe pulls back, his mouth and face are wet. He licks his lips and smirks. Rey slaps his shoulder. He laughs. Finn kisses him quiet. Rey shimmies down the bed so she can spoon against Finn's back, a snug fit. Their legs tangle together. Poe's fingers brush against her side. She grabs his hand and holds on as tight as she can. 
+
+ 
+
+FIN.

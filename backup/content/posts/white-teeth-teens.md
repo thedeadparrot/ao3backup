@@ -1,0 +1,98 @@
+---
+ao3_url: https://archiveofourown.org/works/1238311?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Burt Hummel
+date: '2014-02-26'
+fandom:
+- Glee
+notes: 'Written for [trope\_bingo](http://thedeadparrot.dreamwidth.org/546413.html)
+  and the prompt ''meeting the parents/family''. I think I''m going to aim to get
+  a bingo in ten days, which means a new fic every couple of days. Wish me luck.
+
+
+  Also on [Tumblr](http://thedeadparrot.tumblr.com/post/77855213030/fic-white-teeth-teens-glee-kurt-blaine)'
+relationship:
+- Blaine Anderson/Kurt Hummel
+summary: '*So this is Blaine. Kurt talks about him without realizing it, offhand comments
+  about the time Blaine''s parents almost lost him in the Macy''s on 34th Street when
+  he was ten or about how Blaine thinks that pianos might be the most perfect instrument
+  ever invented or that trip Blaine took last Friday evening to the mall with the
+  rest of the Warblers while Kurt was busy working at the shop.*'
+tags:
+- Unresolved Romantic Tension
+title: White Teeth Teens
+warnings: No Archive Warnings Apply
+---
+
+Kurt is five minutes late.
+
+That's not so unusual since he joined glee club and started swanning about with his gaggle of newfound female friends. Burt's grateful for that, he really is, after a series of lonely, quiet middle school years, but he doesn't think he'll ever be comfortable with the idea that he doesn't know where his kid is at any given point in time. He folds his arms across his chest, huffing out an impatient breath.
+
+Carole raises her eyebrows at him. "He'll be here," she says. "Teenage boys are notoriously unreliable. You do remember what that's like, right?" Burt doesn't particularly like the wry undertone to her voice. He does remember how much he hated it when his parents would try to pry into the details of his life, and he'd be much happier if he could pretend that he didn't.
+
+The night air is crisp, and the field is well-lit, bright under the friday night lights. The crowd is a comforting swell of noise, waiting for the game to begin. It's easy to feel transported, on a night like this, back to the days when he and Elizabeth would come to the weekly football games together, holding hands as they cheered the team on. Even then, McKinley's football team was nothing to write home about, but that was part of the charm. It was more about spending time together, about the way she'd lean her head on his shoulder and how every time she laughed, he'd feel it all the way up and down his arm.
+
+Burt takes a moment to scan the crowd one more time, and he spots the two of them as they circle around to the front of the bleachers, all dark coats and shining hair. Kurt is bright, miming something that looks like it might be a hat with his hands as the boy next to him nods seriously in agreement.
+
+So this is Blaine. Kurt talks about him without realizing it, offhand comments about the time Blaine's parents almost lost him in the Macy's on 34th Street when he was ten or about how Blaine thinks that pianos might be the most perfect instrument ever invented or that trip Blaine took last Friday evening to the mall with the rest of the Warblers while Kurt was busy working at the shop.
+
+Blaine isn't quite what Burt expected. He thought Blaine might be another Finn, tall and broad, looking like a football player, especially after Kurt mentioned that Blaine was a big fan of the Buckeyes. But Blaine is smaller than Kurt, dark, with thick eyebrows and a way of walking -- something about his shoulders and the careful way he carries himself -- that scream money as surely as his expensive wool coat does.
+
+As they get closer, Carole elbows him in the side. Burt uncrosses his arms. Blaine laughs at something Kurt says, and Kurt shakes his head. They look up as they get closer, their expressions shifting as soon as they spot Burt and Carole, becoming stiff and formal.
+
+"Dad, Carole," Kurt says. "This is Blaine."
+
+Blaine says, "It's nice to meet you, Mr. Hummel, Mrs. Hummel. Kurt speaks very highly of both of you." He holds out a hand. Burt shakes it. The kid's got a good grip, steady and strong, but his smile is plastic, trying too hard.
+
+"Nice to meet you, too, Anderson," Burt says. "Kurt's mentioned you once or twice."
+
+"Only good things, I hope," Blaine says. The patter feels automatic, as practiced and bland as his smile. It makes him seem years older than he is.
+
+"Yeah, sure," Burt says.
+
+"It's lovely to meet you, too," Carole says. She shakes Blaine's hand as well, and Burt can tell that she likes the kid already.
+
+Kurt gives him the strangest look before he tugs on Blaine's coat. There's been more of that lately, and Burt's not sure what to make of it. He knows it's inevitable, that kids grow up and they change, but he's not sure he's ready for that to happen with Kurt, not just yet. "Come on," Kurt says. "We should go grab some seats."
+
+"Sure," Blaine says.
+
+---
+
+The seats they get are lower down in the stands, and Burt can watch the two of them interact without them noticing.
+
+It's weird. They stand close, shoulders bumping, and every so often, Blaine will lean over to whisper in Kurt's ear or put his hand on Kurt's arm. Burt doesn't think never seen Kurt so comfortable with someone else in his personal space before, male or female. He doesn't think he's ever seen Finn and Puck act like that either. He gets that it's different for gay kids and that it doesn't have to mean anything. But it's still weird.
+
+Burt probably doesn't have to give Kurt the lecture on expecting boys to treat you well and the importance of being safe, physically and emotionally. Not just yet, anyway.
+
+---
+
+After the game, they stick around to mingle with the glee club on the sidelines. Burt makes sure to peel Kurt off for a few moments before he joins his friends for the rest of the night.
+
+"Blaine seems nice enough," Burt says. His voice comes out a little gruffer than he intends it to.
+
+Kurt smiles, a little goofy and a little lovestruck. "Yeah," he says. "He's great."
+
+"So. Friends, huh?" Burt asks. He knows that expression on Kurt's face. He's not sure he's ready for it, but he knows it.
+
+Kurt blushes so hard it travels down to his neck, but he stands his ground and doesn't look away. "Yeah," he says. "Blaine doesn't-- it's not like that for him."
+
+They look over to where Blaine is talking to Mercedes, all beaming smiles and animated hand gestures. She's laughing and shaking her head at him as he talks. If Burt squints, he can almost see what the appeal is. Blaine's handsome enough, polished and smooth in a way that's rare in Lima. Burt's been preparing himself for years for the day when Kurt leaves Ohio in the rear view mirror. This kid's just the first step.
+
+Blaine glances over at where Burt and Kurt are standing, and his smile softens. Kurt turns away, trying to pretend like they weren't watching, but Burt can see the tender fondness and affection on Blaine's face even if Kurt can't.
+
+---
+
+Kurt disappears to give Blaine a ride home and Finn heads off to spend some time with the rest of the football team, leaving the parents to make their own ways back to their car.
+
+"Well, that was fun," Carole says, looping her arm through Burt's, "and we finally got a chance to meet the infamous Blaine."
+
+"Yeah," Burt says. The gravel of the parking lot crunches underneath their feet. This is what it's like in high school. Football games and girls (or boys) and trying to carve out a space for yourself in the world. Burt knows that it's been so much harder for Kurt than it ever was for him to have any of that. It's great that Kurt's found someone who understands him, but Burt doesn't have to be happy about what it means.
+
+"They were sweet together," Carole says. She's smiling, clearly amused by his discomfort. "How long do you think it'll take the two of them to figure it out?"
+
+"Not long enough," Burt grumbles.
+
+Carole laughs as she leads him away.
+
+FIN.

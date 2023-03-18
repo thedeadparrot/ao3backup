@@ -1,0 +1,152 @@
+---
+ao3_url: https://archiveofourown.org/works/11120133?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Diana (Wonder Woman)
+- Steve Rogers
+date: '2017-06-07'
+fandom:
+- Wonder Woman (2017)
+- Captain America (Movies)
+notes: Roga deserves so much credit for the beta, making this a much better story
+  now than it was in its original form.
+relationship:
+- Diana (Wonder Woman)/Steve Rogers
+summary: They meet, as is fitting, on a battlefield.
+tags:
+- Crossover
+title: We Happy Few
+warnings: No Archive Warnings Apply
+---
+
+They meet, as is fitting, on a battlefield. Icy cold, covered in snow, a tundra empty of all life except for a partially buried HYDRA base. Soldiers dressed all in white spill out from the base, weapons in hand.
+
+The battle is quick and brutal. The sound of ricocheting bullets fills the air, twin shields held aloft. They cut two separate paths through the crowd. Her lasso is a bright flash of glowing gold. His shield spins through the air. For all the advances in technology, there are times when war in the twenty-first century is not so different.
+
+Afterwards, they turn towards each other in mismatched red and blue uniforms, the smoky ruins of the HYDRA base behind them.
+
+"I am Diana of Themyscira," she says, bowing her head once. "It was a pleasure to do battle with you."
+
+"Steve Rogers. Of Brooklyn," he says, bowing his own head, holding out one hand. "And likewise."
+
+A pause at his name, an echo of another time and another place, before her lips twist up into a smile. He copies her, though his smile is brighter, broader.
+
+She shakes his hand.
+
+---
+
+The next time they see each other again is in Paris. Her hair is pulled back into a severe bun, and he is no longer wearing a mask, but they recognize each other instantly. Steve is sitting at an outdoor table of a cafe, nursing a coffee and listening to Sam give murmured updates on his niece's science project, when Steve spots her as she walks down the street. She's wearing a dark red coat that makes him think of Peggy, a proud woman moving through a world that doesn't want to acknowledge her power and her strength. Diana pauses by his table, her eyes fixed on his face, the edges of a smile curling the corner of her lips.
+
+"Hello, again," she says.
+
+"Hi," he says, smiling.
+
+"You going to introduce me to your friend?" Sam asks. He raises one eyebrow at the two of them, but he looks more amused than annoyed.
+
+"Sam, this is Diana. Diana, this is Sam." They shake hands, careful, studying, taking their measure of each other.
+
+Sam asks, "How do you two know each other?"
+
+"We fought together a few months ago," Steve says. A tough battle, made easier by the fact that she was with him. He still thinks of her fondly, of her strength and her grace. And now she's here.
+
+"And you?" Diana asks. Her smile is distant but not unkind.
+
+Sam laughs. "Our story's not so different, but it sounds like we met in much more boring circumstances. Jogged the same route every morning at the mall in DC."
+
+"It is a beautiful place," she says, and Steve has a moment to wonder if she's thinking of the reflecting pool catching the soft morning light or of the cherry blossoms in full bloom.
+
+Steve clears his throat, changing the subject. "Are you in Paris for business or pleasure?" he asks.
+
+Diana says, "I live here. I work at the Louvre." It is impossible to miss the way her eyes flick back towards the museum.
+
+Sam lets out a low whistle. "Sweet gig," he says.
+
+She smiles. "It is rather nice to be reminded of the things that humanity is capable of creating when you spend so much time dealing with tools of death and destruction." There are stories hidden in her words. Perhaps she'll tell them someday. Perhaps Steve will tell his own someday as well.
+
+Steve holds up his coffee mug in a mock toast. "Amen," he says, and all three of them laugh.
+
+---
+
+"Well," Diana says, "this visit is unexpected." Steve is standing in the doorway of her office, looking a little hesitant. He's dressed simply: jeans, a gray t-shirt under a blue jacket. But she would recognize him dressed in anything by his eyes: far too old to belong on such a young and handsome face. She stands to greet him, to be a gracious host, to welcome him into her space.
+
+He smiles, wry and boyish and apologetic. "Uh, I looked you up in the employee directory. There are more Dianas who work here than I realized."
+
+She laughs. "I hope you didn't get too lost."
+
+"I got here all right," he says, his grin morphing into something brighter, something sweeter. "I did want to ask you for a favor."
+
+"Of course," she says.
+
+"HYDRA is still on the hunt for certain artifacts. I was hoping you might be able to use your museum contacts to help us find a lead some of them."
+
+She nods. "I will do what I can," she says, sitting down once again so that she can start the process of looking through the museum's inventory.
+
+Steve hangs back, watching her with uncertain eyes. But they have fought together as allies. There is no need for his discomfort here. She waves him over, and he crosses over to her side of the desk. "So, uh, what's your story?" he asks.
+
+She turns to look at him over her shoulder. "I was formed from clay and then given life by the gods."
+
+"Oh," Steve says. "I'm friends with Thor."
+
+Her smile broadens. "I met him, once. He laid down a challenge. A worthy opponent."
+
+Steve says, "He didn't win, did he?"
+
+Diana raises one eyebrow at him. "Of course not."
+
+He shrugs, turning away from her gaze, looking young once again. "You probably already know my story."
+
+"Yes," she says. "It was quite the news when it first came out. The medical breakthrough that would win the United States the war." She has the distinct memory of holding a newspaper in her hands, his face on the front page, his lips turned upwards in only the vaguest impression of a smile.
+
+"You were there for that?" Steve asks. His eyes go wide, startled.
+
+She says, "Yes. When I first heard your story, I pitied you." This boy, plucked from the ranks of soldiers, who had never seen war and was asked to hold the expectations of an entire country on his shoulders anyway.
+
+That isn't what Steve was expecting her to say. She can tell by the furrow of his brow. "Why?"
+
+"I was also created to be a weapon. I was also made to fight wars. I understand the toll it takes."
+
+Steve nods. "And here we are, still fighting." There's a weariness in his voice. Perhaps he pities her, too.
+
+"We pick our own battles now," she says, placing one hand on his arm. "Maybe that is the most we can hope for."
+
+"I don't know about you," Steve says, "but I'm hoping for more." He says it with such ferocity, such conviction. For all his years, for all that he has been through, he is still young. 
+
+Diana has seen it before, that desire to be more than you are. She has felt it herself. "I hope for more, too."
+
+---
+
+Afterwards, Diana leads Steve back to her apartment. It's late. Sam has gone on ahead to Madrid. Steve will need a place to stay for the night. In the shroud of darkness, lurking after the sun has gone down, he watches her as she polishes her shield, as she sharpens her sword, as she cleans her bracers. She watches him back. He has a notebook open in his lap, a pencil held in one hand.
+
+"Are you drawing me?" she asks. It would not bother her if he was.
+
+He flushes, embarrassed. "No," he says. "I'm drawing the woman you remind me of." She could pry further, try to get a glimpse over his shoulder, but she feels no jealousy for the woman he sees when he looks at her.
+
+"You remind me of someone, too," Diana says. Not just the name or the hair or the eyes. But in a steadiness that he carries with him, the strength of his convictions, a startling warmth underneath his battle-weary exterior. She's had lovers since Steve -- her Steve -- men and women whose lives have drifted in and out of her own. But her memories of him will always carry with them the sweetness of being her first, the one who introduced her to this world in all its ugliness and all its beauty.
+
+"You've seen a lot of life," this Steve says. "I'm not surprised."
+
+"So have you," she says, placing her equipment on the floor. He glances up as she walks towards him. She kisses him then, holds his face in between her hands. It's nothing more than a brush of lips against lips, but he leans into it, deepening the kiss. He doesn't kiss like her Steve did, but she supposes she didn't expect him to.
+
+She takes hold of his hand, pulls him up and towards her bed. He swallows once. She sees his hesitation and wonders if he also feels the echo of different moments, different rooms, different women, different men. A similar offer on the table. "Are you sure?" he asks, though it's more of a question for himself than for her.
+
+Instead of answering, she smiles, lets go of his hand, and steps backwards into the room. She holds open her arms. 
+
+He follows her.
+
+---
+
+In the morning, he has to leave for Madrid. He tucks the thumb drive into the inner pocket of his jacket, pulls a baseball cap low to cover his eyes.
+
+She has dressed for her day as well: long skirt, sensible heels, her lasso coiled at her hip. Even under all her protective layers, she still looks every bit like the warrior goddess she is. 
+
+Before she sees him off, she kisses both his cheeks, right then left. Perhaps lingering for a beat too long, but neither of them mentions it. "Until the next battle," she says. 
+
+His smile is soft as he squeezes her hand, the touch gentle even for a normal human. "Maybe a bit sooner than that," he says. "I like spending time with you when no one is shooting at us."
+
+She laughs, squeezing back. "All right," she says. "Until next time, then." Even though neither of them know when that will be, Steve finds himself looking forward to it.
+
+He slips out the door with a nod, bowing his head the way he did during their first meeting. "Until next time," he says.
+
+ 
+
+FIN.

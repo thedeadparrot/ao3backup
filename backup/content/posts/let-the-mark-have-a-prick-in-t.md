@@ -1,0 +1,105 @@
+---
+ao3_url: https://archiveofourown.org/works/25782532?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Joe | Yusuf Al-Kaysani
+- "Nicky | Nicol\xF2 di Genova"
+date: '2020-08-08'
+fandom:
+- The Old Guard (Movie 2020)
+notes: 'Title from Shakespeare, because I am all about Shakespeare''s sex puns.
+
+
+  Thanks to azephirin for the beta and the copyediting and to Dark\_Eyed\_Junco for
+  the audience.'
+relationship:
+- "Joe | Yusuf Al-Kaysani/Nicky | Nicol\xF2 di Genova"
+summary: '*What Nicky wants is a chance to make marks on Joe''s body, something deeper
+  and more intimate than can be left on the surface of Joe''s skin.*'
+tags:
+- Knifeplay
+- Bloodplay
+- Painplay
+- Mild Gore
+- Romantic Gestures
+title: let the mark have a prick in't
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+Nicky tests the knife against the ridge of Joe's collarbone, a neat, shallow line. He presses down next to it, forces blood to well up and rise to the surface.
+
+"How was that?" he asks Joe.
+
+Joe rolls his eyes, impatient as always. "It's too sharp," he says. "I barely even felt it." He's lying flat on his back on their bed, eyes half-lidded and soft as Nicky leans over him, holding his newly sharpened knife in one hand.
+
+The wound has already healed. The new skin is paler than the skin around it, but only for a moment before the scar fades. Just a line of blood marks that the wound was ever there. It reminds Nicky of the scratches they would make in the sand as children -- errant, impermanent sketches washed away by the incoming tide.
+
+Nicky snorts. This particular argument is well-trodden and familiar. "You know I don't like hurting you like this, beloved," he says.
+
+"And you know I like it when you do," Joe says. He's a glutton for intense sensation, Nicky knows, whether it's pain or pleasure. Once, he convinced Nicky to electrocute him, and the experience was difficult enough for Nicky to watch that they haven't done it again, even though Joe has asked for a repeat.
+
+That isn't the point of this for Nicky. He doesn't slice into Joe's skin, carve lines into Joe's flesh, because it causes Joe pain. That's for other games that they play, with canes and clamps and even, every once in a while, their swords. What Nicky wants is a chance to make marks on Joe's body, something deeper and more intimate than can be left on the surface of Joe's skin. 
+
+Nicky is not an artist. He doesn't aim to make intricate designs or beautiful drawings, the way Joe does when he's the one holding the knife. Nicky is a simple man, after all, and his acts of worship have always been simple. "Hush," he says to Joe. "You know this is for me."
+
+Joe closes his eyes, breathing out with a gentle laugh. He's relaxed like this, his muscles loose, and it never fails to be thrilling to be given this level of openness, of trust, from Joe. Ever since that first time on the sands of the Holy Land, after they had already killed each other one hundred and six times, when Joe had tilted his head to the side, exposing his neck for Nicky's blade, daring Nicky to strike.
+
+Nicky makes the first cut on the flat of Joe's stomach, where the hair is the sparsest. This one is deeper than the test cut, deep enough to sting. Joe's muscles tense for a moment under the intrusion but then relax. "Mmm," Joe says. "That's better."
+
+Nicky laughs, but he doesn't let Joe bait him into the familiar argument. He focuses instead on his work, on writing out his name in the old church hand he had learned as a boy, endless repetitions until he could form the letters in his sleep. He assumes that the monks would be less than thrilled with this particular application of the skills they had taught him, but since they are all dead and buried, their opinion no longer matters.
+
+This deep, the blood wells up sooner, spilling onto Joe's skin along the shape of Nicky's cuts. It's such a visceral experience, to see *Nicolò* written out in red blood on the lovely expanse of Joe's belly. A possessive pride steals the breath from Nicky's chest, because the sight of this version of Joe belongs to him and no one else. That was perhaps the most difficult part about being held in Merrick's lab. The pain they underwent was an annoyance. The boredom was tedious. But most infuriating was watching the doctors with their scalpels take samples from Joe's body, as if they had the authority, as if they had the *right*. Nicky has always felt ownership over Joe's body -- even, or perhaps especially, the innermost parts of him, the parts that can only be reached by slicing him open. 
+
+Though these cuts are deeper, they still heal quickly, leaving the drying, browning blood behind. Nicky wants to taste it with his tongue, the metallic tang of the blood mixed with the salt of Joe's skin. It always brings back the sense memory of when they were young, barely even a century old, and Nicky was so hungry for Joe all the time that they never bothered to clean or bathe before they fucked. After a while, just the sight of Joe covered in blood -- whether his own or someone else's -- was enough to get Nicky hard. It's rare for them to be desperate like that anymore, and Nicky is grateful for the blessing of running water, but every once in a while, he will look at Joe's bloodied body and feel that same flash of heat, a desire that steals the breath from his lungs.
+
+Joe blinks his eyes open, and when he sees Nicky's expression, he smiles. "Did you get what you wanted?" he asks. He stretches a bit, making his muscles twist and flex in that way he knows Nicky can't resist. His eyes never leave Nicky's face.
+
+"Almost," Nicky says before kissing him, his free hand cupping Joe's jaw.
+
+Joe kisses back, slow and drawn out, like he's luxuriating in every press of their lips. But he's not pushing for anything else, keeping his hands at his sides, content to follow where Nicky leads.
+
+"I want to ride you," Nicky says into Joe's mouth. He still has the knife in one hand, and he feels a thrill at the thought of being filled with Joe's cock while he leaves marks on Joe's body.
+
+"I don't know," Joe says, his voice low and teasing. "You were so mean to me earlier. Why should I be nice to you now?"
+
+Nicky presses the flat of the blade against Joe's right nipple, where he knows Joe is sensitive, and he raises an eyebrow in Joe's direction, and he knows Joe is going to fold like a house of cards without Nicky having to say a word.
+
+"Do it," Joe says, a goad and a plea wrapped in one.
+
+Nicky flicks his wrist, and Joe's whole body jerks. He hisses through his teeth as the edge catches and severs several nerve endings. Joe's cock, which had been half-hard while Nicky worked, swells at the sensation, finally intense enough for Joe to get more than a passing thrill. "Nice enough for you?" Nicky asks in his most innocent voice.
+
+He clambers onto the bed and straddles Joe's hips. There's fresh red blood on his chest now to go with the dried, browned, flaking blood from earlier. Nicky likes the contrast. He makes sure to pluck the bottle of lube from the bedside table as he situates himself over Joe's body. Joe loves getting fucked without lube or prep when he gets like this, loves that stretch and that burn, but Nicky's never developed a taste for it himself. He flicks open the cap and coats his fingers one-handed, spilling as much of it on Joe as he does on himself. He's not willing to put down the knife, though.
+
+Nicky opens himself up quick and perfunctory, two fingers, then three. His own anticipation makes him impatient. Joe watches him with dark, hungry eyes, but he behaves, keeping his hands to himself, ready and waiting for whatever Nicky will give him.
+
+The first press of Joe's cock inside is good enough to make Nicky groan. That fullness distracts him from any other sensation, like there's nothing in the world other than the place where they're joined. His eyes slide close without him realizing it, and when he opens them again, he sees Joe's smile, which is veering into a smirk. They're far too old to feel attached to any sort of masculine ego or pride, but Joe always gets a little bit smug about how much pleasure he can give Nicky without doing any work whatsoever.
+
+Nicky nicks him underneath his ribs just for that, where Joe's flesh is tender and soft. Joe makes a pleased noise at the back of his throat, and he rolls his hips just the way Nicky likes it. More blood blooms to the surface, and Nicky drags the blade of the knife through it, staining the metal so that he can bring it to his lips and lick it off.
+
+Joe lets out a bit of a whine as he watches, a low curse under his breath that Nicky can't quite hear. "You're so beautiful like this," he says, louder.
+
+"You always think I'm beautiful," Nicky reminds him. He traces the blade along the other planes of Joe's chest, applying just enough pressure to tease but not enough pressure to cut.
+
+"That's because you always are," Joe says. He rolls his hips again, sending pleasant sparks up Nicky's spine. "Even when you're being mean to me."
+
+Nicky leans over to kiss him, trapping the knife between their bodies. He puts a little bit of weight into it, so that the knife bites into Joe's skin, just to prove that he can be nice when he wants to be. Joe moans into Nicky's mouth, and something about that turns the simmering heat of Nicky's arousal into a burning flame, making him desperate for more.
+
+He pulls back so that he can get better leverage to ride Joe properly. There's a fresh line of blood on Joe's chest, healing over already. Nicky fucks himself on Joe's cock and loses himself in the friction, the eager push and pull of their bodies, too distracted to make much more than a few haphazard cuts.
+
+Joe doesn't mind, from the noises he makes every time the knife pierces his skin. He sneaks a hand between them to grip Nicky's cock, and he exploits every trick he's ever learned to get Nicky off hard and fast, until Nicky's coming all over Joe's fingers and Joe's belly, the white overlaying the reds and the browns.
+
+"Nico--" Joe gasps out, his whole body tense, wound up, "I'm going to-- can I--" He makes a few abortive thrusts with his hips. It still feels good like this, as Nicky is coming down from his orgasm, made all the sweeter by Joe's obvious desire.
+
+"Not yet," Nicky says, because maybe he does like being a bit mean to Joe. "Wait for the signal." He places the blade against Joe's left nipple, just because he knows Joe likes things to match. There was a time -- somewhere between deaths thirty and fifty -- when Nicky harbored the fantasy of ripping Joe's heart out of his chest, half-convinced that it was the only way to kill him that would ensure that he would stay dead. By that point, they had died and revived often enough that Joe always awoke before Nicky could make an honest attempt at it, and it left him frustrated and a little aroused in a way that Nicky didn't fully understand until much later. Nicky would spend those last few moments before drifting off to sleep imagining what it would feel like with the heart bloody and beating and clutched between his fingers. He confessed this to Joe sometime during the sixteenth century, and when Joe heard it, he had laughed, mirth sparkling in his eyes, and he had said, "But my love, you must know you already held my heart in the palm of your hand." Nicky thinks of that now, because he could fulfill that old fantasy right now, plunge his knife deep into Joe's chest, pry Joe's rib cage open, reach deep inside him and feel those darkest, those innermost parts of him. But it would hurt Joe, far beyond any pain that Nicky would ever want to inflict upon him now, and it would kill Joe, and Nicky has seen enough of Joe's deaths to know that he no longer enjoys them.
+
+Joe stills at Nicky's words, but his jaw is clenched, and his eyes are closed, and Nicky can feel the tension that runs through Joe's entire body as he tries to force himself into stillness.
+
+"Look at me," Nicky whispers.
+
+He watches as Joe's eyes open, a motion Nicky has seen millions of times before, and an emotion pierces his chest, so sharp and so intense it's as if he's the one who's been stabbed. He smiles at Joe and touches his face, every bit of it so familiar and so beloved. Joe smiles back, and somehow, even though it should be physically impossible, Nicky feels the love for him swell even larger.
+
+Nicky makes the final cut, and he presses a kiss against the wound, blood coating his lips as he finally lets Joe come.
+
+ 
+
+FIN.
