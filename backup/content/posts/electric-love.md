@@ -1,0 +1,160 @@
+---
+ao3_url: https://archiveofourown.org/works/40531872?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Obi-Wan Kenobi
+- Anakin Skywalker | Darth Vader
+date: '2022-07-24'
+fandom:
+- 'Star Wars: Obi-Wan Kenobi (TV)'
+- Star Wars Prequel Trilogy
+notes: 'Yet another take on ''what if Obi-Wan managed to give himself up to Vader
+  in order to save the Path,'' because I could not give up the opportunity to write
+  lots of tortured angst with weird cyborg sex attached.
+
+
+  Many thanks to the usual folks, Seascribbe, azephirin, and Dark\_Eyed\_Junco for
+  their unflagging support, encouragement, and enabling when I just want to whine
+  about how writing is hard.'
+relationship:
+- Obi-Wan Kenobi/Darth Vader
+- Obi-Wan Kenobi/Anakin Skywalker
+summary: '*Vader stepped forward, deeper into the cell, and reached out one hand.
+  It pressed against Obi-Wan''s tunic, clean metal meeting dirty fabric. Vader''s
+  suit only had the most rudimentary of sensors -- he preferred to use the Force over
+  his physical hands. But this was Obi-Wan Kenobi offered up for him, and nothing
+  less than physical touch would do.*'
+tags:
+- Alternate Universe - Canon Divergence
+- Cyborg Sex
+- Captivity
+- Suit Stays On
+- Socket Fingering
+- Denial of Feelings
+- Power Play
+- Angst
+title: Electric Love
+warnings: No Archive Warnings Apply
+---
+
+The door slid open with a low hiss. Inside the cell, Vader could see the all-too-familiar shape of his old master sitting on a bare cot. The man was smaller than Vader remembered, as if time had shrunk him into a shadow of his former self. His hair and clothes were dirty, dusty, a blot of disorder against the otherwise sterile walls of the cell.
+
+Obi-Wan opened his eyes as Vader entered the room. His gaze flicked to the Stormtrooopers at Vader's sides, sizing them up, and it was obvious that he hadn't changed as much as he pretended he had. He was still a soldier at heart. Vader could not let himself be distracted by the pathetic showing Obi-Wan had put on during their fight on Mapuzo. He would still have to treat Obi-Wan as the serious threat he still posed -- to Vader and the Empire both.
+
+"Anakin," Obi-Wan said simply.
+
+It felt like a goad, a taunt, as if Vader was nothing more than a pathetic strippling conditioned to react to the sound of his master's voice. "You will address me as Lord Vader," he said.
+
+Obi-Wan flinched, but he didn't otherwise acknowledge the correction. "I suppose there's a reason why you haven't killed me yet," he said. His voice was steady, but it did contain a weary undertone, not too different from the exasperation that he would express when Vader was still a small child.
+
+"I keep my own council on such things now, Obi-Wan," Vader told him.
+
+ "Of course, Lord Vader," Obi-Wan agreed, prim and sarcastic, every syllable dripping with resentment.
+
+Vader paid the mockery no mind. His former master was merely resentful of the changes the last decade had brought. He had allowed himself to become weak while Vader had become strong. "You must accept that my victory over you is now complete," Vader said. He dismissed the Stormtroopers from his side. He wouldn't need them for this confrontation.
+
+"So it is," Obi-Wan said with a tilt of his head. "Are you here to gloat, then?"
+
+"I wanted you to see how thoroughly I eclipsed you before I took my revenge," Vader hissed. He reached out one hand, and with the Force, with all the dark, hateful power at his fingertips, he squeezed Obi-Wan's windpipe closed.
+
+Obi-Wan winced, a grimace crossing his face, but he otherwise kept his composure, some semblance of Jedi serenity remaining as Vader starved his body of oxygen. Like everything else about Obi-Wan Kenobi, it was enraging. Vader could have easily crushed his throat right then and there, but it would be *too* easy, *too* unsatisfying. Obi-Wan deserved to experience every bit of agony that Vader had felt after being left behind on Mustafar, the hours and days of vicious, searing pain as the Empire had slowly rebuilt his body.
+
+Vader let go of Obi-Wan's throat, delighting in the long, heaving gasps that came afterwards, a very visible break in his maddening poise.
+
+Obi-Wan said, "Yes, very good. I am well-aware of how capable you are of murder, Darth." There was a pleasing wheeze to his voice.
+
+"You know nothing of what I am capable of now." As a demonstration, Vader reached into his seething well of Dark power and used it to yank Obi-Wan from his seated position and shove him against the cell wall, pinning him there.
+
+Vader stepped forward, deeper into the cell, and reached out one hand. It pressed against Obi-Wan's tunic, clean metal meeting dirty fabric. Vader's suit only had the most rudimentary of sensors -- he preferred to use the Force over his physical hands. But this was Obi-Wan Kenobi offered up for him, and nothing less than physical touch would do.
+
+Obi-Wan's chest rose and fell underneath Vader's palm, the rhythm of it not quite synced to the steady in-and-out of Vader's respirator. Vader prodded at Obi-Wan's mind, but Obi-Wan's shields were up, high and strong. It would take time to dismantle them, even with Vader's strength, and he let himself indulge in the fantasy of spending a few days peeling those shields open as easily as he could peel open Obi-Wan's clothes, leaving him stripped bare for Vader's perusal.
+
+"As far as torture goes, I've had worse," Obi-Wan said, though the humor in his voice sounded strained at best.
+
+"I haven't even begun to take my full revenge," Vader replied. He had imagined this moment so many times before, but the reality of it left him overwhelmed by the possibilities laid out before him.
+
+He let go of his grip on Obi-Wan's body with the Force, confident that Obi-Wan's frail, human body would be no match for Vader's far more powerful mechanical one.
+
+Immediately, Obi-Wan grabbed Vader's wrist with his right hand. It was difficult to tell how hard he was gripping, as muted as the sensation was through his sensors. But contrary to Vader's assumptions, Obi-Wan didn't attempt to pull or push Vader away, just held onto Vader's wrist and met Vader's blank and helmeted gaze with his human one.
+
+"Pathetic," Vader said. He had hoped there was still some fight left in Obi-Wan, some semblance of the fierce warrior he once was. Vader would take less satisfaction in destroying an already broken man. He would take the opportunity with great relish, but it would lose some of its sweetness.
+
+Obi-Wan didn't react to the insult. He just watched Vader with his tired, old eyes and let himself be held still by Vader's hand. That in itself felt like a provocation, as if Vader was still in need of instruction in Jedi composure, as if Vader would want any such instruction. During his apprenticeship, Vader had sat through more than enough lectures from more than enough Jedi masters about the importance of following Obi-Wan's example, and he didn't need another demonstration right now.
+
+On some sort of instinct, channeled through the anger that coursed through his organic and mechanical body, his hand on Obi-Wan's chest became a fist, a fist that he used to rip Obi-Wan's tunic, tearing the material down the middle. The sensors of his hands only barely registered the hitch in Obi-Wan's breath, but he could see the widening of Obi-Wan's eyes and the subtle shift of Obi-Wan's presence in the Force.
+
+Obi-Wan's chest was thinner than it used to be, though the light smattering of hair was familiar. Obi-Wan said, "If you wanted to see me naked, all you had to do was ask." He shrugged off the remnants of his tunic and then undid his belt before sliding off his pants and underclothes.
+
+"I am no longer a mewling child begging for scraps. I no longer *ask* for the things I want," Vader hissed.
+
+"Of course not," Obi-Wan said in the same agreeable tone he would use during contentious negotiations. He sat back down on the sparse and bare cot, unperturbed by his own nakedness. Jedi were taught that their bodies were mere extensions of their connection to the Force, that there was no shame in them, even when completely exposed. But Vader's body had been a weak thing, easily beaten, easily destroyed, and so his master had built him a new one, a better one, one that could best every single Jedi in the galaxy. It was still unusual to see Obi-Wan so unclothed. Jedi, despite their lack of shame, believed in modesty, hiding their bodies in plain tunics and robes. 
+
+And Vader was used to the sterile armor of the Stormtoopers and the neat and pressed uniforms of the Imperial officers -- skin covered up, hair cut short or tucked away. Their design was constructed to impress on everyone, whether they were part of the military or not, the simple fact that every member of the Imperial Army was merely a cog in the Empire's larger war machine.
+
+Obi-Wan was not. Obi-Wan had a body made of flesh and bone, skin and hair, eyes and teeth, a body that looked so very fragile in the cold light of the cell. "Is this what you wanted?" Obi-Wan asked. He tilted his head to the side and then slid into a kneeling position at Vader's feet. Even naked and on his knees, Obi-Wan seemed serene and unaffected. The look in his eyes was careful but also challenging. "Or was it something more like this?"
+
+Behind the mask of his helmet, Vader clenched his jaw. They had never spoken of this before, of how when Vader was younger, he had been plagued by a sickly sweet adolescent yearning. Vader had supposed that Obi-Wan simply never noticed, the way Obi-Wan hadn't noticed that his dry humor could and would sometimes tip over into flirtatiousness. Vader had outgrown it, of course, much in the same way he had outgrown so many other youthful Jedi affectations. The fact that Obi-Wan had chosen this moment, of all moments, to acknowledge it felt like a particularly bitter joke. "Your attempts at manipulation are futile. I am beyond such base physical desires now."
+
+"I'm sure you are, Darth," Obi-Wan agreed. A smile crossed his face, faint, paper-thin. He leaned forward and reached out with his hands until they rested on Vader's hips. He pressed his lips against the smooth metal of Vader's crotch.
+
+The sensors there detected it as a touch like any other touch. Vader's mechanical body no longer had erogenous zones -- they had been cast off with the other vulnerabilities of his human body -- but the image that Obi-Wan made, head bent, hair falling around his face, called up the sense memory of another person, a similar but different intimacy. Vader's rage, already simmering throughout their confrontation, burned even hotter at the reminder of Padmé. It had been Obi-Wan's interference that had killed her, that had left Vader broken and alone save for the teachings of his true master.
+
+Vader grabbed a fistful of Obi-Wan's hair and yanked his head back, pulling his mouth away from his body. Obi-Wan didn't resist, but his hands still clung to Vader's hips. Vader growled, "Enough."
+
+Obi-Wan asked, "Is that what you really want?" With his head pulled back by Vader's hand, the line of his neck was exposed. There was a time when Vader would have wanted to bite down on it, to leave the impressions of his teeth on Obi-Wan's skin.
+
+Vader was grateful for the steady rhythm of his respirator, forcing his breath to remain even while his heart hammered in his fragile, human chest. He grit his teeth behind the mask of his helmet. "I do not know what you are trying to accomplish here, but you should know that you will fail."
+
+Obi-Wan sighed. "Maybe all I want is to touch you again," he said, and this time there was no hint of his dry sarcasm, his usual edge of mockery. He said it as if it was all really that simple. Some of Obi-Wan's composure slipped, some of his careful Jedi mask falling away, and what was underneath it was a man who looked very old and very tired.
+
+"You're a fool," Vader told him. He hadn't expected this. He wasn't sure how to react.
+
+"I'm a fool with nothing left to lose, Anakin," Obi-Wan said. Some of his old humor was back, but so was a raw vulnerability, that put-upon tone he only used when he was backed into a corner and forced to tell the truth.
+
+Vader could use this. If Obi-Wan wished to debase himself over such a simple request, then Vader would let him and then use this to pick Obi-Wan's soul open afterwards when Obi-Wan would be at his most defenseless. "If you are so desperate, then perhaps I can be magnanimous in victory," Vader said.
+
+"Your generosity knows no bounds." Obi-Wan smiled, a real smile, a smile tinged with a sweetness that Vader had forgotten. When Vader had been a padawan, he had been so greedy for every one of those smiles, of being the one who could bring them to his master's lips. The smile no longer had the same effect on him, but something in him stirred, ever so slightly, at the memory.
+
+Obi-Wan took Vader's acquiescence as an opportunity to let his hands explore further. He ran his palms down Vader's thighs, his calves, and followed that trail with his lips. Vader wondered if, perhaps, he was imagining touching someone else, but the cold durasteel couldn't be mistaken for soft, warm skin or smooth, plastoid plating or rough, scratchy wool. Even with his eyes closed, Obi-Wan knew exactly where he was and who he was with.
+
+Vader let himself enjoy it. He had dreamed of making Obi-Wan kiss his feet more than once, and the reality of it heated his blood, what amount of it still flowed through his organic body. He was the master in this relationship now, and it pleased him to see Obi-Wan acknowledge just how much things had shifted between them.
+
+After Obi-Wan had reached what passed for Vader's toes -- the rounded tips of Vader's heavy metal feet -- Obi-Wan sat back on his heels and looked up at Vader's face. His expression was difficult to decipher. The sadness was easy enough to recognize. There were also hints of softness, of tenderness, lurking at the edges of his eyes. His lips curled at one corner, but the expression was strained. Vader reached out with one hand and used it to cup Obi-Wan's cheek. He couldn't feel the scratch of Obi-Wan's beard or the heat of Obi-Wan's skin, but he wanted to touch anyway. This should be a victory, should be Vader's ultimate triumph, but Vader's emotions were a knotty tangle right in the center of his chest, in the weak human parts he had so very little use for.
+
+"Thank you," Obi-Wan said, his voice soft. He lunged forward, wrapping his arms around Vader's torso in a semblance of a hug, clutching Vader tightly enough that his mouth was mashed up against Vader' midsection, where Vader's stomach once was.
+
+Vader was no longer young, but he couldn't deny that there was a time when he would have given up anything in his power to have Obi-Wan Kenobi like this, as beseeching and as desperate for Vader as Vader had been for him. It was a cruelty that only now, when the ground between them had been burned and salted, did Vader get even a hint of what might have been. Vader considered, for a moment, the practicality of keeping Obi-Wan here, locked away in this dingy little cell, only removed from it when Vader had need of him.
+
+But no, Vader had made the mistake of letting Obi-Wan live on Mapuzo. His master was already displeased with Vader's usage of various Empire resources in his quest. Obi-Wan was a weakness, a liability that Vader could not afford. Vader had to destroy Obi-Wan, had to feed the roiling hatred within him with new blood, new bodies. Vader would have to do it himself, but he could put it off just a little bit longer.
+
+Obi-Wan's hands drifted up Vader's back, across the cold plates of his armor, and Vader let him. He held himself silent and still as Obi-Wan explored. If he could draw it out, if he could let it go on just a little bit longer--
+
+Vader hissed as a jolt raced through his body. One of Obi-Wan's fingers had found an exposed socket low on his back where it was usually hidden underneath the folds of his cape. The brush of bare skin there had been startling, surprising. It was an intimacy, a closeness, that Vader had not experienced in over a decade.
+
+This particular socket, wide and deep, was normally used to charge components of the suit, but his previous experiences with it had felt bland and practical, a tickle of sensation. Nothing like this, where Obi-Wan's hands made it feel so open, so exposed. But human nerves were just electical impulses in the end. Organic bodies were made up of electicity, of chemicals, and were as much a machine as Vader's metal one.
+
+"Like that?" Obi-Wan asked. His voice was heavy with arousal, throaty in a way that Vader had never heard before.
+
+Vader couldn't quite gather himself enough to give a response, but Obi-Wan didn't seem to need one. He did it again, sliding his finger just past the rim of the socket. The sensation this time was stronger, more intense. Not the same sort of intensity as the times when Vader would finger himself, alone in his bed, and imagine they were Padmé's soft, slender fingers pushing their way inside him. It wasn't more or less. It was just different. No longer about the clench and stretch of muscles, of yielding human flesh, but pure electricity, sparks skittering through him along neural pathways he has forgotten ever existed.
+
+Obi-Wan was inside him, inside the shell of his metal suit, his metal body. Vader grabbed at Obi-Wan's shoulder with one hand, gripping tight enough to bruise, to leave finger-shaped marks behind.
+
+"I wish--" Obi-Wan said, "I wish I could see your face." He looked up and met Vader's gaze. He added a second finger, pressing both of them inside and curling them against the walls of the socket, drawing circles with his fingertips, new bursts of sensation with every touch.
+
+"You can't," Vader hissed. His respirator was struggling to pump enough oxygen to his human cells, to keep up with his racing heart. There was so much new and unfamiliar input. His systems were struggling to compensate for it all.
+
+Obi-Wan said, "I know." He closed his eyes and leaned forward again, letting his forehead rest just below the panel on Vader's chest. His voice dropped, becoming low and rough, scraped raw with emotion. "I loved you. I know you loved her more-- it was obvious to anyone who saw the two of you together-- but I sometimes-- sometimes, I wish that things had been different, and that--" His voice trailed off, and his fingers pushed deeper, deep enough that his fingers brushed against the bottom of the socket's well.
+
+The feeling of it arced through Vader's body like an electrical discharge, like lightning striking, like every orgasm and no orgasm that he had ever experienced before. Inside the cage of his suit, his organic body shuddered through it. His helmet fritzed out, confused by the input, plugging him into darkness. His mechanical legs wobbled, unsteady on his metal feet. In that moment, Vader allowed himself to imagine it as it could have been. He let himself imagine traveling a different road when he was still a young Jedi knight, let himself imagine reaching out and touching, really touching, Obi-Wan Kenobi. Kissing him with human lips. Caressing him with at least one human hand. He allowed himself a future-past where Obi-Wan could have kissed his human toes and smiled at him without any lingering traces of sadness.
+
+But that world was out of reach now. Maybe it had always been out of reach. Vader's systems began to reset themselves, reaching for homeostasis, recovering from the shock of sensation. His vision cleared, and he saw that Obi-Wan was once again dressed, his brown outer robe pulled around his bare chest. He was holding a lightsaber -- Vader's -- in one hand.
+
+Vader tried to lunge forward, tried to grab the weapon from Obi-Wan's hand, but his suit -- his body -- had failed him again. Those systems were not yet up and running at full capacity. The attempt he made was pitiful and weak. Obi-Wan dodged it easily, leaving Vader crashing to the ground. Vader grasped for the Force next, but that also slipped away from him as his respirator huffed and wheezed with painful difficulty in his chest. "I'll--" Vader managed to snarl out. He was angry. Angry at Obi-Wan for playing him. Angry at himself for being played. Angry that he had, on some level, even enjoyed it.
+
+"I'm sorry for everything, Anakin," Obi-Wan said, and his face was a mask of sorrow. His eyes were bright with unshed tears. His forehead was furrowed, creasing the lines there further. If Vader were capable of it in that moment, he would have choked Obi-Wan to death without a second thought.
+
+But he couldn't. He was trapped, helpless, as weak now as he had been in the lava rivers of Mustafar. This time, just like the last, Obi-Wan walked away from him, but this time, Obi-Wan pressed a lingering kiss against his helmeted cheek before he left what remained of Anakin Skywalker behind.
+
+ 
+
+FIN.

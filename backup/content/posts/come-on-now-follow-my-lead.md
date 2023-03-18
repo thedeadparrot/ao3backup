@@ -1,0 +1,126 @@
+---
+ao3_url: https://archiveofourown.org/works/38594772?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Colin Bridgerton
+- Penelope Featherington
+date: '2022-04-25'
+fandom:
+- Bridgerton (TV)
+notes: Thanks to Junco for the usual support and general tolerance of my whining.
+relationship:
+- Colin Bridgerton/Penelope Featherington
+summary: Colin asks Penelope to peg him. She obliges.
+tags:
+- Pegging
+- Plot What Plot/Porn Without Plot
+- Alternate Universe - Modern Setting
+- everyone is bi
+- Strap-Ons
+title: come on now, follow my lead
+warnings: No Archive Warnings Apply
+---
+
+Penelope takes a deep breath as she tightens the straps of the harness. This is all new to her, and it's hard not to feel nerves, to feel a bit ridiculous about it all. She has used dildos before, on herself, on some of her past girlfriends, but she's never gone as far as using a strap-on. It has always seemed a little too showy, too complicated. But this is for Colin. This is something he wants. This is something he asked for.
+
+She looks up and meets his gaze where he's sitting on the edge of their bed, waiting for her. His mouth drops open, his eyes wide. "Wow," he says.
+
+Penelope has become more comfortable with her body since she was a shy, awkward teenager. She has grown to accept, and even like, her curves, her rolls, her pudge. But even then, it's difficult not to feel self-conscious when she has a bright red dildo strapped to her pelvis, jutting out, lurid and hard.
+
+Colin says, "You're so fucking hot, Pen," and his expression doesn't give her any room to doubt that he means it. He stands up, walks over to her, then drops to his knees. "I want to suck your cock." He looks up at her, his lips pulling into a lopsided grin. 
+
+She nods, breathless at the sight of him eager and willing at her feet. At the first sign of approval, he leans forward and wraps his lips around the tip. His tongue licks out, swirls over the head. His eyes fall closed, as if he's savoring it. Penelope has never fellated silicone before, but she's sure it can't taste or feel anything like real skin. This should also look silly, be silly, but Colin is so clearly into it. He moans a little as he takes the dildo deeper into his mouth. His eyelashes flutter as he applies a bit of suction, his cheeks hollowing. Penelope can feel herself getting wet just from the sight of him like this, on his knees and sucking her fake dick like it's the only thing he's ever wanted to do in his life.
+
+He pulls back and looks up at her. His lips are red and wet. He's so beautiful that any thoughts she had at one point have since turned to static. She wants to sit on his face. Colin says, "I can't wait for you to fuck me with that thing." His voice has a slight rasp to it.
+
+She flushes hot at that, the arousal pooling deep in her belly. "Come on then," she says. "Up on the bed."
+
+He flashes a grin at her and clambers up onto the bed, settling on his hands and knees. She goes to the nightstand to fish out their bottle of lube. Her hands don't quite shake, but she still feels wracked with nerves. She probably shouldn't be. She's not taking his assplay virginity or anything. She's fingered him before, and he once got fucked by a guy he was fooling around with at uni. But he's also confessed to her that he's never done it with anyone else, because it has always felt like too much, too intense for a random hookup. She wants to make sure that this is everything he's fantasized about. There was a hitch in his breath when he told her he wanted to try this, a shine to his eyes that she never wants to see fade.
+
+But, she reminds herself, she has *prepared* for this. Her browser history is full of so many sex toy reviews that she's terrified that her mum is going to stumble on them somehow. She has stared at an unsettling number of anatomical diagrams explaining exactly where a prostate is. This won't even be the first time she's stuck her fingers up his bum. She can do this now.
+
+He turns his head over his shoulder to look at her, and his gaze is so adoring, she can feel some of her anxiety melt away. This is Colin. She's been in love with him half her life, and she knows that it'll be okay, because they're doing this together. Even if it's not perfect, even if she can't wield her strap-on like a porn star, it will still be good, and then maybe next time will be even better.
+
+She fumbles open the bottle of lube and slicks up her fingers. This, at the very least, feels practiced and familiar. She climbs up onto the bed behind him and places her dry hand against his hip, letting her thumb dig into the round curve of his ass. She'd spent so many years staring at his ass from afar that it still feels like a strange and surreal privilege that she can touch it whenever she feels like it. Well, depending on how many parents, siblings, and children are around at the time.
+
+"Are you--" she starts, and her voice comes softer than she intended it to be.
+
+"I'm ready," Colin says with a hint of impatience.
+
+Penelope takes another breath and rubs her wet fingers against his rim, feeling the muscles there contract and then relax. She carefully pushes one finger inside. 
+
+Colin lets out a quiet, pleased sound. "More," he says, tilting his hips up into her hands.
+
+She slides another finger in after the first. He can handle this much, she knows. She once asked him to show her how he fingered himself when he was alone, and she had watched with wide eyes as he pushed two of his own much larger fingers into himself without preamble, so much rougher with himself than she would ever want to treat him.
+
+"Yeah," Colin says. His voice is a bit thin, a bit breathless.
+
+Penelope has never really enjoyed this sort of play herself. It's always just felt weird and a little uncomfortable to her when anyone has tried to play with her ass ("But that's what makes it *so good*," Colin once tried to explain to her), but she loves seeing how much Colin likes it, seeing how hungry he is for her touch.
+
+She adds another finger and then curls all three of them, giving him some of the friction he craves. He rewards her with a low moan. She presses a kiss to his tailbone as she pulls her fingers out and coats them with more lube. She probably wouldn't use this much if she was only going to finger him, but she needs to make him slick enough, wet enough, for her to fuck him.
+
+"You're so beautiful like this," she tells him, because he is, from the broad planes of his back to the slopes of his shoulders. The sight of him makes her feel greedy and possessive, because he's only ever this vulnerable, this exposed, for her and her alone.
+
+"Pen," he groans, his hips jerking towards the press of her fingers.
+
+"Soon," Penelope promises, because now she's starting to feel impatient, too.
+
+Another application of lube, another slide of her fingers to work him open. He's tight, and she's worried about hurting him, and she just wants to make sure that she is doing this right.
+
+"I'm good," Colin says. "Come on, please, *fuck me*."
+
+It's the 'please' that gets her, to be honest. She's teased him about how he always manages to get his way through his charm, but it's also impossible to deny him anything when he begs to prettily. She removes her fingers and applies *more* lube, this time to the dildo, trying to get it nice and slick. "Okay," she says, as much to herself as to him, and pushes herself up onto her knees, lining up the tip of the dildo against his ass.
+
+Colin lets out a grunt at the first, hesitant thrust of her hips. His whole body seems to tense up, and Penelope freezes.
+
+She bites her lower lip and asks, "Is this--"
+
+"Yeah. It's good. It's just-- a lot. I forgot how much--" His words are a little scattered, muffled, but his voice has that throaty quality it gets when he's really turned on.
+
+"We can go as slow as you need," Penelope says. She presses a hand against his back, feels the sheen of sweat beginning to form there.
+
+He takes a moment, breathing in and out, and she can feel the way his body unwinds beneath her, bit by bit. "Okay," he says eventually, "you can-- again."
+
+Penelope pushes forward again, and it's breathtaking to watch as she sinks deeper and deeper into him, to watch as he opens for her in a way that's both familiar and new all at once. She's so wet between her legs, her thighs are slick with her own wetness.
+
+Colin lets out a choked noise, a good one, and his whole body shivers as she pushes all the way to the root, as her hips meet his. "Fuck," he says, voice ragged. "*Pen.*"
+
+"I'm going to fuck you now," she tells him, and her voice sounds as unsteady as his does.
+
+"Yeah," he says. "Please." His fingers are tangled in the sheets, gripping them tight enough that his knuckles have gone white.
+
+She draws her hips back. She snaps them forward. Then she does it again. Her movements are clumsy with inexperience, but Colin doesn't seem to care, judging by the way he gasps her name. She tries shifting her hips a few different ways, doing a little bit of experimentation, putting some of her research to use. One particular angle must manage to hit his prostate, because Colin lets out a moan that Penelope only really associates with really good chocolate cake.
+
+"Yes, there," he hisses. He's collapsed onto his elbows, his head tucked between his arms, and she wishes she could see his face.
+
+She thrusts forward, grinding her hips as best as she can against that spot until he's cursing. The base of the dildo presses against her mound, a teasing amount of friction against her clit. She doesn't think she can come from this, but that doesn't mean she can't enjoy the way it feels. "You're taking me so well," she tells him, because she knows how those words always seem to vibrate through her when he says them.
+
+He shudders, and she wonders if this is what it feels like when he's fucking her incoherent, the rush of pleasure and power of seeing someone you love with all of yourself fall to pieces beneath you. He doesn't get like this when she rides him into the mattress or when she sucks him off. In those cases, he pulls into himself, all that intensity drawing inwards. Here, it's like he's coming undone at the seams.
+
+"I want you to come while I'm fucking you," she says, because she wants, she *needs*, to see it happen with her eyes, to feel it happen underneath her hands.
+
+Colin doesn't respond with words. He lets out a low moan, shifting his weight on his arms until he can reach a hand beneath him, and she can tell when he gets his hand on his cock, because he shakes, wanking himself with the rough strokes he likes to use. "More," he says. "Harder."
+
+Penelope does her best to fuck him harder as his orgasm washes over him, but her thrusts are sloppy and uneven. She's getting tired and she didn't even know that she had some of these muscles that she's trying to use. Thankfully, Colin doesn't seem to care. He's just chanting her name as he falls apart beneath her.
+
+His arms give out entirely when he's done, face mashed into the pillows, his dark hair contrasting against the pale sheets. Penelope pulls out as carefully as she can, and he whines, actually whines, from somewhere in the back of his throat as she does so. When the dildo is free, she starts undoing her harness, loosening the straps and shoving them down her hips. The harness fit comfortably enough without chafing, but she's pale enough that there's red marks where the straps dug into her skin.
+
+She's kickes the harness off, because cleanup is going to be a tomorrow problem instead of a today problem. Colin grabs one of her arms and drags her onto the bed next to him. He's still breathing hard, and expression is a little dazed, and he's so lovely that Penelope can feel her heart squeeze in her chest.
+
+"Fuck, that was amazing," he says. "You're amazing. I love you so much." He kisses her, sloppy and somehow still adoring. "Was that-- did you like it too?" He slides a hand between their bodies, and she knows how slick she is will be an answer in itself. She kisses him back, grabbing hold of the back of his head, fingers digging into his hair. She's so wound up, so turned on from what they just did, that she knows it won't take much to push her over the edge. In between kisses, between bites at her bottom lip, he says, "I want to do that again. Next time, I want to do me on my back, so that I watch your tits bounce as you fuck me open."
+
+"Yes," Penelope says, because she wants that, too. Wants to see his face as she pushes inside, wants to dig her fingers into his chest, wants to sink her teeth into his nipples.
+
+She comes like that, with his fingers on her clit, with his lips pressed against hers, and with that image lingering behind her eyelids.
+
+When she manages to catch her breath again, she finds him grinning at her. His eyes are tender and warm. As some of the sex haze fades, some of her previous insecurities begin to creep up on her. "Was that-- was that what you were hoping for?" she asks him. He enjoyed it, she knows, but maybe it wasn't quite what he'd fantasized about.
+
+"It was perfect," he says without hesitation, pressing his lips to her forehead, because he knows her well enough to know when she needs this sort of affirmation. "Every bit of you was perfect. Every bit of you fucked me perfectly."
+
+Penelope laughs. "Well, me and my fake cock did, anyway," she says, blushing a little the way she always does at his praise.
+
+"The important thing was that it was yours," he says, and he swallows any other words she might say with another kiss.
+
+ 
+
+FIN.

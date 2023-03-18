@@ -1,0 +1,34 @@
+---
+ao3_url: https://archiveofourown.org/works/45697567?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Newton Geiszler
+- Hermann Gottlieb
+date: '2023-03-12'
+fandom:
+- Pacific Rim (Movies)
+notes: Thanks to my usual suspects for listening me as I worked through my thoughts
+  on this. Extra thanks to the internet for helping to teach me about how to do CSS
+  transitions properly.
+relationship:
+- Newton Geiszler/Hermann Gottlieb
+summary: You've broken two hearts tonight, and you don't even know why.
+tags:
+- Interactive
+- Interactive Fiction
+- 'Pre-Movie: Pacific Rim: Uprising (2018)'
+- Break Up
+- Mind Control
+- horror themes
+- Angst
+title: The Arithmetic of Memory
+warnings: No Archive Warnings Apply
+---
+
+This is an interactive fiction story created with [Twine](https://twinery.org/). The total length of the story is about 2000 words.
+
+
+[Read *The Arithmetic of Memory*](https://thedeadparrot.github.io/fic-projects/drift/memory.html)
+
+
+If you are interested, you can also view [the source code](https://github.com/thedeadparrot/fic-projects/tree/main/drift).

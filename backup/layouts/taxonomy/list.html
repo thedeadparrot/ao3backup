@@ -1,0 +1,31 @@
+{{ define "header" }}
+{{ partialCached "header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+	<main class="site-main section-inner thin animated fadeIn faster taxonomy">
+		<h1>{{ .Title }}</h1>
+		{{- if .Content }}
+		<div class="content">
+			{{ .Content }}
+		</div>
+		{{- end }}
+		{{- range .Data.Terms.ByCount }}
+		<div class="posts-group">
+			<ul class="posts-list">
+				<li class="post-item">
+					<a href="{{.Page.Permalink}}">
+						<span class="post-title">{{ .Page.Title }}</span>
+						<span class="post-day">{{ .Count }}</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+		{{- end }}
+	</main>
+{{ end }}
+
+{{ define "footer" }}
+{{ partialCached "footer.html" . }}
+{{ end }}
+

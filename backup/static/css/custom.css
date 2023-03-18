@@ -1,0 +1,24 @@
+.fic-summary, .fic-notes {
+	font-size: .8em;
+}
+
+.taxonomy .posts-group {
+	margin-bottom: 0;
+}
+
+.posts-group .post-item .tag a {
+	display: contents;
+	justify-content: none;
+	align-items: baseline;
+	padding: 0 0;
+}
+.posts-group .post-item .fandom a {
+	display: contents;
+	justify-content: none;
+	align-items: baseline;
+	padding: 0 0;
+}
+
+.posts-group .fic-listing {
+	border-bottom: 0;
+}

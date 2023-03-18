@@ -1,0 +1,177 @@
+---
+ao3_url: https://archiveofourown.org/works/45216442?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Newton Geiszler
+- Hermann Gottlieb
+date: '2023-02-21'
+fandom:
+- Pacific Rim (Movies)
+notes: 'Back on my post-Uprising ''what if they tried to replace *processing their
+  trauma in a safe and healthy manner* with *kinky sex*'' bullshit. Not necessarily
+  in the same universe as [the breath passed between you and me](https://archiveofourown.org/works/44689066),
+  but it could be.
+
+
+  You can thank Dark\_Eyed\_Junco for talking me out of several attempts to give up
+  on this while I was having writer mood swings and for cheering me on when I most
+  needed it.
+
+
+  Title taken from "King" by Florence + the Machine, because if I have a theme going,
+  might as well keep it going.'
+relationship:
+- Newton Geiszler/Hermann Gottlieb
+summary: Sometimes, Newt needs to be hurt, and Hermann is the best person to hurt
+  him.
+tags:
+- Plot What Plot/Porn Without Plot
+- Porn with Feelings
+- BDSM
+- 'Post-Movie: Pacific Rim: Uprising (2018)'
+- Verbal Humiliation
+- Painplay
+- Light Bondage
+title: your dazzling pain like diamond rings
+warnings: No Archive Warnings Apply
+---
+
+Hermann knew he was making the correct decision when he grabbed hold of the back of Newton’s collar and the man went from loud and gesticulating to silent all at once. “Behave,” Hermann said, letting a sneer leak into his voice.
+
+He could see the way Newton’s neck flushed at the word, a lovely red that Hermann would, in other circumstances, be more than delighted to kiss. It still surprised him at times, the sheer immensity of Newton’s craving for affection, and even more still, the amount of affection Hermann was capable of bestowing upon him. But this moment was less about what Newton wanted than what he *needed*.
+
+Newton had been disciplined very little as a child, that much Hermann knew. His father and uncle had been indulgent of Newton’s quirks, encouraging his passions and refusing to correct any of his more troublesome behaviors. He had grown up wild and self-involved and passionate, and for all those very things drove Hermann around the bend with frustration, he would not take Newton any other way. Still, in the aftermath of Shao Industries drone program collapse and the subsequent work to remove the precursor influence from Newton’s mind, Newton needed a heavier hand, at least when it came to their activities in the bedroom. It was possible this wasn’t a new development at all, but Hermann only had post-collapse data to work with.
+
+At times, those desires would spill out into the rest of lives, and Newton would lash out, drawing on all the coldness and cruelty he had learned over a decade spent in cutthroat corporate boardrooms. His eyes would darken, and his mouth would twist, and bile would spill from his lips. Hermann had been at a loss the first time it happened, hurt and defensive, and he had lashed out in return. It wasn’t as if he was without practice in insulting Newton, after all. They had spent so many years fighting as hard as they worked, both of them stubborn and foolish and unwilling to give up any ground. And Newton had taken to the nastiness, had even provoked more of it, and then yielded beautifully when Hermann’s fraying control had finally snapped.
+
+After that particular incident, Hermann had dedicated himself to better interpreting Newton’s needs. It wasn’t that Newton was incapable of expressing himself, but his emotional landscape – never particularly simple, even during the best of times – had become a tangled minefield after so many years in the presence of the precursors. He had always been a creature of impulse, but now he second-guessed his every move, going quiet when he wanted to be loud, frantic when he wanted to be still. Hermann’s task was to learn how to decode this new map of Newton’s emotions, how to read into every gesture, every word, how to react appropriately.
+
+It was lucky for both of them that Hermann had dedicated his life to predicting complex phenomena and was, in fact, quite good at it.
+
+Tonight would not be a night for gentleness. Newton needed the harsh words, the pain, the sharp edge of Hermann’s disregard. Hermann did not pretend to fully understand the reasons for it. Working out ‘when’ had been difficult enough, and ‘why’ was a much thornier problem. He merely accepted that in the end, it was something he enjoyed, and it was something Newton enjoyed, and maybe it was just that simple.
+
+Hermann tightened his grip in the collar of Newton’s t-shirt and used it to wrench Newton downwards. Newton went down without resistance or complaint, folding gracelessly to his knees. The floor and walls of Hermann’s quarters were hard metal, but he had lived in Shatterdomes long enough to have acquired a set of accouterments to make the environment more tolerable. Large, worn rugs for the floors, a smattering of art for the walls. Newton’s knees would have some protection – a necessary consideration now that neither of them were as young as they used to be. Hermann let out a loud sigh, performative, and said, “I suppose I can’t expect any better from you.”
+
+Newton wasn’t looking at Hermann. His eyes were downcast. His hair was its usual rats nest, perhaps more so this early on a quiet Saturday morning. Newt, like Hermann, was an inveterate workaholic, and while they both did appreciate their days off, it tended to leave them at loose ends. More often than not, Newton needed a little… more. More engagement. More attention. Just more of Hermann. Hardly an imposition in the scheme of things.
+
+Hermann grabbed a fistful of Newton’s hair, using that leverage to pull Newton’s head back until Newton met his gaze. Hermann said, “I find it quite disappointing, Dr. Geiszler, that even after all this time and effort, I have yet to see a marked improvement in your behavior.”
+
+A flash passed over Newton’s face, some instinct to fight back, to meet Hermann’s criticism with his own, but he seemed to think twice about it, swallowing down the words. Hermann had walked out the moment Newton had let himself picked a fight, leaving them both upset and frustrated, but it had been a clear enough lesson not to do it again.
+
+“If you would like to demonstrate that you are capable of taking direction, I would suggest that you disrobe immediately,” Hermann said. He sat down on one of his more comfortable chairs, another acquisition that has followed him from Shatterdome to Shatterdome, and did his best to ignore Newton as he stripped off his comfortable t-shirt and boxers. Hermann knew his part in this little game well enough. He was expected to feign indifference, though he wasn’t sure of the exact reasons why.
+
+Newton, when finally naked, was a work of art. Not just the tattoos that spread across his arms and chest, but also the shape of him: small, yes, but also compact, lovely in his proportions. He was soft and welcoming where Hermann was hard and forbidding. Hermann wanted to touch him, wanted to run a hand over the slope of Newton’s shoulder and the smooth planes of his back. He could. Newton would let him. But in this state, any sort of tenderness would provoke a sharpness, a prickliness, from Newton that was not productive for either of them.
+
+Instead, Hermann schooled his expression into the one he developed to deal with feckless undergraduates and said, “Perhaps you aren’t completely hopeless.” He leveraged himself up to a standing position so he could inspect Newton up close.
+
+Newton shivered. Maybe from the coldness of the words or maybe from the chill of the Shatterdome climate control, but he didn’t say a word. He was on his knees again, sitting on his heels with his hands placed on his thighs, showing off the rings on his fingers and the bands on his wrists. His cock sat partially erect nestled in the thatch of dark hair between his legs. It never did take much to arouse Newton during one of their games. Just a hint of disapproval, the snap of a demand.
+
+Hermann stepped closer and used the tip of his cane to trap the tip of Newton’s cock and grind it none-too-gently into the rug. “Not very surprising that a disgusting little slut like you would already be hard,” he said.
+
+He watched as Newton hissed at the sensation, his breath speeding up, eyes going glassy and unfocused. The pain was as important as the debasement for him, and Hermann was more than capable of administering pain. He enjoyed seeing the way it twisted Newton up into knots, how it could strip Newton of all his usual affectations and leave him at his most base, at his most raw and human. Newton was always in motion, a live wire of enthusiasm and energy, brilliant and beautiful. To see all of that humbled, obedient to Hermann’s will was… intoxicating, to say the least. It reminded him of watching the first Jaeger come online, his code embedded deep within its systems, something immense and powerful and yet somehow still bent to Hermann’s will.
+
+Hermann said, “You do suffer so prettily.” He pulled the belt from the loops of his dressing gown and thought about how best to make use of it. Around Newton’s wrists, obviously, but in front or in back? Held above his head? Hermann decided on in front, knotting the belt with a few simple knots. Newton was a wriggler, and he could probably squeeze his hands free with a few minutes of dedicated effort, but Hermann would simply have to keep him too occupied to put in that effort.
+
+He yanked Newton forward again by the loop around his wrists, pulling him onto his feet. Newton was smiling, and his eyes were soft. It was an expression at odds with Hermann’s rough treatment of him so far, but Hermann liked it, liked the obvious pleasure Newton took in what they did together. He kissed that smile before digging his teeth into Newton’s lower lip with sharp, stinging bites. Newton made small, pleased noises into Hermann’s mouth.
+
+Eventually, Hermann drew away, considering what to do next. He would have been happy to have a nice leisurely snog all morning in bed, but he knew Newton needed more from him right now. Newton needed to pushed right up to his breaking point and maybe just beyond it. Needed to be hurt in order to keep his mind and his body in sync. Needed to be degraded, needed to be forced to give up control.
+
+“’Cmon, Hermann,” Newton whined. He reached out with his tied hands to grab hold of Hermann’s arm, a bit clumsy from the pain and the arousal. It was not so unusual for him to go in so deep that he forgot himself, forgot that he was meant to be obedient. That was gratifying in its own way, to see some of Newton’s greedy and contrary nature peeking through.
+
+Hermann backhanded Newton across the face. He himself didn’t wear any rings, and he only put enough force into the slap to ensure that it stung. It was only a lesson, not a punishment. “You seem to have forgotten who is in charge here,” Hermann said, summoning the ghost of every severe headmaster he’d ever met.
+
+Newton’s head snapped back, a wince crossing his face, but then he nodded in agreement. Hermann could see where he was biting at his bottom lip in an attempt to hold back more words.
+
+Hermann took the opportunity to grab hold of Newton’s testicles and then crushed them in his grip.
+
+“Fuck,” Newton whimpered. His body tensed, seeming to struggle between wanting to get closer and wanting to pull further away. His expression was twisted up into a picture of agony, an exquisite mixture of pleasure and pain. Hermann wanted to ruin him, wanted to tear him to pieces and leave him a hollowed out wreck.
+
+Over the past decade, Hermann had had more than one guilty wank over the thought of wrecking the slick and polished image of Dr. Newton Geiszler, newly minted C-suite for the massively successful and wealthy Shao Industries, a war hero turned titan of hybrid biological-robotics engineering who was more than happy to show up and give keynote speeches at any conference that would have him. It had been all too easy for Hermann to imagine what he would do if he ever had the chance to tear those expensive suits off Newton’s body and leave them soiled with ejaculate. He had never been proud of those fantasies, and learning what had been the cause for the change in Newton’s behavior had not alleviated him of any of the shame.
+
+Hermann twisted the bollocks in his grip, ramping up the discomfort until Newton let out a high-pitched whine, a noise that barely sounded human. Hermann said, “You must have enjoyed it, playing at being an important executive, pretending to be cool and sophisticated. A man of wealth and taste. When all you are, all you ever have been, is a desperate, mewling *whore*.”
+
+Newton flinched, shuddered, shied away, and Hermann could tell that this had been the wrong tack to take. He felt, as he often did, like he was grasping for straws blindly in the dark, trying to understand what was safe territory and what wasn’t. He was certain Newton didn’t know the full topology of his own issues either, that the true shape of it was as messy and complex as Newton was himself. But this was still Hermann’s responsibility, and if he didn’t manage to salvage the situation, he could do lasting harm. He let go and took a step back, taking a deep breath as he did so.
+
+“Why do you think we do this?” Hermann asked, keeping his tone flat and even.
+
+Newton mumbled something underneath his breath.
+
+Hermann wasn’t going to let that stand. He gripped Newton’s hair, yanking on it hard enough to hurt, yanking on it hard enough to pull Newton out of whichever dark hole in himself he had fled to. “Answer me,” Hermann said, because he knew the pain aroused Newton, and he knew Newton derived pleasure from it, but there was always something lurking at the edge of their activities, something that niggled at the back of Hermann’s brain, an itch he never knew how to scratch.
+
+“Because I deserve it,” Newton said, louder and clearer this time. His eyes, exposed without the spectacles he no longer needed, were wide open, round with emotion. An expression that wasn’t entirely unlike anguish crossed his face.
+
+Was this penance for all the things the precursors had taken from them? The whole exercise felt grotesquely Catholic to Hermann, which had never been compatible with Newton’s particular attitudes in the past, seeing as he’d been an atheist. But that had been years and years ago. The scars the precursors had left behind were not necessarily visible to the naked eye. “Perhaps,” Hermann said as he let go of his grip on Newton’s hair. “But that’s for me to decide, is it not? Right now, *I* am the ultimate authority on what you deserve.”
+
+Perhaps the words were a touch more tender than Hermann intended them to be, because Newton shook his head, drawing into himself as if the kindness could hurt him in a way that the cruelty could not. “I fucked up so bad, Hermann,” he said. His voice was very small.
+
+“Yes, you did,” Hermann replied. “And that is why I am here. To ensure you don’t do it again.” If he could absolve Newton with the application of pain, strip the guilt from his body through suffering, he would do it in a heartbeat. He would whip Newton’s back until it was raw and bleeding, would put nails through Newton’s hands and feet, would give him his crown of thorns. But Hermann could not roll back the clock, could not undo the last decade. Relativity may have said that time was nothing more than the fourth dimension, but Hermann had never mastered it.
+
+Newton met his gaze. They weren’t playing at the moment. This was too important, too heavy. “Okay,” he said.
+
+“If this,” not just the sex, but their whole relationship as well, “is going to work, I am– you are going to have to trust me.” Hermann felt tired and old. He *was* tired and old.
+
+“I do,” Newton said. His voice was faint, but it was steady. “I trust you so fucking much, dude. You have no fucking idea.”
+
+“I understand,” Hermann said. He closed his eyes and took a breath before slipping back into character. He wanted– he wanted to help as best he could, and if Newton had to suffer, if he had to be ground down and ripped open, then Hermann would be the one to do that for him. “Sometimes you do get absent-minded and forget. Here’s how I’m going to remind you: I’m going to fuck you. I’m going to fuck you until you can’t let all the thoughts in your pretty little head of yours get the better of you.”
+
+He shoved Newton forward, bending him over the small regulation desk. Hermann had a larger desk in his office, along with his main computer and all of his files, but he did sometimes want to bring the work home, so he had requisitioned something for his quarters. Perhaps this wasn’t the intended use of their military-issued furniture, but it was a busy Shatterdome, with teenage Ranger cadets haunting the hallways. This could hardly be the most scandalous activity they’d ever seen.
+
+“I suppose if this is all you’re good for, I better make use of it,” Hermann said. He laid a firm slap on the meat of Newton’s backside.
+
+Newton let out a low groan and squirmed under Hermann’s touch. He wasn’t beyond words yet, but he would be, and Hermann was willing to admit that he felt a burst of savage glee at seeing Newton stripped of all his reckless intellect, reduced to nothing but a ball of primal need.
+
+Hermann freed his cock from his sleep trousers and pants, where it was hard enough to be leaking at the tip. The lube was where it always was, sitting on the bedside table. Newton could take him raw and would beg to be fucked that way when he was feeling impatient, which was often. Hermann, on the other hand, did not enjoy the sensation of it, the uncomfortable intensity of the friction. This time, as a concession to Newton’s preferences, he only used the most perfunctory amount of lubricant.
+
+At the first push of Hermann’s cock into his body, Newton whimpered. His hands, stretched out on the desk in front of him, clenched and unclenched in their bonds. If Hermann thought he was beautiful before, he was even more so now, while he was strung out, eager and desperate for Hermann to fuck him properly. His back was slick with sweat, and the colorful kaiju tattooed there twisted and writhed with every ripple of tension, of strain, that passed through Newton’s body. Hermann placed a hand on the back of Newton’s neck, forcing him against the desk from chest to cheek. It kept Newton still, kept his restless squirming to a minimum. Once, Newton had jerked back while trying to fuck himself on Hermann’s cock and bumped Hermann’s hip, causing Hermann to collapse in an ungainly heap on the floor. Hermann was not willing to chance a repeat now.
+
+Even with Newton’s eagerness, Hermann kept his initial thrusts slow and deep, because he was capable of patience even if Newton wasn’t.
+
+“Please,” Newton gasped. He liked it rough, liked it hard and fast and bruising, but none of this was about what he wanted.
+
+“You will take what I give you,” Hermann told him. “No more, no less.”
+
+Newton whined, but he tried to keep himself still. It was always something of a losing battle considering his general restless nature, but Hermann could appreciate the effort. His body was the furnace it always was, hot and tight, driving Hermann to distraction, but it was also sweetly pliant as it gave way to Hermann’s control.
+
+He sped up, because Newton was being good, adding some of the roughness that Newton craved. He tightened his grip on Newton’s neck, reminding him to keep the wriggling to a minimum. He used his other hand to grab hold of Newton’s hip, using the leverage to pull Newton back as he pushed forward.
+
+Newton’s breath turned frantic and shallow, sharp gasping breaths punctuated by the occasional keening wail.
+
+“You are close, aren’t you?” Hermann asked. “Just from this, just from being used and fucked, you pathetic little worm of a man.”
+
+Newton moaned out a response that wasn’t in words, more vowels than consonants. Hermann shoved them both forward, grinding Newton’s cock against the narrow edge of the desk, sharp and uncomfortable, a new shock of pain amongst all the pain Hermann was already inflicting on him.
+
+He came with a strangled yelp, a shudder shaking through his entire body, and Hermann fucked him harder after that, taking his own pleasure now that he didn’t have to worry about Newton’s any longer.
+
+Newton was sprawled out on the desk, loose and open. He still made little whining noises with each thrust of Hermann’s cock inside him, probably at the discomfort of the continued stimulation, but he had otherwise been fucked quiet, a miracle in and of itself.
+
+It didn’t take much longer for Hermann to come as well, not with Newton beneath him, not after all they’d done this morning. He closed his eyes as he did so, losing himself in the rush of pleasure, the clench of Newton around his cock.
+
+Their room was silent for a long moment after that, filled with only the sounds of their breathing and the steady mechanical hum that permeated the entire Shatterdome.
+
+Hermann slid himself out from Newton’s body and took a moment to free Newton’s hands and clean them both and the desk up. He had made a mess of Newton: fingerprint bruises on his hips and neck, red lines where the belt had chafed at his wrists, white come leaking from his ass. Newton’s mouth was open, lips wet with drool, and his eyes still had not regained their usual focus. Hermann wanted to photograph it, wanted to preserve the evidence of what he had done, what Newton had let him do. But now was not the time for that. He would just have to do it again sometime soon.
+
+He pulled Newton upright and let the man slump against him. Newton was so worn out after their session that he was limp in Hermann’s arms, a warm and heavy weight. Hermann took the moment to brush the hair from Newton’s forehead. It had been getting long during Newton’s involuntary confinement. Hermann knew Newton would never let him cut it, citing Hermann’s own haircuts over the years as proof positive that no one should ever let him near hair clippers, but perhaps there was someone else at the Shatterdome who would be suitable.
+
+“Thanks, dude,” Newton mumbled into Hermann’s shoulder.
+
+Hermann settled them both on the bed. His leg wasn’t hurting, but he could feel the strain this morning’s activities had put on his body, and it seemed likely he would pay for it later. It was a trade-off he would happily make again, but he might be singing a different tune several hours from now. “Are you alright?” Hermann asked.
+
+Newton slumped even further into Hermann’s body, his lips mashed up against Hermann’s neck. “Fucking fantastic,” he said. There was almost a smile in his voice.
+
+Hermann said, “Good. You deserve the world.” He ran his fingers through Newton’s hair, straightening out some of the tangles he had left there with his rough handling earlier.
+
+Newton was quiet for a long moment after that, and Hermann waited it out, feeling the soft wheeze of Newton’s breathing against his skin. Then Newton said, “I’d probably only end up destroying it.” He sounded hesitant, unsure. For most of Hermann’s life, Newton Geiszler had been a wrecking ball through his otherwise orderly existence, brazen and cocky and stubborn. It was unnatural to hear him doubt himself.
+
+Hermann felt as though the moment required him to say something deep, profound, meaningful. Something that could puncture Newton’s self-loathing and bring a perfect clarity to the situation. But Hermann was not an eloquent man, so he did what he considered the next best thing: he kissed Newton. He clutched the back of Newton’s neck, trying to convey with touch what he couldn’t with words.
+
+When Hermann pulled back from the kiss, Newton sighed and looked up at him with sad, serious eyes. He looked like– well, he looked like a man in his forties who was grappling with a life filled with regrets. Newton had always cultivated an air of perpetual youth, with his tattoos and his music and his frantic, manic energy. It seemed wrong to see him as his actual age. He said, “I’ll probably end up destroying you, too.”
+
+This felt like steadier ground. Hermann had plenty of experience in contradicting Newton’s wild theories. “Hardly,” he sniffed. “You haven’t managed it yet, and it wasn’t from lack of trying.” He kept his voice light, tinged with the same attitude he used to bring to all of their years of comfortable and uncomfortable bickering.
+
+That was enough to get Newton to crack a smile, a break in his otherwise morose demeanor. It was like seeing the sun come out after a rainstorm. “I guess you’re right,” he said, somewhat reluctantly, and there was none of the annoyance that would have accompanied that confession a decade ago.
+
+“I’m always right,” Hermann replied, just to rub it in.
+
+“I wouldn’t go that far,” Newton said, but his smile didn’t fade one bit.
+
+FIN.

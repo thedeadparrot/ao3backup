@@ -1,0 +1,85 @@
+---
+ao3_url: https://archiveofourown.org/works/43118503?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Aziraphale (Good Omens)
+- Crowley (Good Omens)
+date: '2022-11-16'
+fandom:
+- Good Omens (TV)
+notes: This was a fun little fic to write for the Get A Wiggle On Zine! Many thanks
+  to Dashicra1 and marlahectic for the betas.
+relationship:
+- Aziraphale/Crowley (Good Omens)
+summary: Aziraphale has a knitting project that he doesn't want Crowley to know about.
+tags:
+- Knitting
+- Awkward Gifting
+- Snake Crowley (Good Omens)
+title: Making Our Way to the Purly Gates
+warnings: No Archive Warnings Apply
+---
+
+Aziraphale vanished his current project into a pocket dimension at the first sound of the rattling of the front door and the brief burst of occult energy that accompanied the commotion. It wasn't that he was embarrassed about it, per se, but it was-- it was meant to be a gift. The human way of going about this sort of thing was to keep it a secret. At least, that was what he had heard.
+
+ "Oi, Angel," Crowley called out from the front of the shop. "I'm knackered. Got a drink for me?"
+
+Aziraphale took in a deep, unnecessary breath. "Yes, of course, dear," he said. He plastered his face with his usual smile, because he had nothing to hide. Nothing at all.
+
+He miracled up one of the bottles from his collection in the wine cellar as Crowley sauntered into the room, halfway to horizontal already. It had become his habit of late, preferring to be snake-shaped. Crowley was mercurial by nature, and depending on his moods, he liked being human-shaped, snake-shaped, both-shaped, or neither-shaped. Sometimes, only for a few hours. Sometimes, for entire decades.
+
+"Feel free to get comfortable," Aziraphale said. He popped the cork on the wine and poured a glass for himself and a bowl for Crowley. This particular instance of snakiness had lasted about a month at this point, and while Crowley could drink from a wine glass in snake form, he didn't enjoy it overmuch, so Aziraphale had taken to serving him with a kitchen bowl.
+
+"Eh, what's this?" Crowley asked from behind Aziraphale.
+
+When Aziraphale turned, Crowley had indeed already transformed into his snake form. Most of his long body was sprawled over his favorite chaise lounge, but his snake head was investigating the floor. His snout poked at an errant ball of black yarn that had partially rolled underneath the lounge.
+
+Aziraphale resisted the urge to wring his hands. That one must have rolled away from him earlier, and he hadn't hidden it away with the rest. "That is a ball of yarn," Aziraphale said. He took a moment to be grateful for his many many centuries of dissembling to Gabriel and the other arch-angels.
+
+"I know what it is, angel. The real question is what it's doing here," Crowley said with barely concealed impatience. His tongue flicked out in the direction of the yarn, as if he were sniffing around for clues of the mysterious object.
+
+"Well, after the success of my previous baking experiments, I thought it might be of interest for me to try my hand at, ah, other similar skills." It wasn't even a lie. Even though he could miracle up a scarf of any sort of shape or color, or he could go to a store and purchase one that was to his liking, there was a certain appeal to constructing his own knitted accessories with his own mostly-human hands. Of course, his current skills were still limited to rectangles and tubes, but he was hoping to advance to triangles and domes soon, after he completed his current project.
+
+"What're you making then?" Crowley asked. If snakes had eyelids, his eyes would probably be narrowing in Aziraphale's direction.
+
+Aziraphale should have prepared for this question from the moment Crowley discovered the yarn, but he had been too distracted by his own nerves. "Um," he said. "A sweater!" That was also something approximating the truth. 
+
+"Black's not really your color, is it, angel?" Crowley said.
+
+"Well, it's not *not* my color," Aziraphale huffed.
+
+"Yergmf," Crowley said, making a noise that he probably shouldn't be able to make with his reptilian mouth. He turned away from the ball of yarn and began to coil himself up on the lounge. "I hope you and your sweater are very happy together." The casualness of his words did not match the peeved tone of his voice, and Aziraphale felt a drop in his mostly non-functional stomach.
+
+He frowned and said, "I really don't understand why you have to be like this." He hadn't expected Crowley to express any enthusiasm for knitting -- Crowley was still a demon after all -- but this level of bitterness hurt, especially considering the amount of effort Aziraphale had put into this particular hobby, and for Crowley's sake at that.
+
+"I'm not being like anything," Crowley insisted. He slithered off the chaise and towards a wall. With a hiss, the floor-to-ceiling bookshelves rearranged themselves around a brand new space heater that had just popped into existence. He curled himself into a lump of black and red coils in front of the new space heater. Aziraphale got the distinct impression that he was being given a cold shoulder, despite Crowley's current lack of shoulders.
+
+And well, Crowley being cold was the crux of the issue, was it not? He'd always seemed more averse to the chill in snake form, seeking patches of sunlight or a cozy blanket while he was lazing about. Aziraphale had thought -- had hoped -- that perhaps Crowley would be willing to accept a token, a gesture, even if he sneered at the concept of kindness altogether. A hand-knit snake sweater was hardly on the same level as a thermos full of holy water, but as the Christmas adverts liked to point out, it was the thought that counted, wasn't it? But now Aziraphale was certain he had made some sort of grave miscalculation, because Crowley seemed to hate the idea of knitting altogether. Aziraphale gathered his indignation and said, "I suppose I will need to start a new project then, seeing as the recipient of the sweater does not seem to be at all interested in receiving it."
+
+A snakey head popped out of the pile. "What?" Crowley asked. His yellow eyes seemed larger and rounder than usual.
+
+Aziraphale huffed out a breath. "It was meant to be a surprise, but since you are not overly fond of knitted objects, there doesn't seem to be any point in completing it." It was a pity, really. Aziraphale had spent hours figuring out how to navigate all those double-pointed needles. The effort had seemed worth it, once he'd gotten past the first few rows and the shape of the tube had begun to emerge. But it had all been for naught.
+
+"Wait," Crowley said. His jaw flapped a bit, and a few incoherent noises emerged from his snake mouth, but they ended in, "... for me?"
+
+Aziraphale was confused. "Yes, who else would it have been for?"
+
+"I don't know! Some human somewhere! You give loads of things away to humans!"
+
+"Well, this one was meant to be for you." Aziraphale plucked the half-finished sweater from the pocket dimension he had hid it in. Holding it now, Aziraphale felt even more self-conscious about how shabby and simple it looked against Crowley's flashy human wardrobe. It was only about half a meter long at this point, nowhere near long enough for the giant length of Crowley's snake body. The black and red stripes were simple and a bit plain. The stitches were uneven in places, betraying his inexperience, and he hadn't yet weaved in any of the ends, giving the whole thing an unsightly tattered look.
+
+"That it?" Crowley asked. He had begun to uncoil himself and was slithering closer to Aziraphale's chair.
+
+"Yes, such as it is. It isn't finished yet, and I don't imagine it ever will be." Aziraphale frowned at the unfinished project in his hands. Perhaps he could turn it into a scarf and donate it somewhere.
+
+"It's... I like it, angel." Crowley had ended up partially on Aziraphale's lap, and his snout was poking at the sweater. With a wiggle, he pushed his head through the tube. "See? Fits perfectly." It did seem like a good fit around the width of Crowley's snake body, not too small, the way Aziraphale had fretted about when he was first casting on the initial stitches. Crowley continued, "You should finish it."
+
+A soft warmth bloomed in Aziraphale's chest at Crowley's words, an altogether too familiar feeling that he refused to put a name to yet. "You really think I should? You really do like it?"
+
+"Would wear it every day," Crowley promised.
+
+Aziraphale reached out and gave Crowley's head a soft pet. His scales were soft and smooth, a lovely texture under the pads of Aziraphale's fingers. Crowley leaned into it, the way plants leaned towards the sun. "All right," Aziraphale said. "Might as well not leave the job half-done." He slid the incomplete sweater over Crowley's head and began to fiddle with the stitches on the needles.
+
+Crowley seemed to take some sort of cue from that, and he curled himself around Aziraphale, draping his body over Aziraphale's shoulders and the back of Azirphale's chair, like a very warm, very scaly scarf.
+
+The wine sat untouched for the rest of the night. Turns out, they hadn't really needed it at all.

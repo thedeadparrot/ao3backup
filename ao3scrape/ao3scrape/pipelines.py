@@ -42,13 +42,14 @@ class Ao3ScrapePipeline:
             work_text = self.process_multi_chapter_text(item['multi_chapter_text'])
 
         frontmatter = {
+                'title': title,
                 'summary': markdownify(item['summary']).strip(),
                 'author': ', '.join(item['author']).strip(),
                 'notes': markdownify(item['notes']).strip(),
-                'fandom': ", ".join(item['fandom']),
-                'characters': ", ".join(item['character']),
-                'relationship' : ", ".join(item['relationship']),
-                'freeform': ", ".join(item['freeform']),
+                'fandom': item['fandom'],
+                'characters': item['character'],
+                'relationship' : item['relationship'],
+                'tags': item['freeform'],
                 'warnings': ", ".join(item['warning']),
                 #'rating': item['rating'][0],
                 'ao3_url': item['url'],
