@@ -1,0 +1,146 @@
+---
+ao3_url: https://archiveofourown.org/works/2535?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Maes Hughes
+- Roy Mustang
+- Gracia Hughes
+- Riza Hawkeye
+date: '2009-01-07'
+fandom:
+- Fullmetal Alchemist
+notes: Many thanks to mjules and livetolove for the betas. Spoilers up to Chap 59.
+  Mostly inspired by the lyric "I've been burning in water and drowning in flame."
+  from H.I.M.'s Under the Rose. Written for the fma\_ot4 lyrics challenge.
+relationship:
+- Hughes/Mustang
+- Mustang/Hawkeye
+- Maes/Gracia
+summary: War, what is it good for?
+tags:
+- warfic
+title: Drowning
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+When Roy kisses Hughes, it's quite possibly the worst moment of his life.
+
+His fingers dig into Hughes' shoulders, leaving red crescents on sun-browned skin. This isn't right, he thinks as his head spins, teetering off balance. This is all wrong. Because his mouth tastes of ash, and his eyes water from the dust and sand, and Hughes doesn't love him enough, or maybe too much, and there's a lovely wife that Hughes should (will) think about in Roy's place.
+
+There is no comfort, no solace here. Hughes' mouth is just more heat in the desert sun, hot enough to burn. (But Roy's an expert isn't he? That's why he's here.) It's just another thing to consume Roy, pull him in, drag him under. It's just another thing trying to destroy him.
+
+But he still kisses Hughes, and Hughes still kisses him back, and maybe that's enough.
+
+
+
+---
+
+Riza knows she's young.
+
+She knows this because people tell her this all the time. The older ones, the veterans, love to stare at her with unbelieving eyes and make comments about how they're letting kids into the war zone these days. She's used to it. She doesn't really care much about what they think.
+
+But then Mustang (Major Mustang, now) looks at her, and she knows that for a moment, he doesn't see the sniper, the soldier, but the girl she once was, all those years ago. She knows he overlays the then over the now, seeing how she's changed, how she's not what she used to be.
+
+And then she realizes just how old she really is.
+
+
+
+---
+
+Maes is fairly certain that he doesn't love Roy enough to save him.
+
+When Roy pushes him to the ground and presses their lips together, all he can think about are blood-stained hands (but, no, they're clean now, he washed them) and burned bodies (red-black and disfigured, mouths open in soundless screams), and Roy's eyes are always dark, desperate, begging for something Maes can't give him.
+
+So Maes gives him what he can, the bits and pieces of himself that don't belong to someone else, and when he sleeps (with Roy in his arms), he wishes for a world where he can give Roy more.
+
+
+
+---
+
+Riza's lips are chapped, Roy notices.
+
+He's not sure why he notices these things, when there are far more important things to think of (life, death, alchemy). He thinks it's the tie to home that she represents (because he doesn't have a girl, not like Hughes, who writes to him, tells him that she loves him). It's odd seeing her here, because he remembers her as someone -- something -- else. Hawkeye's daughter. Not a soldier. Not someone who belongs here.
+
+Her lips are pale and dirt-stained, and Roy can see the cracks in them, where lines of pink peek out between the gray-white. He realizes too late that they're sitting too close together. That he can smell her sweat, hear her heart, beating in her chest. They're not touching, but it's close, barely more than an inch between them.
+
+She licks her lips wet, a flick of small pink tongue that takes off the worst of the dirt, returning some of the color.
+
+Roy wonders what she tastes.
+
+
+
+---
+
+When Riza sees Maes Hughes for the first time, she barely notices him, she's so distracted by the sight of Roy Mustang again. She identifies him, absently, as "Mustang's friend." Hardly someone worth anything on his own.
+
+When she sees him for the second time, he thanks her for killing someone, like it was a simple favor, like she had passed him the salt at the dinner table instead of blowing the brains out of someone she doesn't know. She thinks that should bother her more than it does.
+
+When she sees him for the third time, she's killed her twenty-third person in four days from afar, and his eyes that say he's probably done worse. Mustang has pulled into himself, crouched into a chair in the corner, and it's only at Hughes' touch, a quick brush of fingers, that he pulls out again. In that moment, she realizes that thinking of him as "Mustang's friend" doesn't quite cover it, doesn't say anything about them at all.
+
+
+
+---
+
+It's windy today, so Maes pulls the hood of his coat up around his face to ward off the sand. He finds cover in an abandoned house, with shattered glass windows, stained brown with dirt, and walls lined with bullet holes.
+
+There's an old, wooden table and two chairs left behind, abandoned along with the rest of the house. Too big to carry, he figures. He curls his fingers around the gun strap and pulls it over his head, and his shoulder twinges in pain. It's easy to forget the weight of the rifle outside, while you're still wearing it. It's easy to forget that it hasn't always been there.
+
+The wind outside howls through empty streets, and he thinks that it couldn't hurt to stay here for a while. There is a picture in his pocket, of Gracia smiling. He received it in the mail three days ago, and it is still smooth and clean, unbent and unsullied.
+
+He doesn't take it out, only knowing that if he did, he'd bend a corner or drop it in the dust. So he leaves it there, where it's safe, and instead pats the jacket over the place it's hidden, right above his heart.
+
+
+
+---
+
+When Riza closes her eyes, she smells war. Gunpowder, blood, smoke. It's everywhere, a flat, familiar landscape for her nose.
+
+The handle of her rifle is warm and slick with sweat from her palms, but the metal barrel is cool in the heat.
+
+She hears the shouts of soldiers in the distance, Ishbali war cries, gunshots. They sound(are) distant, far away, like another world. When she watches, she can see it all, but she rarely hears it. She doesn't need to hear it in order to do her job.
+
+The taste of this morning's rations still rests against her teeth. Stale bread and lukewarm water. Third day in a row. Not much out here to eat.
+
+When she opens her eyes, the room around her seems hollow and dark. Too small. She peers through the scope of the rifle again and watches as Mustang walks through the camp. There's a weariness around his eyes, a tautness to his expression, that she recognizes all too well.
+
+She sees it in the mirror every morning.
+
+
+
+---
+
+There is a letter on the table from him. Gracia has not opened it yet.
+
+She hesitates before picking it up. It feels heavy in her hands.
+
+When she reads it, the first thing she notices are the dark, heavy marks of censors, covering up names, places, dates. It feels as though she has lost parts of him, as though who he is was always hidden in the details.
+
+In his letters, he sounds so distant, so far away, that she thinks she's losing him. He sounds so fake and cheerful, as though she doesn't know him better than that, as though he doesn't know she knows him better than that.
+
+When she replies, she always remembers to send him photographs, because she can give him these parts of her, and they can't take them away.
+
+
+
+---
+
+All Roy knows about Gracia is that she has short brown hair, that she has a pleasantly kind smile, that Hughes loves her, more than anything else in the world. (He doesn't listen to the things Hughes says about her, just watches the way Hughes' eyes light up when he says her name, the delicacy with which he runs his fingers over her photographs, and knows that Hughes can't give this to him, that this look is for her alone.)
+
+If things were different, Roy thinks he could have loved someone like her. A nice woman, with quiet eyes and a gentle touch.
+
+If things were different, he could have married her, settled down, had kids, maybe even a dog.
+
+If things were different, he could have been happy living a life like that.
+
+If things were different.
+
+
+
+---
+
+When Roy kisses Riza, her lips are still dry, still chapped.
+
+They taste like dust.
+
+ 
+
+FIN.

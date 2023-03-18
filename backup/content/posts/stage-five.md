@@ -1,0 +1,66 @@
+---
+ao3_url: https://archiveofourown.org/works/2631?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- James Wilson
+date: '2009-01-10'
+fandom:
+- House M.D.
+notes: For ficwriters\_anon. Thanks to savemoony for the beta.
+relationship: []
+summary: Five years ago, House managed to convince Wilson to put up a poster of Rebel
+  Without A Cause in his office, across from the desk, so that Wilson would see it
+  every day.
+tags:
+- Futurefic
+title: Stage Five
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+Five years ago, House managed to convince Wilson to put up a poster of *Rebel Without A Cause* in his office, across from the desk, so that Wilson would see it every day. *It's appropriate*, he had said at the time, grinning as Wilson finally rolled his eyes and relented. Two years after that, Wilson took it down, and no one ever asked him why. They understood.
+
+It leaves a blank space on Wilson's wall, though, and he thinks maybe it's time he filled it with something again.
+
+
+
+---
+
+Cuddy's made Foreman the new head of Diagnostics, though it's mostly in name only, since all three of the former fellows get equal time at the board, passing the marker around, calling out suggestions. Wilson pokes his head in occasionally to make sure everything's okay, but they don't need him, and they probably never did.
+
+Sometimes, he'll just watch them work, so familiar with one another that they finish each other's sentences, sharing entire conversations with just one glance. While their solve rate isn't as good as it was before, it's still pretty amazing, and Wilson's proud, prouder than he has any right to be, because this is theirs. This is what they've learned. This is what they've accomplished.
+
+
+
+---
+
+Most days, he eats lunch with Cuddy, because they're friends; that's what friends do. They have their own table in the cafeteria, sort of, off in a corner that no one else ever takes, though in the summer, they eat outside, even on the days it's so bright Wilson has to squint in order to see.
+
+She never steals his food, except for the fries every other Thursday, but he knows that's because the calories don't count if they're off someone else's plate. Wilson doesn't mind, really. He actually kind of likes it.
+
+They don't talk about work over lunch. They talk like college students about art and life and relationships and superhero comics, and even though Wilson's never going to love her more than a friend, more than a close colleague, he's happiest when he's right here, with fries missing from his plate, the sun in his eyes, and the Grand Unified Theory of the Universe spilling from Cuddy's lips.
+
+
+
+---
+
+There's a piano in his living room that he's never played, never learned how to play.
+
+But he occasionally flips through the yellow pages, stopping between "Musical Arrangers-Composers" and "Musical Instruction-Vocal", and wonders.
+
+
+
+---
+
+Wilson's always thought that he'd be constantly aware of death, that it'd never take him by surprise, but he's learned that it can sneak up on you, that it can happen when you least it expect it.
+
+
+
+---
+
+A few years have passed since the accident, and Wilson feels that maybe that's enough time, so he puts the poster back up, spreading it across his wall with careful fingers, stickytac at each of the corners. When he's done, he steps back and admires his work.
+
+James Dean glares sullenly at him, but Wilson smiles, and the ache in his chest is gentle.
+
+ 
+
+FIN.

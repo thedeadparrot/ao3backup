@@ -1,0 +1,46 @@
+---
+ao3_url: https://archiveofourown.org/works/37221?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- George Takei
+- Walter Koenig
+date: '2009-12-23'
+fandom:
+- Star Trek RPF
+notes: Thanks to zulu for the beta!
+relationship:
+- George Takei/Brad Altman
+summary: Today, George is the tense one, pacing back and forth across the small tent,
+  shoving his hands into his pockets and then pulling them out again.
+tags:
+- Friendship
+- Weddings
+title: Best Man
+warnings: No Archive Warnings Apply
+---
+
+George is fidgeting. He doesn't usually; Walter was always the one who had problems sitting still on set. Walter was the one who would flip switches and jitter his leg when he'd get bored waiting for the cameras to be mounted or for the squibs to be set up. Walter thinks that he should be the one who should be climbing up the walls right now. George was always the one who seemed at ease, the one who looked as though there was nowhere else he'd rather be than sitting in those hard, uncomfortable seats, calmly talking about warp speeds. And having George there always made Walter feel just a little bit calmer as well.
+
+Today, George is the tense one, pacing back and forth across the small tent, shoving his hands into his pockets and then pulling them out again. Outside, Walter can hear the the hum of a large party being organized. Every once in a while, the sharp, clear sound of Brad's voice cuts through the din. Everyone knows he's the brains behind this operation anyway. They've only just gotten George fully dressed in his white tuxedo jacket with a black bow tie, slightly askew. It had taken the concerted efforts of three different people to finally get him into it all the way. There would be a disappearing cuff link or misplaced cummerbund thwarting their attempts. But now they were victorious, and George was prepared to walk down the aisle. In theory, anyway.
+
+"You'll be fine," Walter says, reaching out to adjust the tie. George manages to stay still long enough for Walter to fiddle until he's satisfied, but once that is over with, George is pacing again, wearing a hole into the pavement.
+
+"I wasn't nervous until this moment, you know," George says. "I made it through the preparations and rehearsals just fine." It's true that George had not quite reacted to any of those events with this level of nervousness, but from Walter's expert opinion, it was just because George hadn't quite absorbed the knowledge that he was *getting married* yet.
+
+Walter laughs. "Deep breaths. Deep breaths. You and Brad have been waiting for this for a while now." George had introduced him to Brad over dinner with him and Judy in one of the nicest restaurants in L.A., though Walter has since forgotten the name. What he does remember is how young Brad had been, almost painfully so, but he does remember the way they'd looked at each other, like they were to only two people in the entire world.
+
+After they'd left the restaurant and dropped Brad off for the night because he'd had something to do the next morning, George had slung his arm over Walter's shoulders, still a little tipsy from the wine, and said, "I think I'm in love with him."
+
+Walter had said, "Good, because I think he's in love with you, too."
+
+Right now, George fiddles with his cuffs, a nervous tic that had always driven Wardrobe a little bit batty. George says, "I wasn't waiting for this at all. I still can't believe..." Walter can't know what it was like, for George to see that law struck down, but he can be here to celebrate it here with him today.
+
+"You're boldly going where no men have gone before," Walter says, clasping his shoulder. "Enjoy it while it lasts."
+
+George says, "I knew I should have taken Brad's advice about banning Star Trek jokes today." He seems calmer, standing in one place, even though he's still straightening his jacket, fiddling with his own tie again. He grins at Walter, the same grin they've shared since Walter first sat down next to the Asian guy at the front console of the Enterprise, the same grin that broke across Walter's face when he told George where he hid Bill Shatner's hairpiece, the same grin George was wearing the first time he convinced Walter to try sushi, the grin that's for just the two of them. It doesn't mean anything besides the fact that they're friends, brothers in arms, that they've been friends long enough to share a common language.
+
+A blaring noise that sounds vaguely like a foghorn comes from outside the tent. Walter winces as Nichelle sticks her head in. "The bagpipers are warming up," she says, looking lovely, as always. "Brad says, and I quote, that 'you two better get your lazy butts out here.' Oh, and I would stop feeling nervous, George. You look quite dashing in that suit, and everyone is thrilled for the both of you." And then she disappears as quickly as she came, letting the tent flap fall closed behind her.
+
+"You heard the lady," Walter says, half-shoving George out after Nichelle. "And don't worry so much. It'll be amazing."
+
+And of course, like always, he's right.

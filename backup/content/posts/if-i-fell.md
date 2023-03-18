@@ -1,0 +1,248 @@
+---
+ao3_url: https://archiveofourown.org/works/133931?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters: []
+date: '2010-11-17'
+fandom:
+- Sherlock (BBC)
+notes: 'Written for this [kinkmeme prompt](http://sherlockbbc-fic.livejournal.com/4076.html?thread=10152428#t10152428).
+  Much love to [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)[**zulu**](http://zulu.dreamwidth.org/)
+  for the beta. Contains BDSM.
+
+
+  There is now [podfic](http://audiofic.jinjurly.com/if-i-fell)!'
+relationship:
+- John/Sherlock
+summary: '*Sherlock knows that John sleeps with men. That much is obvious. What Sherlock
+  doesn''t know is whether or not John likes to fuck them or be fucked or if he likes
+  to pull hair or leave teethmarks or if he likes being on his knees or if he likes
+  forcing people onto their backs. Sherlock doesn''t know if John wants to fuck Sherlock,
+  of all people.*'
+tags:
+- BDSM
+title: If I Fell
+warnings: No Archive Warnings Apply
+---
+
+When Sherlock was sixteen, he slept with a boy who liked to thread their fingers together during sex, liked to leave gentle kisses along Sherlock's hips and stomach as he wrapped his hand around Sherlock's cock.
+
+When Sherlock was seventeen, he slept with a man who liked to tie Sherlock's arms behind Sherlock's back and shove his cock down Sherlock's throat while Sherlock was blindfolded and gagging and desperate.
+
+Sherlock doesn't regret either experiment, because he never wastes useful data, but he never does go back to the first type.
+
+
+
+---
+
+"You should eat something," John says. He nudges his half-finished plate in Sherlock's direction, and his eyes are quiet and searching. It's not a command, but Sherlock could take it as one.
+
+Sherlock snatches a piece of toast off the plate and takes a delicate bite out of it, watching John as John watches him.
+
+John smiles as Sherlock chews and swallows, and Sherlock can't help the warm glow of satisfaction that chases its way down his spine.
+
+
+
+---
+
+Sherlock finds sex something of a chore. There are places that do cater to his tastes -- a few that Mycroft has even recommended -- but Sherlock has never very much enjoyed the people he's met. He finds it almost boring, how easy it is to manipulate the doms, how he can make them do what *he* wants without very much effort at all. People are a little like machines, Sherlock has realized. You just need to learn which buttons you need to press.
+
+And then there's John. Sherlock had thought he was fairly simple, at first, something obvious and easy and useful. John liked to wear everything on his face, every emotion and every passing thought, and Sherlock had been foolish enough to believe that was all there was to him.
+
+John kills a cabbie for Sherlock, and he smiles pleasantly afterwards, and Sherlock realizes that there are layers to John that he missed in that lab in St. Bart's, layers upon layers upon layers.
+
+Sherlock wonders how deep they go. Sherlock wants to be around to find out.
+
+
+
+---
+
+John tightens his fingers around Sherlock's wrist, not hard enough to bruise, but enough to make his point. "You know, you could just *ask me* to hand you my phone like a normal person instead of shoving your hand down my pocket," John says mildly. He's not annoyed yet. Sherlock has discovered that John is adapting to Sherlock rather quickly. It makes Sherlock wonder how quickly John could adapt to other things.
+
+Sherlock wonders if John would be willing to bruise him if Sherlock decided to struggle, if Sherlock decided to be difficult about it. He wonders if John would grab both his wrists and pin him against the wall, his body close enough for Sherlock to smell his skin.
+
+Sherlock doesn't struggle, doesn't try to push back. John lets go of Sherlock's wrist, and Sherlock pulls the mobile from John's pocket without further incident.
+
+
+
+---
+
+Sherlock knows that John sleeps with men. That much is obvious. What Sherlock doesn't know is whether or not John likes to fuck them or be fucked or if he likes to pull hair or leave teethmarks or if he likes being on his knees or if he likes forcing people onto their backs. Sherlock doesn't know if John wants to fuck *Sherlock*, of all people.
+
+Sherlock should know this. He should be able to read it in the tilt of John's head and the curl of John's mouth and bend in John's knees, but he hasn't peeled away all of John's layers just yet. He does not yet have sufficient data, and a misstep could be... disastrous.
+
+He thinks of the callouses on John's hands, and he wonders what they'd feel like against his neck, down the line of his spine, on the soles of his feet. John has strong arms and deliberate fingers, and it reminds Sherlock of the last man who held him down and wouldn't let him come until he begged.
+
+*I want you here. SH*, Sherlock texts John on the banks of the Thames after another body has washed up on the shore. It's almost like he's telling the whole truth.
+
+
+
+---
+
+"Stop *fidgeting*," John snaps. He presses down on Sherlock's shoulder with his right hand and pulls the at hem of Sherlock's shirt with his left so that he can get a better look at the bandages on Sherlock's ribs.
+
+Sherlock stops.
+
+He wants to stop, he realizes. He wants to go still and quiet just because John wants him to, because John's hand is warm and steady, and he's staring at Sherlock intently enough to make Sherlock's skin prickle. John presses down on the bandage. His touch is light, but it still makes Sherlock tense against the low, throbbing pain spreading across his chest. "You're healing up nicely," John says. "Don't do anything to hinder your recovery. I mean it, Sherlock."
+
+Sherlock snorts. He doubts he'll be up for this whole 'resting' business much longer. Soon enough, the boredom will be back and John will have to tell Sherlock to stop putting holes in the wall and to stop leaving experiments out to rot and to stop sulking around the flat. "Yes, fine," Sherlock says, because that's what John wants to hear.
+
+John doesn't pull back as Sherlock expects him to. "I'm going to be keeping an eye out," John says, frowning. "*Don't* do anything stupid." His fingers drift over the skin of Sherlock's stomach. They're surprisingly cold. Sherlock sucks in a soft breath. If John notices his reaction, he gives no sign of it.
+
+"Of course," Sherlock says, and he finds that he wants to do this, wants to make John happy, wants to bend when John pushes. The realization makes him feel as though he's been punched in the chest, like all the air has left his body at once.
+
+John lips twitch upwards. Sherlock bites his tongue to keep himself from dropping to knees.
+
+
+
+---
+
+One day Sherlock notices a bruise on John's upper arm, most likely from an errant elbow by the looks of it. It's pale and a little old, purple fading into yellow at the edges.
+
+"You went to the pub two nights ago," Sherlock says, "judging by the smell of your jacket. There was a fight. You were caught in the middle of it." He knows he is staring but he can't bring himself to care. John has long since stopped being bothered by it.
+
+John flushes red along his neck. "Ah, no. Not quite. Well, you're right about the pub. No fight, though."
+
+He's right; there's been no damage to any of John's clothes as far as Sherlock can see, not even the slightest marks. He'd been naked, then. Sherlock readjusts his observations to compensate for the lack of clothing. Was it an accident? Sherlock does not see any other evidence on John's skin of a brawl or even a struggle, just a round bruise, barely noticeable to someone who isn't Sherlock. Sex, then. Which would explain the nakedness and John's hesitance to talk about it. "She kicked you," Sherlock says, "while you were in bed."
+
+John's eyes twitch to the right and his blush deepens. "I'm really not going to talk about my sex life with you," John says.
+
+"It *was* an accident," Sherlock says. "I had figured as such." An accident while they were doing what, exactly? She had been on her back, and John had been between her legs. John's head had been between her legs too, judging by the angle of the bruise. Did John startle her with a touch of pain? Sherlock wonders. Did he dig his nails into her skin hard enough to make her twitch? How many marks did he leave on *her* body?
+
+"I have no idea why I'm even bothering to say this, because I know you're not going to listen anyway, but it's really none of your business and I'm not telling you anything," John says. He gives Sherlock a look that makes Sherlock want to straighten his back, makes Sherlock want to behave just so John can pat his head and tell him he did good. John says, "Just-- don't, Sherlock."
+
+Sherlock doesn't.
+
+
+
+---
+
+Sometimes, Sherlock's mind fills up with things other than cases, dead bodies, and scraps of dirt under fingernails.
+
+These days, it is mostly John. It's normal things, like reconstructing the exact sounds John would make as he comes, a synthesis of what he sounds like while he's eating particularly good curry and what he sounds like after he's stretched an aching muscle first thing in the morning. Or like imagining the feel of John's cock in his hands, his mouth, wanting the salt-skin taste of it on his tongue.
+
+And it's less-normal things too, like the smell of John's shampoo and the way he looks after he's rolled out of bed, sleep still clinging to him until he's had a proper shower and some tea. It's wanting to examine the lines around John's eyes and needing to touch the sharp jut of John's collar bone. It's the way John says his name, annoyed and exasperated and affectionate all at once.
+
+Sherlock finds it rather annoying, how distracting he finds it all. He likes the cases because they clear his mind out, give him something sharp and bright to focus his thoughts on, but John is apparently capable of drowning out even *that*.
+
+"What was that about the ear plugs you said?" John asks while Sherlock is trying not to think too hard about the way John's hands are wrapped around the grip of his gun, steady and sure.
+
+"Hmm? They'll be in the cookie jar," Sherlock says, "conveniently covered in the victim's blood." They're in the hallway that leads to the suspect's flat, and Sherlock feels a sharp rush of adrenaline at the thought of physical danger.
+
+John goes still beside him, even stiller than usual. "You'll never stop amazing me," John says, his voice quiet. A strange, fluttery feeling takes up residence in Sherlock's ribcage, almost painful in its intensity.
+
+"We should get moving," Sherlock says around the tightness in his throat. "He'll want to make a run for it, because of the--"
+
+"All right," John says, cutting him off. "Let's go."
+
+
+
+---
+
+Sherlock supposes that he should have realized that things were going to come to a head sooner or later, but in his defense, his mind has been too preoccupied as of late to consider the long term. So when John shows up in the doorway to his bedroom on a quiet Sunday morning, Sherlock thinks that it has more to do with the experiment he left in the tub than anything else. It doesn't.
+
+"Do you trust me?" John asks when Sherlock turns to look at him.
+
+He's not touching Sherlock. There is a careful two feet of space between them, yet Sherlock wants to lean towards him, wants to bury his face in the wool of John's jumper and just breathe in the scents of it, London and dim sum and John's particular brand of detergent. "Yes," Sherlock says, and the word tastes strange on his tongue.
+
+"Good," John says, as he brushes his lips across Sherlock's, light enough to be a tease. "I want you kneeling."
+
+Sherlock drops to his knees almost as soon as John's finished the sentence. "You knew," Sherlock says, still feeling a bit petulant. He's not in that place in his head yet, where all he can do is want and obey and need. "You knew and you didn't say anything."
+
+"I suspected," John says. "I didn't know until just now." He runs a hand through Sherlock's hair, his fingers digging lightly into Sherlock's scalp. "You'd be obedient at the strangest times and I could never suss out why that was."
+
+"You're not very observant," Sherlock agrees, and John yanks his hair, forcing Sherlock's head back. It strains Sherlock's neck just a tick past comfortable. It makes Sherlock want to whimper. It makes Sherlock want to beg.
+
+"We're not talking about me," John says. "Safeword?" His voice is as mild and as pleasant as it always is, but there's a slight edge to it that slides up Sherlock's spine and makes Sherlock's mouth go dry.
+
+"Is that really necessary? I already said I trusted you," Sherlock says. He likes the idea of John doing whatever (*whatever*) he wants to Sherlock's body, likes the thought that John might not stop, even if Sherlock asked him to.
+
+Another twist of Sherlock's hair, painful this time, a sensation that goes straight to Sherlock's cock. "Tell me your safeword, Sherlock," John says, and this time it's an order.
+
+
+
+---
+
+There are a few different types of doms that Sherlock has learned to identify. There are those who can't be bothered to take down subs, who can't stand the slightest bit of disobedience. There are those who go off the cuff, taking everything in moment by moment. There are those who need to plan out every moment down to the last detail. There are those who like to tear apart their subs piece by piece and remake them in their image.
+
+John's not quite so easy to pin down. He's deliberate for sure, careful and methodical in that distinctly doctorly way of his, but Sherlock cannot track the way John's thoughts move and shift and flow. It's amazing and unsettling and brilliant, and Sherlock cannot get enough of it.
+
+"You have no idea how beautiful you are like this," John says as drags a thumb along the edge of Sherlock's left shoulder blade . "It makes me want to put a mirror up so you could see yourself."
+
+Sherlock tries not to moan into the pillow, tries to keep still because John told him to earlier. He keeps still, because that's what John wants, and Sherlock wants to do what John wants. He wants to stay right here in his head, right where everything is simple and direct and easy.
+
+Then there are lips on the curve of his neck, steady hands spreading his legs. John has already let him come tonight, but Sherlock is fairly certain he could get hard again if John wanted, if John demanded it of him. John's teeth latch onto Sherlock's collarbone and Sherlock fights the shiver that works its way through his body. "God, you really do love this, don't you?" John asks. "I never let myself imagine it, that you'd be like this, that you'd *want* it." He presses two slick fingers against Sherlock's arsehole, breath gusting over Sherlock's skin. Sherlock's hips jerk back of their own accord.
+
+"Please," Sherlock says, his voice breaking on the end of the word, fully aware of the humiliation of being reduced to this point. He feels a heat chasing its way across his cheeks, but Sherlock doesn't care as long as he gets more, as long as he can feel the burn of John's fingers as they slide into his body.
+
+"Greedy," John says, and he sounds the way he does when he's impressed by one of Sherlock's deductions. "You wouldn't believe the things I want to do to you." He presses his fingers in slowly, and it's like Sherlock can feel every agonizing centimeter. Sherlock whimpers, rests his forehead against the bed as he arches his back, pressing against the hand that's keeping Sherlock's hips steady.
+
+"Doubt that," Sherlock says, his voice slurred with sex and desire.
+
+John laughs, a soft, warm sound. "You're probably right about that," he says. He stills his hand, and Sherlock lets out a low moan. He is getting hard again, and the sensation is not entirely pleasant. "I want to take you apart," John says against Sherlock's skin. "I want to see what you're like when you don't understand what it means to want anything else."
+
+"John," Sherlock breathes out as John replaces his fingers with his cock, and the friction is so beautiful and perfect that Sherlock thinks he could to stay like this forever, with John's body pressed up against his own and John's cock sliding inside him.
+
+"Shhh," John says, his hands gentling Sherlock's back, Sherlock's hair.
+
+Sherlock groans as John picks up a steady rhythm. His body still feels sensitive from the orgasm he had before, but the discomfort makes everything sharper. He loses himself in the sensations of it all, where he doesn't have to think, where all he can do is feel.
+
+And then John's fingers are wrapping around Sherlock's cock, his lips pressed right up against Sherlock's temples. "Now, Sherlock," John says, and the sound of his voice combined with the rough jerk of his hand is enough to push Sherlock over the edge, and there's a moment in freefall that is indistinguishable from weightlessness. Sherlock's mind goes blank, a blissful sort of emptiness, and it's the most brilliant thing he's ever experienced.
+
+When he comes back to himself, John has turned him over and cleaned them both up, his smile fond. Sherlock feels his own mouth curl up at the edges, a mirror image of John's, and even after John's fallen asleep beside him, it lingers on long into the night.
+
+
+
+---
+
+There's a faint line on the back of John's neck, paler than the skin around it. When John lets him, Sherlock likes to trace it with his fingers, as if he can feel the indentations that must have been left behind.
+
+"Why don't you wear your tags anymore?" Sherlock asks one lazy Saturday morning as they're both lounging around the flat. John is reading a book. Sherlock is reading John. Sherlock doesn't have to ask to know that John keeps his tags in one of the bags in his closet that he never opens, the same one contains his uniform and most of the other clothes he wore during the war. Sherlock doesn't understand that about John, since John can talk about his experiences easily enough. Even with the PTSD, John seems to want that life back. He follows Sherlock around London and into danger, after all, a brightness in his eyes and a gun at his side. John acts as if he never wanted to leave in the first place.
+
+John entire body stiffens, and Sherlock can feel him pull away. "What does it matter?" John asks, and his voice sounds brittle and hard. A bad button to push, then, but Sherlock has already pressed it and he might as well see this through.
+
+"I wanted to see them," Sherlock says. He imagines what they'd look like, hanging from John's neck while he's fucking Sherlock, the metal plates dangling over Sherlock's chest. And then after that, Sherlock could suck the chain into his mouth and taste the metal mixed with John's sweat. Sherlock's body hums pleasantly at the the thought.
+
+John studies Sherlock for a long moment before he stands up and leaves in order to fetch them from his room. When he gets back, he's carrying them in a tight fist, his knuckles white and his lips pulled into a thin line, but he hands them over without much reluctance.
+
+The tags haven't been cleaned, which surprises Sherlock because John is usually fastidious with such things, but there's still a smattering of blood on the metal and a good deal of sand and dust still wedged underneath the silencers. Sherlock says, "Is this blood--"
+
+John doesn't let him finish. He pulls the tags out of Sherlock's hands and slides them over Sherlock's head.
+
+Sherlock hadn't consciously considered it before, but maybe the thought had come and John had seen it, had known even before Sherlock did (and isn't *that* interesting and useful for further study?). The chain is cool against his neck. As John tucks the tags underneath Sherlock's shirt, Sherlock feels almost breathless from the knowledge that they're there, that John's name is pressed right against his skin. Sherlock has never felt so completely owned in his life, never felt so completely marked as someone else's property.
+
+He leans forward and kisses John, going pliant as John pushes Sherlock against the wall, his hands tight on Sherlock's shoulders. Sherlock can't seem to stop, can't seem to tear his mouth away from John's. If he could, he would stay like this, and the thought of *not touching* John any longer is almost like a physical ache.
+
+"Yours," Sherlock says when he can breathe again, and it's amazing how that tiny word can hold so much.
+
+"Mine," John agrees, and Sherlock has to close his eyes at the soft heat in his voice.
+
+
+
+---
+
+"Oh," John says. "It's not like that."
+
+"Do you want it to be?" the man asks. Sherlock's fingers twitch as the man, the *twink*, leans forward, smiling with downturned lashes and a tilt to his head that exposes his neck. He's figured out what John is underneath the careful smile and simple politeness, and Sherlock imagines the twenty different things he could say to get the twink to piss off. Unfortunately, he's a witness, and so Sherlock tolerates him. Barely.
+
+The twink puts a hand on John's arm, sliding a thumb along the seam of John's jacket. The movement shows off the bands of brown leather around the twink's wrists, a blatant ploy to invoke a particular reaction in John. Sherlock grits his teeth and reminds himself that *he* was the one that John had tied up yesterday, arms behind his back, the clasp of John's belt rubbing against his forearms, John refusing to touch him until he managed to get himself off by rubbing against the soft cotton of the bed sheets. *He* is the one wearing John's tags.
+
+Sherlock puts on a smile, the most normal-looking one, and says in a light tone of voice, "What was it he said about the chickens again?" He feels John's eyes, John's *attention*, shift back to him, and it makes Sherlock want to preen. His smile gets just the tiniest bit wider.
+
+The twink sizes the two of them up again. Sherlock can see the exact moment he backs off, with a slight nod in Sherlock's direction to acknowledge his claim. Sherlock feels his shoulders relax, and his smile has slightly less teeth. He's glad that they've come to an understanding without need for further intervention on Sherlock's part, and Sherlock doesn't even make the comment about the twink's shoes that he was saving for an opportune moment.
+
+"You don't have to be jealous," John says later when they're examining the half-empty room for traces of talcum powder. "I am perfectly capable of turning people down myself."
+
+Sherlock kneels to inspect the floorboards and says, "I didn't like it." He resists the urge to press a hand against the dog tags underneath his shirt. He's always sneered at the little trinkets people carry with them, and he refuses to become like them what with their small minds and silly crutches. A wedding ring is just a ring, after all.
+
+John slides a thumb underneath Sherlock's collar and presses against the chain. "I'm not going to choose anyone else," he says, "because I love *you*."
+
+So many people put undue importance on those words. Sherlock has never considered himself one of them, but he cannot deny the warm flush that chases its way through his body. For once, Sherlock has no idea what to say. He wants to curl up at John's feet, wants to press his mouth against the sharp jut of John hips, wants to tuck his nose into to the curl of John's neck and breathe in John's scent. "Yes," he says, and he thinks of how he never could have predicted it, that first day in the basement of St. Bart's, with John's mild, pleasant smile on his face and his history written all over his body. But Sherlock doesn't regret it at all, not a single moment.
+
+John smiles something more real, something that almost seems to make his face glow with the warmth of it. "You really can be one of the most ignorant people I know," John says. His thumbnail digs into Sherlock's flesh along his spine, a small stinging sensation that makes Sherlock hiss through his teeth.
+
+"Oh, shut up," Sherlock says, but there's a matching smile forming on his face. When John kisses him, he wants to laugh from the giddy feeling that's flowing through him, that's pouring out of him at the seams.
+
+He's not certain what it is, but he thinks it might even be happiness.
+
+  
+FIN.

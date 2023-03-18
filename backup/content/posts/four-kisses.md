@@ -1,0 +1,130 @@
+---
+ao3_url: https://archiveofourown.org/works/2691?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Arthur Pendragon
+- Merlin
+- Morgana
+- Gwen (Guinevere)
+date: '2009-01-13'
+fandom:
+- Merlin (BBC)
+notes: Written for Kali in the Yuletide 2008 Challenge. Much love to queenzulu for
+  helping me immensely with this.
+relationship:
+- Arthur/Merlin/Gwen/Morgana
+summary: The future ahead of them is still so unclear.
+tags:
+- Futurefic
+- weatherfic
+title: Four Kisses
+warnings: No Archive Warnings Apply
+---
+
+Spring comes, and the snow begins to melt, and the trees begin to bud. Merlin can always tell the exact moment when the seasons change. The magic changes too, ever so subtly, because spring magic is not the same thing as winter magic.
+
+Arthur takes to walking the ramparts in the the mornings, a heavy cloak fastened around his neck, Excalibur strapped to his side. Merlin goes with him from time to time, because he enjoys the walk after too many months cooped up inside the castle and because he enjoys Arthur's company. He finds comfort in the sight of Camleot stretching before them, peaceful sloped hills and thick pale forests. He looks farther than that at times and sees the fields, the lakes, the rivers, the beauty in every inch of Arthur's kingdom.
+
+The sun is bright today, and only the most stubborn of snow banks will linger tomorrow. "The knights are getting restless," Arthur says, frowning. "Mordred especially. We should send them questing, soon." Merlin notices lines around Arthur's eyes, from squinting into the sun, from too much kingship; he suspects they tighten around Arthur's lips as well, though the thick blond beard hides them. His once-haughty bearing has softened over the years. Arthur no longer needs to prove his worth to his king.
+
+"Are you going with them?" Merlin asks. Of course it would be dangerous and reckless, knowing Arthur. He always gets into the worst trouble when he goes questing. Merlin sometimes wishes for Morgana's seer gifts, or perhaps even the dragon's wisdom. The future ahead of them is still so unclear.
+
+Arthur's smile is a small, knowing thing at the corner of his lips. "Are you asking if you can join us?" he says, and Merlin only then realizes that he was.
+
+"Camelot has been so dull lately," he confesses. The winter has been long and harsh, the snow deep and thick, and the only adventure to be had was the one troll hiding in the caverns where the dragon used to live.
+
+Arthur laughs at that, his breath leaving white clouds in the air. "Come, then," he says, wrapping an arm around Merlin's shoulders. "We must discuss this quest of ours. I am glad you have finally learned enough stealth to travel with me."
+
+For a moment, there on the battlements, with the sunrise gilding him, Merlin sees not the much-loved King of Camelot but the foolish, callous prat he used to be. He is glad that there can still be such youth in both of them. He hopes that Gwen will not miss them when they have passed.
+
+"We should bring Gwen along," Merlin says. He would hate to be separated from her, as she would hate to be separated from them. It would be easier if Morgana had stayed, if things had turned out differently between her and Arthur, but Merlin remembers the last time she and Arthur saw each other. That one ended with three dead knights, two injured horses, and Arthur in a foul mood for a week.
+
+"We should," Arthur agrees. He kisses Merlin's cheek, his lips dry on Merlin's skin.
+
+
+
+---
+
+In the summer, it rains on the day Gwen plans on going riding, and it upsets her more than it should. Merlin assures her that the sky will clear tomorrow, but it is not quite the same. Tomorrow she must entertain the Lady Eldridge of West Umbria, whose only interest seems to be fine dresses and the making of them. Arthur must negotiate with Lord Eldridge over how many men he will send to defend West Umbria from passing raiders, a tedious process made all the moreso because Lord Eldridge will agree only to attempt to renegotiate once more.
+
+She dislikes this part of being Queen. It is not that she dislikes Arthur, or his station, or Camelot, but she dislikes all the things that come from being married to it. She has spent so much her life free of so many of these expectations that now they only feel like a weight on her back.
+
+She has no maidservant, preferring to do all her chores herself. There was outcry amongst the court when she was discovered. Arthur defended her, as he always does. He puts no restrictions on her, letting her roam the castle and grounds freely. He allows her to go questing with him, wielding a sword by his side. She knows that there are those who speak ill of him because of it, but he is a good king, a strong one. When the whispers become too much, she misses Morgana, her bright eyes, her steady presence. Gwen always felt like she could count on her, though that is no longer true.
+
+Merlin finds her later that night in her rooms. The air is sticky and miserable, even as it pours and pours outside. "You seemed upset earlier," Merlin says, simply. He places a hand on her shoulder, offering comfort. He always knows when she is unhappy. Perhaps he learned to read her moods in the days they were both only servants or perhaps it is his magic.
+
+She presses a hand against her head and lays down on her bed. It is too soft. She slept much better on lumpier beds. "I *am* upset."
+
+"If it's about the rain..." Merlin says, though that is just his way of asking her to tell him what is truly bothering her.
+
+"Sometimes, I wish I'd never married Arthur," she says, cutting him off.
+
+Merlin looks saddened, the edges of his mouth drooping. "You don't mean that. You love him." He knows her too well.
+
+She knows he says this because he loves Arthur too, with an absolute loyalty. "I do, but it's so difficult being married to him, all the same." Arthur has lived all his life like this, and he doesn't understand why she struggles with it. When she watches him train the knights, her gaze occasionally drifts towards Lancelot, who is so incredibly beautiful when he fights. Lancelot would understand, she knows. He was not born to the nobility. She talks to him when she has the time, and she thinks it would be easy to love him. But she could never do that to Arthur, to Merlin, and so she merely talks to him, merely watches him as he fights.
+
+Merlin holds her face in his hands and kisses her, gentle and warm, and the softness of his lips does soothe the ache somewhat. She loves them both so much, and because of that, she will live this life. She runs her hands through the still-boyish cut of his hair. She rests her head against his shoulder and listens to the sound of his breathing, just audible over the *pitter-patter* of the rain outside her window.
+
+The humidity is lessening; she can feel it in the air. Tomorrow will be as lovely as he promised it would be.
+
+
+
+---
+
+When autumn arrives, Morgana dreams of Camelot, vivid memories of the time she spent there walking the halls, learning her magic. She misses it, still, after all these years. Gorre is a beautiful land, especially as the leaves change color before they fall, but she misses home. Mordred always brings news of it when he visits her, weaving tales of the Knights of the Round Table. She is thankful for his loyalty to her over Arthur, though she does regret at times the way she has turned him so fully against his king.
+
+It comes as a surprise when a rider arrives at their gates mid-afternoon, hidden under a plain, brown cloak. Morgana recognizes who it is on sight, and she instructs one of the servants to prepare for a visit from the Queen of Camelot.
+
+"Queen Guinevere," Morgana says, greeting the rider as she dismounts. "I was not expecting you."
+
+Gwen pushes the hood back away from her face. "Don't play court politics with me, Morgana. I am here to speak to you."
+
+Morgana shoos away the servants and guards and leads Gwen to walk with her amongst the trees that surround the castle. They crush leaves under their feet and hear the cry of birds preparing for winter.
+
+"You should come back to Camelot," Gwen says. She is dressed plainly, as a serf, her hair pulled back the way she used to wear it when she was nothing more than Morgana's maidservant. These things may hide her station, but they do nothing to hide her beauty.
+
+Morgana shakes her head. "You know Arthur would never allow it."
+
+Gwen gives an unladylike snort. "You're both too pigheaded to admit that you miss each other. That's why I have to do it for you." The afternoon sun casts shadows on Gwen's face, patches of gold and gray that shift as they move.
+
+"Arthur won't forgive me for what I've done," Morgana says. And she has not forgiven him yet either, but she will eventually. She has dreams of tending his wounds when he is close to death and his hair has begun to gray. Like all such dreams, she knows it will come to pass. One day, she will reconcile with Arthur. Perhaps that day is fast approaching.
+
+"He will if you forgive him as well," Gwen says. She holds one of Morgana's hands in hers for a moment before bringing the palm to her lips. The touch is intimate and familiar, and Morgana feels homesick, painfully so. Gwen's fingers are still worn and calloused with housework and swordplay, the way Morgana remembers them, not the soft, queenly things Morgana imagined they would be. Perhaps things have not changed as much as Morgana imagined they have.
+
+"I will think about it," she says, and their conversation is over.
+
+Gwen does not stay the night, choosing to leave as quickly as she came. "I can reach Ealdor by nightfall, and from there, it is an easy journey back to the castle." Her eyes soften. "Come back to us, Morgana," she says.
+
+She kicks her horse forward, leaving a cloud of dirt and leaves in her wake.
+
+
+
+---
+
+It is in midwinter, when the days are at their shortest, that Morgana returns to Camelot and requests an audience with the King.
+
+The harvest has not been good this year, and Arthur is busy ensuring that the kingdom will have food to last the winter when he hears news of her arrival. It has snowed all day, and when he finally greets her, melting snowflakes linger and glitter on her clothes.
+
+"Morgana," he says when he arrives in the throne room. The hall is mostly empty, and he does not bother with his ceremonial robes or crown. There is no point to them when it comes to Morgana.
+
+She bows to him in a way that would seem respectful to someone who didn't know her well. "I wish to put our differences behind us, Arthur." She has not changed much since he last saw her, though he can see the signs of age. The magic has given her eyes an otherworldly glow. He misses the girl he grew up with.
+
+"I have not forgotten the incident with the scabbard," Arthur says. His right shoulder still aches when it rains.
+
+"I am not asking you to forget," Morgana says. "I am asking you to forgive me as I am willing to forgive you."
+
+They quarreled often as children but also fleetingly, making up as soon as they fought. Either he would give her some of the candied fruits his father bought for him or she would let him beat her on the training fields and balance would be restored u ntil the next time Arthur offended her or she offended him. This is the longest they have hated each other, and Arthur is tired of this constant battle between them. He is willing to make amends. It is midwinter, after all, a time to make peace. "We will have the Yule feast the day after tomorrow," he says. "You can stay in your old rooms. They're empty at the moment."
+
+"Thank you for your hospitality," she says, and there is an uncomfortable moment when neither of them knows what to do. There is still too much between them.
+
+The others take the news well. Gwen is glad to learn that Morgana has returned, and Arthur suspects she may have had a hand in it. Merlin treats Morgana with more than a little distrust, but he is still courteous to her. She teaches him some of her magics, and Arthur smiles when he sees them together, their heads bent together, talking of things Arthur will never understand. They all celebrate Yule together, feasting on wine and venison. When Arthur holds a toast to the passing year and the year yet to come, Morgana smiles and claps with all the other guests.
+
+That night, he invites her back into their bed. She accepts, mocking him gently as she does, and it does feel like a return to more innocent times. When she comes to them, Arthur bites his way up the column of her neck as Merlin presses his lips to hers. Gwen wraps her arms around Morgana's waist and whispers, "We missed you," into her ear. Arthur, who has not felt this complete for years, is thankful that Gwen can speak for all of them. He sleeps peacefully that night, an arm thrown over Merlin's hips, his legs tangled with Morgana's, Gwen's head pressed against his chest.
+
+Morgana leaves the next morning, saying she must without giving a reason. Arthur bids her farewell in the stables as they ready her horse. "My offer still stands. You could stay longer if you wish," he says.
+
+She smiles at him, the way she used to when she knew a secret he didn't, and kisses his forehead. "Don't worry, Arthur," she says. "We will meet again."
+
+ 
+
+FIN.

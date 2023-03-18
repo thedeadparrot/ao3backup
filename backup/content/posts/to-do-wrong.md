@@ -1,0 +1,741 @@
+---
+ao3_url: https://archiveofourown.org/works/11032902?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Jeff Carter
+- Mike Richards
+date: '2017-05-29'
+fandom:
+- Hockey RPF
+notes: "So many thanks to Dark\\_Eyed\\_Junco for the beta and the encouragement and\
+  \ the listening to me ramble about this at all hours of the day.\n\nYou don't need\
+  \ to have seen *Blade Runner* to read this. All you really need is the background\
+  \ contained in the opening crawl of the movie:\n\n *Early in the 21st Century, THE\
+  \ TYRELL CORPORATION advanced robot evolution into the NEXUS phase - a being virtually\
+  \ identical to a human - known as a Replicant. The NEXUS 6 Replicants were superior\
+  \ in strength and agility, and at least equal in intelligence, to the genetic engineers\
+  \ who created them. Replicants were used Off-World as slave labor, in the hazardous\
+  \ exploration and colonization of other planets. After a bloody mutiny by a NEXUS\
+  \ 6 combat team in an Off-World colony, Replicants were declared illegal on earth\
+  \ - under penalty of death. Special police squads - BLADE RUNNER UNITS - had orders\
+  \ to shoot to kill, upon detection, any trespassing Replicant This was not called\
+  \ execution. It was called retirement.*"
+relationship:
+- Jeff Carter/Mike Richards
+summary: '*The years of doing this -- the same case files full of replicants, the
+  same days and weeks of hunting them through the streets of LA, the same whistling
+  of the kettle when the water''s ready -- they''re all sitting on Mike''s shoulders,
+  weighing him down.*'
+tags:
+- Alternate Universe - Cyberpunk
+- Alternate Universe - Blade Runner Fusion
+- Established Relationship
+title: To Do Wrong
+warnings: Graphic Depictions Of Violence
+---
+
+> 
+> 
+> *"You will be required to do wrong no matter where you go. It is the basic condition of life, to be required to violate your own identity. At some time, every creature which lives must do so. It is the ultimate shadow, the defeat of creation; this is the curse at work, the curse that feeds on all life. Everywhere in the universe."*  
+> 
+> - Do Androids Dream Of Electric Sheep?
+> 
+> 
+> 
+> 
+
+
+
+---
+
+"Chief's given us another job," Mike says as he enters the office. He tosses a manila folder onto the desk in front of Jeff. 
+
+Jeff sighs, runs his fingers through his hair, and takes his feet off the desk so he can flip open the folder and read through the details. Three replicants escaped from a supply ship to the outer colonies, right around Mars. Their shuttle was found in the outskirts of LA, sold to a chop shop more than willing to strip it for parts. Standard stuff, as far as it goes. All of them from the same work detail. At least they don't have to deal with any of the combat models. Those ones can be especially vicious to deal with. 
+
+Jeff takes a look at the pictures, the blank-faced white men staring out at the camera, and he wonders for a moment about whether they're conscious and awake when the photos are taken or if they're in some sort of standby mode.
+
+The overhead fan chops up the only light in the room, flickering, a strobe. Jeff glances up at Mike, at the shadows playing across Mike's face. "Doesn't seem too bad," Jeff says. It's not entirely true. Even the boring jobs can take their toll on them. Their last one, Jeff came back from it with a separated shoulder. He'd been laid up in bed for a week while Mike finished off their paperwork.
+
+Mike shrugs. "It's a job." There are dark bags underneath his eyes. He's been sleeping poorly the last few days. It's impossible for Jeff not to notice it-- what with them sharing a bed and all.
+
+"It'll be fine," Jeff says. He manages to grab hold of Mike's hand before Mike can pull away. He runs his thumb over Mike's knuckles. Familiar bumps and callouses and scars.
+
+He can feel as Mike sighs out a deep breath, some of the tension draining out of him. "Sure," Mike says. He tries to smile, but it's a hollow thing, and Jeff knows better than to push for more. Mike's been like that more often lately. Wearing a face that he thinks Jeff would like to see. 
+
+It was never like this when they started out a decade and a half ago. Mike would put on that sort of face for everyone else. Their bosses. Their targets. All the people they'd meet along the way. But around Jeff, he'd be easy, unguarded. Laughing and raging and everything in between.
+
+Jeff has no idea what to do about any of it except keep going. It was working before, and even if it's not working now, maybe it'll start working again. Jeff doesn't know how to make it work any other way. "It'll be fine," Jeff repeats, and it's probably more for his own benefit than Mike's.
+
+---
+
+The real work on the job starts the next day, but once they get back to their apartment, Mike settles onto the couch and starts going through their files in more detail. The Nexus-6s are always more work. Why the fuck anyone thought it would be a good idea to make them stronger and faster than your average human being is far beyond Mike's understanding.
+
+Jeff heads over to their stove and starts to make dinner. Not that it takes much work. Reconstituted vegetables and meat. Just add hot water. Mike can hear him rattling around, filling up the old kettle they got as a present from Jeff's parents after Mike moved in. So familiar that Mike could close his eyes and imagine Jeff's every movement, every gesture, all the other nights they've spent like this, overlayed over this one. The years of doing this -- the same case files full of replicants, the same days and weeks of hunting them through the streets of LA, the same whistling of the kettle when the water's ready -- they're all sitting on Mike's shoulders, weighing him down.
+
+He opens his eyes again and looks around their apartment, trying to take it all in again as if it's new. The ugly plaster walls, water-stained from where the humidity used to seep in through their windows before they got them fixed. The furniture, mismatched from acquiring each piece individually over the years. Every surface is covered in papers or knick-knacks. Jeff went through a phase where he was really fascinated by tiny animal sculptures, and their apartment is still paying the price for it. The rug underneath their feet was maybe red and gold once, but time and wear and tear has faded it into a dull burnt brown.
+
+He got a message from his parents this morning, all the way from Proxima Centauri b, about the grass that's begun to sprout up around the lake after a few years of terraforming has finally done its work. No pictures, since the bandwidth for that is still pricey, but his mom tries to describe it in vivid detail. His brother has even acquired a real dog, named him Austin. 
+
+As if on cue -- though Mike knows it's just a matter of programming -- Arnold perks his head up, thumps his tail a few times before laying his head back down again.
+
+Jeff swings into the living room carrying two bowls. "Any leads?" he asks, settling one of them down in front of Mike. He flops down on the couch by Mike's side, nudging one of Mike's knees with his own.
+
+Mike shrugs. "Not yet."
+
+Jeff tries to snatch the file that Mike's reading out his hand. Mike punches him in the arm in retaliation, and Jeff grins at him, small and warm and a little silly. Mike feels his heart flip over in his chest. He reaches out to run his fingers through Jeff's hair, and Jeff leans into Mike's hand. Mike feels something in himself settle, a little. At least this is something Mike can't screw up. Every new job they get, Mike feels like he's teetering at the edge of a chasm, like he's about to fall apart at any moment and fuck everything up. He hasn't yet, but he's sure it's just a matter of time.
+
+Jeff sighs and grabs a different dossier off the top of the stack, starts flipping through it with one hand while he uses a pair of chopsticks to shove his face full of noodles with his other. He's wearing the same expression he wears when he's starting to get consumed by a case, everything else falling by the wayside.
+
+Mike says, "Do you--"
+
+Jeff turns to look at him. He waits for Mike to finish, because god forbid he ever contribute to a conversation if he doesn't have to.
+
+"Do you ever just get really tired of it all?" Mike asks.
+
+Jeff pauses is chewing for a moment, thinking over the question. He swallows, throat working. "I guess," he says, "but it comes and goes."
+
+It's not like that for Mike. He's been feeling this exhaustion for months, this precarious balance between being okay and not, and he's not sure it's going away. "It's just-- same shit, different day, you know?"
+
+Jeff nods. "I think that's just the way it is." He nudges Mike's bowl closer to him. "Eat up before it gets cold." Jeff's not one to have the heavy conversations. Mike knows this, and for some reason, he keeps trying anyway.
+
+He lifts his own bowl off the table. There's still a bit of steam wafting off of it, thick with flavor, beef broth and carrots and salt.
+
+Jeff has already turned his attention back to the files. Mike eats slowly. He leans against Jeff's shoulder, feels the solid, steady strength of it, and then he focuses once again on the file in his hand. There's work to be done. Might as well start now.
+
+---
+
+In the morning, Jeff makes them both coffee while Mike makes phone calls in the living room. Jeff can't hear the individual words Mike is saying, just the low murmur of Mike's voice, but he can guess the patterns of Mike's questions, the bitten off tone he uses when he thinks someone is jerking him around. 
+
+Mike's a bloodhound when he's on the hunt. Given a name and description, Mike can find pretty much anyone in the greater Los Angeles area -- hell, sometimes even a description works just as well for him. Jeff has no idea how he does it, especially since the city must be crawling with six-foot-tall white men.
+
+But he's not surprised when late in the afternoon, Mike comes up with an address and the name of a diner in South LA where one of the replicants is posing as one Jesse Winchester -- short order cook.
+
+Jeff's the one who drives their beat up old sedan. The car used to be Mike's before they moved in together, and it took a few years and a concussion before he let Jeff behind the steering wheel. It's raining today, heavy droplets falling from slate-gray clouds. They splatter against the windows. Jeff squints a little as the wipers do their best to keep the windshield clear.
+
+The city below them is all blackened skyscrapers, some reaching up in tall spindles, some shorter and boxy. Buildings belch orange fire, bright flashes of light in the fog. The skyline hasn't changed much from when Jeff first moved to LA, when he was just twenty-two, when he could still be awed by all of it, when it still felt startling and strange and new. 
+
+They land in the Rosebud diner's parking lot, marked out in bright neon signs that feature a mixture of English and Japanese. Underneath the pink outline of a neon stylized rose, one of the signs announces that the diner was "est. 2007".
+
+After parking, they dash towards the front door to avoid getting drenched, making it inside with only some wet hair to show for it. Their coats are damp, but they're drying quickly. The interior of the diner is old fashioned, modeled after some twentieth century style, back when that sort of thing was more popular. Silver chrome lines the stools and the bar. Neon signs advertising milkshakes and burgers hang over the counter. The maroon-colored plastic covering of the booths is cracking and peeling, leaking some of the fiber filling in places. The whole place smells faintly of miso. 
+
+"Just like old times, eh?" Mike says. He smiles just the tiniest bit, faint and affectionate. A good part of their early days as bounty hunters on the LA police force were spent in diners like this, digging through files while munching on partially burnt toast and slurping down cold coffee. Now that they have their own space, they don't go out to places like this as much anymore, and Jeff finds that he almost sort of misses it. It was shitty, but it was also simple, too. These days, everything about Jeff's relationship with Mike feels complicated and messy. Messy history. Messy feelings. Messy jobs.
+
+"Yup," Jeff says. Jeff's first real conversation with Mike happened in a diner. The chief had tossed them together ("Two young bucks like you? Might as well team up to have the backup, just in case. Neither of you have a wife and kids to feed, so it's no big deal if you each take home half the bounty."), and after getting their assignment, they had gone out for coffee to talk about their leads. At the time, Jeff's only real impression of Mike was his displeased frown, the roundness of his cheeks, the intensity of his gaze. Mike didn't put any sugar in his coffee back then, and Jeff still had all of his teeth. They sized each up over the table and mumbled out answers to each other's questions. 
+
+It wasn't until the end, when Jeff had made a bad joke, Mike had grinned, just the tiny one he gets when he's trying not to laugh. It animated his face, made his eyes squint, and Jeff had wanted to touch the curve of his lips, had wanted to see how it felt underneath his fingers.
+
+Now, Mike pushes his damp hair away from his forehead and quirks one eyebrow in Jeff's direction. A question. Jeff nods and unholsters his gun.
+
+"Take a seat anywhere you like," the woman behind the counter says, gesturing with a coffee pot. Her black hair is pulled back, casual and messy. She looks Japanese, but she's not one of the newer immigrants. Her voice lacks any trace of accent.
+
+"Not here for the food, ma'am," Mike says. He reaches in, flashes his blade runner badge at her. Just for a moment, so that no one else can get a good look at it. To her left, there's a window where she can put orders through, leading to the kitchen. White uniforms flash by, just long enough to see an arm, a torso, hands, fingers. One of them probably belongs to Winchester.
+
+She freezes in place. A moment of shock passes over her face before it smooths out again. "Of course," she says.
+
+"Jesse?" Mike says, voice pitched low and soft. No need to spook anyone too soon.
+
+The waitress nods towards a door marked 'Employees Only' at the far end of the bar. Jeff and Mike exchange a quick glance to agree on a plan.
+
+Mike takes the left side of the door. Jeff takes the right. His grip on his gun is steady and sure. Mike reaches for the door handle with one hand and holds up three fingers with his other.
+
+A silent countdown. Jeff holds his breath, his heart rate kicking up several notches in anticipation.
+
+Three.
+
+Two.
+
+One.
+
+Mike opens the door, and Jeff pushes through, raising his weapon.
+
+"Hands up in the air where we can see them!" Mike shouts.
+
+Most of the cooks raise their hands. The things they were holding drop, loud metallic clatters against the ground or counter. A few of the diners out in the seating area hear the commotion and start screaming. One of the cooks takes off, heading for the back door, a streak of white. Must be the skinjob then. 
+
+Jeff chases after it. It's fast-- fast enough to make Jeff work for it. The back door leads to the parking lot, the paved ground covered in an inch of accumulated water. The rain does nothing to obscure the white uniform of the replicant as it runs, though. Jeff only needs one look. He aims. He fires.
+
+The bullet hits it right in the chest. The replicant collapses onto the ground, red blood staining its shirt.
+
+Footsteps behind him. Jeff spins on the balls of his feet, gun ready to face another potential attacker. It's just Mike, though. His hair is plastered to his head. There are darkening damp spots on his tan coat. Jeff's heart slows just enough for him to notice the way the rain is running down his own face and neck, soaking through his shoes and pants.
+
+"You get him?" Mike asks.
+
+Jeff nods. "Yup." They both start walking towards what remains of the body.
+
+"At least we'll get a bounty off of him today," Mike says. "I talked to the waitress out front. She gave me his address. We can check it out, see if we can get any leads on the others." He grabs underneath the replicant's armpits. Jeff lifts the other end, grabbing hold of its feet. It's heavier than Jeff expected. Maybe all that machinery is a lot denser than human organs.
+
+"Tomorrow," Jeff says with a grunt. It's going to take long enough to process this one, and he just wants to go home to change. 
+
+"They might spook," Mike warns. "We didn't exactly retire Winchester quietly."
+
+'If they're going to spook, one night isn't going to make enough of a difference," Jeff says. "They're not going to go back there if they know we have a chance of being there too."
+
+"Fine," Mike says.
+
+ ---
+
+They leave the remains of the replicant formerly known as Jesse Winchester at the station for testing and disposal. They take the necessary paperwork home with them. Chief Sutter takes one look at the two of them and tells them to stop dripping all over his office, so that's as good as being dismissed.
+
+Mike makes sure to set it up so that his half of the bounty is going straight into his colonization account. With the $1500 from these three replicants, he should have more than enough to-- to at least consider grabbing the next ship headed towards Proxima Centauri b. To go be with his family. If he wanted to. He might even have enough to bring a friend. If he wanted to.
+
+When they get back to the apartment, Mike goes straight into the bedroom to strip off his clothes, leaving them in a damp heap on the floor. Jeff might yell at him later about that, but he's too tired to care. He heads towards the dresser for some sweats and a t-shirt. Their bedroom is like the rest of their apartment: tiny and cluttered. Most of the space is taken up by the bed itself, leaving only a little bit of square footage for a dresser and a nightstand. He hasn't bothered to turn on any of the lights, so the room is lit by the headlights of passing cars, casting long shadows onto the far wall. The low hum of their HVAC fills the space.
+
+"Hey," Jeff says, coming into the bedroom behind him. He left his coat out in the living room. His wet shirt is clinging to his shoulders and chest.
+
+Mike is still buck naked, his pajamas in hand. "Yeah?" Mike says.
+
+There's a long moment where they just stare at one another.
+
+Jeff takes one step forward, then two. His hands press against Mike's shoulders, backing Mike up against one of the few patches of accessible wall. Mike lets him.
+
+He closes his eyes as Jeff kisses him, easy and unhurried. It's not so much that their sex life has gotten boring lately so much as it's become perfunctory, like the jerk-off routines they had when they were single.
+
+But maybe that diner brought up old memories for Jeff the same way it did for Mike. Long nights working together. Jeff's long legs tangled up with Mike's underneath their shared booth table. The bashful smile Jeff would get sometimes while talking to Mike, like maybe he was embarrassed by how happy he was.
+
+Jeff curls one hand around Mike's hip, one hand around the back of his neck. He insinuates his thigh between Mike's legs, and like a Pavlovian response, Mike hardens at the touch. The damp fabric of Jeff's pants drags strangely on Mike's bare skin, but he likes that. He fumbles with the buttons of Jeff's shirt so that he can get at Jeff's chest.
+
+When Mike first met him, Jeff had been all gawky limbs and bleached blond hair, but now he's filled out, broader. His chest is dusted with fine, pale hair. Mike drags his fingernails over a nipple, the way Jeff likes, feels the way Jeff tenses, trying to control his reaction and failing.
+
+Mike works Jeff's belt off, undoes the fly of his pants so that he can reach inside. "Like this," Mike says, because he doesn't have the energy for any sex more enthusiastic than this. He bucks his hips against Jeff's thigh to punctuate the statement.
+
+"Yeah, sure," Jeff says. He ducks his head lower and leaves kisses along the length of Mike's neck and clavicle.
+
+Mike wraps his fingers around Jeff's cock, jerks him off with the quick, tight strokes that Jeff likes, and grinds up against Jeff's pants and thigh until he comes.
+
+Jeff doesn't take much longer than that either. Mike's pretty much an expert at getting him off.
+
+"I'm going to go take a shower," Mike says as Jeff pants through the aftermath. He wipes his hands off on Jeff's pants because it's not like they aren't already covered in semen.
+
+"Sure," Jeff says, grinning wide and a little stupid. He always gets loose and compliant after an orgasm. Mike should probably feel a little bad about taking advantage of that, but he doesn't.
+
+---
+
+Replicants who come to Earth can't afford anything particularly nice. Jeff's only really seen the inside of the swankiest of penthouse suites in television commercials, the ones that are so high up, they seem to float above the city's smog.
+
+Winchester's apartment is small and clean, though the closets are full of detritus: clothes and shoes and umbrellas. Way more stuff than should be the case for someone who just moved in less than a month ago.
+
+Jeff manages to put it together when takes a look at the photographs hanging on the walls -- full of smiling faces, none of them Winchester's. Jeff wouldn't put it past a skinjob to straight up murder someone for their home. He's seen some shit first hand while administering the Voight-Kampff tests, the way their empathic responses are fucked up and backwards. 
+
+Most of the clutter is hidden away from view, giving the apartment a bare, empty feeling. The bed is unmade. Replicants do need to sleep. Jeff has wondered more than once why they were made to have so many human affectations, but he's not the one designing them, so maybe he doesn't need to know.
+
+"We should get the department to run a check on the address," Jeff says, "see who lived here before."
+
+"Yeah," Mike says, his voice drifting into the bedroom from where he's been investigating the adjoining bathroom. He pauses for a moment. "I doubt it will give us any new leads on the others."
+
+"Right," Jeff says, "but I think-- their families would probably like to know." He can't stop staring at the photographs. The previous owner -- or perhaps, one of the previous owners -- with her arm thrown over the shoulder of a woman who has the same smile and hair as her. A sister? Heads thrown back in laughter around a dinner table. A man twirling an umbrella in the rain. Moments of a life that, in all likelihood, no longer exists.
+
+Mike comes up to him, stands by Jeff's side and looks over the photographs with him. "You're right. We should get in contact with them," he says, his voice soft. "If it was me--"
+
+If it was Mike, Jeff would be the one who would need to write to Mike's parents, the one who would need to put down in words all the standard, trite condolences and then send them across the lightyears. He'd probably be the only person at Mike's funeral here on Earth. "It's not you," Jeff bites out.
+
+Mike nods, a brief flash of movement out of the corner of Jeff's eye, and then he leaves, presumably to go investigate elsewhere in the apartment.
+
+Jeff lingers only a moment longer before walking back out into the living room. He runs his fingers over neatly arranged bookcase in the corner, which has started to collect dust. He examines a bouquet of plastic flowers in a vase on the coffee table. They're beautiful, bursting with whites and reds and purples. The petals are stiff and rough between his fingers.
+
+"I think I've got something," Mike calls out.
+
+He's in the kitchen, which is larger than the one they have at home, an actual room instead of just a cut out section of their living room. It's as clean as everything else. The surfaces are free of clutter, though there's still stains and accumulated gunk along the edges of the appliances. It smells a bit sterile, like too much lemony-fresh scent.
+
+Mike is holding up a matchbook and a carton of cigarettes. "These were here," he says. "No dust."
+
+The matchbook is from a bar named National Mechanics, a phone number printed underneath the logo. Something about it looks familiar. Jeff flips open the matchbook. Nothing written inside. Half the matches are missing.
+
+"We should go check it out," Mike says. "Someone there might remember Winchester, too."
+
+Jeff nods. "Haven't found anything else here."
+
+They head back out to the car. Mike slides behind the driver's seat, only shooting one side-eyed glance to make sure that Jeff is strapped in before taking off.
+
+"Wait," Jeff says as they start to rise up and up over the city. "You didn't look up the address."
+
+"We've been there before," Mike says. "Maybe you were too drunk at the time to remember." His voice has a dry, amused quality to it.
+
+Jeff laughs, though he's started to remember bits and pieces now that Mike's mentioned it. "Maybe," he says.
+
+---
+
+National Mechanics is a club that was built in the bones of an old Army garage, and it has embraced the aesthetics of its previous occupants. The furniture is sleek and spartan. The old truck and tank lifts now hold tables and seating. The bar is partially tucked into a window that probably used to be for signing out equipment. The whole place smells like cigarette smoke even if no one's smoking right now, like it's permeated the walls.
+
+This early in the evening, the place is pretty empty, a stark contrast to the last time Mike was here. That time, it had been late into the night, wall-to-wall people, Jeff leaning heavily against Mike's side. Early enough in their relationship that they couldn't seem to take their hands off each other. Young enough that every bounty they collected had felt like an excuse to celebrate. Mike remembers pressing his hand against the small of Jeff's back as they navigated their way, just because he could. Jeff had bitten at Mike's ear on the dance floor, tiny nibbles that had chased heat down the back of Mike's spine.
+
+Later, though the memory is fuzzy with alcohol, Mike had blown Jeff in one of the bathroom stalls, the two of them giggling at how ridiculous they were being. Mike remembers the sensations more than anything else: the hard, grotty tile underneath his knees, the slide of Jeff's cock between his lips, the punched out groan Jeff let out when Mike had licked the leaking slit. They had been stupid as hell back then, reckless with arrogance and desire.
+
+Mike almost misses it. Everything had been so much easier then. Jeff nudges his side, pulling him back to the present.
+
+He goes up to the bartender, a Latino man with slicked back hair, maybe a good five years younger of than either of them. The bartender looks the two of them over, eyes narrowed, wondering why cops would be showing up here at a time like this. Mike's met more than a few people who clam up when first talking to them. Their tongues always loosen after finding out that Mike and Jeff are just blade runners, looking for their next payday.
+
+"You want something?" he says in Cityspeak. He's got a heavy Spanish accent.
+
+Mike shows him his badge and replies in English, because he knows he's going to mangle the language if he tries to speak it himself. "We think you may have served a replicant here recently, and we wanted to see if we could find out anything about his known associates." He reaches into his pocket for one of the departmental dossier photos. "Have you seen this man before?"
+
+The bartender looks over the photograph. "Oh yeah," he says, also in English. "He was here the other night to talk with one of our regulars."
+
+"Regular?" Jeff asks. "Can you tell us more about them?"
+
+The bartender nods. "You think he could be a replicant too, huh? Yeah, he goes by Aaron. He's in here most weeknights."
+
+"So you think he'll probably be here tonight?" Mike asks. One of the dossiers lists an Aaron, which is awfully convenient. A Wednesday night seems to be as good as any, but they're probably on the early side to spot most of the regulars.
+
+"Sure," the bartender says. "Maybe in another hour or two. In the meantime, can I get you gentlemen anything?"
+
+Mike glances at Jeff. Jeff nods. "Yeah, okay. I'll have a pint of whatever's on tap, and my friend here will have a bloody centauri." Jeff's drink of choice hasn't changed in the last five years. Mike doesn't think it's changed now.
+
+They find a table that has a good view of the front door but away from most of the lights, hiding in the shadows. Over the next hour, they nurse their drinks and watch the entrance. There's a steady stream of people coming in. The music gets louder as the night wears on. Mike tries not to wince at the headache that spreads behind his eyes.
+
+"You okay?" Jeff murmurs into Mike's ear. Mike shrugs him off and nods. He understands that Jeff just wants to make sure he's okay, but this is the job. They both know that.
+
+Mike's the one who spots Aaron when he comes in. His hair is longer than it is in the photograph. He has a hat pulled low over his eyes. Mike kicks Jeff's foot, nods in Aaron's direction.
+
+They leave the table to join the mass of people on the bar and club floor, but a rowdy crowd of construction workers blocks their way, and by the time Mike can see anything around them, Aaron has already faded into the crowd.
+
+"Shit," Mike says. He spins around on his heels, hoping for another look, but it's just a blur of bodies in a darkened room.
+
+"Split up?" Jeff asks. 
+
+Mike nods. They're not going to make any headway trying to navigate this crowd together. He heads for the back of the bar, and Jeff, taking his lead, heads towards the front. Mike pushes his way through the crowd, not bothering to be nice about any of it. He gets some glares, but Mike has gotten good at ignoring that sort of thing.
+
+He catches sight of Aaron slipping out a side door into an alleyway. He's a bit taller than most of the other patrons, and the hat makes him easier to spot. Mike chases after him, one hand on his holster, ready to draw his gun if necessary.
+
+As soon as he steps out of the bar, a fist collides with his face. Mike staggers, jaw stinging. Fuck, these Nexus-6s do hit harder than the older models did.
+
+He manages to twist in time to miss the next blow, an arm glancing off his shoulder. The look on Aaron's face is dark and crazed, animated with fury. Mike drops his shoulder and runs right into him, knocking him off balance with the entire weight of his body.
+
+They both crash to the ground, the two of them grappling for leverage. Mike manages to knee Aaron in the stomach and flip them over. He uses his legs to hold Aaron's shoulders down. 
+
+His hand is at his side on instinct, drawing his gun and pulling the trigger through sheer muscle memory.
+
+It's a point-blank shot. The bullet pierces Aaron's skull, leaves a gaping hole and red splatter in its wake. All the fight has left the body underneath Mike, lifeless and limp.
+
+Mike almost feels a bit of pity for him. All Aaron probably wanted was a quiet night out, get a little buzzed at bar, and this is what he gets for it: Mike blowing his brains out. Mike's jaw aches, and there's blood leaking into his mouth from a cut on his cheek, and all he wants to do now is sleep for a week.
+
+He pats down the body, looking for any other clues. He comes up with a wallet, stuffed full of cash. An ID for one Aaron Asham. It's a good quality fake. Must have cost a fortune. Maybe if they can track down whoever made it, they'll get another lead on the remaining replicant.
+
+The alleyway door bangs open again. Jeff stands there, grim-faced.
+
+"Yeah," Mike says, though the words come out a bit garbled. "Got him."
+
+Jeff nods, his expression darkening just a little bit. "Good," he says.
+
+---
+
+When they get back to the apartment, Jeff watches as Mike starts towards the kitchen, but Jeff nudges him out of the way. "Go," he says. "Sit. I've got this." 
+
+He turns on a few of the lights, the dimmest ones that fill the apartment with the softest of orange glows. Then, he goes into the kitchen himself, grabs an ice pack from the refrigerator, their first aid kit from over the kitchen sink, and a few of their spare dish towels.
+
+Mike's sitting on the couch, bent over, his head in his hands. The exhaustion is written all over his face. Jeff walks over with the supplies, and Mike looks up for a brief moment before slumping again. Arnold pads over, sits down at Mike's feet, looks up at Mike with empty, glassy eyes. Mike runs one hand over his fur, his expression softening in Arnold's presence. Arnold doesn't react. They could probably afford a better model, one that's more responsive, but Mike's attached. Wouldn't give Arnold up for anything except the real thing.
+
+"Hey," Jeff says, keeping his voice pitched low.
+
+It's not easy to see underneath Mike's dark beard, but there's a bright red mark on his right cheek that will definitely start to purple later. Jeff presses the ice pack against it. Mike flinches at first but then relaxes.
+
+Jeff hands over a towel to Mike. Mike spits into it, red blood on the fading orange fabric. It's a familiar routine. The first time Jeff broke his foot, when he was so cranky and miserable, he was sure Mike was going to kick him out and dump his shit out on the street. The week after Mike fucked up his hand, after he had surgery and kept trying to do things he shouldn't be doing until Jeff resorted to ripping pens and chopsticks and toothbrushes away from him. But they do-- they take care of each other, because if they don't, who will?
+
+Mike's teeth are stained a faint red. There's some drying blood on his hands. Jeff's almost pissed that he didn't have a chance to kill that fucker himself. He kisses Mike's unbruised cheek, beard prickly under his lips.
+
+Mike huffs out a laugh. When Jeff pulls back, he can see that Mike's almost smiling. Jeff's heart thuds heavy and even in his chest. It's been so long that sometimes this feeling fades into the background, this desire to be as close to Mike as possible, to erase all the distance between them. It's become another part of him, like the way his foot aches when he first wakes up in the mornings or the way he's learned to sleep on the right side of the bed. But there are moments like this where it rises to the forefront again, almost choking Jeff with its intensity.
+
+"I found something," Mike says, voice soft, "a fake ID. We should get it checked out tomorrow, see if we can find where he got it from."
+
+"Yeah," Jeff says. It's actually somewhat rare for skinjobs to be carrying identification. It's easy enough to slip around the city without one. Most humans don't bother. All that can wait until they've gotten some rest, though. "Tomorrow."
+
+He herds Mike towards the bedroom, helps Mike strip off his shirt and pants. Mike crawls between the covers without comment, eyes falling closed as soon as his head hits the pillow. Jeff goes through his own bedtime routine, brushing his teeth, changing into a comfortable set of sweats. Laying side-by-side, Jeff takes a moment to brush Mike's hair away from his forehead, to feel the warmth of Mike's skin, to listen to the steadiness of his breaths. There's still a heaviness in Jeff's chest, but there's a sweetness to it, too.
+
+He curls one arm around Mike before following him into sleep. 
+
+---
+
+The next morning, Mike downs some painkillers after breakfast and takes an extra long shower so he can spit more blood down the drain.
+
+He lets Jeff drive them to the office. It'll be easier use department resources to track down information about the fake ID they found on Asham's body. They have a tiny, mostly empty office that they can use when they're in the building, but which they try to avoid as much as possible. The rest of the department works around them, ignoring them until they need to demand someone's attention.
+
+At the very least, the office does have a window. Thank fuck for small mercies.
+
+Jeff deals with the leftover business of finding the former resident of Winchester's apartment while Mike does his best to navigate the United Earth Authority's ID system. It's been a piece of shit for the last ten years, so Mike doesn't know why he's constantly surprised to find that it's still a piece of shit. But at least he knows how to work it to get information.
+
+The main reason anyone bothers getting an UEA ID is to emigrate offworld, though it doesn't make sense for a replicant to want to do that. They came to Earth from offworld in the first place. The other main reason anyone bothers getting one is so that they get one of a limited subset of jobs considered higher risk and in need of a higher security clearance. All of the LAPD, including the blade runners have them. People who work at electrical plants, water treatment facilities, security details, certain classes of manufacturing. What was Asham trying to do?
+
+They'll figure it out once they get a better read on the ID number itself. Mike makes his way through the system, digging up the information he needs.
+
+Jeff wanders back into their office, two steaming mugs of coffee in his hands. "Any progress on that fake?" he asks. He puts down the mug next to Mike's elbow.
+
+Mike shakes his head. He reads over the file twice again, just to make sure he's not reading it wrong.
+
+"No?" Jeff asks.
+
+"It's not a fake," Mike says.
+
+"What?"
+
+Mike shakes his head. "The ID. It's not a fake. There's an entry in the system. An issue date. Everything." The issue date is marked for a month ago. Some employers are lax about following up on IDs, especially if they're hard up for new bodies, but if a replicant got one of these, they must have been looking for something in particular.
+
+"Do you think they managed to forge the documents to get an ID?" Jeff asks. He's leaning over Mike's shoulder to read the screen.
+
+"Not in this time frame," Mike says. "Too many different documents. It would have been easier to fake the ID itself."
+
+Jeff is staring at Mike, wide-eyed. "Unless--" Jeff's on the same wavelength right now, because no matter what else is fucked up between them, he's always been good at following Mike's hunches.
+
+"Unless they managed to get someone inside the ID office," Mike says. "That's where we'll need to check next." The file does reference which office issued the ID, so they have a place to start looking. At least government bureaucracy is good for something.
+
+---
+
+The ID office is plain and gray and squat. It has no reason to draw attention to itself, unlike the buildings that surround it. The inside is just as dull and as bland as the outside of it. All utilitarian lines in blacks and beige. 
+
+Jeff tries to be comforted by the bureaucracy on display and tries not to let the slow, twisting dread crawl up into his throat. He's seen this strategy from skinjobs before, during an in Columbus. Infiltrate the system, use that leverage to get other replicants positions in enough places that they could stage a quiet insurrection instead of a loud one. He thought that maybe they'd learn from that, not try it again, but the details of Columbus never got out to the wider public. Even Mike doesn't know the whole story. Jeff came back from that whole incident battered and edgy and pissed. Mike had given him space until he got over it, and Jeff had never seen any point in filling him in on the messier details.
+
+On the authority of Chief Sutter, they have a separate set of dossiers of the employees who regularly work out of this office, none of which match the remaining replicant they're looking for, but that doesn't necessarily mean anything. Not every colony or colony ship is all that great at keeping track of their escapees.
+
+The manager of the office, Lydia Trask, greets them as soon as they come in and flash their badges. She's a serious-looking woman with her blond hair pulled back into a severe bun. Her thin lips are flattened into a displeased line. "Come talk to me in my office," she says.
+
+Her office has a single window. It's not raining today, and the sunlight is caught in the smog of the city, giving everything a golden-orange glow. It's a sparse office. Gray and flat and boring. A government office. Jeff almost finds it comforting.
+
+"So," she says, "after getting the request from your office, I reviewed the application for this particular ID number, and it does seem like there were... issues with the documentation provided."
+
+"Like it doesn't exist?" Mike asks.
+
+Trask grits her teeth and smiles through it. "Not to put it indelicately, but yes."
+
+Jeff sighs. He's not surprised by any of this. "If we could, it would be useful if we could put some of the employees here through testing."
+
+"You think one of us might be a replicant," she says.
+
+"Seems pretty likely, doesn't it?" Mike says.
+
+"We'd like to use this office if at all possible," Jeff adds.
+
+"Right," she says, "of course." It's pretty obvious she's not happy with any of it, though. She tries to put on a good face about it. "Who should I send in first?"
+
+Jeff has already started to unpack his equipment, arranging his lenses, his monitors, just the way he likes them. It takes up the entirety of her desk. "Let's start with you," he says.
+
+She finally drops her neutral facade, allowing herself to frown for the first time since they came in. "Fine," she says. "Tell me what I need to do."
+
+Jeff tests her, checking her pupil dilations, watching the needles of his dials. He asks a standard battery of questions. There's a rhythm to this, administering the Voight-Kampff, pushing for reactions, not giving anything away yourself so that the skinjob doesn't have your emotional cues to work with. Mike hangs back, watching, acting as Jeff's backup. After that incident with Dave Holden last year, Mike refuses to let Jeff give these tests alone.
+
+Trask tests within normal human parameters, much to Jeff's relief. "Are we done here?" she asks, testy. She pulls a cigarette out of her pocket and lights it, chasing after the nicotine rush to calm her nerves, probably.
+
+"Yes," Jeff says. "Thank you for your time."
+
+They only manage to get through another five tests before the end of day, mostly because their last subject, a mousy girl with huge, round eyes, keeps asking pointless clarifying questions until Jeff snaps at her, and she starts to cry. For a moment, he wonders if it's a deliberate ploy to distract him, but her results are also clean, so they let her go.
+
+Mike puts a comforting arm around her shoulders as he leads her out of the office, hands her a tissue so she can dry her tears. Jeff fumes, silently, in a way he hasn't since he and Mike started out together, burning with jealousy every time Mike so much as smiled at another person.
+
+When it's just the two of them in the office again, Mike shutting the door behind him, Mike levels Jeff with a dark look. "What the hell was that?" he asks.
+
+"She was being deliberately obtuse," Jeff says with a shrug.
+
+"So? That doesn't mean you had to go in on her like that."
+
+Jeff feels something inside him crack open, because Mike's been at this for as long as Jeff has and he still *doesn't get it*. "If she was-- if she was a skinjob, you think those tears would be real? She'd cry like that, try to get your guard down, and then slit your throat without even thinking." He'd learned that the hard way during his eight months in Columbus, trying to root a cadre of replicants out of a water treatment facility that served all of Ohio. Mike had lucked out of that assignment by getting concussed right beforehand, laid up in their apartment, where the only thing he had to worry about was their upstairs neighbors, who liked to have loud sex in the middle of the day.
+
+In Columbus, a skinjob had given Jeff this long sob story about what it's like to have only four years to live, only to crush Jeff's foot in a blast door later and gouge another blade runner's eyes with its bare hands. Jeff will never forget the look of manic glee on its face as Jeff had crawled on the floor, trying to escape as best as he could, despite the pain. Jeff only managed to survive because security had been alerted, and one of the grunts had put a bullet through the skinjob's brain. Jeff didn't even get to collect the bounty on that. The worst part wasn't the injury or watching another human being get murdered right in front of him. The worst part was that Jeff had-- that Jeff had actually felt sorry for it before it attacked them, that it had -- to some degree-- won Jeff's trust before betraying him.
+
+Mike comes in close, cups Jeff's face in one hand. "Hey, come on. So maybe they're not human, but that doesn't mean--"
+
+"Fuck you," Jeff says, shoving Mike's hand away. The last thing he fucking wants right now is a discussion on whether or not he was nice enough to someone. They have another twenty people to test over the next few days. If they all take this long, who knows what their last replicant could get up to in the meantime. He packs up his equipment without meeting Mike's eyes.
+
+When he moved in with Mike, Jeff's mom gave him this whole lecture about not going to bed angry, but the entire drive back to their apartment happens in stony silence, and Jeff slams the bedroom door shut behind him when they get inside. Mike doesn't follow him.
+
+*Good*, Jeff thinks, and the word sounds bitter even inside his own head.
+
+---
+
+This isn't the first time Mike's had to sleep on the couch because he and Jeff have had a stupid fight. It's probably not even going to be the last. He strips off his outer layers, finds a spare set of blankets and a pillow. He can hear Jeff's movements through the bedroom door. He doesn't bother to turn on any of the lights, leaves the room dark and gloomy.
+
+Mike knows-- Mike knows that Jeff hates replicants more than almost anyone Mike knows, and he knows that shit happened in Columbus, because Jeff came back to LA with a broken foot and a mild drinking problem. Mike figured that maybe Jeff would tell him all about it in his own time. But Jeff's not a talker, and Mike's not really an interrogator, so it never really happened.
+
+The best thing to do right now is to let Jeff sleep it off. They've got a lot of work to do in the morning. Maybe the replicant will stick around. Maybe they'll spook. Hard to tell with them sometimes. Running is the surest way to make sure everyone knows exactly who and what you are, but it's a big city. Easy enough to lay low for a few days.
+
+Since he has some downtime, Mike checks his messages. There's a new one from his brother, and it's not just text. There's an audio attachment as well. It either must have cost a fortune or maybe the prices have been coming down.
+
+He settles in on the couch, kicking his legs up onto the coffee table, puts on a pair of headphones, and presses 'play.'
+
+"Hey, Mikey!" That's his older brother, Matt, sounding bright and cheerful. There's a chorus of voices behind him calling out their hellos. "Uh, you know none of us are good at math, so maybe this is getting to you early or late, but we just wanted to wish you a happy birthday!" Mike's birthday isn't for another two months, but with the vagaries of interstellar communication, even with the gates functioning as expected, it can be hard to tell when a message will finally reach its destination.
+
+His family then launches into a slightly flat rendition of "Happy Birthday," the compression merging all their voices into a toneless mush. In the background, he thinks he can hear a dog barking along. If Mike closes his eyes, he can imagine them huddled together around a microphone, all smiles and laughs. Birthday parties were always a production in the Richards family, all of them crowded into one house and served endless amounts of food. The kids would invent new games to play and run around, occasionally breaking the furniture or the decor, much to the adults' chagrin.
+
+That same longing catches in Mike's throat, that same loneliness he feels every time he realizes just how far away from him they are. Jeff doesn't get it. Jeff's family is still in Toronto. Jeff calls them every two weeks and visits them every six months.
+
+Arnold pads over, licks at Mike's hand with a dry, rubbery tongue. Mike scratches behind Arnold's ears, digs his fingers into the softest of fake fur. He takes a deep breath, sighs it out. No point in dwelling on any of it. There's a lot more work to be done tomorrow.
+
+He lets out a heavy breath, takes the headphones off, lays down on the couch, pulls the blankets over his body. It takes him a while to fall asleep.
+
+---
+
+"I'm going to ask you a series of questions," Jeff says. He adjusts his main lens so that the iris and pupil are in focus. "Reaction time is a factor in this, so please answer as quickly as you can." It's the same speech he has already had to give five times today, so it comes out flat and monotone. The office is the same one they were in yesterday, though it's cloudy today, so the light is a pale gray instead of orange. Mike haunts the far corner, watching. After a night of sleep, Jeff isn't quite as pissed at Mike anymore, but Mike has been distant all morning. Not really avoiding Jeff so much as his head being somewhere else. He responds to all of Jeff's questions with one or two word answers.
+
+"Sure," their current test subject says. He has on a smile, vaguely plastic. He's a white man in his mid-thirties with dark brown hair, a beard, a strong nose. In the generalities, he looks like Mike, but in the specifics, not at all.
+
+Jeff looks down at his list of questions, picks one. "You're in the middle of a blizzard, looking for shelter. Huddled underneath a tree is a fox with a broken leg. What do you do?"
+
+"I lift it up, put it underneath my coat and carry it to safety with me." The dials jump. The pupil contracts then widens again. A little late, though. Right on the edge of what is considered normal for a human.
+
+"You are walking along a beach and come across a child playing with a starfish she just found. As you watch, the child starts cutting the legs off the starfish one-by-one."
+
+"I take the knife away from the child. She could hurt herself with it." The answer is correct enough, but the reaction times are still slightly off. Jeff feels that familiar coil of tension in his back. He keeps his face still, trying not to give anything away.
+
+"You visit an acquaintance's house for dinner. Over the fireplace, he has a painting of a mountain, the stuffed head of a deer, and an antique clock."
+
+No reaction to the deer's head, which what this question is testing. "I compliment the owner on his decoration skills."
+
+Jeff glances over at Mike, just for a moment, just for the reassurance. Mike tilts his head forward. A nod without being a nod.
+
+Their subject-- Kesler, it says on Jeff's notes -- takes that moment to interject. "Hey, could I ask you guys a question?"
+
+Jeff pauses. "Sure," he says. If they do have a skinjob on their hands, the worst thing they could do is spook it prematurely.
+
+"Do you ever wonder if this test of yours is testing what you think it's testing?" Kesler asks. Its eyes flick from Jeff to Mike and back again.
+
+"You're familiar with the Voight-Kampff?" Jeff says. He waits for the purpose of this line of questioning to finish.
+
+"It's supposed to test subconscious empathic responses, yeah?" Kesler continues. "Replicants aren't supposed to feel empathy the way humans do. They're not manufactured that way." He pauses for a moment, meeting Jeff's eyes, and Jeff almost imagines he can see-- "But humans, look at what you've done to yourselves. Look at what you do to *us*."
+
+It lunges over the desk, trying to grab hold of Jeff, but Jeff was waiting for it. He dodges back, out of Kesler's reach. His equipment goes crashing to the floor, shattering metal and glass.
+
+A gunshot, close, ringing in Jeff's ears. Kesler slumps, red blood pooling all over the desk. Jeff turns to meet Mike's eyes.
+
+Mike is grim-faced and serious, hand still tight around the handle of his gun. He swallows, nods again at Jeff, and he doesn't say anything else.
+
+---
+
+"Fuck it, let's go out for dinner," Jeff says, once they park their car at their apartment. He rubs the back of his neck with one hand. He looks so tired, all Mike wants to do is pull him in close, to kiss his forehead, run a hand through his hair, wipe all of Jeff's misery away until he's as happy and as unconcerned as the boy Mike met all those fucking years ago. But he can't do that. He's pretty sure Jeff wouldn't want him to do it either. This is who they are. This is what their lives have made them.
+
+"Yeah," Mike says. "I could go for some dumplings." He does reach out, curls his hand around the back of Jeff's neck. Jeff smiles at him, a tiny gap-toothed thing. Jeff hasn't bothered to put his bridge in all day. He leans into Mike's touch.
+
+There's a dumpling place down the street that they both like. It's started to rain again, and the sidewalks are clogged with umbrellas. The puddles on the streets reflect the neon signs. It smells like tar and overheated refuse. There's a comfort to walking down the street and recognizing every bit of it. Here is the bakery. Here is the convenience store. Here's the barber where Jeff likes to get his hair cut. It's just past the usual dinner rush, but the dumpling place is still full of people.
+
+Mike puts in his usual order of potstickers, scallion pancakes, sticky rice, two mugs of hot tea, and collects them at the cash register. They smell like grease and spices, and his stomach rumbles. Jeff's claimed one of the tiny metal tables. His blond head -- taller than anyone else even while sitting -- is impossible to miss. Mike squeezes through the crowd to reach him. Under the harsh fluorescents, Jeff looks washed out, every line of exhaustion on his face cast in stark relief.
+
+They eat in silence, surrounded by the hum and chatter of the shop, the buzz of the city all around them. Mike feels the weariness from the day start to seep into him, too. But all they can do is handle the next one. And then maybe the next one after that, the next one after that, from now until forever. From now until they decide they can stop.
+
+Jeff eats faster than Mike, always has, so he demolishes his share before Mike is even halfway through his own. He leans back in his cheap plastic chair, his shoulders slouching.
+
+"Jeff --" Mike says. He reaches out, covers Jeff's hand with his own. "-- you don't have to tell me anything you don't want to. But --" Jeff turns his palm face up, his fingers tangling with Mike's own. "-- but I can-- I can listen if that would help."
+
+Jeff shakes his head, but his fingers tighten around Mike's. "It was just, like, there was this one replicant I dealt with back in Columbus. For a moment, I just-- I felt bad, you know? For retiring it. For retiring all of them. And then it used that opportunity to fuck me over."
+
+Mike knows Jeff hates feeling like he's being used, and he knows, he knows that Jeff hates himself almost as much as he hates that replicant for his moment of weakness. "But it's okay now, right?" Mike says. "We won't let that happen again. *You* won't let that happen again." He can't fix this, but maybe he can-- maybe he can make it a little better.
+
+"No," Jeff says, something settling in his shoulders, around his mouth. "I won't."
+
+---
+
+That night, Jeff dreams of Kesler smirking at him across the table, about the soft beeping of the Voight-Kampff testing equipment, about the cold, damp air of the water treatment facility, seeping into his skin. The memories twist and merge until he's clawing his way across concrete floors again, heart pounding in his chest, trying to get away, get away--
+
+He jerks awake in a cold sweat, out of breath. His feet are tangled in the sheets. The ceiling is bare and empty. It has no answers for him.
+
+Mike blinks awake. "Jeff?" he mumbles. One hand flails out, makes contact with Jeff's arm, pulls Jeff closer. Jeff goes, not in any mood to fight about it.
+
+"Just--" Jeff says, "-- you know." He tucks his face into Mike's shoulder, breathes in the warm, comforting smell of him, the soap he uses and the sweat that gathers where his hair meets his neck.
+
+"Yeah, I do," Mike says, and it's true, now Mike *knows*. Jeff didn't tell him all of the gory details, but he told Mike enough, and it was easier than Jeff thought it would be. But that doesn't fix things, not really. Mike can't undo all of the damage Columbus did, no matter how hard he tries.
+
+"Bad dreams," Jeff says.
+
+Mike looks at him with his dark eyes, soft with sleep and a raw sort of tenderness. "Hey," Mike says, running a hand through Jeff's hair. "I'm here."
+
+Jeff closes his eyes, listens to the beat of his heart as it slows, as it calms. He wraps an arm around Mike's chest, breathes out heavily, not quite a sob.
+
+"Shhhh," Mike says, gentle. He's gentle here, with Jeff, the way he's not gentle with anyone else. It's to the soft murmur of his voice that Jeff falls asleep again.
+
+In the morning, Mike makes breakfast, and they eat it together at their kitchen table, a peaceful sort of quiet filling up the space. Then it's back to the office, back to the grind. Jeff feels sluggish even after two cups of coffee, but it's not like the work will slow down and stop, waiting for Jeff to get a good night's sleep. Mike's been giving him extra space, taking calls and running interference when someone tries to talk to him. That sets Jeff on edge as much as anything else, but he doesn't know how to ask Mike to stop.
+
+While they were testing the employees of the ID office, Trask was busy going through all of the applications that passed through the office in the last few months. Thankfully, other than Asham, there was only one other application with missing documentation, belonging to one Brandon Dubinsky. The photo on file matches the final replicant on their list.
+
+And, this being the ID office, they even have useful information on its current residence and its current employer: Kingfisher Industries. The biggest ship manufacturer in LA.
+
+Jeff does some preliminary research as Mike makes the necessary calls. Kingfisher's main shipyard is just outside the city. Jeff has flown by it before, a massive, oppressive structure swarming with workers. Sometimes, it's possible to see a fragment of one of the ships, new, smooth chrome caught in the hazy light. Kingfisher are one of the few employers in the city that do require a valid UEA ID to work there.
+
+Mike hangs up the phone, turning towards Jeff. "He's been working on the crew that's responsible for installing the steering and navigation systems, He's on shift right now."
+
+Jeff doesn't even want to think about what Dubinsky might have gotten up to already in its position, what kind of damage it might have already done. That's not his job. His job is to stop Dubinsky before it gets any further. "All right," he says. "Let's go." He grabs his coat, slides it on over his shoulders.
+
+Mike's stands up as well, taking a moment to stretch out his back. He reaches over and fixes Jeff's collar where it got twisted as he was putting it on. He doesn't quite meet Jeff's eyes. "You okay?" he asks, voice quiet in a way it only really gets when they're alone together. 
+
+"Yeah," Jeff says, matching his tone. He tries to smile at Mike, and Mike tries to smile back. What a fucking pair they make. They grab their hats and fly over to Kingfisher Industries.
+
+When they get to the shipyard, the whole place is in chaos. Patrol cars have set a perimeter, their blue and red lights flashing. A crowd of people is fleeing the scene. One of the cops, a black woman with her hair pulled into long braids, flags Jeff and Mike down. "You're the blade runners, right?" she asks. "Richards and Carter?"
+
+"Yup," Jeff says. "That's us."
+
+She nods. "Kingfisher security tried to bring the replicant in, but he resisted, managed to take one of their guys out. We're evacuating the area so that no one else gets caught in the crossfire. Figured we'd wait it out until the *experts* got here to take care of the rest of it." She says it like she's not impressed with their expertise.
+
+Jeff couldn't give less of a shit. As long as she and the rest of the cops stay out of their way, their disdain for what they do isn't his problem.
+
+"We can take it from here," Mike assures her. 
+
+She shrugs. "Sure thing," she says. She makes a call over the police radio, letting the other patrols know that they're there.
+
+The main hangar where the replicant is hiding seems to get larger as Jeff and Mike approach it. It rises up and up and up until it even blocks out the orange-yellow of the sun, casting a long shadow.
+
+"That's a pretty big space for just the two of us to cover," Mike says, his eyes partially hidden by the brim of his hat. "Maybe we should split up?"
+
+Jeff can't say he's particularly fond of this idea -- the bruise on Mike's cheek is still visible, has just turned from a dark purple to a sickly yellow -- but he can't deny that Mike's right. Dubinsky can't hide from them forever. His job has been compromised. He knows that he's being hunted. "Okay," Jeff says.
+
+The door they enter through opens up onto the floor of the hangar. A partially-built ship sits in the middle of it, surrounded by a network of catwalks. The lights are set low, some sort of power-save mode, but there's sun slanting in through the upper windows, reflecting off the metal of the ship, filling the entire space with an eerie orange glow.
+
+Mike says, "I can check out the ship if you check out the offices."
+
+Jeff nods. "Sure." It's what he might have thought was sentimental bullshit when he was younger, but he taps Mike on the shoulder and gives him a peck on the cheek before they go their separate ways.
+
+---
+
+Mike has never been inside one of these ships before. He's seen a few pictures, heard what his family said about it. This is definitely one of the big ones-- designed to take hundreds or thousands of people to one of the colonies, He climbs up a catwalk, enters through what would probably be the main airlock. It's huge, huge enough to let in ten people at a time. The doorways, the seals haven't been installed yet, so it's nothing but a gaping hole in the side of the ship.
+
+The first impression Mike has of the inside is of whiteness. The walls are white. The floors are white. The ceilings are white. It's all lit by a soft, muted glow that seems to be coming from everywhere all at once. Maybe this one is only going to Mars. Not too long of a trip. Only a few months or so. Getting to Proxima Centauri b takes years, even with the Tannhauser Gate. Could Mike do it? Just leave Earth and everything that's familiar about it behind? His family made the decision as a unit, after the acid rains had poisoned Kenora and Lake of the Woods. Half of the reason Mike even went into bounty hunting was to help fund their trip. Even with the UEA trying to get people offworld, it's still difficult and expensive to become a colonist.
+
+When he first came to LA, Mike didn't expect to find anything like Jeff there. Jeff, who thinks Mike is actually funny and who likes to sleep with his socks on and who can make the world stop moving just by holding Mike's hand. Jeff, who has all sorts of things that still tether him to Earth.
+
+Dubinsky worked navigation, Mike remembers. If his brothers weren't bullshitting him, those systems should be at the bottom of the ship, near the engines. He heads down the hallway, which opens up into the center of the ship, a cavernous space, dizzying in its height. Floors stretching up and up and up and stretching down and down and down. Mike shakes off his vertigo as best he can. He manages to find a service elevator, installed during construction and takes it down, away from the living quarters and towards the essential systems.
+
+The white fades away into hard, bare steel. At the bottom, the elevator opens up into another hallway. Mike follows it until he reaches an intersection. He pauses, wondering which way he should go. A rattle of metal startles him out of his thoughts. There's noise coming from the hallway to the right. It's as good as any other option Mike has, so he turns right.
+
+At the end of this hallway is an opened room. Mike unholsters his gun and walks forward carefully. The room is full of bare electronics: wires snaking through holes in the walls, stacks of monitors, a control panel that is missing half its buttons.
+
+And bent over a computer is a man with dark hair, fiddling with some wires. Mike raises his weapon.
+
+"It's about time you showed up," the man says. He stands up and turns towards Mike. There's something about replicants that always sets Mike on edge, especially once they're found out. A preternatural calm. A strangeness to their gaze. Dubinsky is no different.
+
+"You've been waiting for us, then?" Mike asks.
+
+"I've only got one more week, I think," Dubinsky says. "They don't tell us our incept dates, but we're not stupid. We can make educated guesses."
+
+Mike fires a shot, but Dubinsky was clearly anticipating it, dodging out of the way and scrambling behind a wall of monitors. Mike chases after him, but the area behind the monitors is empty. He stills, listening for any sort of sound. 
+
+For a moment, it's quiet. But then there's a burst of sound -- footsteps -- as Dubinsky runs down the hallway. Shit. Mike turns the corner and sees Dubinsky's retreating back. He follows after, sprinting as fast as he can.
+
+Dubinsky doesn't head towards the main concourse the way Mike expected him to. He goes straight, leading them into what can only be one of the engine room. The massive engine sits in the center, surrounded by stairs and more catwalks. The few lights that are on are dim-- emergency lighting. The whole place is eerily silent. No people. No machinery at work. Dubinsky has disappeared into one of the many shadows.
+
+"Do you want to know what makes me the saddest about you people?" The voice echos off the walls, making it impossible to trace its origin. "You can do anything you want, be anything you want, and you all just waste it all away."
+
+"Oh, and you're any better?" Mike yells back. He scans the room, top to bottom, but there's no sign of movement, not even a flicker.
+
+A chuckle. "At least the work I'm doing is for the benefit of my people. What are you doing? You're just a murderer who pretends your work is noble because you get paid for it."
+
+Mike grits his teeth. "We'll get you eventually. You can't hide out forever."
+
+"You're right," Dubinsky says. "But I can finish my work."
+
+The navigation systems, Mike realizes. Dubinsky was doing something to the navigation systems. Mike spins on the ball of his foot, looking and looking and looking, hoping for even the slightest flash of movement out of the corner of his eye.
+
+"And I can take you down with me," Dubinsky says, voice louder and clearer all of a sudden.
+
+Mike turns, but it's too late. Dubinsky tackles him to the ground. The air gets knocked out of his lungs for a moment. He grabs hold of Dubinsky's right arm, but Dubinsky's stronger than him. Dubinsky shoves him away, gets his fingers wrapped around Mike's neck.
+
+He squeezes, closing off Mike's windpipe. Mike gags, his lungs desperate for air. He kicks one leg up, more of a flail than anything else. Dubinsky doesn't even flinch. Mike's vision starts going black at the edges. Maybe this is it. Maybe this is how it ends for him. Mike finds that he's okay with that. At least-- at least it'll be over, one way or another.
+
+A gunshot rings out. The hands around Mike's neck go slack, and Dubinsky's eyes go entirely empty. He slumps to one side, giving Mike a clear look at the bullet hole in the side of his skull.
+
+Mike sits up, shoving Dubinsky away from him. Jeff is standing in the doorway, gun drawn. He was always a much better shot than Mike ever was.
+
+"I thought we were going to split up," Mike says. The words come out a little scratchy. The adrenaline hasn't quite faded yet. He's sure that his heart will stop racing any moment now. He's sure Dubinsky's words will stop rattling around in his ears.
+
+"Yeah, and I decided that was a shitty plan," Jeff says, frowning. "Turns out I was right."
+
+---
+
+Mike gets checked out by the doctors at the hospital, and it's confirmed that there isn't any lasting damage, even if the bruises on his neck have started turning an angry purple. Jeff's relieved, and Mike mumbles out a quick 'thanks.' There's something hard and blank in his expression that makes Jeff want to get him tested for a concussion as well, but Mike isn't showing any other symptoms, and they both just want to go home and sleep.
+
+The Kingfisher technicians go over Dubinsky's work the next day and discover that he was installing backdoors into the navigational systems of the ships, which would have allowed other replicants to take over mid-flight, redirect one of these huge colony ships back to Earth. It's a big deal that they caught him before any of his modifications could be put to use. Chief Sutter isn't exactly one to dole out praise, so all they get is a brief 'congratulations on not being dead' speech and a one week extension on their paperwork, which is as good as a week off as far as they're concerned.
+
+So Jeff gets to bring Mike home again. Mike lets him drive. He's been quieter since they got Dubinsky, though Jeff's willing to chalk that up to the part where he was nearly choked to death. But now he stares out the window with a distant look in his eyes, and Jeff doesn't know how to reach him.
+
+When they get home, Jeff pulls him into a kiss in the living room. "Hey," he says against Mike's lips. Mike melts into the touch, some of the tension seeping out of him, and Jeff just wants to be with him, stay with him without any other commitments but this.
+
+"Hey," Mike says. He looks up at Jeff. He's wearing a tiny half-smile, and he goes onto his tiptoes to kiss Jeff again. His lips are still a little wet from where Jeff just licked them. He rests his hands on Jeff's shoulders.
+
+"We did it," Jeff murmurs. "It's over." There's always this release of tension after a job, an exhale, but this particular job one felt especially exhausting, especially brutal. A roller coaster of emotions that Jeff's still trying to process.
+
+The smile slips off Mike's face. "Until the next one, anyway."
+
+Jeff pulls Mike into a hug, Mike's nose pressing into Jeff's shoulder. "Yeah, but we don't have to worry about that yet." He pulls back, tugs Mike into the bedroom after him.
+
+Mike follows without complaint. He tosses his coat onto the coat rack, strips off his shirt, undoes his belt. Jeff copies him. 
+
+They crawl into bed together, naked, and Mike kisses Jeff, lets Jeff roll him onto his back, lets Jeff cover his body with his own. Jeff kisses the bruises around Mike's neck, as soft as he can. Mike runs his fingers through Jeff's hair.
+
+"Nothing complicated right now," Mike says. "Just want to feel you." He's getting hard against Jeff's stomach.
+
+"Sure, "Jeff says. He likes the thought of that too. Something easy and lazy, just rubbing off against each other. He presses his own erection against Mike's hip. They have the rest of the day to themselves. Hell, they have the rest of the week to themselves, too.
+
+He kisses Mike again as their bodies slide together, runs his hands over Mike's shoulders, his arms, his chest, his torso. Listens to the hitch in Mike's breath when he hits a good spot. Feels the shiver that goes through Mike's body when Jeff presses a kiss against the sensitive spot behind his ear.
+
+They both come like that, pressed up against each other. Mike makes a choked-off moan into Jeff's mouth. Jeff bites down on Mike's shoulder.
+
+Mike takes the first shower because the week has caught up with Jeff, making him sleepy. He manages to drag himself into the shower after Mike's done, though, because dried semen is very much the opposite of sexy.
+
+When he comes out of the shower, Mike's sitting on the bed in his sweats, frowning. Usually, he'd be conked out, napping away the afternoon at this point. Something's on his mind.
+
+Jeff pulls on his own sleep clothes, waiting for Mike to speak.
+
+Mike says, "I bought a ticket this morning to go out on the next colony ship to Proxima Centauri b." He refuses to meet Jeff's eyes. "It leaves in a month."
+
+Jeff can feel his blood run cold. "What?" he says, voice strangled. He knows that's where Mike's family went, but Mike's never said anything -- never fucking even mentioned the possibility -- that he might want to leave Earth, too.
+
+"It's just-- stuff that came up in this last job. I can't--" Mike shakes his head. "-- this isn't working for me. It's-- I'm just-- this business is going to kill me. Maybe it's going to do it quickly or maybe it's going to do it slowly, but I can tell. I can't keep doing this forever."
+
+"What, and you decided you didn't need to talk to me about this at all?" Jeff says.
+
+Mike shrugs. He doesn't look up from the floor, the fucking coward. "I didn't want you to stop me. You-- your life is here, but mine isn't."
+
+It's the weirdest fucking breakup Jeff's ever gone through. "Don't make my fucking decisions for me," he snarls. 
+
+Mike looks up then, and he's trying to keep his face under control, but Jeff knows him too well. He looks as wrecked as Jeff feels. "I'm sorry," he says.
+
+Some of the fight goes out of Jeff, then, because even if he's pissed, he can't stand it when Mike looks like that. "I thought we were a team," he says, and it sounds pathetic in his own ears, but his world has spun off its axis, and he doesn't know how to put it back.
+
+The moment drags out, the two of them unmoving, at an impasse. Mike breaks it first. He stands up, takes a deep breath. Jeff watches from where he's standing.
+
+"I love you," Mike says, voice soft. He kisses Jeff once on the lips and then disappears out the bedroom door, presumably to spend the rest of the day on the couch, doting over his fake fucking dog, leaving Jeff alone.
+
+Jeff gets into bed, but sleep doesn't take him. He stares at the plaster ceiling, his mind buzzing with thoughts. He'd never seriously considered going offworld. Earth is everything he's ever known. 
+
+But it's also true that he's been a drifter for most of his life. He left Toronto because there was more work down south. He became a blade runner because it was the first job that would take him. He only ever found purpose in it after Columbus, after seeing how much of a threat the replicants on Earth really were.
+
+Could he leave it all behind the way Mike's planning to? Does he even want to? He grits his teeth. He imagines this place half-empty, the home they built together, devoid of Mike and his stuff. Could he handle that? Mike just gone, never to be seen on Earth again?
+
+Jeff doesn't have any answers for that. He really wishes he did.
+
+---
+
+Mike turns his resignation into Sutter, who takes it with a nod and a grunt. He sends his family a message to say that he's emigrating to be with them. He completes his payments for his space on the colony ship.
+
+He spends time going through his stuff, figuring out what he wants to bring with him and what he wants to leave behind. Jeff makes himself scarce, though exactly what he's up to is mostly a mystery to Mike. Maybe he's picked up a job. Maybe he's hanging out in a bar getting hammered. Both of those seem equally likely.
+
+Jeff finally confronts Mike on a Wednesday, while Mike is digging through their stash of old photographs, trying to figure out which ones he can take with him and which ones Jeff might want to keep for himself. Arnold barks, once. His vocalizer is on the fritz, so his bark comes out a little garbled. Mike's been too busy to get it fixed. Jeff's standing in their apartment doorway, staring at Mike. Mike stares back. He has no idea what to do with his hands.
+
+"Don't take this as a sign that I'm not pissed at you right now," Jeff says, "but if I-- if I wanted to come with you, would you be okay with that?" Jeff's face has always been more expressive than he thinks it is. Right now, he's a mix of uncertain and hopeful underlined by a simmering sort of anger.
+
+Mike feels his heart catch in his throat. "Yeah," he says, more of a mumble than anything else. "If you wanted." He hadn't let himself consider the possibility, hadn't wanted to get his hopes up only for them to be dashed later. He had to make every decision with the clear-eyed understanding that Jeff would probably stay on Earth. It had to be worth it even then.
+
+Jeff rubs a hand over his face, shaking his head. "Jesus, you're such an asshole, Mike." His lips curl, almost a smile but not quite. "Come on, just ask me."
+
+Mike swallows. "I want you to go with me," he says. "I'm just-- I don't like who I am when I'm here, and I don't think you do either. I have to go, but I want you to come with me. Please." He thinks of his parents, the lake that finally has grass growing, the one that Mike has never seen, not even in pictures. He thinks of his brothers, his aunts, his uncles, his cousins. He thinks of Jeff, finally getting to meet them after hearing about them for so long. It's not going to be easy. Mike knows it's not going to be easy, but it'll be better than getting up everyday knowing that he's going to have to hunt down and kill someone new. He holds out one hand, reaching. "Please," he says again.
+
+Jeff grabs Mike's hand, pulls him close. His shirt smells like the street, like smog and rain and cooked cabbage. "Yes," he says. "I could fucking murder you for putting me through this shit instead of just talking to me about it, but yes, I want to go with you."
+
+Mike wraps his arms around Jeff, digs his fingers into the fabric of Jeff's coat, curls in as close as he possibly can.
+
+They spend long moments like that, just holding each other. They've got a lot of other shit to work out later, but for now, this is enough. For now, this can be everything.
+
+---
+
+Jeff's favorite place on the colony ship -- besides their quarters, of course -- is the rear viewing room, where there's a giant screen set up with a feed of the stars as they pass by. A real glass window is a collision hazard, so this is supposedly the next best thing.
+
+Space is vast and mostly empty, so the view is almost always the same: tiny distant stars, some appearing to move, most not. The viewing room tends to be empty except for one of the rare times they pass within viewing distance of a comet or asteroid. Then it gets packed full of people, everyone excited about the slightest change to their routine.
+
+But Jeff likes being there all the time, likes the stillness of it, the silence. It was never like that back on Earth, at least in the places where Jeff lived. The rest of the colony ship isn't particularly quiet. People get a little stir crazy, try to fill the long hours with gossip and music and noise. The gossip is actually a little ridiculous, but then again, Jeff's only ever lived in cities. Mike insists that small towns are like this and that he should learn to get used to it. After nearly two years on the ship, Jeff almost is. He's almost used to the presence of the replicants who help out on the ship, too, their strangeness, their differences, and their humanity is far more obvious now that Jeff's gotten a chance to spend a significant amount of time around them without having to retire any of them.
+
+He finds time to sit in the viewing room after his maintenance shift, just watching the stars. He never saw them on Earth, though he's heard people insist that it's possible. That's where Mike finds him.
+
+"Knew you'd be here," Mike says. He smiles a little, warm and pleased and smug. Mike smiles so much these days. It would be worth it just to see that alone.
+
+"Not exactly a lot of places to look," Jeff says.
+
+Mike drops a kiss on the top of Jeff's head and takes a seat beside him, leaning his head heavily against Jeff's side. Someone higher up on the colony ship food chain decided that Mike had leadership potential or something, so now he has to deal with managing all sorts of petty annoyances and complaints. It wears him out fast, but not in the way the jobs back in LA did. Jeff's thankful for that too. "Two more weeks," Mike says.
+
+Two more weeks until they reach Proxima Centauri b. The ship has been buzzing with excitement over it. Jeff feels it, too, though he's trying not to let it mess with his head too much. "Two more weeks," Jeff confirms. "Who do you think we'll be, when we get there?" He can feel the ways in which he's changing. He's calmer. Quieter. Sometimes even lonelier. Subtle changes, but real ones all the same. He's not the same boy who fell in love with Mike all those years ago, the boy who hadn't what it meant to hurt or be hurt. He's not the blade runner he was at the end either, brittle and angry and sad.
+
+"I don't know," Mike says. He's staring straight ahead. The reflected light from the projected stars illuminates his face, and he doesn't look anything like the other people he used to be, either. "But I'm looking forward to finding out."
+
+ 
+
+FIN.

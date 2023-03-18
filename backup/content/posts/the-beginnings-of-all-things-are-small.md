@@ -1,0 +1,256 @@
+---
+ao3_url: https://archiveofourown.org/works/2553?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Dick Grayson
+- Bruce Wayne
+- Alfred Pennyworth
+date: '2009-01-08'
+fandom:
+- Batman Begins (2005)
+notes: Written for yuletide 2006 for Lady Sarai. Many thanks to ignited for the beta.
+relationship: []
+summary: When Dick Grayson sees Wayne Manor for the first time, he thinks that it
+  looks like it could eat him.
+tags: []
+title: The Beginnings Of All Things Are Small
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+When Dick Grayson sees Wayne Manor for the first time, he thinks that it looks like it could eat him.
+
+It's hard to say that it didn't.
+
+
+
+---
+
+This is how it ends.
+
+He hears the sound, because the crowd silences itself the moment they see the trapeze snap, five seconds before the thud. It's not a loud thud, but it seems to echo through the room (or maybe that's just his head) over and over again.
+
+He cries, hot, wet tears spilling down his face, but he can barely hear his own sobs. The circus folk crowded around the bodies clear way for him, knowing that he needs to be there more than they do, and he's running, stumbling toward them. His mother's eyes are open, staring blankly at the ceiling. His father's fingers are slightly curled, the palm face up.
+
+"No," Dick whispers. "No." He's kneeling on the ground, between the two bodies, and he's grabbing onto their arms, even though they're too cold, too cold under the hot circus lights. He squeezes his eyes shut and hopes it's a dream.
+
+All of a sudden there are cops, everywhere, surrounding him (surrounding them), pulling him away. He makes a noise, barely human, in protest, but the cop says something gentle, though he still can't quite hear enough to understand it, and Dick finally lets go, finally manages to turn away.
+
+This is how it starts.
+
+
+
+---
+
+There's a clock across from where Dick's sitting inside the Gotham police department, and he watches as the second hand moves around the face. Tick, tick, tick. It's boring, but the alternative is staring at his shoes, and that's even more boring. (And the alternative to that would be to think about about his parents, and, he can't deal with that, not quite yet.)
+
+An officer comes through the door and nods at him. "Your ride's here," he says. Dick grabs his bag and follows him out. The building is maze-like and big, hallways with lots of twists and turns and walls that all look the same. It would be easy to get lost in here.
+
+When they finally get outside, a yellow taxi is waiting, and Dick wonders why Bruce Wayne didn't pick him up himself. He gets in the backseat and places his bag in front of him.
+
+"Is that all you got, kid?" the driver asks.
+
+Dick nods, and doesn't think about his parents' things, which are in storage right now, waiting until Dick goes and gets him. "Yeah," he says, fiddling with the zipper of his jacket.
+
+The driver shrugs, and they drive off, toward Wayne Manor, toward Bruce Wayne, toward a new life.
+
+
+
+---
+
+When Dick Grayson sees Wayne Manor for the first time, he thinks that it looks like it could eat him, but he still gets out of the car anyway. It reminds him of the monuments and houses of famous people his parents took him to when the circus passed through Washington D.C. Big and cold and empty.
+
+He feels very lost until he sees that there's an old guy in a suit waiting for him at the door.
+
+"Welcome, Master Richard," the old guy says with a British accent. "I am Alfred Pennyworth." He holds out a hand, and Dick shakes it (his mother always insisted on good manners).
+
+"You're the butler?" Dick guesses, and Alfred smiles.
+
+"Yes," he says, taking Dick's bag before Dick can protest, and leads them inside. "Master Wayne is in his study. You should come with me."
+
+
+
+---
+
+Bruce Wayne is kind of what Dick expects him to be and kind of not as well. He's tall and he's *rich* (like, he's rich and he acts like it) and when he smiles, it looks odd, as if his face isn't quite used to it. "You must be Dick Grayson," he says, standing up from behind a large, wooden desk.
+
+Dick nods. "Yes, sir," he says, because even though Bruce Wayne isn't that old, younger than his parents even, he's still rich and that means that Dick should be extra polite to him.
+
+"Call me Bruce," Bruce says with a dismissive wave. "It's good to finally meet you," he continues, but he makes no move to shake Dick's hand.
+
+Dick nods again. He doesn't know what to say.
+
+Bruce makes a gesture over Dick's head and smiles wider. It still looks weird. "I'm sure you must be tired. Alfred will show you your new room." He sits down behind his desk again, and Dick follows Alfred out.
+
+They walk through hallways with lots of twists and turns, and walls that all look the same. "Why's he taking me in?" Dick finally manages to ask. "Why me?"
+
+Alfred looks very sad for a moment, and that makes him look older. "When Master Wayne was very young, he lost his parents, too," he says. Alfred turns to look at him, and his eyes are very serious. "He understands what you're going through. Don't forget that."
+
+
+
+---
+
+After a couple days, Dick decides that he likes Alfred. Alfred is nice and mellow and cool in that way that all British butlers are. He smiles a lot, even when he's not really happy, and he cooks the best pancakes ever.
+
+He doesn't really really see much of Bruce, because he's always off doing stuff, but that suits Dick just fine. There's something about Bruce that kind of creeps him out, like the way he stares at things when he thinks that no one's looking, like he's trying to figure them out, and the way he moves differently when he thinks people aren't looking.
+
+Wayne Manor kinda sucks when it comes to climbing. Not enough things to grab onto. But he likes the roof, the open air, the way you can almost see Gotham. When he's up there, he misses flying a lot.
+
+
+
+---
+
+He wakes up in the middle of the night and realizes that his parents were murdered. (His dad would have checked, he always did, and Dick remembers the way he did it that night, calmly, carefully. His dad always checked.)
+
+There's a dream lingering at the corner of his mind, but he doesn't remember it, and the real revelation, the one that's right in front of him right now, is all that matters.
+
+(There was a guy talking to Boss Haley, who'd looked kind of scary, he'd mentioned something about the Graysons and Boss Haley called him Zucco, but Dick had been on his way to see his parents, and he hadn't really thought about it at the time. It sticks out now, sharp and clear and perfect. He could find that guy again, he knows. He could find that guy again.)
+
+That night, he tries to fall asleep again, but he can't. (His parents were murdered.)
+
+
+
+---
+
+He thinks about telling people about it, a lot (like when Alfred's making breakfast, or when someone asks him how his day was), but he doesn't know if they'll believe him, and he doesn't know what to tell them.
+
+So he keeps it in, his own little secret.
+
+
+
+---
+
+He finds that he's angry all the time, and that means when Todd McCreary makes fun of him during lunch, Dick punches him in the face and spends the rest of the day sitting in the principal's office, waiting for Alfred to pick him up.
+
+He prepares himself for a lecture as Alfred drives them home, but none comes. "Aren't you going to tell me how stupid that was?" he asks from the backseat. (His parents were murdered.)
+
+Alfred doesn't look up from his driving. "I didn't think I needed to. You seem quite aware of your own mistakes in this matter," he says. It's a rebuke and Dick knows it.
+
+He slouches in his seat and pouts.
+
+
+
+---
+
+He finds that he's angry all the time, and that means he wants to go back to his room to sulk. When he gets there (he takes the shortcut up the stairs via the chandelier), he's surprised to find Bruce waiting for him, sitting at the chair at his desk, inspecting the various circus memorabilia that he'd brought with him.
+
+"Alfred tells me that you got in a fight today," Bruce says, and it's almost like he's a dad, like he's an adult. His face is serious, and kind of sad. Dick has never seen him sad before. Intense, yeah. Smiling, yeah. But not sad.
+
+Dick doesn't look him in the eye and stares at the floor instead. "Yeah," he says. He doesn't really know what to do, because Bruce isn't really his dad, and Dick doesn't know him at all.
+
+"You can't..." Bruce starts, but he trails off and tries again. "There are better ways to deal with your anger."
+
+Dick looks up, suddenly, and he remembers that Bruce went through this, too. It makes him feel just a little bit less alone. "What did you do?" (His parents were murdered, too.)
+
+Bruce thinks about that for a while. "I tried to make them proud of me," he says.
+
+Dick thinks about that answer for a very long time.
+
+
+
+---
+
+"Is that all you got, kid?" Zucco asks, laughing. He's got Dick by the throat, one meaty hand wrapped around his neck. (It's him, Zucco, Dick knows. It has to be him.) It had been hard to find him, but Dick wasn't an idiot, and Alfred and Bruce were both busy with something else at the time. He'd snuck out when they thought he was asleep and wandered back to the circus. He'd been lucky. Zucco had been back to visit Boss Haley, and Dick had ambushed him as he was leaving.
+
+Not so lucky now.
+
+They're tucked behind the animal trucks, and Dick thrashes as best he can, trying to break the grip, but he's not strong enough, not good enough. (I tried to make you guys proud, he thinks. I tired. I really did.)
+
+As he passes out, he thinks he hears the sound of wings.
+
+
+
+---
+
+As he wakes up, he thinks he hears the sound of wings.
+
+He's in a cave, which is pretty creepy, and there are bats everywhere. There's a waterfall, too, and that would be pretty cool too if he weren't scared out of his wits. There's other stuff all around, like a black, tank-like thing and lights.
+
+He thinks he hears voices nearby, and as he climbs over the rocks, he thinks they sound familiar.
+
+"- can't just let him go out there and try it again. Might I remind you that you are responsible for taking care of this boy?"
+
+"Alfred, he's just going to need to deal with this on his own terms, just like I did."
+
+"Well, I certainly hope that doesn't mean he's going to run off for seven years without telling anyone. I don't think I'm up for going through that twice."
+
+Dick coughs a couple times, loudly, so that they look at him. (His mom did that all the time, when Dick didn't notice she was there.) Alfred looks surprised and Batman just looks irritated, though it's kind of hard to tell with the mask. "Um, hey?" he says, even though his brain is going, *Holy shit, Bruce Wayne is Batman. Holy shit.* "What's going on here?"
+
+
+
+---
+
+Batman doesn't tell Dick anything besides what he knows about Zucco and the death of his parents. (Nothing to explain why, how, or what about the whole Batman thing, but Dick knows what it's like, the anger, so maybe he doesn't really need to explain it at all.)
+
+They sit on some hard wooden chairs, and Batman is still wearing the helmet-thing, even though Dick knows that it's Bruce. He wonders why Batman does that. Maybe it's just hard to take off.
+
+"He put acid on the ropes," Batman says. "Zucco confessed. He's in police custody right now." His voice sounds different when he's Batman, lower, rougher. Dick wonders if that's his real voice.
+
+"What's going to happen to him?" he asks. "Is he going to go to jail?" Dick wants him to die, wants to kill off all his family and friends, just so he could understand how Dick felt right now, how much it hurt. But Dick knows that's not right. (Fair, maybe, but not right.) Jail would be okay. Not quite enough, but fine.
+
+Batman nods grimly. "We'll see," he says, but the tone of his voice says, "yes."
+
+
+
+---
+
+Alfred takes him back up to his room in Wayne Manor, afterward. He smiles at Dick, and his smile is sad. "I trust you understand the need for secrecy in such matters," he says, and Dick blinks at him.
+
+"What?"
+
+Alfred looks very sad for a moment, and that makes him look older. "You can't tell anyone."
+
+Dick shrugs as he walks up the stairs. "Wasn't planning on it." He wasn't.
+
+---
+
+The next day, Bruce takes him to meet the prosecutor on his parents' murder case. Her name is Rachel, and she's pretty, and her smile reminds Dick of his mother's. He sits in her office and fidgets as she flips through folders and papers, looking for the right ones.
+
+"Batman gave us enough evidence on this case to make it airtight," she says, and she glances at Bruce in a way that means that she knows, too. "There's no way he's getting out of this one."
+
+She shakes his hand and doesn't try to hug him and talks to him like he knows what she's saying. He likes that about her.
+
+When they leave, he feels an odd sense of relief.
+
+
+
+---
+
+They have a funeral (another one, because the circus didn't really have the money for a good plot in one of Gotham's graveyards, and Dick hadn't felt comfortable asking Bruce before), and Dick wears a suit (even though he hates it), and the entire circus shows up to pay their respects.
+
+He stands next to Alfred and Bruce during the burial, though, and does his best not to cry while the preacher talks. Alfred rests a hand on his shoulder, and Bruce doesn't really say anything, just stays quiet and lets Dick say goodbye on his own terms. The sky is overcast that day, and Alfred makes a comment about funerals and rain that gets Bruce to look at him funny. It doesn't rain, however, and Dick is kind of happy about that.
+
+Afterward, Boss Haley shakes his hand and doesn't try to hug him. "If you ever need a place, kid..." he says, trailing off, but Dick knows what he's saying.
+
+"Nah," Dick says, taking a look at where Alfred and Bruce are waiting for him. "I'm good. Thanks."
+
+This is how it ends.
+
+
+
+---
+
+He sneaks back into the cave, even though Bruce told him not to. It's kinda cool, having your own secret hideout (with an old school elevator and everything), but he thinks that Bruce may feel differently. When he gets to the bottom, he finds Bruce doing some sort of maintenance on the Batmobile.
+
+"You shouldn't be down here," Bruce says without even looking up from his work.
+
+Dick sticks his chin out. "I want to help."
+
+"No," Bruce says. He's not in his costume, but he has on the intense face he wears when he thinks no one is looking, and it's kind of odd seeing it and knowing that it's his Batman face.
+
+His answer kind of pisses Dick off. "This is how you deal with it, right? This is how I want to deal with it too." Dick doesn't care if he sounds five right now, he wants to help. He needs to help.
+
+Bruce's expression doesn't budge. "It's dangerous."
+
+"You can train me." Dick folds his arms across his chest, so that he looks more adult. He doesn't know if it works.
+
+Bruce turns away, and Dick is almost afraid for a second, before Bruce speaks. "It won't be easy," he says, and Dick starts feeling giddy, starts feeling excited.
+
+"I wasn't expecting it to be." Dick isn't lying. He's prepared for the work. He's prepared for the payoff too. He remembers the way it felt, to be helpless under Zucco's grip, to hear the sound of his parents' bodies hitting the floor, and he thinks that nothing Bruce could do to him could make him feel worse.
+
+Bruce looks up at him, still wearing the intense face, and his eyes are cool and measuring. He studies Dick for a moment, before nodding. "We start tomorrow," he says.
+
+He makes a gesture, walks further into the cave, and Dick smiles, following.
+
+This is how it starts.
+
+FIN.

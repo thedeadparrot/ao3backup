@@ -1,0 +1,53 @@
+---
+ao3_url: https://archiveofourown.org/works/2174?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Riza Hawkeye
+- Roy Mustang
+date: '2008-12-05'
+fandom:
+- Fullmetal Alchemist
+notes: A remix of zauberer\_sirin's awesome [theory and practice](http://zauberer-sirin.livejournal.com/83325.html),
+  because she said she wanted one, and I was more than happy to comply. Alas, I wish
+  I could do it more justice.
+relationship: []
+summary: Hawkeye learns to shoot.
+tags:
+- warfic
+title: theory and practice (The New Slang Remix)
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+They are learning to shoot today and Riza is not afraid, not excited, not much of anything. This is practical, she thinks, like learning to set up a radio, something that they need to learn because they are in the Amestris army, and it would be stupid for them *not* to learn it.
+
+She listens to the instructor speak, with a voice worn with age and use, and memorizes the things he says because she knows that they will be useful. She watches as he demonstrates, the smooth movement of his arms as they lift the gun, the way he's slowing the movement down for their benefit, explaining each step of the way. He fires, and there is no hesitation there, only familiarity and knowledge.
+
+She is first. He hands her a gun, and the metal is comfortable in her hands, it fits easily there, like it belongs. She does not think of it, though, simply points and waits, as he adjusts her position, slightly. He shifts her weight, and she can see why it is better this way, she can feel why she would want to hold herself this way. She aims, calmly, with focus and precision. She shoots, listens to the bang of the gunpowder igniting, inhales the smoky smell it leaves behind, and is not as surprised as anyone else when the bullet finds its target.
+
+"Are you sure you've never done this before?" the instructor asks, and a few of the other trainees laugh, but Riza just shrugs. "Yes," she says, before pointing, positioning, and firing again. It doesn't miss this time either.
+
+He tells her, later, about the fog of war, the way you freeze up so fast, you only have instinct to rely on. This is what the training, the mindless repetition is for, so that even if they themselves can't remember, their muscles will. He tells her that she is the best he has ever trained. "But you are not finished with this yet. There are still things you must learn."
+
+She will learn them.
+
+She will learn that she likes the rifles more than the handguns, likes their precision, the care with which you must use them. She will learn that marksmanship is about patience and focus, and that it does not take natural skill to become good at it. She will learn that it is easy to shoot cardboard without guilt.
+
+She will learn, one day, that not all practical things are pleasant, and that there are things that even the army does not adequately prepare you for.
+
+The sound of a grown man screaming in pain, for instance. The sight of blood flowing out a gaping wound. The stillness that comes over someone as they die, even if the world around them is chaos.
+
+In those days, she will talk to a man who has also learned these things, and they will understand each other in a way that she will never be able to fully define or ever explain.
+
+"Do you think it's easier because I'm far from them?" she will ask him, when the sun is low in the sky, and their shadows stretch across the sand. She will wonder if it is easier for her than it is for him, whether her guilt and pain is only a pale imitation of his.
+
+But his head will shake, and he will tell her that he never thinks it is easier for her. He will sound old to her ears, and it will draw up memories of the creases in her instructor's skin.
+
+She will ask him, "How was it for you? The first time you killed?", and they will be sitting close, too close, to one another, because it is this knowledge that breeds intimacy.
+
+He will talk about the way the smell of charred flesh would make him vomit, and he will leave it at that, because he will understand that this is all that she needs to know. She will hear the things he does not say, the shake in his legs as he leans over the secluded patch of sand, the way his stomach will churn afterward, and the taste that lasts in his mouth for days, mixing with the smell.
+
+She will regret learning the things she learns today (the way to rest a rifle against your shoulder, how to line up the barrel of the gun with the target), but he will be there, be *present*.
+
+And she will realize that there are reasons to keep shooting.
+
+FIN.

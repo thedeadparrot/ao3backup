@@ -1,0 +1,242 @@
+---
+ao3_url: https://archiveofourown.org/works/280723?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters: []
+date: '2011-11-20'
+fandom:
+- Revenge (TV)
+notes: Much love goes out to [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://merisunshine36.dreamwidth.org/profile)[**merisunshine36**](http://merisunshine36.dreamwidth.org/)
+  for the beta and for listening to me whine constantly. Actually, thanks should go
+  out to everyone who has listened to me whine! Spoilers through 1x07.
+relationship:
+- Nolan Ross/Emily Thorne
+- Tyler Barrol/Nolan Ross
+- David Clarke/Nolan Ross
+- Jack Porter/Nolan Ross
+summary: Five lives Nolan never lived.
+tags:
+- 5 Things
+- Alternate Universe - Canon
+title: Five Relationships Nolan Ross Never Had
+warnings: No Archive Warnings Apply
+---
+
+#### 1. Emily Thorne
+
+After it all ends, Nolan wanders into Emily's house, mostly out of curiosity. He finds her upstairs in the main bedroom, packing up the wooden box that Nolan first gave her all those years ago. She's wearing a lovely white sleeveless sundress that makes her look younger. He was half-expecting her in her old jeans and hoodie, ready to leave the Hamptons, this whole clusterfuck, behind. Her back is to the door, and she's leaning over her dresser, eyes intent and focused on the task at hand.
+
+First, she packs the pictures, each face X'd out in a red pen. Not the most original way of keeping track, but it still has a certain theatrical flair that Nolan can really appreciate. Then a few trinkets, war trophies. Daniel's engagement ring. A newspaper article about the downfall of Bill whats-his-face -- the investments banker, a scrap of fabric from a dress Victoria wore to last year's Fourth of July party, quarterly financial reports from Grayson Global. She arranges her father's journals with a care that looks practiced, familiar, and she lets her fingers linger on the moleskin spines before she pulls her hand away. Nolan has to admit that he does get a little bit of a thrill, seeing the results of their combined efforts. Sure, they haven't exactly been 'friends' most of the way through, but a takedown's a takedown.
+
+And there have been a lot of takedowns.
+
+"I had a funny feeling you'd be showing up," Emily says, meeting Nolan's eyes in the mirror. She shuts the lid of the box. "The judges handed down the sentence this morning. They'll get life, just like my father did." It's an almost physical pleasure these days, watching the morning news on his gigantic TV, enjoying the way the cable news channels obsessively catalog every detail of the Grayson investigation. It's hard not to smirk every time they play that footage of Conrad Grayson being dragged out of his own press conference in handcuffs, and if Nolan were being really honest, there have been a few boners involved. Emily really does know how to do beautiful work.
+
+"I did hear the wonderful news," Nolan says, taking a step further into the room. "And here I thought you might be off celebrating with our dear friend, Jack Porter."
+
+That gets the barest flicker of emotion across her face. She's still inscrutable to Nolan, same as always, no matter how much effort he's put into untangling all of her mysteries. "I had other things to take care of first," she says. Nolan's not entirely sure what the status of her relationship with Jack is these days, especially since they've both formed a pact to ignore Nolan when he's getting nosy and asking too many questions.
+
+Nolan smiles. "Of course," he says. "So now that you've won, what's next? Or perhaps the better question is, *who's* next?"
+
+Emily's expression doesn't budge, not even the slightest hint of a smile, more's the pity. "That's really none of your business, Nolan."
+
+Nolan steps in closer so that he's standing right behind her. His heartbeat ratchets up a few notches. He has no doubts about how dangerous she is, about whether or not she'll bite him. Tyler was a little like that too. Maybe that's why it took Nolan so long to kick him to the curb.
+
+Emily watches him in the mirror, eyes tracking his every movement, like maybe she's wary of him, too. As ready to strike as he is. It reminds him a little of the girl he'd met outside of juvie, with the angry eyes and the hunched shoulders. She was careful and dangerous even then. She's just better at hiding it now. He's seen her hold a gun to a man's head, and he's felt her knee in his stomach, and he's been the closest thing to a confidant that she's let herself have. It's never been more than that before, but well, with everything changing, why not this, too?
+
+"We're in this together, aren't we?" he asks. "I'm your consultant, after all. Of course it's my business." She doesn't flinch or pull away as Nolan runs a finger along the bare skin of her shoulder, though he does feel her tense, ever so slightly. Nolan wants to know what she would do if he were to slide one of those straps off her shoulder, if he were to press a kiss against the smooth skin underneath. She smells clean, freshly-showered. Nolan breathes it in. It's different, the way she's letting him touch her now. She's been so careful to keep him at a distance before, but maybe victory has made her careless, unconcerned. Nolan's not going to start questioning his luck now.
+
+"You only know what you need to know," Emily says. "It's better off for everyone this way." There's steel in her voice this time, a hint of a threat. Nolan's met plenty of intimidating women in his life, but Emily puts them all to shame. It's kind of hot, actually, knowing that she could turn on Nolan at any time, that she could destroy him just as easily as she did *them*.
+
+Nolan leans in closer, lets his lips brush against the shell of her ear. He slides an arm around her waist. The cotton of her dress is soft against his fingers. "But we make such a good team," Nolan says, because he does enjoy goading her. He's always loved seeing how far he can push the boundaries. "Just think of all the damage we could do." Nolan's knows he's not the best at picking up subtleties, but he's pretty sure he's not just imagining the way Emily's breath speeds up or the way eyes darken in the mirror.
+
+"You don't know what you're getting yourself into," she says, and there's something about her that reminds Nolan of the rattlesnakes he'd see in the zoos as a kid, coiled, waiting to strike.
+
+"Give me some credit," Nolan says. "I'm pretty sure I have some idea." He's seen her handiwork, after all. Almost all of it.
+
+She spins around too fast for Nolan to react, and then one of her hands is in Nolan's hair, yanking his head down into a rough kiss. She tugs at his hair hard enough that it stings, a bright spark of pain that chases its way down his spine. Their teeth click together. She pushes him against the opposite wall, her teeth digging into his bottom lip. Nolan makes an embarrassing little moan, and that's when Emily lets go and steps away.
+
+"Okay. We can play it your way," she says, sweetly, and the corner of her lips turns upwards into the semblance of a smile.
+
+ 
+
+#### 2. Tyler Barrol
+
+Nolan wakes up, and it smells like burning, but the fire alarm hasn't gone off yet.
+
+He rolls out of bed, shrugs on a robe, grabs his laptop off his desk, and wanders down the stairs to the first floor of his apartment. The smell gets stronger the closer he gets to the kitchen, and he rolls his eyes. Figures.
+
+"Sorry!" Tyler calls from the kitchen. "Sorry!" He dumps the blackened, smoking eggs into the trash can. It's early January, and the air coming in from the open windows is chilly with a bit of a bite to it. Tyler's even managed to find a fan somewhere, and it's facing outwards from one of the windows, trying blow all the smoke outside. Nolan's lived through enough New York winters that it doesn't bother him that much. He can pay the heating bill, after all. He doesn't even have to think about it these days before it gets paid off by his accountant or his PA or someone like that.
+
+"I didn't know you cooked," Nolan says. The kitchen is a little on the big side for something he doesn't use all that much, but he kind of likes the look of it, sleek metal, awesome appliances (Did you know that you there are toasters that can cook smiles into your bread?), a table where he likes to eat his breakfast in the mornings. He slides onto his usual chair, closest to the windows. There's some leftover bagels somewhere in this kitchen, but Nolan's having a hard time finding them while his eyes are tearing up from the smoke. The morning sun is flat and gray, white light trickling in, and the city sprawls out in front of them. Nolan's apartment isn't in the tallest building around, but he likes the fact that he can enjoy the view. He's always preferred to live inside the city itself, since it makes his "morning commute" a lot easier when he can walk to the Nolcorp headquarters in ten minutes. And besides, he hates the idea of living alone in a mansion out in the suburbs, where he can't be surrounded by the pinprick lights of the city or the steady hum of the traffic outside.
+
+"Well," Tyler says, contrite, "I guess I don't really 'cook' so much as 'burn things on stoves,' sorry." His lips are pulled into a tight, apologetic smile, like he's forgotten that he doesn't need to be conning Nolan at the moment, like he's forgotten that Nolan knows exactly what Tyler is capable of doing in order to get what he wants. Nolan had known exactly what he was getting into when he'd decided to let Tyler stay with him over Harvard's winter break, after all. It's not like Tyler had a whole lot of other places to go, and Emily must be glad to have him out of her hair for a while. Tyler leans in to press a chaste kiss to Nolan's lips, like an apology. It's a warm kiss, almost even a little affectionate. Tyler's good at what he does, no doubt about it.
+
+Once the air clears up, it's just Nolan and Tyler and the burned remains of a pan that Nolan didn't even know he owned. "If you're trying to kill me," Nolan says as he finally locates his bagel, "there are a whole lot of easier ways to go about it than poisoning my food or burning down my apartment building."
+
+The apologetic expression on Tyler's face drops and turns into something colder and a lot more honest. "Like that wouldn't be obvious. The billionaire CEO of Nolcorp dropping dead in the presence of his younger lover. Hmmm, I wonder who could it be?" He sneers like he thinks Nolan is too stupid for him, and maybe he's right. Still, Nolan likes him much better like this, all the danger out in the open.
+
+Nolan says, "I'm glad we got all of that cleared up. It would be really unfortunate if I were to wake up with a knife in my back."
+
+Tyler steps back. "As long as you don't get in my way, we'll be fine," he says. Up close, his eyes look almost black, and his expression is unreadable.
+
+If there's one thing Nolan's learned from becoming a gazillionaire, it's that everything has a price, whether it be friendship or food or hardware upgrades. In the scheme of things, Tyler comes cheap. What's a few secrets, a sex tape, and whole lot of blow jobs between friends? "Of course," Nolan says. He takes a bite of his bagel, not even bothering to toast it or put cream cheese on it. Tyler watches him, and and Nolan watches Tyler watching him, enjoying the way Tyler's eyes seem fixed on the movements of Nolan's lips. "Well, I've got a nine a.m. meeting this morning -- time zones, you know how it is -- so if you want to have a little bit of fun before I leave, we'll have to hurry it up."
+
+Tyler smirks at that, and Nolan smirks back. He's sure Tyler is playing his own long game here, biding his time until he can make Nolan pay for the indignity of it all. Oh well. Nolan might as well enjoy it while it lasts. Especially if Emily decides that keeping Tyler around is more trouble than it's worth.
+
+And if that happens sooner rather than later, well, Nolan knows exactly where his loyalties lie.
+
+ 
+
+#### 3. Jack Porter
+
+"You're getting good at that," Jack says, squinting in the bright afternoon sunlight. Nolan adjusts the jib, careful not to overcorrect for the change in wind. He studies Jack's expression, easier to read now than it was when Nolan first met him. Being stuck on the same boat for a few weeks will do that to you.
+
+Nolan shrugs at him before he turns back to his work. Maybe at the beginning of their little excursion, he would have been a little offended that Jack doesn't seem to realize what it meant for Nolan to build his company from the ground up and that Nolan has always been more an engineer than a businessman, that Nolan has dedicated to his entire life to understanding the intricacies of operating complicated machinery. The wind catches Nolan's hair, pushing it out of his eyes. He likes watching the wind catch the sails, likes feeling the boat shift underneath his feet. It took him a while to find his sea legs, but he thinks he's gotten the hang of it now.
+
+"I wasn't sure I wanted to let you come with me," Jack says eventually, as if that hadn't been obvious from the very first moment Nolan volunteered for this trip down to Haiti, "but I'm glad you're here now."
+
+Nolan secures the rigging and laughs. "It's good to have you around too, buddy." He throws an arm around Jack's shoulders and pressing a kiss to his temple, because he's never quite gotten over his habit of fucking with uptight straight guys. Jack's not really good with physical affection, but he doesn't tense up anymore when Nolan flagrantly invades his personal space. Not that there's much personal space on the boat.
+
+Jack's apparently gotten better used to it than Nolan thought, because he slaps Nolan on the back, and his smile turns weirdly warm, affectionate as Nolan pulls away. Maybe it's just one of those things that happens when you're far away from home and stuck with the annoying billionaire who happened to tag along. You start appreciating their company. "Anyone tell you you're kind of a weird guy, Nolan?" Jack asks.
+
+"My first boyfriend used to paint his own action figures and spent his free time trying to invent a new programming language that could only be described as a bastard stepchild of C and Prolog," Nolan says. "I think I came out pretty okay in comparison."
+
+"Boyfriend?" Jack asks. He furrows his brow, like he can't reconcile that image of Nolan with the one who comes to The Stowaway and flirts with anything in a skirt.
+
+Nolan shrugs and looks Jack in the eye, not willing to back down. "Bisexuality isn't that weird these days, is it?"
+
+Jack's expression gets a little weird for a moment before it smooths out again. "I guess not," he says with a shrug. He lets the subject drop.
+
+It's so empty out here, so quiet. Nolan got cabin fever before they even hit Virginia; twitchy and unhappy without his computer or phone signal, without his *work*. It made him restless, almost homesick for land. Jack didn't really talk all that much, so Nolan had to fill up the empty spaces, rambling on about the cool pranks he pulled in college, the members of his board that he hates the least, the cat he had in fourth grade before it ran away, the various types of alcohol that he misses the most. That last one actually got a response a few times, because apparently bartenders actually care about things like that.
+
+It was just the beginning of the summer season in the Hamptons when they left. The Stowaway must be really hurting without their bartender. Someone in Jack's family owned it, Nolan vaguely remembers. His father maybe? They must miss him a lot.
+
+There's no one in the Hamptons who's missing Nolan right now.
+
+Things got better after the first week. Jack started talking about his brother, the twerpy one Nolan's seen hanging around The Stowaway, started talking about how he loved winters in the Hamptons the best, when everything gets quiet again, the snow piled high next to the streets. He taught Nolan how to sail, really taught him how to do it as opposed to barking out nonsensical orders while Nolan tried not to feel like he was steering them in the wrong direction. Nowadays, there are entire hours where they don't have to say anything, where they can just let the silence sit over them while they listen to the sounds of the sea.
+
+Nolan's known plenty of guys like Jack, who seem to live inside themselves, who doesn't constantly crave rush of energy of being around other people. This little expedition is as much about learning how Jack does *that* as much as it is about learning how to sail. Nolan has never been ashamed of the fact that he needs so much to keep him happy. It's what's made him ambitious, successful, craving the next difficult problem to solve, the next new technological development around the corner. People like Jack are a curiosity, a weird pocket of stillness in an otherwise hectic world. Nolan wants to know how it works, having a brain like that. He's not sure he understands it a whole lot better now, but he still likes being around it, having Jack around to keep him steady when it feels like everything is going to tip over.
+
+After a few more hours, there's a sunset on the western horizon, a brilliant mixture of reds, oranges, purples. Nolan watches it from the deck, sitting on the smooth wood, leaning back with his hands propping him up. It may be June now, but at night, with the wind, it's still chilly, and Nolan pulls his hoodie tighter around his shoulders and scratches at the his mostly unkempt beard. For a while, he'd been intent on keeping it neat, but as the days dragged on, he just stopped giving a fuck. It reminds him of being a lot younger, just some punk ass kid with a brilliant idea and something to prove. In those days, he barely had time for sleep, much less basic hygiene.
+
+When the sun finally disappears from view, Nolan climbs below deck into the cabin. Jack is brushing his teeth in the tiny bathroom. The ceiling is just low enough that Nolan feels a little crowded by it, like he should be ducking to avoid whacking his head against the doorways.
+
+He gets ready for bed, even though that's not quite the right term, because he's been sleeping on the couch while Jack takes the only proper bed. Nolan hasn't slept on anything this uncomfortable since that one month he slept on a sleeping bag on the floor of one of his old MIT buddies' apartments because he couldn't afford his own rent.
+
+There's not really a whole lot to do out here besides eat, sleep and sail. Nolan's been overstimulated his entire life, one way or the other, but this is pleasurable in a completely different way, everything stripped down to its most essential parts. Out here, things just don't matter as much as they do on dry land. Jack emerges from the bathroom, and there's something weird about the expression on his face, the way he doesn't quite meet Nolan's eyes.
+
+"Hey," Nolan says, "You all right?" Even though he's better at reading Jack's moods now, he's still not particularly good at figuring out where they come from.
+
+Jack looks up, focusing on Nolan's face. "Yeah," he says. "I just-- it's--" He steps closer to Nolan, though that's inevitable in close quarters, it doesn't mean--
+
+Jack's hands are clumsy on Nolan's shoulders, his lips dry and chapped. Jack's mouth tastes like toothpaste, but his lips taste like sea salt, like the ocean water all around them. Nolan kisses back, opens himself to Jack's touch. Jack's hair is thicker around Nolan's fingers than he thought it would be.
+
+They fumble onto the only bed together, their legs tangling, knees digging into awkward places. Jack says, "I haven't-- I'm not--" He flushes, pale pink climbing up his neck.
+
+Nolan laughs. "Don't worry," he says. "I've got this." He undoes the buttons of Jack's shirt, eager to get more skin.
+
+Jack blinks at him, hesitating, and Nolan's hands freeze where they are, because this is do-or-die-moment here. If he fucks everything up now, things will be weird from here on out. And it will just be the two of them, stuck here together until they dock again. Nolan would have to cut his vacation short, and he'd have to find his way back to New York by himself, and--
+
+Jack blinks again, and then he takes a deep breath and he relaxes. "Okay," he says, "okay." It almost bowls Nolan over to see the way Jack is trusting him here, trusting Nolan to steer them straight.
+
+"Good," Nolan says. He presses a hand against the scratchy skin of Jack's cheek, and he leans over for another kiss.
+
+ 
+
+#### 4. Amanda Clarke
+
+"Seriously," Amanda says. "Put that thing away."
+
+Nolan pulls back before she can swipe the camera out of his hands, rolling off the bed and landing on his feet. "C'mon," he says. "Now's not the time to be camera shy." It's Sunday morning, no meetings to worry about, no classes to attend. Amanda's dark hair is a mess, falling around her face in ugly tangles, and her eyes are still unfocused and half asleep, and her lips are red and swollen from where Nolan kissed her awake. Her oversized t-shirt is hanging off one shoulder like it's the 80s again. It's cute. Nolan is glad that he's saved the view for posterity and for their theoretical future children. He steals another kiss, letting it linger, even though he knows it won't placate her.
+
+"Fuck off," Amanda says. She grabs a pillow off the bed and hits him with it. "You and your creepy love of recording things." They always end up acting like children around one another, no matter that Amanda's about to graduate from NYU and Nolan's just past thirty these days. Maybe she's trying to recapture some of the childhood she never had, and well, Nolan's never really matured past the age of nineteen anyway.
+
+Nolan ducks her next swing, but it still clips him on the shoulder. "Don't you want to look back on these days fondly? Think of all the memories we're making right now." It's a long-running argument between the two of them, about whether or not he spends too much time trying to record his life instead of living it. But Nolan just needs to win the small victories, not the war.
+
+Amanda abandons the pillow and tackles Nolan onto the bed, the camera skittering out of his hands and onto the soft carpeting of the floor. She straddles Nolan's hips, hands on his shoulders to hold him down. "If I ever find out that you have footage of us having sex, I will cut your balls off." She smirks, dangerous and smug, and not for the first time, Nolan thinks, *really, really not his little angel.* Little Amanda Clarke, all grown up and sitting Nolan's stomach in just her panties and a t-shirt.
+
+To be honest, Nolan hadn't been sure he'd ever see her again after handing over the box. After that day outside juvie and a little bit of paperwork, Amanda had disappeared for a few months, and despite her stake in his company, Nolan hadn't seen or heard a peep out of her about what she was up to. A chunk of the shares got liquidated, but nothing really worrisome, and so Nolan wrote it off. He'd done his part.
+
+Then she showed up Nolan's doorstep in Manhattan one morning, cleaned up and quiet, like all of the anger had been drained out of her. "I was going to-- Can I stay with you for a while?" she'd asked.
+
+Nolan had more than enough space, so he let her in and never asked when she was planning on leaving again. The days turned into months turned into years, and Nolan knows better than to ask any questions. Not when it comes to Amanda.
+
+"I'm well aware of the fact that you keep your promises," Nolan says, his voice coming out rushed and a little breathless. He probably shouldn't tell her about the security cameras in the living room, then. Or the ones in the kitchen. He doesn't doubt for a moment that she's willing to follow through with her threat. Nolan should probably question why he enjoys her ruthless competence this much, but really, it turns his crank when she shows up to board meetings and cuts down other board members down to size when they question her authority or her judgment. Nolan wasn't much older than she is right now when his company finally took off and no one took him seriously then, either. He loves it when other people underestimate her.
+
+Her hair falls all around her face, and she smirks down at him, triumphant in victory. There are times when Nolan wonders whether she's really as over everything that happened to her father as she pretends to be, when she'll dig her nails a little too hard into Nolan's skin or she'll say something to deliberately hurt him or she'll slam the the door a little too hard when she leaves. Those times don't last very long, though, and they're getting fewer and farther between.
+
+Amanda sits back onto her heels. The morning sun is at her back, haloing her hair, getting into Nolan's eyes, and Nolan's feels something tighten in his chest, making it hard to breathe. He's better off without the oxygen, though, because otherwise he'd say something sappy and horrible, and she'd roll her eyes, and then he'd pretty much die of embarrassment. "Don't be an ass, Nolan," Amanda says, low and teasing.
+
+She smiles, wide enough to crinkle her eyes, and Nolan lets himself believe that maybe it doesn't matter what happened before, all those years ago. What matters is the fact that they're right here, right now. "Who, me?" he says, laughing.
+
+He's still laughing after she hits him with the pillow again.
+
+ 
+
+#### 5. David Clarke
+
+"Hey," someone says, putting a hand on Nolan's shoulder.
+
+Nolan jerks himself out of his code, startled, blinking in confusion. The room is almost entirely dark with the exception of the light of Nolan's monitor -- the sun must have gone down hours ago -- and Nolan hadn't even realized that he was getting a headache from the eyestrain. There was a bug he was having a hard time tracking down when it was still light out. He feels a slight twinge in his wrists. Must have been even more distracted than he realized.
+
+"You've been working yourself too hard," David says. His smile is warm, friendly, and there are dark bags underneath his eyes as well, like maybe he's been pulling a few all-nighters himself. Nolan knows the reason why, of course. He licks his lips at the memory.
+
+The first time it happened, they were in David's apartment in the city. Nolan had a little bit of wine in him because of a business dinner with other potential investors, just enough alcohol to make him a bit foolish and a bit brave. David had let Nolan kiss him then, let Nolan slide his hands underneath David's shirt. He'd been nice about it the entire time, careful with Nolan like he thought that Nolan would break, like he thought Nolan is capable of breaking.
+
+Nolan doesn't really know anything about setting up or running a company, so David's graciously let him set up temporary shop in an empty office down the hall from him. It's pretty nice to Nolan's college-student eyes. A week after he first set up shop and the shine still hasn't worn off yet. He doesn't share it with anyone, and it has windows, and everyone in the office knows not to bother him. He gets to his feet, and he nearly trips over his own legs from how stiff they are. It makes him feel sixteen again, all gangly limbs growing too fast for him to catch up to it. "What time is it?" he asks. He rubs at his temples and blinks his eyes a few times, but the headache persists.
+
+"It's almost ten," David says. "I'm guessing you've been at it since I saw you this morning."
+
+Nolan shrugs. "I was busy." He stretches his arms, enjoying the way it loosens some of the tightness in his shoulders and back. David's close enough for Nolan to touch for the first time all day, and Nolan wants to slide up into his space and kiss him. There's no one here right now. It's just the two of them and the janitors, but this is all new to Nolan. He doesn't know how to properly go about an office romance or whatever it is, and he doesn't-- he can't afford to lose David over making the wrong move in the wrong place.
+
+"I remember those days," David says. he does the cliche thing of staring off into space, smiling to himself, lost in some kind of pleasant memory. Then he shakes himself out of it. "Come on. I think we both deserve some coffee."
+
+It's not like Nolan has anything better to do, so he goes along with it. And to be honest, some free coffee sounds pretty good right now. He lets himself walk an inch too close to David, their shoulders brushing with every step they take, and David smiles at him the entire time.
+
+There's this place that David likes that's just around the corner, a 24-hour deli with cold florescent lights and flimsy wooden booths. The coffee isn't too bad, and the guy behind the counter knows David's name. Nolan doesn't mention that he's been drinking Mountain Dew all day, and that technically, he probably doesn't really need the caffeine fix.
+
+New York may be the city that never sleeps, but something does seem to settle over it at night. David asks Nolan about the progress he's been making (slow, but mostly steady), about Nolan's apartment for the summer (not that Nolan spends a whole lot of time there), about whether or not Nolan's found anything interesting to do outside of work (not really). The deli is almost empty outside the two of them, though there are a few customers who come and go, drifting in and out of the store to get their own late-night snacks. Nolan finds himself slouching a little in his chair, the tightness in his shoulders unwinding, even with the new infusion of caffeine. Being around David has always been like that, like there's this weight being lifted off his shoulders, like he doesn't have to keep being so *Nolan* around him, like he doesn't have to pretend to be something he's not.
+
+"Well, if you don't have anything better to do, you should come out to the Hamptons one weekend," David says. "I have a nice beach house out there, and it would probably do you some good to get a vacation in."
+
+Nolan grins. "Yeah, sure," he says, even though the thought of spending his free time being surrounded by rich assholes has almost zero appeal to him. The beach does sound nice, though. It's mid-June now, and the temperature and humidity hasn't spiked yet, but Nolan knows that it's just going to get worse from here. Plus, it's an entire weekend with David in David's house and David's bed and well, Nolan's had way worse offers than that.
+
+After they finish their coffee, David offers Nolan a ride back to his apartment so that Nolan doesn't have to dodge drunk people on the subway. It's a quiet night for New York City, which means that there's only two sirens going off at any given point in time instead of five. The lights paint orange-tinged shadows on the black leather of the seats. David's driver isn't particularly talkative, which means that Nolan can hear David breathing quietly at his side. This whole thing has been incredibly surreal, finally getting the money, finally having time to *work* on everything. There was a time when he thought it wouldn't ever happen, that everyone would be too short-sighted to see what he was offering them here. "I never--" Nolan says. "I haven't said 'thank you.' If you hadn't been there, none of this would have happened, and I wouldn't-- I wouldn't be here right now." It rushes out all at once, disgustingly honest, and Nolan has to stare out the window so that he doesn't have to meet David's eyes.
+
+"No need to thank me," David says. He puts a hand on Nolan's arm, weirdly gentle. "I'm not doing this out of the goodness of my heart." Nolan risks a glance over at him, and he's smiling, leaning into Nolan's personal space. He's close enough that his thigh is pressing against Nolan's, and Nolan isn't good at reading people, but he doesn't think he's misreading *this*.
+
+When he leans over and presses his lips against David's, David goes still for a moment before he kisses Nolan back. His fingers tighten on Nolan's arm, and he pulls Nolan in closer, almost like he's as hungry for it as Nolan is. Nolan makes a soft little noise at the back of his throat, fully aware that the driver knows what's going on here.
+
+For one brief, slightly insane moment, Nolan wonders whether or not they'll have sex, right here in the car, frantic and desperate and rushed, but then David's pushing away, his hands as gentle now as they always have been. "This wasn't supposed to happen. We can't keep--" David says, sounding as out of breath as Nolan feels. "I shouldn't-- I'm too old for you. You should find someone your own age, someone who can-- someone who will be a lot better for you."
+
+Nolan can only just stare at him, confused, blinking at him in the dim light like maybe he's just hallucinating this whole thing. "That's stupid reasoning," Nolan says, feeling petulant. He gets it. He's decades younger than the people he's been spending time with, and he knows everyone thinks of him as a kid, nineteen years old and too inexperienced to understand anything. This isn't the first time an adult has tried to stop him from trying something 'for his own good,' and it's the same bullshit every time.
+
+David actually laughs at that, like he thinks it's cute or something. "You've got your whole life ahead of you," he says. "You're going-- you're brilliant, and one day, everyone will see that. You don't have to thank me for anything."
+
+"This isn't just gratitude," Nolan says. It's not like people his own age are lining up to spend time with him. Nolan's too-- he's too much of everything, too smart, too loud, too weird, too ambitious. He goes to a school full of awkward nerd geniuses and he still can't make friends there. David bought him coffee and liked his idea and listens to what he has to say and he doesn't seem to mind that Nolan still isn't good at blowjobs.
+
+The car pulls to a stop outside the Chinese restaurant that lives beneath Nolan's apartment. The sign casts David's face in neon greens and blues and pinks. David says, "This isn't good for you, you know. I've got a daughter, a house. I'm tied down in ways that you aren't yet, and you shouldn't--" He closes his eyes and takes a deep breath.
+
+"I want this," Nolan says. "I really do." He grabs a handful of David's shirt and kisses him again, softer this time.
+
+When Nolan pulls back, David chuckles and opens his eyes. "I'd forgotten that about you. You don't let things go." One of his hands settles on Nolan's, where it's still holding onto his shirt. "But you really should this time. It's not-- You should find someone who will make you happy."
+
+He reaches past Nolan to open the car door, and Nolan can, in fact, take a fucking hint. He climbs out of the car onto the sidewalk, but before he shuts the door behind him, he leans over. "That weekend in the Hamptons," he says. "The offer's still good, right?"
+
+The corner of David's lips twitches upwards, his expression kind, but there's an apology there too. "Sorry, I can't-- you can't be there. Not when--"
+
+"Fine," Nolan says. "Whatever." David's right that he's bad at letting things go.
+
+"I'm really sorry, Nolan," David says, but Nolan's has already turned away.
+
+Nolan shuts the car door behind him, not bothering to watch the car as it pulls away from the curb. He lets himself into his building. He takes the stairs three-by-three, His heart's racing by the time he gets to his floor. When Nolan has a successful company and is really fucking rich, he won't need an invitation to visit the Hamptons. He'll be able to afford his own house and his own fucking pool, and no one would be able to talk down to him, because *fuck them*.
+
+Maybe then, Nolan won't just be the kid anymore, someone to be pity-fucked. He doesn't blame David for letting him down like that, because really, what does Nolan have to offer right now? Not much more than a half-baked idea and whatever's left of his bank account when you take out the tuition money for next year.
+
+But it won't always be that way, Nolan knows. He's onto something, something big. He just needs to make it real. He drops down onto the bed, suddenly exhausted. He can worry about it tomorrow, and he can-- he can be professional about this. He can say "hi" and smile and be David's pet project or whatever he is, and it won't even matter because Nolan knows it's temporary.
+
+He closes his eyes and turns over so he's facing away from the window. The sound of sirens in the distance lulls him to sleep.
+
+ 
+
+FIN.

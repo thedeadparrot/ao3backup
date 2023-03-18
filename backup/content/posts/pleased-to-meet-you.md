@@ -1,0 +1,546 @@
+---
+ao3_url: https://archiveofourown.org/works/238842?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Dustin Moskovitz
+- Sean Parker
+date: '2011-08-13'
+fandom:
+- The Social Network
+notes: Much love to [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://merisunshine36.dreamwidth.org/profile)**merisunshine36**
+  for being a horrible enabler, co-creator, and beta.
+relationship:
+- Eduardo Saverin/Mark Zuckerberg
+summary: Eduardo works for a bank. Mark works for City Hall. They meet and fall in
+  love. But really, that's just the beginning of the story.
+tags:
+- Alternate Universe - Mob
+title: Pleased To Meet You
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+Eduardo doesn't see them when they first come in, the two young men in business suits who say they're here from Mayor Winklevoss's office.
+
+His assistant assures him that she's vetted their credentials with City Hall before she lets them in. They're both about the same age as Eduardo, maybe a year or two younger than him, but a lot younger than most of the people Eduardo deals with on a regular basis. They can't be out of college yet, not that Eduardo is in any position to judge, considering that he just graduated last year. The taller one has red hair and a friendly smile. He gives Eduardo's hand a firm squeeze when he introduces himself. It's a good handshake, the kind Eduardo's father would have admired. He didn't have a theory about handshakes, per se, but he did have a theory about how you handle your business relationships -- *Show no weakness.*
+
+The shorter one is curly-haired and distracted. His handshake is perfunctory at best, like he can't be bothered to put any effort into it. He's cute, in that nerdy sort of way that Eduardo's always had a weakness for, sharp cheekbones and wiry limbs. He doesn't slouch, but his body language is still uncomfortable, with his hands shoved into his pockets, his eyes looking past Eduardo's head.
+
+"We'll need to look over Mayor Winklevosses accounts," the red-haired one, Mr. Moskovitz, says.
+
+Eduardo nods, "I can get you set up on my computer . I'll have to supervise, of course." It's been emphasized to the entire staff how important it is that they cooperate with any requests that Mayor Winklevoss may make (within reason), and that Eduardo should be the one to handle any such business personally.
+
+"Of course," Mr. Moskovitz says.
+
+The shorter one, Mr. Zuckerberg, just nods.
+
+---
+
+Mr. Zuckerberg is the one who does most of the work. Mr. Moskovitz has disappeared to take care of some other business elsewhere in the bank, leaving the two of them alone in Eduardo's office. Eduardo offers Mr. Zuckerberg his desk while Eduardo sits across from him, which is a bit of a strange and disorienting experience. Mr. Zuckerberg flicks his eyes over the pages and pages of bank statements, squinting occasionally, nodding, tilting his head the side. He's focused, completely consumed by the work.
+
+"How does it look?' Eduardo says, trying to make small talk. It seems only polite.
+
+Zuckerberg doesn't respond, though he may grunt a little, eyes never leaving the screen. Sarah had mentioned that he was Mayor Winklevoss's resident computer expert, and Eduardo has known a few computer science majors in his lifetime. Maybe he's lucky that he's getting any acknowledgement at all.
+
+Well, either way that was a complete waste of effort. Eduardo sighs and opens up this morning's paper.
+
+---
+
+"You like gambling?" Zuckerberg says eventually, while Eduardo is reading up on the latest changes in the stock market.
+
+"What?' Eduardo says, which isn't entirely professional of him, but Zuckerberg doesn't seem to believe in politeness, and Eduardo feels the need to return to favor.
+
+"According to your newspaper, you like to read up on stock markets, so I'm asking you, do you like to gamble?" Zuckerberg says. He's looking at Eduardo directly for the first time all morning, head turned away from the computer even if his hands are still poised over the keyboard. Zuckerberg's attention is surprisingly pleasant, if also a little odd. He has lovely eyes, dark and blue, and Eduardo can practically see the sharpness of the mind behind them.
+
+The problem is that Eduardo can't figure out where this came from or why Zuckerberg even cares. "I don't go to Foxwoods on my days off, if that's what you're asking." he says, folding his newspaper closed. "I guess the question really is, do *you* like to gamble, Mr. Zuckerberg?"
+
+"Mark," he says. "My name is Mark. And yeah, I guess you could say that I am a fan of gambling." The left corner of his lips curls up into a smile, showing off one of his dimples. It's the first expression that Eduardo has seen cross his face all day.
+
+It's a habit from dealing clients day in and day out, but Eduardo feels his own lips curl up in response. "Okay," he says. "Mark. What sort of gambling do you enjoy?" He resists the urge to lean forward. It feels like he'd be giving too much away, but he's not even sure what he'd be giving away in the first place.
+
+"Horse racing, sometimes," Mark says. "Sports. I like figuring out what the bookmakers are thinking."
+
+"So you like betting against the house?" Eduardo says. "That sounds risky."
+
+Mark shrugs. "You only get rewarded when you take the big risks. That's how it always is."
+
+Eduardo laughs. "And you like taking the big risks?"
+
+"I'm talking to you, aren't I?" Mark says with a shrug, and if Eduardo didn't know better, he would think that Mark is flirting with him.
+
+"That's not exactly a risky activity," Eduardo says, and yeah, he's flirting back. "I'm kind of a sure thing when it comes to talking."
+
+Mark's eyes focus again on the computer screen, like he's already checked out of this conversation, but then he says, "You probably know a better way to sort these records. This program is ancient and I can't find any of the options."
+
+Eduardo circles around the desk so that he can get a better look at the screen, leaning over so that he can get a better look at what Mark's seeing. He puts a hand on Mark's shoulder for balance before he realizes he's doing it, but Mark doesn't flinch away from his touch. He listens as Mark explains what he wants to do, and Eduardo leads him through the five badly labeled menu options to get to the search filters. And then Mark goes back to work, but Eduardo figures, hey, he might as well... watch. He's here to supervise Mark as he works, and he likes the uneven rhythm of Mark's fingers on the keys of the keyboard, the furrow of Mark's brow as he studies his work.
+
+They're interrupted by the sound of opening the door to Eduardo's office. "Hey, how's it going? The boss needs us back as soon as possible," Moskovitz says, sticking his head into the doorway. An eyebrow goes up when he sees Eduardo's proximity to Mark, and Eduardo does his best not to jerk back, stand up straight, straighten his tie. He doesn't have anything to be embarrassed of. It's not like Moskovitz caught the two of them making out.
+
+Mark hums under his breath. "Almost done," he says. "Just give me a second." His typing speeds up, and Eduardo realizes this is the do-or-die moment. It's a big city. He might never see Mark again if he doesn't make his move now.
+
+He tears a corner off the front page of the finance section and scribbles his name and cell phone number on it. "I like coffee," he says.
+
+Mark smiles again, wider this time, in a way that seems to shed years from his face. "Okay," he says, taking the piece of paper from Eduardo's hand. "I can work with that."
+
+---
+
+Mark calls a few days later.
+
+"Coffee, right?" he says quickly. "There's this place that, well-- Dustin really likes it. I thought maybe we could go there."
+
+"Sounds good," Eduardo says, trying not to laugh, a warm, fluttery feeling already taking up residence in his chest. "When and where?"
+
+They make arrangements for Saturday afternoon, at a coffee shop just outside of Harvard's campus.
+
+Eduardo gets there before Mark, and he ends up staring at the menu, which is written on a chalkboard that hangs over the cash registers. All of the drinks have cutesy names. It's obvious that it's a shop that caters to the Harvard crowd. The place is filled small square tables covered in textbooks and empty cups, and there are plenty of students with headphones on and dark bags underneath their eyes. Eduardo doesn't pull all-nighters anymore, but he still winces in sympathy.
+
+Mark shows up a few minutes late, and it takes a few moments for Eduardo to recognize him. He's dressed in a hoodie and jeans, and he so perfectly blends in with the surrounding crowd that Eduardo's eyes flick past him five times before he notices the familiar curly head of hair.
+
+"Hey," Eduardo says, smiling as he approaches.
+
+Mark looks up from his phone, and his lips quirk upwards, not an entire smile, but something warm and pleased all the same. "Hey," he says back.
+
+They make some small talk as they're waiting for their drinks. Eduardo's not entirely sure Mark is even listening to Eduardo as he goes off on a small rant about dealing with his landlord, but then Mark asks about small claims court, his eyes focused and clear. He had been paying attention after all.
+
+Mark orders mulled apple cider, and he holds the mug with both hands like it will help keep his fingers warm. Eduardo gets his usual black coffee and dumps as much sugar into it as he thinks he can get away with without seeming disgusting. They grab a seat in the back, far away from the noisy counter and the chattier students. Mark got his hands on a red plastic coffee stirrer somewhere, and he chews on the end of it, distracted, like it's an old habit. Eduardo tries really hard not to find it distracting.
+
+As a conversationalist, Mark isn't so much dazzling as he is confusing. He'll jump several tracks every few sentences with an internal logic that only he can follow. Eduardo didn't really get a chance to notice this while they were at the bank, but Mark can chew through sentences faster than anyone else Eduardo has ever known. It's like he thinks that if he slows down for just one moment, he won't be able to get all of the words out of his mouth in time. Eduardo is left scrambling to catch up, but it's kind of thrilling in its own way, trying to match the pace at which Mark's mind switches between topics. Eduardo has always loved a good challenge. They cover annoying neighbors and previous romantic history and then something about specially engineered airplane food all within the space of ten minutes.
+
+"Yeah," Mark says, when Eduardo asks him about his living arrangements. "I live with Dustin a few blocks away from Central Square."
+
+Eduardo laughs. "Really? I'm surprised you didn't decide to live closer to work."
+
+Mark shrugs. "We were already living there when we got the job. It didn't seem worth it to move."
+
+"So, Cambridge, huh? How'd you end up here?" Eduardo ended up here because he was planning on going to Harvard Business School after finishing up an undergrad degree at the University of Chicago. But then the bank offered him a chance to do something a lot more interesting. Eduardo had decided that business school could wait.
+
+"I used to go to Harvard. Did CS mostly. I left after a couple of years, though," Mark says. He's not quite meeting Eduardo's eyes, like he's maybe not proud of that fact.
+
+Eduardo has seen other people drop out or wash out before. His time at U of C was not a cakewalk. He can't quite understand why Mark did, though, because Mark doesn't remind Eduardo of those other kids at all. Eduardo's seen Mark when he gets caught up in work, completely focused, and Mark doesn't carry around that aimless air of some of the liberal arts majors Eduardo has met, the ones who don't know what they want to do with their lives and are just drifting from class to class. "But you're paving your way to bigger and better things?" Eduardo asks, lightening the mood. He's sure that making friends with people in City Hall is at least a good stopgap measure, though he doesn't have any idea how Mark decided to go from CS to politics.
+
+Mark's lips curl up into a smile, and Eduardo is pleased to see that he can put that expression on Mark's face. He wants to do it again. "Yeah, I guess you could say that," Mark says.
+
+---
+
+It's a bright sunny day outside, cold and brisk with the October air. Eduardo offers to walk Mark back to his apartment, and Mark shrugs and says sure.
+
+Eduardo is not exactly reticent to talk most days, but Mark makes it easy. He listens and he doesn't react, and Eduardo wants to *make* him react, wants to see if he can make Mark smirk or shrug or almost-frown. "I'm not sure why I stuck around this city either," Eduardo says, "but it gets underneath your skin, you know?"
+
+Mark shrugs. "I'm still here, aren't it?"
+
+Eduardo laughs. "I'm glad you are," he says, "or I wouldn't have met you otherwise." He nudges Mark's shoulder with his own, studies Mark's face for a reaction. It's not quite a smile, but it's close enough. Eduardo counts it as a win.
+
+Mark lives on the second floor of an old house, chipped white paint and a grubby lawn, and Eduardo goes with him right up to the front porch. "I'd invite you in," Mark says, "but my roommates haven't cleaned in three weeks. There's shit all over the place."
+
+"Okay," Eduardo says. He's been an undergraduate student before -- he can take a little mess -- but he can tell when he's being fed an excuse. If Mark doesn't want Eduardo to follow him inside, Eduardo won't push it.
+
+"I really liked this," Mark says, chewing on his lower lip, though there's that same lack of inflection in his voice as always, and Eduardo's not sure how to take that. "I'm just going to--" Mark leans in, wrapping a hand around the back of Eduardo's neck, and Eduardo's so thrilled that he closes the gap between their lips. It's good for a first kiss, slightly awkward, cold from the autumn air and warm from Mark's skin.
+
+"Hey, Mark!" someone yells from the second floor, and Mark jerks back like he's been burned. At first, Eduardo thinks it's Dustin, but it's another guy sticking his head out of the window. He has blond curly hair and a twitchy, nervous air about him. "Do you know where the... wait. Never mind. I found it." He ducks his head back inside for a second, before he sticks his head out of the window again. "You can go back to making out with your new boyfriend." That sounds a little more nasty than teasing, but Eduardo doesn't want to ask about it.
+
+"Don't mind Sean," Mark says with a roll of his eyes. "He's an asshole."
+
+"Okay," Eduardo says, because if Mark's not going to worry about it, Eduardo isn't either. "We should do this again sometime," he says, not even bothering to try to play it cool.
+
+"Yeah, we should," Mark says, raising his eyebrows slightly, lips curling up at the edges.
+
+Eduardo kisses him again, just because he thinks Mark will let him get away with it, and he wants to try it without interruptions this time.
+
+Mark kisses back. His fingers are warm against Eduardo's neck.
+
+---
+
+"You're in a good mood," Eduardo's assistant, Sarah, says on Monday morning. Eduardo knows he's been humming jaunty pop songs all morning, but he can't seem to stop himself.
+
+Eduardo says, "I had a good date this weekend."
+
+"Oh?" she says with an arched eyebrow. "Do tell. And I do mean everything."
+
+"It was just coffee," Eduardo says with a shrug. "but it was really good."
+
+Sarah just laughs. She's a couple years older than Eduardo, and she's lived in Boston her whole life, so she's taken it upon herself to act like Eduardo's older sister, never mind that Eduardo already has a sister. Eduardo didn't know anyone when he first moved here, and she's the one who helped him find a place to live, who taught him the best hole-in-the-wall places to eat, who likes to spout trivia about the T. Eduardo will always be thankful to her for that."It's that guy from the mayor's office, isn't it?" she says with a knowing smirk. "He's cute. You could do much worse."
+
+Eduardo thinks back to the way Mark's lips had tasted like apple and cinnamon from the cider, sugary sweet. "I know," he says, and he can't stop the smile from breaking out across his face.
+
+---
+
+Their next date is at an actual restaurant in the North End. Mark is wearing a nicer suit than the last one Eduardo saw him in the first time around. "It was Chris's idea," Mark says with a shrug, though he doesn't bother to explain who Chris is.
+
+Mark, it also turns out, is really just an asshole. Eduardo kind of finds it cute, right along with the arrogance, self-centeredness, and the casual dismissal of anything that doesn't measure up to his standards.  
+
+He can make Eduardo laugh, really laugh, so hard Eduardo's sides hurt. He has an opinion on pretty much everyone in local politics, mostly that he thinks they're incompetent, and he can list every single one of their faults from top to bottom. "You see things when you work for the mayor," he says, his lips turned up into a smirk.
+
+On anyone else, Eduardo might find that something of a turn-off, but despite surface-level impressions, Mark actually listens when Eduardo talks. He puts thought into his responses to things that Eduardo says, even if he's trying to tear Eduardo's arguments to shreds. Eduardo enjoys being something that Mark gives a shit about. He's beginning to see how rare that actually is.
+
+Mark picks up the bill before Eduardo can even look at it, much to to Eduardo's surprise. Eduardo says, "You don't have to do that." He's seen where Mark lives, after all, and he can't imagine that being a lowly civil servant pays all that well.
+
+"I've been saving up," Mark says with a shrug, and Eduardo figures that Mark can manage his own money if it comes to that.
+
+They're headed in the same direction on the T, so they walk into the station together. Mark carries on a mostly one-sided conversation with himself about the transformative power of the internet, and Eduardo can't stop watching him, can't stop listening to him, can't stop admiring the lightening speed of his brain. Right before it looks like Mark's about to get off the orange line train at Downtown Crossing, Eduardo says, "If your place is still disgusting, you could come back to mine. I don't have any roommates." Eduardo lives in the South End, in a brownstone that makes Eduardo feel like he's part of the city, like he's living deep inside the history of it.
+
+"Okay," Mark says. He stays on the train.
+
+They get off together at Back Bay without saying anything. Their shoulders brush together as they walk.
+
+On Eduardo's doorstep, Mark says, "I'm surprised you're willing to put out on the second date." His face is as blank as always.
+
+"If you count your visit to the bank as the first date, it's really the third," Eduardo says. He leans forward and kisses Mark again, lips against lips, and Mark kisses back like it matters to him, careful and precise.
+
+---
+
+Inside, Mark isn't so careful. As soon as they get through the front door, his hands are eager on Eduardo's neck and shoulders, on the buttons of Eduardo's shirt. He's got his complete focus on Eduardo, and he's determined to get Eduardo's clothes off, and Eduardo approves of this plan.
+
+Eduardo does his best to take things slow, but all he wants to do is taste Mark's skin. Mark gets to him first, pulling Eduardo's shirt open and latching his teeth onto Eduardo's collarbone, and Eduardo's eyes fall closed of their own volition at the first wet swipe of Mark's tongue. He slides a hand into Mark's hair, letting his fingers tangle in Mark's curls.
+
+Mark kisses his way down Eduardo's chest, steady and deliberate, like he's got a plan and he's carrying it out step-by-step. Eduardo's other hand settles on Mark's cheek, just so that he can trace the sharp jut of Mark's cheekbone with his thumb.
+
+"I was going to be a gentleman about this," Eduardo says, breathless, "and at least get you onto the bed first."
+
+Mark laughs against Eduardo bellybutton. Eduardo's never seen him laugh before. It seems like something Mark avoids, like facial expressions and hugs. But he's laughing right now at something Eduardo just said, and his eyes are bright, intent. Eduardo knows that he's falling too hard too fast, but he can't quite help it. Mark does everything a five times the speed of normal people, and Eduardo feels caught up in it, like he doesn't want to slow down either. "This is okay," Mark says, the corner of his lips quirked up into a grin. "This is actually more than okay."
+
+His hands are clumsy on Eduardo's belt and fly, but he pulls down Eduardo's pants and boxers in one smooth motion. Then his mouth is on Eduardo's cock, and it's hot, wet, intense. Eduardo moans as Mark's tongue draws lazy patterns on the head, loud in the quiet of the room. "Mark," Eduardo says, because he really did want to make it to the bed, even if it's really tempting to let Mark suck him off right here, against the front door of his apartment. He tugs on Mark's hair, not hard, but enough to get his point across.
+
+Or maybe not, because Mark hums, the feel of it traveling up Eduardo's dick, and Eduardo shudders. "*Mark*," he says again, more desperate this time, and maybe it comes out a little garbled because Eduardo's tongue isn't working right.
+
+"What?" Mark says, pulling back. He's smirking, all smug satisfaction.
+
+"Come on," Eduardo says after he gets his pants and boxers all the way off, tugging Mark up by his elbow and leading him into the bedroom.
+
+Mark follows.
+
+---
+
+In the morning, Eduardo wakes up to Mark's drool on his pillow, Mark's feet tangled with his own. The morning sun is filtering through the window, haloing his curls. He looks his age like this, asleep and stripped of his protective suits and hoodies. He looks like a kid who hasn't quite graduated college, who hasn't quite grown into himself. He's got a spark, though. Eduardo thinks that he's going to do amazing things with his life, that one day, he's going to make Eduardo feel unaccomplished by comparison.
+
+"Hey," Eduardo says, as Mark blearily stumbles into wakefulness. He puts a hand on Mark's hip, feels the warmth of Mark's skin underneath his fingers.
+
+Mark blinks once, twice, before a faint smile appears on his face. "Hey," he says back.
+
+---
+
+They settle into a pattern. Eduardo doesn't need to be impressed, despite whatever Mark may have thought, and so their dates end up being pizza and takeout on Eduardo's couch followed by sex, really good sex, the kind of sex that makes Eduardo uncomfortable in meetings because he can't stop remembering all the filthy things that Mark can do with his mouth.
+
+Eduardo hasn't always had the best track record with boyfriends (or girlfriends, for that matter). He usually ends up with emotionally distant assholes or emotionally needy assholes with no real in between. He can tell Mark's more of the former than the latter, but he shows up for dates and he returns Eduardo's calls and he can at least fake like he's paying attention when Eduardo's talking. He'll hum and nod at the right times when Eduardo's feels the need to rant for more than five minutes at a time, and he can even repeat the salient points that Eduardo made back to him at a later point.
+
+Eventually, Eduardo gets to see the inside of Mark's apartment, which is nowhere near as bad as advertised. ("I made them clean it up," Mark says with a snort.) Calling the place "neat" or "clean" would be a stretch, but Eduardo can imagine living there, which is a huge step up from some of the apartments he's seen.
+
+It feels more comfortable, lived-in than his own place. The furniture is old, worn down from years and years of college students, and the walls have strange, mysterious holes in them, and the fridge has more beer than food inside it. There's a couch that's seen better days in their kitchen, and there's even something that almost resembles a yard behind the house. Mark's room is as empty, bare, utilitarian as Eduardo expected. He has a desk, a bed, and a chair, and that's about it. The walls are painted a faded blue, and there's exactly one poster hanging behind the desk that seems to be a prolonged computer joke that Eduardo doesn't understand. It's still comforting, how *Mark* the place feels, the way it feels like Mark has left pieces of himself here in a way that Eduardo can't quite define.
+
+Eduardo also meets Sean, Mark's other roommate, who is the kind of asshole who makes Mark seem sweet and friendly and personable by comparison. Mark introduces them one night while Mark is trying to demonstrate that cooking pasta is, in fact, a skill he's managed to acquire sometime in his lifetime. Dustin mocks the both of them from the kitchen table and reads a dog-eared, spine-broken copy of The Godfather. Sean's high on something on something when he comes in. Eduardo doesn't know enough about drugs to pinpoint which one, but it's definitely stronger than weed.
+
+Not that it really matters. Sean barely gives a Eduardo a second glance before he's regaling Mark with his latest anecdote about how he scored with this one pair of hot college girls.
+
+"He's always like that," Dustin says, without even looking up from the book. "I wouldn't take it personally."
+
+Mark's attention is on Sean, eyes a tick wider than normal, nodding after every other word and biting his lower lip. Eduardo tries not to imagine punching him in the face.
+
+Even with Sean being an annoyance, Eduardo ends up spending more and more time at Mark's apartment. Chris, it turns out, is a guy who Dustin and Mark knew while they were still at Harvard. ("We used to consort with *literature majors*," Dustin says with a shudder. "You still do, asshole," Chris says.) Eduardo gets into an argument with him about the importance of the New Deal, and Chris mutters something about supply-side economists, which is really just unfair.
+
+Mark's happier around his roommates and in his own room than he does at Eduardo's apartment, and it's easier for him to get work done there, and Eduardo is happy when Mark's happy. Sean does stuff that takes him out of the apartment more often than not, and Dustin's a cool guy, even if he does keep telling them to keep the noise level down whenever Eduardo spends the night in Mark's room. That usually makes Eduardo blush, but Mark just smirks like the smug asshole he is.
+
+---
+
+"You watch a lot of the Weather Channel," Mark says as he sits in front of Eduardo's TV, flipping back and forth between whatever's on. The forecaster had been talking about a high pressure system moving into the northeastern US, and Eduardo is looking forward to the clear days. It's been raining nonstop for the past week, and he could do with a little sun.
+
+Eduardo shrugs. "You'd be amazed at how much the weather can tell you." He took a class on meteorology in college, mostly because one of his friends had tempted him with the statistics he'd get to do, and Eduardo had fallen in love with it, not just the science behind it, but the math, too. He's always loved seeing the way messy data can be transformed into elegant, structured conclusions, and there's something even more amazing about being able to feel the results all around you. There's something beautiful about the uncertainty in the weather, the way the chaos of the atmosphere can disrupt even the best statistical models.
+
+And beyond that, Eduardo hadn't realized just how quickly weather could change until he moved north. He'd never think he'd get the sweltering hot summers or the cold snowy winters right up against each other, and he finds that beautiful, too. He thinks about the sudden rains in the summer and the brilliant colors of the leaves in the fall and the first budding green of the spring. His freshman roommate laughed at him when Eduardo had run outside to celebrate the first snow of the winter. Sure, Eduardo had seen snow plenty of times before, whenever his family decided to go on a ski trip to Switzerland or Colorado or wherever, but Eduardo had never *lived* in a place where it fell from the sky on a regular basis. The excitement of that wore off after the second year of trying not to fall on his ass while walking on icy sidewalks, but there are still times when he will stand outside on the Boston sidewalks as light flurries are coming down, and he'll see the way the snow gets caught in the orange glow of a street light, and the sight of it will take his breath away.
+
+Mark snorts. "Especially here," he says. "The forcasters must pull their predictions out of their ass." Eduardo has never lived in a place that complained more about their weather than Boston. It's kind of impressive, really.
+
+That makes Eduardo laugh. Sometimes, Mark is so fucking smart and well-read that Eduardo forgets that there are entire areas that he doesn't know about, like statistics and weather forecasting. "You're not so far off," Eduardo says before he launches into an explanation of Monte Carlo methods and fluid dynamic simulations.
+
+Mark follows and nods along, keeping up as well as someone without any sort of formal training could be expected to. He asks some sharp questions that Eduardo struggles to explain without getting too much into the math of it. He thinks Mark must understand on some level. He's seen Mark watching horse races and sports games, eyes flicking over the numbers, typing furiously into his computer all the while. Mark understands what it means to draw conclusions from a series of data points.
+
+"Oil futures, huh?" Mark says after Eduardo tries to explain the latest mathematical model he's using to predict stock prices, and he looks impressed, genuinely impressed. That makes Eduardo feel warmed up all over. Mark isn't even impressed by flash videos about badgers or the way Dustin can solve a Rubik's cube in under thirty seconds, but he is impressed by Eduardo and Eduardo's math.
+
+"Yeah," Eduardo says, and he's still smiling when Mark kisses him.
+
+---
+
+It's 2 am when Eduardo wakes in the middle of the night in Mark's bed, his mouth dry. It's not an unusual occurrence. He usually has a midnight drink when he's at home, and he figures that it's no big deal if he grabs some water from the Brita filter from the kitchen refrigerator, even if Mark has his own minifridge stocked with beer and Mountain Dew. That's just like Mark, all alcohol and caffeine and no water at all. Mark's up and about as well, if the empty bed next to Eduardo is anything to go by.
+
+But then again, Mark's as nocturnal as a person with a nine-to-five job can be. On weekends, Eduardo only really gets to see him around dawn and dusk. He sleeps through most of the rest of the day.
+
+Eduardo climbs out of bed and pads down the hallway, careful not to make any of the ancient wooden floorboards creak. It's not until Eduardo is just outside the doorway to the kitchen that he hears the low murmur of voices. Mark is talking to one of the other guys who comes by from time to time -- Billy? -- his arms crossed over his chest, face as blank as normal. From Eduardo's angle, it almost looks like Billy's crying, or maybe it has something to do with the drugs he's usually on when Eduardo sees him.
+
+"Look, Zuck, man, it's not gonna--" Billy says, twitching every other word.
+
+"It's really not," Mark says. His own voice is steady and calm, but his eyes are cold and dark. *Dangerous* is not a word that Eduardo would have ever used to describe Mark before, but that's all Eduardo can think of when he looks at Mark now. There's a particular set to Mark's jaw that Eduardo's never seen before, a laser focus to his attention. It makes something cold creep down Eduardo's spine, and Eduardo's sure it has to be a trick of the light, because Mark's just some guy who can eviscerate you with his tongue. He wouldn't actually hurt anyone.
+
+"Come on, man. It's no big deal. You said so yourself." Billy pleads. His eyes are huge and terrified.
+
+Mark shrugs. "It's your mess. You clean it up. I'm going to get some sleep."
+
+Eduardo ducks away, heading back to Mark's room before Mark can catch him lurking. It wouldn't do to interrupt a private moment, especially not when Mark is dealing out the tough love. Eduardo fakes being asleep as Mark finally crawls back into bed, keeping his breathing even and his eyes closed. He wonders what's going on with Billy, wonders why he came to Mark for help.
+
+----
+
+Mark doesn't talk about Billy much at all, but he does start pulling weird hours. He'll be at home playing Halo against Dustin after dinner with Red Vines hanging out of his mouth, and the phone will ring, and then Mark will be out the door in ten seconds flat, without so much as a goodbye. It ruins more than one date with Eduardo, and Eduardo tries not to get too frustrated by it. Mark's just doing his job, after all. Mayor Winklevoss must be a demanding boss.
+
+The first time it happens, Eduardo's asleep when Mark's ringtone jerks him awake. He's out of bed and reaching for his discarded pants before he realizes that it's Mark's phone that's ringing from the nightstand. Mark doesn't even get out of bed. A hand just shoots out from underneath the covers to grab the phone. "Zuckerberg," he says, voice still groggy with sleep. "Yeah, okay.... Right now?.. Yes... I'm at home, but I can make it out there."
+
+He drags himself out of bed, somewhat reluctantly, but he's pulling on work clothes -- grabbing a pair of slacks out of the closet and buttoning up his shirt. It looks sloppy, but Mark doesn't seem to care, and Eduardo doesn't have the energy to fix any of it for him.
+
+"What the hell, Mark?" Eduardo says, eyes half-closed, not fully awake yet "What the fuck do they need you to do at four o'clock in the morning?" He climbs back onto the bed, because it doesn't seem like he needs to be awake right now.
+
+Mark says, "Don't worry about it. Go back to sleep. It's stupid." He's always like this about work, Eduardo thinks, but it's too fucking early for him to flesh the idea out. Maybe he'll ask Mark about it in the morning.
+
+Mark slips out out the door, leaving Eduardo alone in the quiet room. As soon as Eduardo closes his eyes again, he's asleep.
+
+---
+
+"The mayor's testing him, I think," Dustin says with a shrug. He's cleaning his gun, the pieces spread out over the kitchen table. Eduardo has no idea why Dustin even has a gun, but he's learned not to ask too many questions around the apartment. Sean will give him weird looks whenever he asks what they're doing, like Eduardo's a piece of dog shit that got stuck on someone's shoe. It doesn't help that Sean likes to throw the fact that he and Mark hooked up once into Eduardo's face whenever he can. Eduardo had shown up around seven, mostly because he and Mark had plans to eat bad pizza and watch trashy action movies, but Dustin had said that something came up at the last moment and that Mark should be back any second now. That was three hours ago.
+
+"Testing him in what?" Eduardo says. "Mark's probably better with computers than anyone else in that entire building. What's there to prove?"
+
+Sean snorts, rolls his eyes.
+
+"Do you have a problem with me?" Eduardo says, only just resisting the urge to give Sean a shove, because he seriously doesn't know what else Sean has a problem with. He wants this out in the open, so this passive-aggressive bullshit won't be in the air every single time they're in the same room. Eduardo spent enough of his childhood being that weird kid with the weird accent who didn't celebrate Christmas along with everyone else. He's learned how to handle bullies.
+
+Sean says, "I have no idea why you're even here, man. Can't you be somewhere else while Mark's gone?" He stands up, and he doesn't make any move to punch Eduardo in the face. "Whatever, dudes. I'm heading out." He grabs his coat and disappears down the stairs to the front door.
+
+"No, really, what's going on with Mark?" Eduardo asks, because Dustin would know. Dustin also works for the mayor, and he understands Mark better than most of them do.
+
+Dustin says, "It's not really my place to say. He doesn't really like to talk about it." Eduardo wants to laugh, because it must be a big deal if Dustin isn't willing to talk about this, but he is willing to talk about that time Mark tried to impress some of the other freshmen Harvard girls with the fact that he got a 1600 on his SATs. Eduardo likes Dustin, but then again, he's always liked Dustin. Dustin can actually annoy Mark in a way that gets Mark annoyed instead of just bored, and he has a laundry list of places to get cheap and delicious food in the greater Boston area, at least one for each neighborhood.
+
+"I just wish he'd let me in a little more," Eduardo says. Sometimes, it feels like Mark isn't even trying. Eduardo can't be the only one who cares. He has to cling to that.
+
+Dustin grunts sympathetically.
+
+The front door swings open again. Mark's back. His suit is rumpled, and his hair is more of a mess than usual. His lips are pulled into a tight line, like he's exhausted and trying not to show it.
+
+"How'd it go?" Dustin asks. He's looking up, and he's looking a little worried.
+
+"Fine," Mark says, and there's nothing in his voice that contradicts him. "It went fine."
+
+----
+
+There's a blizzard one Wednesday in February. Eduardo can't see more than a foot outside the window, and everything closes down for the day, including Eduardo's bank and City Hall.
+
+Mark sleeps through most of the morning, like he always does, curled up underneath the covers with his comforter nearly pulled all the way over his head. Eduardo makes tea in the kitchen, listening to the howling of the wind outside. They're in Eduardo's apartment, so there aren't any roommates, stray friends, or loud televisions. Eduardo can almost breathe in the silence, the white sheet that has descended over the world.
+
+Eduardo does some reading, some work on his laptop, but then Mark rolls out of bed, and all Eduardo's good intentions fall by the wayside. They have slow, drawn out sex underneath the covers, Mark fucking Eduardo with steady even thrusts until Eduardo whimpers into his pillow, his fingers gripping the sheets.
+
+The power cuts out sometime mid afternoon, and Eduardo brings out his ancient deck of cards. They play the kid games he learned at boarding school like Spit and Egyptian Rat Screw on Eduardo's bed, the bright white light from the snow streaming in through the window. Mark has sharp eyes and quick reflexes, and for a guy that emotionally distant, he's a surprisingly sore winner. Eduardo tells Mark his whole life story, tells Mark about his sister, about Brazil and Florida and Chicago. It spills out of him all at once, like he needs to do this while they're trapped here, unable to escape. Mark listens with dark, quiet eyes, and then he tells Eduardo about his own three sisters, about New York and New Hampshire and Boston.
+
+It's like getting a glimpse into Mark, like getting a chance to see the gears turning inside his head, and it makes Eduardo's chest feel tight. It feels like a gift.
+
+At the end of the night, Mark lays flat on his back, eyes fixed on the ceiling. Eduardo has always loved the way Mark looks in the soft light of his bedside lamp, the way it highlights the flat planes of his chest, the angles of his body. He has knobbly knees, Eduardo notices. Eduardo curls a hand around Mark's hip, and he says, "When I have the money, I'm going to buy an island, and then it can always be like this."
+
+"That makes no sense. We'd be bored out of our minds within the first week," Mark says, but he can't entirely hide his smile.
+
+In morning, the snow stops and the roads clear. Mark disappears out the front door, the hood of his hoodie pulled over his head, and as Eduardo watches him go, he feels like he's lost something, even if he doesn't know what that is.
+
+---
+
+The TV at work is playing a speech from Mayor Winklevoss, something about the next election. He's a tall, handsome man, with blond hair and a politician's winning smile, and he's talking the usual talk about improving quality of life across the whole city and bringing opportunities to those in need. Sarah is half-listening to the speech as she organizes some files, and Eduardo ends up watching it over her shoulder. The man can give a speech, that's for sure. He's got a steady, strong delivery, and there's just enough emotion behind his words to be convincing. Eduardo is charmed almost despite himself.
+
+"He's going to win, isn't he?" Eduardo says. He thinks about what would happen to Mark if Mayor Winklevoss loses. Probably nothing. Mark's not particularly political, and he's low enough on the totem pole that they probably wouldn't bother replacing him.
+
+Sarah snorts and shakes her head. "Like he'd let anyone else win."
+
+Eduardo doesn't really know what to make of that, so he just shrugs and goes back to work.
+
+He's got pages and pages of reports to read and clients to deal with. His boss seems to like him, but Eduardo sometimes wishes he were more productive. Sarah likes to roll her eyes and call him an obsessive perfectionist, but Eduardo knows that isn't the whole truth. His father disapproves of the way Eduardo basically dropped out of business school to take the offer for a mid-level job at a bank, even if it's impressive for a recent college graduate. Eduardo can't afford to fuck this all up now, not when his entire life is riding on it.
+
+There are times when he wonders whether or not it was the right decision, whether or not it would have made more sense to go straight for the degree and the life his father set out for him. His life would be different, that's for sure. He wouldn't-- He'd probably be in class right now, or he'd be in the middle of networking with his classmates, and his parents would be a lot happier with him. During his hellish summer interning at Lehman, Christy had laughed at him a lot about that. "It's not your parents' life, you know?" she had said, twining their fingers together. "No matter what they might tell you." She liked to talk about that a lot while they were dating, about venturing out, doing her own thing, even if she was only there because her parents made her get an internship too.
+
+Eduardo hadn't quite believed her at the time, but he thinks he understands her now. He's making his own way in the world, carving out his own pocket of it. He doesn't think he'll ever be quite free of his parents and their expectations, but he's figured out what he wants, and he thinks he's figured out how to get it. He's got his job, and he's got Mark, and he's got Boston, and sometimes he'll walk through the Common by himself with the leaves crunching underneath his feet, and he knows he won't regret anything at all.
+
+---
+
+A week later, Eduardo finds dark bruises on Mark's ribs.
+
+"What happened?" he asks, as Mark pulls off his t-shirt. Mark's skin is so pale that they really stand out, livid purples and blues.
+
+Mark shrugs. "It doesn't matter," he says in a voice that means that Eduardo won't get anything else out of him about it. He straddles Eduardo's lap and kisses him, and his mouth tastes like mint mouthwash. His skin smells like soap.
+
+Eduardo flips them over so that Mark's underneath him, all skinny limbs and messy hair. He kisses Mark again, because he's been thinking about Mark all day, about the weird quirk of his lips, and the angles of his shoulders, and the slight curve of his ass. He doesn't realize he's put a hand on one of Mark's bruises until Mark hisses through his teeth, eyes going dark and sharp. He looks the way he did talking to Billy Olsen, *dangerous*, even though Eduardo knows that Mark isn't. It something of a rush, seeing Mark like this right now, like Eduardo has a grenade underneath his hands, ready to explode any at any moment.
+
+"Come on," Mark says, voice going rough and low. Eduardo can feel Mark's erection pressing against his hip, can see the bob of Mark's Adam's apple. He presses a hand against the bruise again, watches as Mark's lips curl into a snarl, watches Mark become someone else before his eyes. Mark's hands grab onto Eduardo's shoulders, and Eduardo wants more, wants to see how deep it goes, wants to--
+
+He pulls back, trying to catch his breath, trying not to look at Mark's face or at Mark's ribs, trying not to remember the fucked up thrill of seeing the knife-edge of Mark's personality rise to the surface. Eduardo feels a little sick, because he shouldn't be getting off on this sort of shit. Everything about this is wrong, because he wants the Mark he sees every day, the one who gets into long rants about the outdated city computer systems, the one who can't quite hide his smile.
+
+"Sorry, I just--" Eduardo says around the lump in his throat.
+
+"What the fuck, Wardo?" Mark says, and when Eduardo looks at him, he looks more like himself, blank-faced and calm, steady in ways that Eduardo can't be.
+
+"Nothing," Eduardo says, forcing a smile back onto his face. "It's nothing." He kisses Mark again, and this time he's careful to avoid the bruises.
+
+---
+
+It doesn't happen again.
+
+Mark's the way he always is in bed, eager and selfish and giving in turns, and Eduardo doesn't see that expression -- the cold, dark one -- cross Mark's face. There are times when he'll walk into a room, just in time to watch Mark clam up, smoothing his face into something calm, mock-innocent, but that's not the same. It's nothing like seeing it clear as day, all of that written all over Mark's face.
+
+Eduardo tries to put it out of his mind, and for the most part, it works.
+
+(But sometimes, when he's by himself, he'll wonder what it would be like to see it again. He doesn't think Mark would ever really hurt him, but Eduardo does wonder sometimes whether or not, under the right circumstances, he could push Mark until he's close to that point. On one of the nights when Mark is busy with work, Eduardo jerks off to the memory of the curl of Mark's mouth, the hard, flinty look in Mark's eyes, and he mostly feels disgusted with himself when he comes.)
+
+The days pass, and Mark gets even busier. He's angling for a promotion at work, it seems, but he doesn't talk about it with anyone but Dustin. Or Sean. But Eduardo spends most of his days trying to pretend that Sean doesn't exist. And that he doesn't have Mark's ear when it comes to well, anything that Mark won't tell Eduardo. Sean, the fuck up who never bothered to attempt college. Sean, who must have a fucking pharmacy in his room, considering the number of times Eduardo has seen him on something.
+
+The heat spikes in July, and the humidity spikes with it. Mark's apartment doesn't have AC, which means that Sean is constantly bitching and moaning, and Dustin sets up camp in front of the rickety old fan in the kitchen, hogging all of the breeze to himself. Eduardo would say Mark is cold-blooded, but that's not entirely correct. He just doesn't seem to feel temperature changes the way other people do. In the summer, he'll put on a t-shirt and shorts like everyone else, but he doesn't seem to notice when his face and neck are covered in a fine sheen of sweat.
+
+Chris starts spending more time around the apartment, mostly showing up to play some Halo and throw around trash talk with Dustin. Sometimes Mark talks to him, too, their heads bent over a map of the city arguing about things that Eduardo doesn't really quite follow. Eduardo likes Chris, though, likes his easy way with people and his Southern charm and the way he actually drinks coffee, unlike anyone else who lives in the apartment. Eduardo buys a coffee machine for them, a cheap Target one so that it matches everything else in the apartment, and at least he knows someone else can get some use out of it.
+
+Mark's apartment feels like a second home. When Eduardo has bad days at work, or ends up talking to his father for more than five minutes at a time, he'll spend the evening at Mark's place, where Mark will let him in, no questions asked. On those nights, Mark will nudge over a controller or he'll sit in bed with a laptop, and Eduardo can sit there and read or work or just stare out the window, and no one will ask Eduardo for something he's not willing to give.
+
+---
+
+Mark gets his promotion it seems, because soon enough they can afford to rent out the apartment above them too, taking over the third floor of the drafty old house. The upstairs apartment is Mark's now, a place all to himself. Sean moves into Mark's old room. It's not so much a new apartment as an annex onto their old one, and Eduardo learns to tell the difference between Dustin's light footsteps and Mark's heavier ones on the stairs that connect them.
+
+"You could--" Mark says after a month. "You practically live here anyway, and now there's a lot more space. It's not as nice as your current place, but I thought--"
+
+Eduardo didn't really know anyone in the city when he first moved here so he hadn't looked for roommates, but now, when he goes back to his own apartment, it feels too quiet, too empty. It's nothing like the weird constant hustle and bustle of people coming in and out of Mark's apartment. Eduardo hadn't realized how much he needed to live with other people after years and years of dorm until he got it back. "You're here," Eduardo says. "That's good enough for me."
+
+Eduardo doesn't actually have much in his apartment. Most of that stuff is at his parent's place in Florida, and he's lived the life of a boarding school kid, which means that he packs light and doesn't take much with him.
+
+Mark's new rooms are smaller than the one on the second floor. The roof slants low in places, and as the days get warmer, it seems to hold onto the heat. But Eduardo can walk through the apartment and feel Mark in it, in the computer equipment scattered on his desk, in the pads of half-finished doodles, in the hoodies on the floor and the flip-flops next to the doorway.
+
+Eduardo's suits join Mark's in the closet. His own brand of shaving cream sits next to Mark's on the bathroom sink. Eduardo's Wall Street Journal subscription starts showing up on Mark's doorstep. His life rearranges itself around Mark's patterns.
+
+He wakes up to Mark's snores in the mornings, and he falls asleep to the hum of Mark's desktop at night, and sometimes he looks at Mark, bent over his computer screen, brow furrowed, fingers flying over the keys, and Eduardo thinks, *yeah, this must be what it's like to be in love.*
+
+---
+
+The only problem with living with Mark is Sean. Eduardo has hated Sean from the very first moment they met, and it's becoming clearer and clearer that the feeling is mutual. Sean watches Eduardo with suspicious eyes and a cruel twist of his lips. He touches Mark casually -- an arm around Mark's shoulders, a pat on Mark's head -- in a way that even Dustin and Chris don't attempt, and he makes snide references to trust fund kids whenever Eduardo is around.
+
+"You think you know Mark?" Sean says one night when Mark is gone on one of his late-night business meetings. "You don't know *jack shit* about Mark." He's right up in Eduardo's face, and his smile is practically a sneer. Eduardo had thought it might be a good idea to gets some of his work done in the kitchen, but apparently he was wrong. Really wrong.
+
+He clenches his fists, tries to keep his hands still. "It doesn't really matter, does it? He still chose me. He chooses me every fucking day." He doesn't have to be a fucking genius to see the way Sean hoards every bit of Mark's attention, every wide-eyed nod and whispered secret. He doesn't have to be a fucking genius to see the way Sean gloats over it, this piece of Mark that Eduardo's apparently not meant to have.
+
+Fuck that. Sean had his chance at Mark and he blew it.
+
+Sean laughs. That asshole actually has the audacity to laugh at him. "You really have no idea. It's cute. really cute. But it's not going to save you in the end."
+
+Eduardo barely even realizes he's doing it, but it only takes him a second to grab a fistful of Sean's faded old t-shirt and shove Sean against the nearest wall. "It drives you nuts, doesn't it? That I don't know whatever the fuck you think I need to know about Mark, and he still wants to be with me."
+
+Sean stands there, smirking, and Eduardo wants to kick his face in, just so he can wipe that expression off Sean's face. He wants to see Sean bent over, bleeding all over the floor, whimpering in pain. He wants to be the person who put Sean there. "No fucking idea," Sean says again. "It's got to be killing you inside, too." He laughs, brittle and hard, but he's looking at Eduardo like he can see all of Eduardo's sick, depraved throughts.
+
+And it's not even worth it anymore. Eduardo lets Sean go, all the anger draining out of him. "Whatever," Eduardo says, stepping away. His hands are shaking. He doesn't know what the hell came over him, except that it was Sean, and it was Sean talking the same shit he always does.
+
+Eduardo used to be a much better person than this.
+
+---
+
+Eduardo wakes to a scream of pain. It's sudden and loud in the night, and he's panicking before he realizes that it's not coming from Mark's side of the bed. It's dark in the room, and it takes a few moments for his eyes to adjust to the lighting. Mark isn't here.
+
+There are frantic, muffled voices coming from the kitchen downstairs. Eduardo can barely pick out what they're saying, much less who any of them are.
+
+"I told you we needed to take him straight to the hospital--"
+
+"No, but there's--"
+
+"-- doctors will want --"
+
+"- Zuck knows what to--"
+
+"-- can't remove the --"
+
+"-- bleeding over--"
+
+"-- go right now."
+
+Once, at an AEPi party in college, one of the brothers stepped on some broken glass from a beer bottle with his bare feet. They'd had to call an ambulance, and they were cleaning the blood out of the carpeting for *months*. It had seemed like a big deal at the time, everyone freaking out everywhere, but in the end, it hadn't been that bad in the end. He'd needed a few stitches and a lot of bandages, but he was back home, resting the next day.
+
+Whatever it is, Mark can handle it. He's not on his side of the bed, so he's probably already downstairs, working it out with the others.
+
+Eduardo turns so that he's facing the window and not the doorway. The talking moves outside and he can hear a car start in front of the house. Eduardo hopes they get whoever it is to a hospital in time. He closes his eyes and drifts off into sleep.
+
+---
+
+Mark's always been something of a workaholic, but now he's barely ever leaving the office before 7pm. Eduardo misses him, but he mostly just ends up matching Mark's workaholic tendencies and staying at work late himself. Eduardo blames it on the upcoming election. Mark gets back to the apartment sleepy and annoyed, a tension simmering underneath his skin. He usually relaxes after an orgasm (or two), and while Eduardo doesn't exactly *mind* being Mark's version of stress relief, he's kind of worried about Mark's overall mental health.
+
+Dustin shrugs when Eduardo asks him about it. "That's kind of just how Mark is," he says. "He doesn't really understand the meaning of slowing the fuck down."
+
+And Eduardo has to laugh at that, because it's really true.
+
+Mayor Winklevoss wins the election handily which causes all kinds of eyerolling around Eduardo's office from how utterly predictable it is. Dustin throws an impromptu celebratory party in the apartment. Eduardo somehow ends up so drunk he throws up all over their bathroom upstairs. He probably shouldn't have taken up Sean's challenge to a drinking contest, because really, his alcohol tolerance really isn't what it used to be in college. At least he can say that he won. Since Mark and Eduardo are the only people who live on the third floor, and Eduardo is still trying to fight off a really horrific hangover, Mark's the one responsible for cleaning up the mess.
+
+"I've seen much more disgusting stuff than this in a bathroom," Mark says, rolling his eyes. "I lived with three sisters, remember?" He pauses for a moment, giving Eduardo a quiet look. "You really don't have to take Sean's bait, you know."
+
+"He's such an asshole," Eduardo whines. It's embarrassing what a bad headache can do for his mental age.
+
+Mark frowns at that. "Yeah. He's really-- I need to talk to him about that."
+
+Eduardo wants to kiss him, but he still kind of has vomit-mouth, and he doesn't think Mark would appreciate that at all. As a thank you, he lets Mark blow him underneath his desk at work, and he only just manages to not embarrass himself when he gets an unexpected phone call halfway through. For a guy who's so closed off, Mark has a strangely intense exhibitionist streak.
+
+Eduardo tells his sister about Mark, tells his mother about his new apartment and his friends and about how much he loves it here in Boston. He stutters out a quick mention of Mark to his father, who doesn't hate Mark on principle, it seems. Eduardo can tell that he's more upset that Mark's a college dropout with unclear future plans than he is about the fact that Mark has a penis.
+
+Mark gets called out more often these days, and he always takes them outside, where he won't be overheard. Dustin gets a shiner on his left cheek from a bar fight, apparently. Chris ends up with a broken wrist a few weeks later. Sean continues to be Sean, but he and Mark are arguing these days. Eduardo doesn't know what it's about, but he can hear the way Mark's voice goes flat and hard when he mentions Sean's name. Eduardo tries not really smug about that, but he's pretty sure he fails.
+
+"Is it me, or are you guys really accident-prone?" Eduardo says as he watches Chris awkwardly navigate his way around the coffee machine with a cast on.
+
+Mark just shrugs and goes back to his computer. He's been glued to that thing for the past four weeks. He's apparently angling for another promotion soon. That would seem ridiculous to Eduardo, except that he knows how intense Mark is about his work, and he knows how fucking brilliant Mark is, and he knows that when Mark gets his mind set on something, he won't let anything stand in his way.
+
+---
+
+One night, Mark comes home angry, grim and intense, quiet. He walks right past Dustin, right past Eduardo, right past Chris, and goes straight for the alcohol. He yanks open the refrigerator door with more emotion than Eduardo has ever seen on his face.
+
+"Fuck this," Mark says. He downs half of his beer in one chug, and then he walks back outside, leaving everyone else behind in stunned silence.
+
+Eduardo starts to go after him, but Dustin waves him off. "I've got this one," he says. "It's probably about work." He disappears out the door, following Mark.
+
+It feels like they talk outside forever, but it's only really about half an hour. Eduardo sits at the kitchen table with a copy of *Freakonomics* that his sister insisted that he read, even though he hates pop-econ books. He keeps checking the clock, listening the steady tick of the second hand.
+
+When they come back inside, Mark is more settled again, more like himself. "We're going to do this," Mark says to Dustin, steady and sure. He's got an idea in his head, and he's not about to let it go anytime soon.
+
+Dustin grins. "Sure thing, boss," he says. Dustin usually only calls Mark 'boss' as a joke with an undertone of teasing mockery when he thinks Mark is being a douche (which is often).
+
+It's different this time. Eduardo can't quite put his finger on what it is, but it's different. Something's changed in the air. Something's changed in *Mark*, and Eduardo can feel something cold tighten around his chest. There's no going back from this, Eduardo knows, and he doesn't even understand what's going on.
+
+"Fuck them," Mark says. "They're a bunch of morons who can't see past their own outdated piece-of-shit system." He looks right at Dustin. "We can do better." There's a light in his eyes right now, like something's come alive inside him. Eduardo's never seen it before.
+
+He stands next to Mark, places a hand on his shoulder. He wants to know what's going on in Mark's head, wants to open it up like a book and read the pages and pages inside. He remembers what Sean said, about how he doesn't know Mark at all, and sometimes it feels so true it hurts. "Hey," Eduardo says. He gives Mark's shoulder a squeeze.
+
+Mark ignores him.
+
+---
+
+Eduardo has never had much love for Sean, but it's still a surprise when he just disappears one morning. Eduardo passes by Sean's room on his way to the kitchen, and it's empty. except for the desk, a chair, and the remnants of the bed. It's been stripped clean of sheets. Things have been weird with Sean lately. Mark's eyes don't fix on Sean when he enters the room anymore, and Sean makes snide comments about Mark's work habits more often these days, but this is still sudden.
+
+Mark is sitting at the kitchen table with dark bags underneath his eyes and a can of Red Bull in one hand. Chris is on the phone to someone, and it doesn't look like he's gotten much sleep either. Dustin is face down on the couch, snoring into the cushions.
+
+"What happened?" Eduardo says.
+
+There's a mass of papers spread out over the kitchen table covered in Mark's messy handwriting, and Mark is staring at them intently. "I think we've managed to figure out where they're--" he blinks once, twice, and then looks up, still riding high on the caffeine. "Oh, you mean Sean. He went to Palo Alto."
+
+Sean likes to run his mouth. If he'd been planning on going to Palo Alto, it would have been all he could talk about for months. But for all Eduardo knows, Sean met some girl at a party and decided to follow her all the way back to California. "Okay," Eduardo says. He would have thought Mark would be more upset about one of his closest friends leaving so suddenly, but Mark's also pulled an all-nighter for *something* and kept Dustin and Chris awake with him. That might count as upset in Mark's book. Eduardo isn't sure.
+
+Mark kisses him, his eager, jittery hands sliding into Eudardo's hair. "It's going to be amazing," he says against Eduardo's lips. "You're going to have to see it, Wardo."
+
+Sometimes, Eduardo thinks they must be speaking a different language, that they must be from different fucking planets. "Okay," he says, resting his hands on Mark's hips. "Okay, I will."
+
+---
+
+They're out on the porch, and Mark is talking bullshit about changing everything. It's night, and it's cold, and Eduardo doesn't really know why they're outside. Mark wanted to talk while Dustin and his closest fifty friends are having a house party upstairs. The heavy bass of the music drifts down, but other than that, he and Mark can actually hear each other talk.
+
+"I need your help," Mark says. "Dustin and I have some money saved up, but it's not going to be enough for what we need to do." His eyes are quiet, cold, flinty. He's lost in his idea again, the one he only half-talks about around Eduardo. It's the one that keeps him up all night and leaves him twitchy and exhausted in the mornings, and Eduardo is so terrified that Mark is going to just burn himself out.
+
+Eduardo's been making good money investing in his free time. He's got a lot more spare cash now that he's living with Mark, and he figured that setting up his own 'fuck you' fund is not a bad idea, especially if his father ever actually cuts him off the way he keeps threatening to. The fund is pretty large now, creeping close to a million dollars. Some people knit in their free time. Eduardo likes making money. "Is this a computer thing?" Eduardo asks. "Because I'd be willing to invest in--"
+
+"It's not a computer thing," Mark says, cutting him off.
+
+"Then what's the money for, Mark?" Eduardo says. The words feel heavy on his tongue, because if it's not a computer thing--
+
+Mark's stare is steady, unblinking. "You know exactly what the money is for, Wardo."
+
+Eduardo hadn't understood any of it until this moment, but he realizes that he's known all along. He's known it in Mark's weird hours and the half-whispered jokes about Mayor Winklevoss and the gun that Dustin still cleans on the kitchen table. He's known it in the way Mark looks sometimes, like he wouldn't even blink if he had to cut you open. It feels like Eduardo has built these perfect, high walls around himself, but Mark has just put holes in them, and everything is spilling in. Eduardo doesn't know how to keep it all out.
+
+If he gives Mark the money, there's no going back from this. He can't unlearn the things he's learned. He can't go back to pretending that Mark is just some low-level aide in the mayor's office. If he gives Mark the money, he'll be complicit in everything Mark does with it. Everything.
+
+He looks at Mark. The porch light illuminate the sharp angles of his face, the grim line of his mouth. Eduardo wonders how he could have ever seen Mark and thought he looked young. Mark has seen things that would give Eduardo nightmares for weeks.
+
+"I'm not a part of this," Eduardo says. "You know that." Mark must really be hard up for cash if he's coming to Eduardo for this, and Eduardo loves Mark. Eduardo loves Mark so much it makes his teeth ache, and Mark never asks Eduardo for anything that Eduardo isn't willing to give.
+
+"I know," Mark says. "It's just the money. You won't ever have to know what happens to it. I can return it to you, with interest, in a year."
+
+Eduardo closes his eyes. He doesn't even want to look at Mark right now. "Okay," he says, and he can hear his voice shake. "You can have it. I'll set up a joint account in the morning."
+
+Mark doesn't say anything to that, but he leans in and kisses Eduardo, steady and firm. The first time Eduardo kissed Mark, he was on this porch. The sun had been high in the sky, and Mark's lips had tasted like apple and cinnamon, and it had been good, really good.
+
+When Eduardo opens his eyes, Mark is already gone.
+
+ 
+
+FIN.

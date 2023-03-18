@@ -1,0 +1,83 @@
+---
+ao3_url: https://archiveofourown.org/works/891050?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Toph Bei Fong
+date: '2013-07-20'
+fandom:
+- 'Avatar: The Last Airbender'
+notes: Made for the halfamoon comm on LJ, because female characters are awesome.
+relationship: []
+summary: Bona fide hustler making my name.
+tags:
+- badassery
+- Earthbending & Earthbenders
+- vid
+- Video
+title: '[Vid] Paper Planes'
+warnings: No Archive Warnings Apply
+---
+
+[Xvid download (19 MB)](http://dl.dropbox.com/u/2436187/vids/toph.avi) [(mirror)](http://www.sendspace.com/file/91r7nk)   
+[subtitles file](http://dl.dropbox.com/u/2436187/vids/toph.srt)  
+[blip.tv](http://blip.tv/file/3184110) | [BAM](http://bamvidvault.ning.com/video/paper-planes-toph-avatar-the)
+
+
+
+
+
+Lyrics:
+
+I fly like paper, get high like planes  
+If you catch me at the border I got visas in my name  
+If you come around here, I make them all day  
+I get one down in a second if you wait
+
+Sometimes I feel sitting on trains  
+Every stop I get to I'm clocking that game  
+Everyone's a winner now we're making our fame  
+Bona fide hustler, making my name
+
+All I want to do is BANG BANG BANG BANG!  
+And KA-CHING!  
+And take your money
+
+All I want to do is BANG BANG BANG BANG!  
+And KA-CHING!  
+And take your money
+
+Pirate skulls and bones  
+Sticks and stones and weed and bombs  
+Running when we hit them  
+Lethal poison through their system
+
+No one on the corner has swagger like us  
+Hit me on my banner, prepaid wireless  
+We pack and deliver like UPS trucks  
+Already going to hell just pumping that gas
+
+All I want to do is BANG BANG BANG BANG!  
+And KA-CHING!  
+And take your money
+
+All I want to do is BANG BANG BANG BANG!  
+And KA-CHING!  
+And take your money
+
+M.I.A.  
+Third world democracy  
+Yeah, I got more records than the K.G.B.  
+So, uh, no funny business
+
+Some, some, some I, some I murder  
+Some, I some I let go  
+Some, some, some I, some I murder  
+Some, I some I let go
+
+All I want to do is BANG BANG BANG BANG!  
+And KA-CHING!  
+And take your money
+
+All I want to do is BANG BANG BANG BANG!  
+And KA-CHING!  
+And take your money

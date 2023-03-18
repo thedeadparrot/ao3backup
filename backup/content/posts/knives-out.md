@@ -1,0 +1,325 @@
+---
+ao3_url: https://archiveofourown.org/works/16974957?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters: []
+date: '2018-12-13'
+fandom:
+- X-Men (Movieverse)
+notes: This fic has been kicking around my drafts folder since 2012, and even though
+  I never quite found the motivation to turn it into a rounded out story, I do still
+  like the way it manages to hold together emotionally. I like Charles's telepathy
+  being fucked up and creepy, so it pleases my id. Hopefully, it will also please
+  some of yours.
+relationship:
+- Erik Lehnsherr/Charles Xavier
+summary: Erik and Charles are taken captive by a military organization that wants
+  to use their powers. Turns out, telepathy isn't all that easy to control, and Erik's
+  left to pick up the pieces.
+tags:
+- Captivity
+- Telepathy
+- Dark
+title: Knives Out
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+*I want you to know*  
+
+*He's not coming back*  
+
+*Look into my mouth*  
+
+*I'm not coming back*  
+
+*- Radiohead "Knives Out"*
+
+
+ 
+
+"He's not lying," Charles says. His eyes are dark and glassy in the dim light, vacant and unaware of the attention focused on him. "He wanted to take the guns, but he was always afraid. He always knew what would happen if anyone were to find out. Sometimes, he would look at them and wonder--"
+
+A guard slaps Charles across the face to shut him up, and Erik strains at the cuffs around his wrists before he can get himself back under control. He needs to remind himself that the drugs running through his system have weakened his powers, making it impossible for him to weaken and snap the links of the cuffs. He can barely lift a paperclip right now.
+
+The man who sits across from Charles at the central table, the man whose mind Charles had just invaded, shakes like a leaf. His eyes are wide and frantic. Erik doesn't need telepathy to know what he's thinking. The man leaps to his feet, knocking his metal chair over with a dull clang, and runs for the door, but he's outnumbered, and the guards wrestle him to the ground.
+
+"The general will be very disappointed by this betrayal," the colonel says as the guards drag the sad, scared man away. "He had so very many high hopes." After the guards leave the room, the colonel caresses Charles's cheek. Charles doesn't move. Charles doesn't react to much besides physical pain these days. Gentleness doesn't even register. "You've proven your worth time and time again, telepath," the colonel says. "It's a pity the same can't be said for your friend, here." He kicks Erik's thigh. It barely even hurts. They don't care enough to bother with that, when it comes to Erik.
+
+Erik resists the urge to snarl at him.
+
+---
+
+The first night they dumped Erik into Charles's cell, Charles smiled at him with too much teeth and said, "I didn't expect to see you here, my friend," with Erik's accent. Charles was either too skinny or he was wearing clothes two sizes too big, and a bandage had been applied to his forehead, brown with dried blood. His face was still clean-shaven for the most part with a hint of a five o'clock shadow.
+
+"I didn't expect to see you either," Erik said. Charles had stared straight into his eyes, and his expression had been strange, unfamiliar on his familiar face.
+
+It took Erik a moment to realize it was his own expression, mirrored back at him. It looked wrong on Charles's features. Too sharp, too mean, for Charles's softness.
+
+It took Erik even longer to realize that Charles didn't have his own expressions, not anymore.
+
+---
+
+The cell they share is small, quiet. There are fluorescent light bulbs on the ceiling, and the walls are made out of hard gray concrete. They bring Charles back a few hours after they're done with Erik. Two guards drag him in, each of Charles's arms around one of their shoulders, Charles's legs dragging lifelessly behind him. They toss Charles onto his bed before leaving, slamming the heavy metal door of their cell shut.
+
+Erik opens his mouth to say--
+
+"How badly did they hurt you?" Charles says, stealing the words from Erik's lips. He isn't staring at Erik for once, but at the ceiling. They must have changed the dosage. There's still a bruise on the right side of his face, a livid purple on his pale skin.
+
+Erik grabs hold of Charles's hands, squeezes them until Charles looks at him. His eyes focus on a spot of wall past Erik's ear. "How badly?" Erik asks. Sometimes, Charles is almost lucid, almost aware of himself as a separate entity from the rest of the voices that have been echoing inside his head. Erik doesn't know if this is one of those nights.
+
+Charles blinks once, twice. "Did they give you any medical attention?" he says, stealing Erik's words again before Erik can even open his mouth. Nothing tonight, then.
+
+Erik clutches Charles's hands tighter, and even though they're ostensibly in this cell together, Erik has never felt more alone.
+
+---
+
+On his third day after they captured him, Erik managed to rip the fillings out of the teeth of two guards and stab a third with his own knife before he was tackled to the floor. They knocked him out and put him on new drugs, and when he woke up again, the world was empty and silent, like there was nothing but wood and stone and plastic as far as he could reach.
+
+Erik told himself that he was fine, that he could survive without it. He had Charles to think of. Charles had it far worse than he did, for once.
+
+He still lay awake at night, his fingers twitching, reaching for something that wasn't there.
+
+---
+
+Charles talks in his sleep. Erik has learned to tell when the person speaking changes, has learned to track the sudden shifts in tone and accent and even the expressions that cross his face. Sometimes, Charles is the guard that checks their cells every night, cursing under his breath about mutie scum. Sometimes, he is the chemist in the lab, making lists of new psychotropic drug cocktails. Sometimes, he's the scared boy two cells down with an enhanced sense of smell, huddled and alone and scared.
+
+On the nights Erik has nightmares, he'll wake up panicked and disoriented, and Charles will speak German like a Gestapo, his voice low and guttural as he calls Erik an animal, barely worth the effort to feed. Erik hates those nights the worst, when his own drugged mind is trying to separate dream from reality, and he has to still his body to keep himself from wringing Charles's neck.
+
+He supposes it's just luck that Charles hasn't killed them all with an errant thought. Erik has seen Charles stop a man dead in his tracks. It wouldn't take much more for Charles to stop a man's heart.
+
+Erik always knew how much power Charles hid behind friendly eyes, but it's unsettling to see it unleashed now, unchecked by Charles's conscious mind.
+
+---
+
+Erik had always been wary of Charles, of what Charles is capable of. On the first leg of their trip to Las Vegas, Erik had started keeping notes in a small, leather-bound notebook. At first it was nothing more than a simple log, a way to track instances of Charles using his powers. A police officer attempting to give them a ticket, a lost child with large, sad eyes, a woman who could tell them about the girl with the delicate wings.
+
+Then he started keeping track of his thoughts, just in case Charles ever saw fit to change them.
+
+It never did come to anything. Over the hours and hours of companionship, they played cards, argued about English politics, and sat in hotel bars as Charles told dirty jokes. Erik still thought of him as spoiled, silly, naive, brilliant. It had been easy to recognize Charles for what he was -- almost too easy. Erik has never trusted things that are easy.
+
+Erik can remember the way it felt to put on Shaw's helmet for the first time. The silence had been so comforting, so restful. Like he hadn't needed to worry any longer, like he was finally, *finally* safe.
+
+---
+
+One night when the drugs are particularly bad, Charles pulls Erik into lap and kisses him.
+
+Erik holds still, doesn't fight, keeps his lips pursed, his head tilted back, his heart racing in his chest. Charles has stronger arms than Erik would have anticipated.
+
+Charles pulls back. "You're a pretty little thing, aren't you?" Charles says in a low Texan drawl. He looks up at Erik with lecherous eyes. "All soft and stuff." His hands shift to run along Erik's shoulders, sliding underneath Erik's shirt to skim up Erik's sides and rest on Erik's chest. Charles's touch is gentle for all the dangerous intent underneath. He smells different than Erik remembers from those days sharing beds as they crossed the country. Now he smells like sweat and grime and the disgusting gruel that Erik feeds Charles by hand every day. 
+
+Erik's body still reacts to it, to the intimacy of the moment and the closeness of Charles' body. Erik's body still remembers what it's like to want Charles. It's been a long time, but he still wants-- Erik's stomach turns over.
+
+"No," Erik says. He pulls away from Charles, disentangling himself from Charles's arms. Charles resists, but he was holding Erik delicately, like a lover, and it doesn't take much effort to break his grip.
+
+Charles's goes limp once they're not touching any longer, his eyes falling closed, a puppet with its strings cut. The metaphor is more apt than Erik wants to admit.
+
+He rearranges Charles' body on the cot, lifting Charles's legs off the floor and laying Charles' back against the thin mattress. Charles's face is wan, empty of all life, but he's still breathing. On an impulse, Erik leans over to press a kiss to Charles' forehead.
+
+Charles doesn't react.
+
+---
+
+"Erik?" Charles's voice cuts through the darkness. They get no sun inside their cell. Their only indication of night and day is the rotations by which the guards arrive and leave, the lights brightening and dimming to mark their shifts.
+
+At first, Erik thinks he might be dreaming, that Charles is inside his head, manipulating his mind instead of just reading it. There was a new drug cocktail today. They'd taken Charles away for a few hours and then brought him back, ashen-faced, sweaty, unconscious.
+
+Erik turns his head so that he's facing Charles' cot. It's too dim to make out more than the outline of Charles's head, his bright eyes "Yes, it's me," Erik says.
+
+"Oh," Charles says, and it's his own voice speaking, his little sigh at the end of his statement. "I don't suppose I'm in New York anymore."
+
+"No," Erik says. He's not alone in this cell anymore. Charles is here. Charles is *here*.
+
+Charles coughs. Erik scrambles to his feet, grabs a half-filled cup of water off the floor. He holds Charles's head up with one hand, uses the other to lift the cup to Charles's lips. Charles drinks hungrily, like a man who has been dying of thirst. After he empties the cup, he licks his lips, and his eyes focus in on Erik. "How long has it been?"
+
+"Two months," Erik says. His own voice is scratchy, barely louder than a whisper.
+
+"And I've--" Charles's brow furrows. "--I've been gone all that time, haven't I?"
+
+Erik can't speak anymore, so he just nods, squeezing his eyes shut, not letting the tears fall.
+
+A hand cups his face, soft, gentle fingers. "Erik," and it's still Charles speaking. Charles is the one who is touching him right now. 
+
+Erik opens his eyes.
+
+"We've made it through worse, haven't we?" Charles is smiling, and he must be thinking of Cuba, thinking of Trask, thinking of Apocalypse. His hair still has not grown back, and he still cannot walk. Erik does not wish to imagine what sort of lasting damage this little adventure of theirs will leave on Charles this time.
+
+"I don't rank them," Erik snaps.
+
+Charles chuckles, which turns into another coughing fit. His hand slips from Erik's face, but Erik grabs hold of it before Charles can pull it away. Charles's hand is clammy. Erik presses it to his lips, presses gentle kisses against Charles's knuckles. "They'll find us," Charles says after he's caught his breath again. His eyes have that same softness that they always take when he speaks of his children.
+
+"They haven't yet," Erik points out. Charles and his damned hope. His children are just as foolish as he is.
+
+"They will," Charles promises. He rolls himself to one side, making room on his cot, and his voice gets softer. "Please. Stay with me."
+
+For a moment, Erik's heart drops, because that was what he was thinking. Did Charles--
+
+But Charles just smiles with a teasing quirk to his lips, every bit the pampered Oxford boy, and Erik climbs onto the cot next to him, wrapping his arms around Charles's body, listening to the steady sound of Charles breathing.
+
+---
+
+They take Charles again in the morning.
+
+When they bring him back, he's nothing more than a body. 
+
+Erik lets Charles slump against him, and he thinks about his solitary prison underneath the Pentagon, how this silence reminds him of that one. 
+
+---
+
+Erik doesn't have much within the four walls of their cell, but he's removed a screw from one of the cots with his fingers. It's not a deadly weapon in his hands anymore, but he still likes it. He enjoys pushing at the limits of his current powers, floating it in front of his eyes. The effort required for even that pathetic display is enough to give him a headache for hours afterwards.
+
+When it's quiet, without even the sound of Charles's breathing to keep him company, Erik will close his eyes, clenching the screw in his fist, and try to collect the many scattered pieces of himself.
+
+He had a mother and father who he loved, who were taken from him.
+
+He had a wife and daughter. He had a quiet, peaceful life in Poland. There was a stream next to their house that he would dip his fingers into during the summer.
+
+He had Charles, brilliant and frustrating and difficult, who showed Erik what he was capable of.
+
+When he called out to metal, it used to answer him.
+
+Somehow, that's what hurts most of all.
+
+---
+
+Two guards hold Erik down, forcing Erik's cheek against the concrete floor, as a third cuffs his hands together behind his back.
+
+Their colonel stands above Erik, shadowed against the hallway light. He's an ugly man with an ugly buzzed haircut and an ugly mustache. "You know how he works, don't you?" the colonel asks. He nods at the door, a vague gesture for sure, but he cannot mean anyone besides Charles.
+
+Erik snorts. "I doubt even he knows how he works."
+
+The colonel is wearing heavy black military boots. Erik has seen them pass by many times as the colonel paces along the floor."We know he can control minds and not just read them. He's not being cooperative."
+
+"Maybe he'd cooperate if you weren't drugging him into incoherence." Erik smiles. It's not a friendly smile.
+
+The colonel matches his expression. "Maybe he'd be cooperative if he had the right sort of... motivation."
+
+The two guards lift Erik up until he's standing, and then they drag him out of the cell.
+
+---
+
+They bring Erik to the interrogation room. Erik's been here about a half a dozen times over the past few weeks, watching as they force Charles to use his powers on all sorts of people, young and old, big and small, male and female, cruel and kind. The room is bare, containing not much more than a table with two chairs, dirty floors, stained walls.
+
+Charles is sitting on a lopsided metal chair, his hands cuffed in front of his body. His eyes are empty, staring at an uninteresting point on the table. A nervous young man sits across from him, fidgeting in his seat. 
+
+The guards force Erik to kneel on the floor, the barrel of a gun pressed against the back of Erik's head. The metal isn't as comforting as it once was. In the state he's in, he couldn't stop a bullet if he tried.
+
+"Now," the colonel says. He leans over Charles, looming. "Maybe with your friend here, you'll be willing to help us out a bit." He nods at the young man. "Make him stand up."
+
+Words spill from Charles's lips. His eyes are blank. "He's wondering what will happen, what it will feel like with someone else in his head. Oh, but he's thinking that I'm in his head already. I'm already everywhere, and he's so very scared, and--"
+
+A slap across Charles's face. "Snap out of it," the colonel says.
+
+"You're already inside his head. You can make him stand up," the colonel says. He grabs hold of Charles's head, turns it so that he faces Erik. "Do it, or else your friend loses a finger." Erik meets Charles's eyes, and Charles's forehead furrows, like maybe he can actually recognize Erik right now.
+
+The young man's hands are curled into clenched fists. His eyes are squeezed shut. His breathing is rough and uneven.
+
+"Do it," Erik says. He thinks about reaching inside the boy's head, about forcing the boy to stand. Even if Charles doesn't have the facilities to do it himself, perhaps he can let Erik do it for him.
+
+Charles turns to face the boy. His head tilts to one side.
+
+*Do it* Erik thinks. If Charles can control again -- if Erik really is the key to unlocking that aspect of Charles's powers again -- then they have a means for escape. None of the guards nor the colonel are wearing protective helmets. They probably didn't even know why Erik was wearing one when they found him.
+
+The young man jerks in his seat, one leg straightening, then the other. The fear on his face becomes more pronounced. Erik has watched Charles get inside the heads of other people, but they don't move like this. They move naturally, fluid and easy. This is nothing like that.
+
+And then the young man lets out a strangled breath before collapsing, tumbling face-first out of his chair. Charles slumps in his seat but remains upright.
+
+A guard checks them both. The man is dead. Charles isn't.
+
+They drag Erik and Charles out of the room after that. This version of the experiment is over.
+
+---
+
+The guards dump Erik and Charles onto the floor of their cell. Erik picks Charles up, wrapping his arms underneath Charles's armpits, and pulling him to his cot. Charles is still and unmoving, but Erik's had enough practice with this. He knows exactly what to do.
+
+Erik doesn't let go, even when they're both firmly on the bed. Charles's head lolls to rest on Erik's shoulder. His body radiates warmth, even now. His bald scalp presses against Erik's neck.
+
+Erik can feel when Charles's breathing shifts, coming into consciousness. He seems animated, inside his own body once again.
+
+"What--" Charles slurs out. "-- Erik? What's happened?" Erik meets his eyes, reads the confusion and the tiniest trace of fear. For Charles, taking a human life is an unspeakable, horrifying thing, but for Erik, it's as commonplace as eating breakfast in the morning.
+
+"Nothing," Erik says. "Get some sleep."
+
+---
+
+Charles fades in and out all morning. He first wakes up as a nurse tending to a broken leg, then as a young girl who wants her teddy bear. For the most part, he sleeps.
+
+Around mid-day, Charles wakes again. He sits up straight on the cot and turns his head to face Erik, but it's not Charles who is looking out from those eyes. Charles doesn't carry his shoulders like that. "Magneto," Charles says. He's staring right at Erik, seeing Erik clearly.
+
+A chill runs down Erik's spine. Another telepath. "Who am I speaking to?" Erik says. 
+
+"You're going to want to step back right about now," Charles says in a flat American accent.
+
+"Jean?" Erik asks, but he steps back, trusting in her words right now.
+
+The wall of their cell explodes inwards, blasted open from the power of Scott's eyes.
+
+Hank bounds in, wearing his blue, furry form. He barely glances at Erik before lifting Charles's prone body -- once again limp and lifeless on the floor -- and carrying him away.
+
+Mystique herself steps through the ruined wall, blue and yellow-eyed. She says, "Why am I not surprised to see that you're involved in this somehow?" She sighs. "I suppose you'll be coming with us?"
+
+"There's at least five others being held here. You'll probably want to get them out as well," Erik says. He gestures towards the door.
+
+"That's the plan," Mystique says, before Scott's blasts through the heavy cell door into the hallway.
+
+---
+
+Erik lingers at Charles's bedside in the mansion while the drugs slowly leave their systems. There's a steady stream of children who peek their heads in to pay their respects, tip-toeing around Charles with large, worried eyes. Most of them were here when Erik rebuilt the mansion, so they are not surprised or concerned to see him around. While he's waiting, Erik spins the lone screw he saved from his cell like a top, faster and faster every day.
+
+About one week in, Charles wakes again. He blinks up at Erik and smiles. "Hello," he says, voice hoarse with sleep.
+
+"Welcome back," Erik says.
+
+"Oh," Charles says, closing his eyes. His smile takes on a gentle, warm quality that only appears when he's feeling -- settled, at home. "It is good to be here."
+
+"I'm sure," Erik says.
+
+"My own memories are... fuzzy," Charles continues. "I suppose it's better that way."
+
+"Yes," Erik says. They already carry so much. What's one more thing?
+
+"They-- they wanted me for my powers. I remember that much." Charles opens his eyes to look at Erik.
+
+"Yes, they made as much use of them as they could." Erik could tell him of all of it, the endless quiet of the cell, the voices that Charles would take on, the minds he'd invaded on the whims of angry men, but he knows Charles will take those memories back when he's ready.
+
+"I didn't hurt--" Charles hesitates. Erik isn't wearing his helmet. Charles can read into his mind.
+
+Erik keeps his mouth shut, because nothing he can say will change anything.
+
+The smile slides off Charles's face. He's never been good at hiding his emotions. They're written in the furrow of his forehead, the widening of his eyes, the way his mouth falls open. "You lied to me," he says, and he sounds the way he did when he punched Erik in the face, raw and angry and hurt. "That poor, poor--"
+
+"I did what needed to be done," Erik says. He makes no apologies for that.
+
+"I didn't," Charles says.
+
+---
+
+Erik doesn't wait to say goodbye. He's not sure Charles will want to speak to him again.
+
+But Charles, frustrating as he is, manages to intercept Erik right outside the front door. Erik has advance notice. Charles does nothing to hide his approach.
+
+"Leaving again so soon?" Charles asks. He's regained his composure, and his voice is filled with the toxic politeness that the English have honed into an art. He is once again in a tailored suit, straight-backed in his chair, sharp edges concealed once again.
+
+"I know I'm not welcome here," Erik says.
+
+Charles sighs. "It always comes to this, does it not?"
+
+"I suppose," Erik says with a shrug.
+
+"I never thanked you," Charles says. "You cared for me when I could not care for myself."
+
+"That's not why you're here right now," Erik says.
+
+"No, it isn't."
+
+For a moment, Erik wishes for the simplicity of their time in captivity together, when Charles's needs were uncomplicated. 
+
+Charles flinches, picking up on his thoughts.
+
+But there's also a pleasure in this, seeing Charles healthy and whole, fully himself once again, with all the associated difficulties that come with it. Erik lets himself indulge in his desire, now that Charles is capable of recognizing and understanding it. He leans over, presses a kiss to Charles's lips. When Erik pulls back, he says, "Goodbye, Charles."
+
+"Safe travels, Erik," Charles says. His lips are red and wet, and his eyes are tired and sad. "I'm sure our paths will cross again."
+
+"I would count on it," Erik says.
+
+ 
+
+FIN.

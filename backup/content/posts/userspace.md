@@ -1,0 +1,185 @@
+---
+ao3_url: https://archiveofourown.org/works/2792615?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Farrah Yon-Dale
+- Lillian Platt
+- Niola Chein
+- Bailey Gilande
+- Transistor - Character
+date: '2014-12-18'
+fandom:
+- Transistor (Video Game)
+notes: 'Here''s a Yuletide Treat! I hope you enjoy it!
+
+
+  Summary ganked from [Wikipedia](http://en.wikipedia.org/wiki/User_space).'
+relationship: []
+summary: A modern computer operating system usually segregates virtual memory into
+  kernel space and user space. This separation serves to protect data and functionality
+  from faults (by improving fault tolerance) and malicious behaviour (by providing
+  computer security).
+tags:
+- Interactive
+- Interactive Fiction
+- Character Study
+title: userspace
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+### Chapter 1
+
+
+#### Chapter Summary
+
+
+
+#### Chapter Notes
+
+
+
+> Here's a link to the interactive fiction part. If you'd like just to just read the central part of text, I've included it in the second chapter. But it is missing the framing story that helps connect things together.
+> 
+> 
+
+
+This is a short Interactive Fiction story written in Twine.
+
+
+[Read userspace](http://thedeadparrot.github.io/fic-projects/userspace/userspace.html)
+
+
+Final version is up! I have [made the source code available on Github](https://github.com/thedeadparrot/fic-projects/tree/master/userspace) to all those who are interested.
+
+You can also enjoy [the Twine tree](http://thedeadparrot.github.io/fic-projects/userspace/twine-tree.png) that this story is made out of.
+
+
+### Chapter 2
+
+
+#### Chapter Summary
+
+
+
+#### Chapter Notes
+
+
+
+
+*the artist*
+
+
+The sky burns red tonight. She used all her best tools for this particular one, adding texture, dimension, depth, shading. It will be beautiful, she knows. The polling numbers will be favorable. The administration will be pleased.
+
+*Art is about bleeding*, she once said. *Art is about tearing yourself open.*
+
+With a flick of her wrist, oranges manifest, yellows bloom. Her eyes drift towards the edges of her domain, to the parts of the sky she is not allowed to touch, but she doesn't let them linger there. The work is more important. She must stay focused on it.
+
+The sky is her canvas. The city is her audience. She bleeds for the whole world to see.
+
+---
+
+"The solstice is coming," she says. She cups her lover's cheek, feels her lover's smile widen beneath her fingertips.
+
+Her lover says, "Yes, it is." The night is dark. She isn't allowed to paint these skies. But here, in this bed, it is bright and warm.
+
+"Would you like me to paint you something?" she asks. She courts controversy by saying it out loud. No one person decides that much in Cloudbank.
+
+A laugh. A hand on her hip, sliding up to her waist, tiny bursts of electricity on her skin. "Of course."
+
+She smiles and asks, "What would you like?"
+
+"Surprise me," her lover says. "But you know I've always loved the color of sapphire."
+
+ 
+
+
+*the scientist*
+
+
+"You shouldn't," she says. Her work keeps her so busy that it makes it hard for her to visit with him often, but she knows that he's hurting. His pain is etched on every line of his face.
+
+Her friend's smile is small, weak. "But it's-- it's useful. I can't do my work without it."
+
+She wants to throw something at him, shake his shoulders, wake him up. He's killing himself. She won't watch that happen.
+
+He has made a new frock today, elegant in the shoulders, and a pair of beautiful white gloves to match. He is bursting with new ideas, new inspirations.
+
+"There is only a tiny sample size of data to support that argument," she says. "I won't accept it."
+
+He looks at the floor. "I'm sorry," he says, "but you'll have to."
+
+---
+
+They've decided it should rain today. That's an odd one. The people like their skies clear and sunny on most days, but sometimes in a fit of whimsy, there will be a shift. Clouds overhead and heavy winds. Thick fog. 
+
+She pulls the coat tighter around her shoulders, but the rain still catches in her hair, slides down her face and neck.
+
+There is something wrong in the system. The disappearing citizens. The statistical significances. Max.
+
+She knows--
+
+She doesn't want to believe that Grant could be involved, a senior administrator who has served the system so well. It could be a blip, a statistical anomaly.
+
+No, something is wrong.
+
+The puddles soak her shoes as she walks. 
+
+ 
+
+
+*the advocate*
+
+
+Goldwalk.
+
+It is beautiful, as all parts of Cloudbank are beautiful, but there are parts of it that no one wishes to look that, that no one wishes to see.
+
+She believes that the system has failed them. No-- she knows the system has failed them. In a world where every person has a voice, what happens to those whose voices are softer, considered less important, less interesting?
+
+She visits, as often as she can, the darkened streets where the OVC terminals are few and far between. They are always filled with people, crammed full with makeshift solutions for the things that cannot be voted into existence. A patchwork ladder to replace crumbling steps. Repurposed cooking pots filled with growing flowers.
+
+The people smile at her as she passes, and she knows there is so much more work to do.
+
+---
+
+"And why would that be?" she shouts. This should be beautiful, she knows. The opening of Goldwalk Channel, *her* Channel. All those voices, lost into the mist, never recorded. She couldn't stand it.
+
+The man is furious, fuming. "This 'art' on display. Garish and unpopular. It has no share. It doesn't deserve to be seen here."
+
+"It's powerful and unique! We've let it languish in the shadows for too long. A metro couldn't possibly--"
+
+A new man steps in. "The Channel earned 37% of the share to the metro's 29%," he says. "It has earned its right to remain here. Now if you'll excuse me, I have business to discuss with Ms. Chein."
+
+He leads her to a different section of the party, where the lights are not quite bright. "Administrator Kendrall," she says. "I can't imagine what interest you have in me. My duty is to Goldwalk."
+
+He nods his head. He is severe but not cold. "You serve it well," he says, "but the whole city is in need of your assistance."
+
+ 
+
+
+*the archivist*
+
+
+There are some who ask her how she can stand the silence of the archives, but the archives are never silent.
+
+They hum, ever present, ever waiting. They hold the history of the city in their spinning disks.
+
+It is uncommon, for anyone besides her to look at them. They are to be maintained, to be preserved, but not to be consulted or studied. The citizens of the city do not place any particular value in memory, not the way she does.
+
+But there are always patterns. The history of the city repeats itself. You only need to be skilled enough to see it.
+
+---
+
+One morning, she finds a story, a file buried in the archives. It has never been accessed before. Very few of the others study the archives besides her.
+
+It's an early story about the city, about Cloudbank.
+
+She opens it, of course, curious to see what was inside.
+
+A decision. Made years ago. A referendum on whether to disable the OVC terminals, to shut down the system and let the people speak in the individual rather than the aggregate.
+
+It failed by a large margin: 82% to 18%. The OVC terminals remained up. The system remained in place.
+
+She closes the story and puts it back where she found it.
+

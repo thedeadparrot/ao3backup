@@ -1,0 +1,170 @@
+---
+ao3_url: https://archiveofourown.org/works/1172?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- John Connor
+date: '2008-09-30'
+fandom:
+- Terminator
+notes: Not quite sure where this came from. Thanks to crazythorn for the grammar check.
+  Takes place between Terminator 2 and Terminator 3.
+relationship: []
+summary: How do you outrun your own fate?
+tags: []
+title: Running To Stand Still
+warnings: No Archive Warnings Apply
+---
+
+John was eighteen when his mother died. They were in Mexico, per her instructions. It was supposed to be safe. They were supposed to pull through this together.He sat at her bedside, listening to the steady, electronic beeping of some machine or another and gripping her hand so hard that the flesh was turning white underneath his fingers.
+
+It was September 1997 and the world hadn't ended, Judgment Day never happened."We're free," she had said, wistful smile on her face. "Every day is a gift."
+
+John had smiled too. It was such a beautiful dream.
+
+
+
+---
+
+The second his mother was officially pronounced dead, John ran and never looked back.
+
+Paranoia was a hard habit to break.
+
+
+
+---
+
+He found himself in Texas first. It was the most obvious place to go, back to the US where he knew the language and the people. He couldn't risk going back to California. Not yet, at least. It would be too uncomfortable, too strange, without his mother.
+
+Texas was a construction job right outside of Austin. It paid five dollars an hour, and John stayed for a few months, before his employer decided that he didn't need John anymore.
+
+Not that John minded in the least. The dreams had started again, so he had run again.
+
+West.
+
+
+
+---
+
+The best dreams, the ones that John didn't mind having, were the ones of his mother.
+
+He always dreamt of her the way he would remember her, strong and fierce and protective."You have a destiny to fulfill," she always told him, but he learned to just shrug it off.
+
+"Not anymore," he always replied. "It's over."
+
+It always sounded false. Maybe he needed to keep saying it until he believed it.
+
+
+
+---
+
+Las Vegas was a year, maybe more, as far as John can remember. It wasn't as if he really kept track of time beyond surviving from day to day. That was all John needed: to see tomorrow, to wake up and see the sun rise, to know that he had the rest of his life. Or not.
+
+That wasn't to say that Las Vegas wasn't good to John; it was. He could just disappear into it, vanish without a trace, so long as he kept clear of larger casinos and most tourists. People didn't ask many questions about your past in Las Vegas.
+
+When John went there, he had nothing except the clothes on his back, a backpack filled with anything he thought might be useful, and a few thousand dollars left over from Austin and his mother's assets. He had nothing, but he didn't really want anything, so it all worked out in the end.
+
+
+
+---
+
+A guy he knew from work let him live with him for a while, and John made sure to be unobtrusive. It wasn't hard to stay quiet and invisible, and John made sure to pay his part of the rent in cash. Most days, he slept on the couch under a worn, puke-orange blanket, and most nights he mopped sea green tile clean of dirt and blood.
+
+He told anyone who asked that his name was John Mathews, and learned to react to it like it was his own. No one seemed to care whether it was really his or not, they just needed something to call him, and "Mathews" was as good as anything else.
+
+
+
+---
+
+John had a girl in Vegas, if that's what you'd call it. She was a dancer at a nearby casino who'd taken a liking to him, and John had encouraged it, if only because it was nice to be liked, for once.
+
+Her name was Lauren, he remembers, all dyed-blond hair and plastic, red nails that liked to dig into his skin. They never stayed at his place, because John didn't like his place, and she didn't live with anyone else, anyway.
+
+It ended almost as abruptly as it began when she left for Hollywood and never came back. John didn't mind, really. It wasn't much more than a way to kill time. John thinks that maybe he could have warned her, given her a chance, but it wasn't as if he would have believed himself at the time.
+
+
+
+---
+
+One too-early morning, John tripped over his own shoes after walking out of the bathroom and went flying, landing flat on his nose.
+
+Later, while trying to stop the flood of blood from his left nostril, he stared at himself in the bathroom mirror. *If I'm going to be the savior of the human race,* he thought, *then the human race is fucking doomed.*
+
+
+
+---
+
+For his twentieth birthday, John bought himself a bike, a paint ball gun, and a fake ID.
+
+The most you could say for the bike was that it worked. That was all John needed, really. Beggars couldn't be choosers. He liked to ride it, when he could afford the gas, and just looking at it made him happy.
+
+The paint ball gun was nothing more than a toy. John knew how to use a real one (his mother had taught him that years before), but he didn't want a real one. A real one would have meant that he would actually have to use it for something besides the intimidation factor, and John didn't like to think about that too deeply. Besides, a real one would be expensive, and John just didn't have the cash.
+
+In a fit of whimsy or stupidity (probably both), John decided to use his real name for the fake ID. It wasn't the best money could buy, but it was enough to get him cigarettes and alcohol. John could live with that.
+
+John Connor, it said, twenty-two years old. He stared at it for a whole twenty minutes before realizing he probably looked like a moron and put it away.
+
+
+
+---
+
+The night before John left Las Vegas, he dreamed of his mother again."You have to leave," she said this time, deviating from their previous pattern.
+
+John had shaken his head. "I don't. I'm free, remember? The machines aren't going to take over. I don't have to save the fucking world. *This* is the future I've made."
+
+She looked so disappointed in him when he said that, and part of him wanted to lie to her, say that he was ready, that he was actually capable of leading humankind to victory if need be.
+
+He didn't, because this was a dream, and it wouldn't have made any difference anyway.
+
+In the morning, he slipped out without a note, leaving the rent on the counter.
+
+
+
+---
+
+The bike made it easier, not needing to hitchhike his way across the country. He stole gas when he could and made do with whatever he had, picking up odd jobs here and there.
+
+Sooner, rather than later, he found himself back in California. There was a small construction job in Barstow, and he stayed for a week, before the dreams started again. He didn't see his mother this time, but he got the message.
+
+
+
+---
+
+He picked up an old walkman from a thrift store in Simi Valley. It was old, probably from the late-eighties, early-nineties, obviously well used.
+
+His mother had left him ten tapes, each neatly labeled with a place and a date. She'd given them to him when he was fourteen, feeling the freedom away from school, away from responsibilities. When he asked, she didn't explain. He never listened to them while she was awake and watching him. It didn't seem right, somehow. So he listened to them in fragments, catching a few minutes here and there.
+
+After his mother died, he considered chucking them, but they were all he had of her, except for the pictures.
+
+The one he listened to the most, the one that made him feel the least like some sort of dog that needed to be trained, was the first one, the one she'd recorded before he was ever born. She sounded sad, like she always did, but hopeful, too. *I was her hope,* he thought, but that line of thinking always reminded him of how much he'd failed her.
+
+She always sounded so happy talking about his father, too, happier than she'd ever seen her. His father that wouldn't be born for another ten years, at the very least. Sometimes, he wished he had known his father, even for a moment, while growing up, but he would know his father, in a possible future, a future that they'd destroyed. It made John's brain hurt just thinking about it.
+
+*I had a fucking machine for a father.* That removed the ambiguity at least, to think of the T-800 as his father.
+
+Sometimes, John wondered if he'd ever stop being angry.
+
+
+
+---
+
+He drifted around LA for another few years, never venturing into the city. *That's where they're going to start looking,* he thought, even though that future was wiped out long ago.
+
+He circled through San Bernardino, Kern, and even Santa Barbara, doing construction work, mostly. Something was drawing him to LA, he could feel it. The dreams got stronger, more vivid, as he got closer to the city. The oceans filled with human skulls, the glittering chrome skeletons of the terminators, the endless nights under a dust-choked sky.
+
+It wasn't going to happen. It couldn't happen. John had to believe that if he was going to get through each day. But how could anyone outrun their own fate?
+
+
+
+---
+
+The night before it all went to hell, before the machines came after him again, he dreamed of the T-800.
+
+It was just standing there, staring out into nothing, illuminated by a single beam of light. John had walked closer hesitantly, unsure of exactly what was going on."Hello?" he'd asked cautiously.
+
+The terminator turned his head, eyes glowing an eerie red. John jumped back, startled, landing on his ass. He scrambled to his feet again, prepared to run. He was good at that. Running would not be a problem.
+
+But the terminator made no move toward him. It only said three words ominously.
+
+"I'll be back."
+
+FIN.

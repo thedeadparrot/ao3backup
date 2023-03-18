@@ -1,0 +1,74 @@
+---
+ao3_url: https://archiveofourown.org/works/2142?view_adult=true&view_full_work=true
+author: thedeadparrot
+characters:
+- Roy Mustang
+- Maes Hughes
+date: '2008-12-02'
+fandom:
+- Fullmetal Alchemist
+notes: Prequel to Maybe Tomorrow (same AU at least), mostly because I needed something
+  not really angsty to write. So, light, fluffy pre-slash. w00t.
+relationship:
+- Hughes/Mustang
+summary: In which Kain likes French fries, Jean gets rejected again, Roy can't write
+  lyrics, and Maes is amused by it all.
+tags:
+- Prequel
+- Alternate Universe
+- Rock and Roll
+title: Take It Or Leave It
+warnings: Creator Chose Not To Use Archive Warnings
+---
+
+They find a McDonald's in Nowheresville, Middle America, and a collective sigh of relief can be heard throughout the bus. Finally. Recognizable food.
+
+Maes was never particularly fond of McDonald's while growing up, because it always tasted bland and uninteresting next to everything else in New York. But on tour, Mcdonald's was a lifeline, a place where you always knew just how much the food sucked.
+
+It's around closing time, and the sky is pitch black. Moonlight tries to make its way from behind a few clouds but not really succeeding, leaving one portion of the sky only a slightly brighter shade of gray.
+
+The McDonald's is empty, save for a cashier and a person manning the drive-through window. They look like they're talking in an attempt to stave off the boredom. It's a band decision to go in instead of getting drive through. They have a chance to stretch their legs a bit, get out of the relatively cramped bus.
+
+It's nice to breathe in fresh air, and Maes takes a few seconds to enjoy it. The parking lot is lit in street lamps, casting everything in orange shades. He sees Roy half-grin in silhouette next to him, and it makes Maes smile giddily. He's not sure why.
+
+They walk inside, and it's like walking into another world, the colors washed out by the fluorescent lighting. The world looks different like this. More sterile, more blue perhaps, but not really in a good or bad way. It just *is*.
+
+At the counter, the girl at the register (name tag: Jennifer) takes their orders with something akin to relief, and the boy in the back gets to work making their food. Jean flirts with her for a bit, telling her that he's the lead guitarist in a band, while everyone else rolls their eyes. She tolerates him with a half-hearted smile, but she keeps on sneaking glances at Roy who seems more intent on his food than the romantic attention.
+
+They take a table near the window. Maes next to Roy, Jean next to Kain. The chairs feel hard and plastic, and just uncomfortable enough to keep anyone from falling asleep. They're gray and plain, even more so under the lighting. Near the window, It's like sitting next to a black mirror, if anything like that existed. Even with the patches of orange, it's hard to see outside, the reflections of the four of them much clearer.
+
+Liza and Armstrong, their driver, come in a few minutes later after taking care of the bus related things. The two of them grab a table far away, and talk about what they want to do when they get to the next venue. Maes only catches bits of their conversation, but it wasn't really interesting in the first place.
+
+Roy starts up a conversation about the title of their next song between bites of his hamburger. Maes hasn't written lyrics yet, though a few lines have popped into his head. When the discussion gets heated, he pulls 'lead singer' rank and tells the others that *he'll* name the song *after* they have lyrics.
+
+Roy glares at him. "It's still the band's song. Not just yours."
+
+"If you write the lyrics, you can pick the song title," Maes reminds him. It's a long agreed upon band rule. Roy makes a face. He tried writing lyrics once. He also burned them immediately after and told Maes that the job was all his.
+
+Maes thinks he hears Roy mutter something under his breath about songs not really needing lyrics.
+
+Meanwhile, Kain, a notorious French fry fiend, has been silently stealing their fries. Maes doesn't care --McDonald's French fries are a little too salty for his taste anyway -- but Jean and Roy both protect their fries with the zeal of mothers guarding their children.
+
+Their argument is the typical one.
+
+"Why the hell do you always have to steal mine?" Jean sounds as indignant as ever. It's probably the fourth time he's asked the question over the last week or so. The answer's the same, too.
+
+"They don't ever give enough!" Kain protests. He never fails at looking like a kicked puppy even when he may or may not have deserved it. Roy just sulks and hugs his fries to his chest, far out of Kain's reach.
+
+Jean gets as frustrated as he usually does and tells Kain to get more fries. He goes as far to shove a five dollar bill into Kain's hand and push him off his chair.
+
+Kain meekly gets up and orders another carton of fries. A quarter of them are gone before he even gets back to the table.
+
+Maes glances over toward the other table, where Liza and Armstrong are sitting. He makes eye contact with Liza, whose expression says, "Don't make trouble or I'll have to kill all of you. Slowly". Armstrong merely looks entertained. Maes shrugs to Liza, trying to convey, "There's nothing I can really do about it." She shakes her head and turns back to her salad.
+
+Roy kicks him under the table, and Maes spins to face him so quickly he almost gets whiplash. "What?" he asks.
+
+"I'm sorry," Roy says, "about before."
+
+It's not a lot, but Maes knows just how much Roy hates apologizing. The fact that he's doing it at all is quite telling.
+
+"It's all right," Maes replies. "I know you get *so* worked up over my songs that you just *have* to name them." He makes kissy faces in Roy's direction.
+
+That earns him another kick underneath the table.
+
+FIN.
