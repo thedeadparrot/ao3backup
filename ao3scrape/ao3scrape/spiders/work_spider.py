@@ -52,8 +52,8 @@ class WorkListSpider(CrawlSpider):
         item['title'] = response.xpath('//h2/text()').get().strip()
         item['author'] = response.xpath('//h3[@class="byline heading"]/a[@rel="author"]/text()').getall()
         item['published'] = response.xpath('//dd[@class="published"]/text()').get().strip()
-        item['summary'] = ''.join(response.xpath('//div[@class="summary module"]/blockquote/*').getall()).strip()
-        item['notes'] = ''.join(response.xpath('//div[@class="notes module"]/blockquote/*').getall()).strip()
+        item['summary'] = ''.join(response.xpath('//div[@class="preface group"]/div[@class="summary module"]/blockquote/*').getall()).strip()
+        item['notes'] = ''.join(response.xpath('//div[@class="preface group"]/div[@class="notes module"]/blockquote/*').getall()).strip()
         # handle tags
         for category in ["rating", "warning", "category", "fandom", "relationship", "character", "freeform"]:
             self.parse_tags(response, item, category)
@@ -62,10 +62,10 @@ class WorkListSpider(CrawlSpider):
 
         if response.xpath('//div[@class="chapter"]'):
             # handle multi-chapter story
-            text = response.xpath('//div[@id="chapters"]/div[@class="chapter"]/div[@role="article"]/*').getall()
+            # Stores the data as a list instead of a single string.
+            item['multi_chapter_text'] = response.xpath('//div[@id="chapters"]/*').getall()
         else:
             # single-chapter story
-            text = response.xpath('//div[@id="chapters"]/div[@class="userstuff"]/*').getall()
+            item['single_chapter_text'] = "".join(response.xpath('//div[@id="chapters"]/div[@class="userstuff"]/*').getall()).strip()
 
-        item['text'] = "".join(text).strip()
         return item
