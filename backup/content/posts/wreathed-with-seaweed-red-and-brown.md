@@ -14,6 +14,7 @@ fandom:
 - The Mentalist
 notes: I'd like to thank my betas for listening to me panic about this story for ages
   and to thank crysgen78 for giving me a crossover idea I couldn't refuse.
+rating: Mature
 relationship: []
 summary: Above him, a smiling face is hand-drawn in blood on the refrigerator. The
   killer used so much blood that the eyes look as though they are crying, red tears

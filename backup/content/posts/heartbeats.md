@@ -8,6 +8,7 @@ date: '2009-01-08'
 fandom:
 - House M.D.
 notes: I had a somewhat shit week, so here's some more about the weather.
+rating: General Audiences
 relationship:
 - Greg House/James Wilson
 summary: Three moments in which House and Wilson are almost kind of functional.

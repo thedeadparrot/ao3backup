@@ -20,6 +20,7 @@ notes: "So many thanks to Dark\\_Eyed\\_Junco for the beta and the encouragement
   \ - under penalty of death. Special police squads - BLADE RUNNER UNITS - had orders\
   \ to shoot to kill, upon detection, any trespassing Replicant This was not called\
   \ execution. It was called retirement.*"
+rating: Explicit
 relationship:
 - Jeff Carter/Mike Richards
 summary: '*The years of doing this -- the same case files full of replicants, the

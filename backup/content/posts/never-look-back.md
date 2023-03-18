@@ -12,6 +12,7 @@ notes: This is a Sherlock update on Neil Gaiman's Sherlock Holmes/H.P. Lovecraft
   even if you don't want to read this. It's fine. I'll wait. [![[personal profile]
   ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)[**zulu**](http://zulu.dreamwidth.org/)
   helped me make this a lot better.
+rating: Mature
 relationship:
 - Sherlock Holmes/John Watson
 summary: '*"Thus always to tyrants, then?" John says, inspecting the polished metal.

@@ -9,6 +9,7 @@ fandom:
 - Smallville
 notes: UST, mostly. Told backward. Some fifth season spoilers and some speculation
   that has since turned out to be false. Damn. Any feedback would be appreciated.
+rating: General Audiences
 relationship:
 - Lois/Clark
 summary: Lois and Clark, dancing around each other like always.

@@ -14,6 +14,7 @@ notes: 'Many thanks to all the folks who were supportive while I tried to rememb
 
 
   And many more thanks to sara\_wolfe for donating to make this possible.'
+rating: Teen And Up Audiences
 relationship:
 - Nancy Drew/George Fayne/Ned Nickerson
 summary: A ghost is haunting the Claw. George and Nick call Nancy in to help figure

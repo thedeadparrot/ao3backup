@@ -10,6 +10,7 @@ notes: "I was brainstorming what sorts of daemons I thought Mark and Eduardo wou
   \ to [**merisunshine36**](http://merisunshine36.dreamwidth.org/) for the beta and\
   \ sounding board and to [**ninhursag**](http://ninhursag.dreamwidth.org/) for the\
   \ extra brainstorming assist.\n\n\_\n\nThere is now [podfic of this story](http://knight-tracer.livejournal.com/51492.html)."
+rating: General Audiences
 relationship:
 - Eduardo Saverin/Mark Zuckerberg
 summary: HDM AU/fusion-ish thing. *Mark is an obsessive workaholic, which suits Eduardo

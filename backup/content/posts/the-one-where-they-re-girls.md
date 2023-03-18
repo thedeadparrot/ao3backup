@@ -9,6 +9,7 @@ fandom:
 - House M.D.
 notes: There really is no excuse for writing this, though I blame the SGA fandom for
   permanently warping my brain.
+rating: Teen And Up Audiences
 relationship:
 - Greg House/James Wilson
 summary: '"I''ve always wanted to be a lesbian," House said, feeling up his chest

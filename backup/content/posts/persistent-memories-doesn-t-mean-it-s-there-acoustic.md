@@ -8,6 +8,7 @@ fandom:
 - Fullmetal Alchemist
 notes: For remixredux, a remix of dogmatix\_san's [Persistence of Memory](http://community.livejournal.com/yaoi_challenge/53087.html).
   Featuring creepy!kindainsane!Roy. Many thanks to daringu\_filter for the beta.
+rating: Mature
 relationship:
 - Hughes/Mustang
 summary: In which Roy can't let go.

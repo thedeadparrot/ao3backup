@@ -7,6 +7,7 @@ date: '2008-09-28'
 fandom:
 - Carnivale
 notes: Unbetaed. A sort of moody, post-New Canaan vignette thing.
+rating: Not Rated
 relationship:
 - Ben/Sofie
 summary: Sofie still dreams of the carnival.

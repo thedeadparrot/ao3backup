@@ -9,6 +9,7 @@ fandom:
 - Fullmetal Alchemist
 notes: I wrote this a really long time ago, and it still very much amuses me, so I'm
   posting it.
+rating: General Audiences
 relationship: []
 summary: Roy and Hughes, growing up.
 tags:

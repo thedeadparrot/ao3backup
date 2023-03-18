@@ -8,6 +8,7 @@ fandom:
 - 'Star Trek: XI'
 notes: For yahtzee63's [Journey To Drabble Challenge](http://yahtzee63.livejournal.com/404795.html)
   and the prompt 'Spock Prime and Kirk, clarification'. Many thanks to zulu for audiencing.
+rating: General Audiences
 relationship:
 - Kirk/Spock Prime
 summary: This new planet is not Vulcan. The mountain caves have not been mapped, and

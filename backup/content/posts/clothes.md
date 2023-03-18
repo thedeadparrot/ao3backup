@@ -6,6 +6,7 @@ date: '2017-07-12'
 fandom:
 - 'Star Wars Episode VII: The Force Awakens (2015)'
 notes: Written for week 2 of pornathon and the prompt 'clothes'.
+rating: Explicit
 relationship:
 - Poe Dameron/Finn/Rey
 summary: '"It really does look better on you," Poe says.'

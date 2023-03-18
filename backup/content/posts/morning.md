@@ -8,6 +8,7 @@ date: '2009-02-21'
 fandom:
 - Smallville
 notes: For Porn Battle VII and the prompt 'Clark/Lois, sunlight'.
+rating: Explicit
 relationship:
 - Lois/Clark
 summary: Lois presses a kiss to his cheek and a hand to his chest and says, "It's

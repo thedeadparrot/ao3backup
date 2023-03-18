@@ -12,6 +12,7 @@ notes: 'Title from Shakespeare, because I am all about Shakespeare''s sex puns.
 
   Thanks to azephirin for the beta and the copyediting and to Dark\_Eyed\_Junco for
   the audience.'
+rating: Explicit
 relationship:
 - "Joe | Yusuf Al-Kaysani/Nicky | Nicol\xF2 di Genova"
 summary: '*What Nicky wants is a chance to make marks on Joe''s body, something deeper

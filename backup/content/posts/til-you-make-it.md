@@ -7,6 +7,7 @@ fandom:
 - Don't Trust the B---- in Apartment 23
 notes: Written as part of [Fandom Trumps Hate](http://fandomtrumpshate.tumblr.com/).
   Excellent beta assist from Zulu.
+rating: Teen And Up Audiences
 relationship:
 - Chloe/June Colburn
 summary: '*"I ran into Ellen Page yesterday in a Duane Reade condiments aisle," Chloe

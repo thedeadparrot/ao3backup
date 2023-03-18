@@ -12,6 +12,7 @@ notes: This one, unlike the last one, actually assumes knowledge of BSG up until
   season 3. It's also more of an actual crossover, with special guest appearances
   by Doc Cottle and Laura Roslin, as well as a cameo by Tigh. The title and all the
   lyrics come from Radiohead's Exit Music (For a Film).
+rating: Teen And Up Audiences
 relationship:
 - Greg House/James Wilson
 summary: House and Wilson and New Caprica.

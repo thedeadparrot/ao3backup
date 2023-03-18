@@ -8,6 +8,7 @@ fandom:
 - House M.D.
 notes: This was meant to be part of a Five Things set, but the other four never quite
   seemed to be good enough. It's more of an experiment in style than anything else.
+rating: General Audiences
 relationship: []
 summary: Just a snippet of House's childhood.
 tags:

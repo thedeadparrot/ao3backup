@@ -10,6 +10,7 @@ fandom:
 notes: "This is my first HP fic. Written in a weirdly experimental style. You really\
   \ don't want to know the geekiness that inspired this. Nope.  \nThanks to librae\
   \ for looking this over and giving me heaping loads of encouragement."
+rating: Not Rated
 relationship:
 - Sirius Black/Remus Lupin
 summary: A day in the life.

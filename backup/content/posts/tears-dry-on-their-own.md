@@ -7,6 +7,7 @@ fandom:
 - Paradise Kiss
 notes: Written for Sandoz for yuletide 2008. Many thanks to queenzulu and leiascully
   for the betas. They are awesome.
+rating: Teen And Up Audiences
 relationship:
 - Hiro/Yukari
 summary: Time keeps moving forward, and Yukari still feels like she's racing to catch

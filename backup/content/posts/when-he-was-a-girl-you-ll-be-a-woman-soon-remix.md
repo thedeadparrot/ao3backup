@@ -10,6 +10,7 @@ fandom:
 notes: For remixredux08. Many thanks to my betas queenzulu and savemoony, who made
   this story infinitely stronger and also rolled their eyes and laughed in my face
   when I said I wasn't going to write genderfuck for this challenge.
+rating: Mature
 relationship:
 - Greg House/James Wilson
 summary: One day, Wilson wakes up as a woman.

@@ -7,6 +7,7 @@ fandom:
 - Captain America (Movies)
 - Community (TV)
 notes: This is all merisunshine36's fault. ALL OF IT.
+rating: General Audiences
 relationship:
 - Troy Barnes & Annie Edison & Abed Nadir
 summary: 'Abed gets home after a rough day at work.

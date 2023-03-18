@@ -14,6 +14,7 @@ notes: This was heavily inspired by *Friday Night Lights*. You don't need to see
   for poking me into writing this when it was just a wee bunny and for calling me
   on my laziness, and savemoony for audiencing and listening to me bitch when I needed
   it most. This would not be here if not for them.
+rating: Explicit
 relationship:
 - John Sheppard/Rodney McKay
 summary: After the sudden heart attack of Coach Sumner, Pegasus High School needs

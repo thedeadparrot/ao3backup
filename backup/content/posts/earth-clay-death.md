@@ -9,6 +9,7 @@ fandom:
 - Fullmetal Alchemist
 notes: Extraordinarily late response to Yahtzee's [Greatest Movie Lines Challenge](http://www.livejournal.com/users/yahtzee63/185439.html).
   Unbetaed, very short, and in manga canon. Warfic.
+rating: Not Rated
 relationship:
 - Hughes/Mustang
 summary: And our bodies are earth. And our thoughts are clay. And we eat and sleep

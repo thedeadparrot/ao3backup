@@ -9,6 +9,7 @@ fandom:
 - Critical Role (Web Series)
 notes: Written for the prompt 'journey/distance/travel'. Takes place during the time
   skip, and it hasn't even been jossed by the latest ep, which I was worried about.
+rating: Explicit
 relationship:
 - Percival "Percy" Fredrickstein Von Musel Klossowski de Rolo III/Vex'ahlia
 summary: The places they've been.

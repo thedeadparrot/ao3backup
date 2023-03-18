@@ -13,6 +13,7 @@ notes: 'This is an AU where [sedoretu](http://fanlore.org/wiki/Sedoretu) marriag
   I''m trying to finish it as part of [10 in 10](http://archiveofourown.org/collections/ten_in_ten),
   so it''s not going to be polished for a while, but it will probably be frequently
   updated.'
+rating: Mature
 relationship:
 - Brian O'Conner/Dominic Toretto
 - Brian O'Conner/Mia Toretto

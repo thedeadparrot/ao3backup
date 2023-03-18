@@ -7,6 +7,7 @@ fandom:
 - The Middleman (TV)
 notes: I'd like to thank my beta, who gave me the bitching title (and a lot of other
   help, too).
+rating: Mature
 relationship:
 - The Middleman/Wendy Watson
 summary: When you get right down to it, Wendy knows she's a totally bitchin' bad guy.

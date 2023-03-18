@@ -13,6 +13,7 @@ fandom:
 - Stargate Atlantis
 notes: If you've been following the tidbits in my journal, this is the whole story,
   including those bits. So much love to M for her enthusiasm and suggestions.
+rating: General Audiences
 relationship: []
 summary: Unlike most of the Atlantis gate teams, SGA-12 was formed pretty much before
   they ever set foot in the Pegasus galaxy, so they didn't really have to do team

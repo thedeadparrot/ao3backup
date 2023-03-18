@@ -13,6 +13,7 @@ notes: "Splits off from the end of The Force Awakens. I have spent a bunch of ti
   \ on Wookieepedia researching it, but I do fudge some of their backstories here\
   \ because I still haven't read Before the Awakening. Sorry if I contradict anything\
   \ that's canon.\n\n\_\n\n\n[Also on Tumblr](http://thedeadparrot.tumblr.com/post/137432619322/fic-the-galaxy-is-not-a-cold-dead-place-star)"
+rating: Teen And Up Audiences
 relationship:
 - Poe Dameron/Finn/Rey
 summary: 'Canon Divergent AU: Finn and Poe go with Rey to find Luke Skywalker, and

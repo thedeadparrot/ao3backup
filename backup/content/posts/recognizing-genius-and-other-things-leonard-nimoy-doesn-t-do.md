@@ -7,6 +7,7 @@ fandom:
 - Star Trek RPF
 notes: '[![[info]](http://l-stat.livejournal.com/img/userinfo.gif)](http://queenzulu.livejournal.com/profile)[**queenzulu**](http://queenzulu.livejournal.com/)
   rocks for helping me fix this up and make it not suck.'
+rating: Teen And Up Audiences
 relationship:
 - William Shatner/Leonard Nimoy
 summary: '*Bill has decided that one day, Leonard will finally admit that Bill comes

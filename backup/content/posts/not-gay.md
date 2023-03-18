@@ -9,6 +9,7 @@ fandom:
 - The Office (UK)
 notes: Written for the Yuletide New Year's Resolution Challenge. And wow, I wrote
   something that could possibly construed as funny. Go me.
+rating: Teen And Up Audiences
 relationship:
 - Tim/Gareth
 summary: Gareth Keenan is not gay.

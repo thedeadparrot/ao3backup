@@ -15,6 +15,7 @@ notes: 'I am blaming Marina for tricking me into writing this. Thank you so much
   I don''t know how to warn for this, but there''s some violence, some mild descriptions
   of sex, and even a bit of bloodplay, but I''m not sure there''s enough to warrant
   any tags.'
+rating: Mature
 relationship:
 - "Joe | Yusuf Al-Kaysani/Nicky | Nicol\xF2 di Genova"
 summary: Joe and Nicky celebrate an anniversary at a gas station, get into a pointless

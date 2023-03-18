@@ -9,6 +9,7 @@ date: '2009-01-08'
 fandom:
 - House M.D.
 notes: Many thanks to savemoony for the suggestions and the willing ear.
+rating: Teen And Up Audiences
 relationship:
 - James Wilson/Lisa Cuddy
 summary: She could lie to him, tell him it was about the baby, tell him it was because

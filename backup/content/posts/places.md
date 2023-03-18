@@ -6,6 +6,7 @@ date: '2010-02-10'
 fandom:
 - 'NCIS: Los Angeles'
 notes: Written for porn battle ix and the prompts 'public' and 'gay bar.'
+rating: Explicit
 relationship:
 - G Callen/Sam Hanna
 summary: '"Don''t have a place right, now," G says automatically, but Sam knows this

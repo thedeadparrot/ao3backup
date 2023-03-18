@@ -21,6 +21,7 @@ notes: 'Content note: Mike hunts a deer and butchers it afterwards. And there''s
 
 
   Unbetaed.'
+rating: Mature
 relationship:
 - Jeff Carter/Mike Richards
 summary: '*On the ice, he careens into opposing players, he fires off slapshots, he

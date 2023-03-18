@@ -10,6 +10,7 @@ notes: 'So much love for ladyofthelog and zulu for their excellent beta skills.
 
   Also at: [Tumblr](http://thedeadparrot.tumblr.com/post/98762828402/fic-hand-covers-bruise-captain-america)
   | [DW](http://thedeadparrot.dreamwidth.org/562567.html) | [LJ](http://parrotfic.livejournal.com/42097.html)'
+rating: Explicit
 relationship:
 - James "Bucky" Barnes/Natasha Romanov
 summary: Natasha finds Bucky on a rooftop in Berlin, and things snowball from there.

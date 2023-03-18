@@ -7,6 +7,7 @@ fandom:
 - The Social Network
 notes: Much love to [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)[**zulu**](http://zulu.dreamwidth.org/)
   for the beta.
+rating: Explicit
 relationship:
 - Eduardo Saverin/Mark Zuckerberg
 summary: '*Mark is trying, and he thinks Eduardo is trying, but their resentments

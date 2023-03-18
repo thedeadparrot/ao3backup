@@ -8,6 +8,7 @@ date: '2009-01-12'
 fandom:
 - Politician RPF
 notes: I think I'll blame queenzulu for this. She betaed it too.
+rating: Mature
 relationship:
 - Hillary Clinton/Barack Obama
 summary: They can relax around each other now that it's over, now that everything

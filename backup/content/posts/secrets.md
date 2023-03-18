@@ -6,6 +6,7 @@ date: '2017-07-18'
 fandom:
 - How to Get Away with Murder
 notes: Written for the prompt 'secrets'. So here's some season one Connor feelings.
+rating: Explicit
 relationship:
 - Oliver Hampton/Connor Walsh
 summary: After the bonfire, Connor can't sleep.

@@ -8,6 +8,7 @@ fandom:
 - 'Angel: the Series'
 notes: Many thanks to nnaylime for her beta. Takes places season 5 somewhere between
   Smile Time and A Hole In The World.
+rating: Teen And Up Audiences
 relationship: []
 summary: Every morning, Angel wakes to the sun on his face and the taste of blood
   on his tongue.

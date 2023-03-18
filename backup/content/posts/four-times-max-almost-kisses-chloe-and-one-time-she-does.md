@@ -6,6 +6,7 @@ date: '2015-12-20'
 fandom:
 - Life is Strange (Video Game)
 notes: Only contains spoilers up to episode 3. Thanks so much to my beta!
+rating: General Audiences
 relationship:
 - Maxine Caulfield/Chloe Price
 summary: ''

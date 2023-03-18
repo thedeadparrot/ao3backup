@@ -15,6 +15,7 @@ notes: 'I was originally considering amnesia fic, but I realized that reverse am
 
 
   Dark\_Eyed\_Junco enabled and audienced this, and I am so, so grateful.'
+rating: Mature
 relationship:
 - Jeff Carter/Mike Richards
 summary: 'Jeff Carter''s got enough to worry about with the end of the OHL season

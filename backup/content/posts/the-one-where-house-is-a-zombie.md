@@ -10,6 +10,7 @@ fandom:
 notes: Okay, I realize that other people are writing zombies, too, but I'm pretty
   sure that this is different enough that I'm not ripping them off at all. Once again,
   many thanks to queenzulu and savemoony for the betas.
+rating: Teen And Up Audiences
 relationship: []
 summary: House comes back as a zombie.
 tags:

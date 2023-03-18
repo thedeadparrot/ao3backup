@@ -8,6 +8,7 @@ fandom:
 notes: This is just a gunplay PWP that takes place maybe a day after [Rock and a Hard
   Place](http://archiveofourown.org/works/234382) in the [mafia AU](http://archiveofourown.org/series/9888),
   because really, that ending really demanded some gunplay porn.
+rating: Explicit
 relationship:
 - Eduardo Saverin/Mark Zuckerberg
 summary: '*"You checked and double checked it yourself," Mark says. "It''s unloaded.

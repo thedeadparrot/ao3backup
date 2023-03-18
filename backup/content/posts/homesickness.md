@@ -10,6 +10,7 @@ fandom:
 notes: Takes place during The Return, Part I. I have also gone on record as saying
   that I'd never write proper SGA fic, but apparently, post-it notes can get me to
   go back on my word.
+rating: General Audiences
 relationship: []
 summary: Rodney has never been one for post-it notes.
 tags:

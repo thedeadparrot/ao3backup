@@ -17,6 +17,7 @@ notes: 'This is an interactive story written in Twine. The entire story is about
 
   So many thanks to everyone for their encouragement and support. You hopefully know
   who you are.'
+rating: Teen And Up Audiences
 relationship: []
 summary: '"An opportunity, once lost, does not come around a second time." - Chinese
   proverb'

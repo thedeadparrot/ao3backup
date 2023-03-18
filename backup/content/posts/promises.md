@@ -7,6 +7,7 @@ fandom:
 - Star Trek RPF
 notes: I wrote this in response to a prompt on trek\_rpf\_kink. Takes place during
   the filming of The Voyage Home.
+rating: Explicit
 relationship:
 - William Shatner/Leonard Nimoy
 summary: They're too old for this bullshit.

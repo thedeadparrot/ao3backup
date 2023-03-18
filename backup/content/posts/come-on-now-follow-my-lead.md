@@ -8,6 +8,7 @@ date: '2022-04-25'
 fandom:
 - Bridgerton (TV)
 notes: Thanks to Junco for the usual support and general tolerance of my whining.
+rating: Explicit
 relationship:
 - Colin Bridgerton/Penelope Featherington
 summary: Colin asks Penelope to peg him. She obliges.

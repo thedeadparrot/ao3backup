@@ -9,6 +9,7 @@ fandom:
 - Fullmetal Alchemist
 notes: Unbetaed. I really suck at titles. On a completely unrelated note, it's snowing.
   w00t.
+rating: General Audiences
 relationship: []
 summary: In order to create, you first need to destroy.
 tags: []

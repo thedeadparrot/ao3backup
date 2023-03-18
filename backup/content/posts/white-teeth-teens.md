@@ -12,6 +12,7 @@ notes: 'Written for [trope\_bingo](http://thedeadparrot.dreamwidth.org/546413.ht
 
 
   Also on [Tumblr](http://thedeadparrot.tumblr.com/post/77855213030/fic-white-teeth-teens-glee-kurt-blaine)'
+rating: General Audiences
 relationship:
 - Blaine Anderson/Kurt Hummel
 summary: '*So this is Blaine. Kurt talks about him without realizing it, offhand comments

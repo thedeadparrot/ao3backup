@@ -9,6 +9,7 @@ fandom:
 - Good Omens (TV)
 notes: This took me an embarrassingly long time to complete. Many thanks to Dark\_Eyed\_Junco
   for being encouraging all the way through, even when I was in a whiny writer snit.
+rating: Explicit
 relationship:
 - Aziraphale/Crowley (Good Omens)
 summary: Aziraphale ties Crowley up. They both enjoy the experience.

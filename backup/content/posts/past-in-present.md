@@ -10,6 +10,7 @@ fandom:
 notes: Yeah, let's just pretend that we have learned nothing about Neal's past on
   White Collar, and he has a blissfully blank slate where I can paste a completely
   different fandom in there. merisunshine36 made me do it. She also betaed it.
+rating: General Audiences
 relationship:
 - Elizabeth Burke/Peter Burke/Neal Caffrey
 - Blaine Anderson/Kurt Hummel

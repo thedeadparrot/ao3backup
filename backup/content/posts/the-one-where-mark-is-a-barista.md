@@ -13,6 +13,7 @@ notes: 'Written for [trope\_bingo](http://thedeadparrot.dreamwidth.org/546413.ht
 
 
   Also on [Tumblr](http://thedeadparrot.tumblr.com/post/78488209129/fic-the-one-where-mark-is-a-barista-tsn)'
+rating: Teen And Up Audiences
 relationship:
 - Eduardo Saverin/Mark Zuckerberg
 summary: Eduardo has a crush on the barista at his favorite coffee place. Too bad

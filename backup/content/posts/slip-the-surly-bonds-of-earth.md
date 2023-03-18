@@ -12,6 +12,7 @@ notes: This was going to be hannahrorlove's ficlet, but it morphed into somethin
   program. Also, this was supposed to be this whole epic AU around it but that got
   chopped when I realized that the only bits I really wanted were these two scenes.
   Many thanks to queenzulu for audiencing.
+rating: General Audiences
 relationship: []
 summary: Radek learns to dream.
 tags:

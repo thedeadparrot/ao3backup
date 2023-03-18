@@ -6,6 +6,7 @@ date: '2012-07-10'
 fandom:
 - X-Men (Movieverse)
 notes: Thanks to for the beta. Apologies to Whitman for the title.
+rating: Explicit
 relationship:
 - Erik Lehnsherr/Charles Xavier
 summary: Years after Cuba, a different meeting on a beach. Charles will always show

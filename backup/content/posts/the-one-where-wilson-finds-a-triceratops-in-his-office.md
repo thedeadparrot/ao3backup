@@ -14,6 +14,7 @@ notes: 'My favorite dinosaur as a kid was the triceratops. Those horns were bada
 
   [Podfic version](http://audiofic.jinjurly.com/the-one-where-wilson-finds-a-triceratops-in-his-office)
   by dragonwrangler'
+rating: Teen And Up Audiences
 relationship:
 - Greg House/James Wilson
 summary: Wilson finds a triceratops in his office.

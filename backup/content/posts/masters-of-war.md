@@ -15,6 +15,7 @@ notes: 'Follows the manga canon, mostly, as I know in the anime that Hughes wasn
 
 
   Title and lyrics come from the Bob Dylan song. Yes, I know that''s cheesy.'
+rating: Mature
 relationship:
 - Hughes/Mustang
 summary: Two hundred days of the Ishbal Civil War

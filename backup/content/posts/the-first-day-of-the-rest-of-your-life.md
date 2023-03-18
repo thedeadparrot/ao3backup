@@ -17,6 +17,7 @@ notes: 'Just so you know, the working title of this fic was ''fishing and feelin
   So many thanks go out to Dark\_Eyed\_Junco for listening to me ramble about this,
   enabling my desire to write about clamming, and for giving this a thorough editing
   pass.'
+rating: Explicit
 relationship:
 - Megan Mitchell/Willie Mitchell/Mike Richards
 summary: '**willie\_mitch33**: @mikehrichards Killer! When you going to come and play

@@ -6,6 +6,7 @@ date: '2016-11-01'
 fandom:
 - Iron Man (Movies)
 notes: For the trope\_bingo prompt "Time Travel".
+rating: Teen And Up Audiences
 relationship:
 - James "Rhodey" Rhodes & Tony Stark
 summary: '*"So, to get all the obvious questions out of the way: yes, the future is

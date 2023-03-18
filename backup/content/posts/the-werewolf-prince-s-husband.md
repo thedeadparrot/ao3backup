@@ -24,6 +24,7 @@ notes: 'Friends don''t let friends watch terrible Hallmark-style Christmas movie
 
 
   EDIT: The lovely art was gifted by the amazing [Stultiloquentia](https://archiveofourown.org/users/Stultiloquentia)!'
+rating: Explicit
 relationship:
 - Alex Galchenyuk/Brendan Gallagher
 summary: Due to a change in pack leadership, werewolf hockey player Alex Galchenyuk

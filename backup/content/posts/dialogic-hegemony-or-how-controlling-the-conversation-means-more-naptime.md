@@ -14,6 +14,7 @@ notes: Takes place during House's visit to Atlantis in the [Mathletes-verse](htt
   at [![[info]](http://l-stat.livejournal.com/img/community.gif)](http://community.livejournal.com/help_haiti/profile)[**help\_haiti**](http://community.livejournal.com/help_haiti/).
   [![[info]](http://l-stat.livejournal.com/img/userinfo.gif)](http://queenzulu.livejournal.com/profile)[**queenzulu**](http://queenzulu.livejournal.com/)
   rocks for the speedy beta and for providing the title.
+rating: Teen And Up Audiences
 relationship: []
 summary: House and Sheppard have a conversation.
 tags: []

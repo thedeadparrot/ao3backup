@@ -13,6 +13,7 @@ fandom:
 - House M.D.
 notes: My apologies to the SGA fandom for stealing their crack. And to Linus Torvalds
   for stealing one of his lines. Many thanks to queenzulu and savemoony for the betas.
+rating: Teen And Up Audiences
 relationship:
 - Greg House/James Wilson
 summary: House and Wilson get turned into penguins.

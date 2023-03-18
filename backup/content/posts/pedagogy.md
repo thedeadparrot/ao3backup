@@ -9,6 +9,7 @@ date: '2009-02-20'
 fandom:
 - Hustle
 notes: For Porn Battle VII and the prompt 'Danny/Mickey/Stacie, suckers'.
+rating: Explicit
 relationship:
 - Mickey/Danny/Stacie
 summary: Danny's still got a lot to learn.

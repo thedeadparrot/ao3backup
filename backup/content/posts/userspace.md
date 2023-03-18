@@ -14,6 +14,7 @@ notes: 'Here''s a Yuletide Treat! I hope you enjoy it!
 
 
   Summary ganked from [Wikipedia](http://en.wikipedia.org/wiki/User_space).'
+rating: Teen And Up Audiences
 relationship: []
 summary: A modern computer operating system usually segregates virtual memory into
   kernel space and user space. This separation serves to protect data and functionality

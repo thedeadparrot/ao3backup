@@ -15,6 +15,7 @@ notes: 'Title stolen from Florence + the Machine.
 
   I only managed to post this because I spent a lot of time reminding myself that
   there''s no shame in fandom.'
+rating: Explicit
 relationship:
 - Jeff Carter/Mike Richards
 summary: '*Arnold''s the one who''s getting very thoroughly laid wolf-style, and Mike''s

@@ -7,6 +7,7 @@ fandom:
 - Kings
 notes: Many, many thanks to roga for her beta and cheerleading. Man, this fandom is
   growing up quickly, isn't it?
+rating: Explicit
 relationship:
 - Jack Benjamin/David Shepherd
 summary: It's Michelle who asks David to go with Jack to one of his parties.

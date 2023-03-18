@@ -7,6 +7,7 @@ date: '2013-07-20'
 fandom:
 - 'Avatar: The Last Airbender'
 notes: Made for the halfamoon comm on LJ, because female characters are awesome.
+rating: General Audiences
 relationship: []
 summary: Bona fide hustler making my name.
 tags:

@@ -9,6 +9,7 @@ fandom:
 - House M.D.
 notes: Yet another post-Whac-a-Mole piece. Sorry? Title and lyrics from Thom Yorke's
   The Eraser.
+rating: Teen And Up Audiences
 relationship: []
 summary: Post Whac-A-Mole, House deals with his guilt in the best way he can (which
   is to say, not at all).

@@ -10,6 +10,7 @@ notes: 'I''m not sure I would have posted this if it weren''t for zulu, who pick
 
 
   There is now [podfic](http://quintenttsy.livejournal.com/8595.html).'
+rating: Teen And Up Audiences
 relationship:
 - Eduardo Saverin/Mark Zuckerberg
 summary: '*There are differences between Eduardo and him that Mark doesn''t think

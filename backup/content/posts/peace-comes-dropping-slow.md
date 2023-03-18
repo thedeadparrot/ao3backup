@@ -9,6 +9,7 @@ fandom:
 notes: For the 12days\_of\_clois Christmas Challenge. My prompt was "Hot Cocoa". Many
   thanks to queenzulu for the beta. Apologies to W. B. Yeats for cribbing his words
   for the title.
+rating: Teen And Up Audiences
 relationship:
 - Lois/Clark
 summary: Martha comes home for the holidays.

@@ -10,6 +10,7 @@ fandom:
 - Stargate Atlantis
 notes: Okay, so this is kind of a high school AU, and it's mostly queenzulu's fault.
   She also betaed it, so you can blame her for all of this twice over.
+rating: Mature
 relationship:
 - Greg House/Rodney McKay
 summary: In which a new kid shows up at Rodney's high school, Mathlympics are had,

@@ -7,6 +7,7 @@ fandom:
 - Sherlock (BBC)
 notes: Thanks to [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)[**zulu**](http://zulu.dreamwidth.org/)
   for the beta.
+rating: Explicit
 relationship:
 - Sherlock/OFC
 - John/OFC

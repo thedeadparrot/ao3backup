@@ -7,6 +7,7 @@ date: '2008-10-02'
 fandom:
 - Batman Begins (2005)
 notes: Corrections for my Latin are welcome. Unbetaed.
+rating: General Audiences
 relationship: []
 summary: Bruce, Gotham, and the four seasons.
 tags:

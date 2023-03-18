@@ -9,6 +9,7 @@ fandom:
 - Heroes - Fandom
 notes: Unrepentant cuteness. zulu should get a medal for doing battle with my commas.
   Written for crystaldrake as part of [purimgifts](http://community.livejournal.com/purimgifts/).
+rating: General Audiences
 relationship: []
 summary: Monica and Micah do the superhero thing.
 tags:

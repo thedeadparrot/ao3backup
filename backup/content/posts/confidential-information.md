@@ -8,6 +8,7 @@ fandom:
 - Casino Royale (movie)
 notes: I thought that Villiers needed backstory. This mostly gen, with a bit of Villiers/OFC
   and Villiers/OMC.
+rating: Teen And Up Audiences
 relationship: []
 summary: Fifteen things about Villiers that he thinks about a lot, but doesn't like
   telling anyone.

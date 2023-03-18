@@ -8,6 +8,7 @@ date: '2009-01-10'
 fandom:
 - Friday Night Lights
 notes: Just a quick futurefic. Many thanks to roga for the beta.
+rating: General Audiences
 relationship:
 - Julie Taylor/Matt Saracen
 summary: In the end, Julie doesn't become her mother after all.

@@ -10,6 +10,7 @@ fandom:
 notes: Some people write self-indulgent porn when they have a bad week. I write self-indulgent
   stories about the weather. queenzulu gets credit for helping me poke this into shape
   and deleting my commas.
+rating: Teen And Up Audiences
 relationship:
 - John Sheppard/Rodney McKay
 summary: Atlantis shines on sunny days, the light catching and reflecting on glass

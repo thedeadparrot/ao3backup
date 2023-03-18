@@ -17,6 +17,7 @@ notes: 'I didn''t read through the prequel, Ascension, so I may have contradicte
 
   And thank you to wallflowering for generously donating to make this happen! It''s
   appreciated.'
+rating: Teen And Up Audiences
 relationship:
 - Nate Lambert/Jake Pentecost
 summary: Nate and Jake get sent on a mission to the old Anchorage shatterdome. It

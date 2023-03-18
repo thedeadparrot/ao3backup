@@ -13,6 +13,7 @@ notes: Many thanks to crazythorn and daringu for the betas. Stole a few quotes f
   are very big spoilers for episode 25, and I suspect spoilers up until 51, though
   I haven't checked very carefully. This is also very, very AU. Okay, so maybe I didn't
   need the second "very", but it is AU and intentionally so.
+rating: Explicit
 relationship:
 - Hughes/Mustang
 summary: Roy hasn't learned from other people's mistakes.

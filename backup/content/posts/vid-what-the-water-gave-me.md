@@ -13,6 +13,7 @@ notes: 'This vid is based on fuzzy\_paint''s merman!Eduardo fic [the other side 
 
   Also, it would not exist without [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://merisunshine36.dreamwidth.org/profile)**merisunshine36**,
   who is one of the most persistent enablers ever.'
+rating: Teen And Up Audiences
 relationship:
 - Eduardo Saverin/Mark Zuckerberg
 summary: Oh, my love, don't forsake me. / Take what the water gave me

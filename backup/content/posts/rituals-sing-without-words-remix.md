@@ -6,6 +6,7 @@ date: '2015-06-28'
 fandom:
 - Elementary (TV)
 notes: ''
+rating: General Audiences
 relationship:
 - Sherlock Holmes/Joan Watson
 summary: The things that they notice and the things they don't say.

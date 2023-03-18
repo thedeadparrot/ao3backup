@@ -13,6 +13,7 @@ notes: 'Takes place towards the end of Living in Salt, so it probably won''t mak
 
   So many thanks go to Dark\_Eyed\_Junco for encouraging me to finish this and for
   the beta.'
+rating: Teen And Up Audiences
 relationship:
 - Jeff Carter/Mike Richards
 summary: Pacific Rim AU. Mike POV companion piece to [Living in Salt](http://archiveofourown.org/works/9082591).

@@ -7,6 +7,7 @@ fandom:
 - How to Get Away with Murder
 notes: Major spoilers for the season finale. There are many post-ep reactions, but
   this one is mine. Title stolen from [this quote](http://www.goodreads.com/quotes/2359-harper-in-your-experience-of-the-world-how-do-people).
+rating: Teen And Up Audiences
 relationship:
 - Oliver Hampton/Connor Walsh
 summary: Oliver wakes up, and everything is different, and nothing has changed at

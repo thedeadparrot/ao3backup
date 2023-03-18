@@ -6,6 +6,7 @@ date: '2016-11-27'
 fandom:
 - The Good Place (TV)
 notes: Just a tiny thing for the 'food and cooking' square of trope\_bingo.
+rating: General Audiences
 relationship:
 - Eleanor Shellstrop & Real Eleanor Shellstrop
 summary: Fake Eleanor and Real Eleanor bond in the kitchen.

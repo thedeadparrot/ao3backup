@@ -11,6 +11,7 @@ fandom:
 notes: Self-indulgent weatherfic that takes place toward the end of High School Is
   Not Another Name For Hell. Un-betaed, because I'm just being hard core like that.
   Title stolen from U2. Yes, I like making them long.
+rating: Mature
 relationship:
 - Greg House/Rodney McKay
 summary: '"Never really liked summers," Rodney says.'

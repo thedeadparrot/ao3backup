@@ -7,6 +7,7 @@ fandom:
 - Batman Begins (2005)
 - Iron Man (2008)
 notes: Written for roga, who requested some Tony Stark/Bruce Wayne.
+rating: Explicit
 relationship:
 - Bruce Wayne/Tony Stark
 summary: '"Stop stealing my schtick, Wayne," Tony says, shaking his hand in greeting.'

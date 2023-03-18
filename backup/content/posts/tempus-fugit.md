@@ -7,6 +7,7 @@ fandom:
 - NCIS
 notes: Written for Porn Battle X and the prompt 'NCIS, Anthony DiNozzo/Timothy McGee/Ziva
   David, bored'
+rating: Explicit
 relationship:
 - Anthony DiNozzo/Timothy McGee/Ziva David
 summary: Like a lot of things that happen to the three of them, it starts because

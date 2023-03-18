@@ -7,6 +7,7 @@ fandom:
 - 'Star Trek: The Original Series (Movies)'
 notes: Hey, because you can never have too many Search For Spock vids, am I right?
   zulu betaed. And is awesome.
+rating: Teen And Up Audiences
 relationship:
 - James T. Kirk/Spock
 summary: Kirk's sad. But he gets better.

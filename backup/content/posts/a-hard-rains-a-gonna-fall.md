@@ -6,6 +6,7 @@ date: '2016-10-23'
 fandom:
 - X-Men (Movieverse)
 notes: for trope\_bingo, prompt "reunion". I finally wrote another thing, hooray?
+rating: General Audiences
 relationship:
 - Erik Lehnsherr/Charles Xavier
 summary: Charles and Erik after the Sentinel program is announced in the darker future

@@ -17,6 +17,7 @@ fandom:
 notes: Finished this for [![[livejournal.com profile] ](http://www.dreamwidth.org/img/external/lj-userinfo.gif)](http://raphe1.livejournal.com/profile)[**raphe1**](http://raphe1.livejournal.com/)
   as part of [![[livejournal.com profile] ](http://www.dreamwidth.org/img/external/lj-community.gif)](http://help-japan.livejournal.com/profile)[**help\_japan**](http://help-japan.livejournal.com/).
   I am so, so sorry that this is so late. More notes at the end.
+rating: Mature
 relationship:
 - Rodney McKay/John Sheppard
 summary: AU. The Atlantis casino in Las Vegas has just acquired the famous Zeilinger

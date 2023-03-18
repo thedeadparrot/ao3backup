@@ -9,6 +9,7 @@ fandom:
 notes: This is [sedoretu fic](http://fanlore.org/wiki/Sedoretu) for M, since she totally
   bribed me into doing this. Also, many thanks to [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)**zulu**
   for the beta and the encouragement.
+rating: Teen And Up Audiences
 relationship:
 - John Watson/Mary Morstan/Irene Adler/Sherlock Holmes
 summary: In which Irene leaves, Sherlock stays, and everyone else has to do deal with

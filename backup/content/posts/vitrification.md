@@ -17,6 +17,7 @@ notes: 'I got swallowed by my Star Wars feels, and I''m not sorry about it. Many
 
   Extra special thanks to azephirin for being an excellent friend and for donating
   to FTH. I hope you enjoy this! <3'
+rating: General Audiences
 relationship:
 - "Padm\xE9 Amidala/Obi-Wan Kenobi/Anakin Skywalker"
 summary: Six places the Amidala-Kenobi-Skywalker family lives while on the run from

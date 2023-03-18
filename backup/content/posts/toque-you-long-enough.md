@@ -11,6 +11,7 @@ notes: "Look, the [Dream Daddy](https://twitter.com/dreamdaddygame) game took ov
   \ Twitter and also my brain. (Dads! Falling love with other dads!) \n\nEach chapter\
   \ is going to be a loosely-connected snippet in this universe that will be posted\
   \ as I finish them."
+rating: Teen And Up Audiences
 relationship:
 - Jeff Carter/Mike Richards
 summary: Mike and Jeff are single dads whose kids play on the same hockey team. I'm

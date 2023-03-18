@@ -13,6 +13,7 @@ notes: 'This is unbetaed. Read at your own risk, etc.
   I wrote this when I was stressed out of my mind and just wanted to write something
   mellow and comforting. Apparently, that means writing gen fic about bffs being bffs
   in Boston.'
+rating: Teen And Up Audiences
 relationship: []
 summary: Ben and Matt make *Whitey*.
 tags:

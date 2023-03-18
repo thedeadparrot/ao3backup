@@ -8,6 +8,7 @@ date: '2009-01-12'
 fandom:
 - Smallville
 notes: Unbetaed. Season 8-ish.
+rating: General Audiences
 relationship:
 - Lois/Clark
 summary: Somehow, Clark has attuned himself to the rhythms of Lois' days.

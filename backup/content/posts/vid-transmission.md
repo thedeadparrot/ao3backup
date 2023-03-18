@@ -9,6 +9,7 @@ fandom:
 notes: Much love to [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)[**zulu**](http://zulu.dreamwidth.org/)
   and [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://verity.dreamwidth.org/profile)[**verity**](http://verity.dreamwidth.org/)
   for taking on beta duties despite not being familiar with the show.
+rating: Teen And Up Audiences
 relationship: []
 summary: Sam dances to the radio.
 tags:

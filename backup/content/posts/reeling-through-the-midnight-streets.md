@@ -10,6 +10,7 @@ notes: 'Written for [trope\_bingo](http://thedeadparrot.dreamwidth.org/546413.ht
 
 
   Also on [Tumblr](http://thedeadparrot.tumblr.com/post/78429997483/fic-reeling-through-the-midnight-streets-glee)'
+rating: Teen And Up Audiences
 relationship:
 - Blaine Anderson/Kurt Hummel
 summary: '*That''s been happening a lot on this trip. Close your eyes in Indiana,

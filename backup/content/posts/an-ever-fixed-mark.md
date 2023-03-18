@@ -7,6 +7,7 @@ fandom:
 - How to Get Away with Murder
 notes: Thanks to zulu for betaing and to everyone else who has listened to me rant
   and rave about this one.
+rating: Explicit
 relationship:
 - Oliver Hampton/Connor Walsh
 summary: BDSM AU. *"So," Connor says. "Just say the word and I'd be happy to kneel

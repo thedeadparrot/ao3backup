@@ -6,6 +6,7 @@ date: '2014-07-10'
 fandom:
 - Captain America (Movies)
 notes: Originally posted [on Tumblr](http://thedeadparrot.tumblr.com/post/90443999997/steve-bucky-modern-day-swimming-in-the-atlantic).
+rating: Teen And Up Audiences
 relationship:
 - James "Bucky" Barnes & Steve Rogers
 summary: 'For the prompt: "Steve, Bucky, modern day. Swimming in the Atlantic during

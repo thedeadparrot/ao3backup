@@ -10,6 +10,7 @@ fandom:
 notes: Okay, so one April Fool's Day, the prank was me posting the header of a story
   that I had half-finished, but wasn't planning on finishing. Many thanks to mjules
   for looking over this and forcing me to finish. This wouldn't be here without her.
+rating: Explicit
 relationship:
 - Hughes/Mustang
 summary: In which Roy and Hughes have a deep conversation and sex.

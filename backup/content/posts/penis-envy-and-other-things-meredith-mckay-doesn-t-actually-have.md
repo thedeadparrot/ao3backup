@@ -9,6 +9,7 @@ fandom:
 - Stargate Atlantis
 notes: Many thanks to queenzulu and deelaundry for their encouragement and corrections,
   and an extra-big thanks to roga for her detailed beta.
+rating: Mature
 relationship:
 - John Sheppard/Rodney McKay
 summary: Meredith McKay gets turned into a man. John Sheppard has a sexual identity

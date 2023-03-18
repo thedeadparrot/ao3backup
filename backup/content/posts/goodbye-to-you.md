@@ -17,6 +17,7 @@ notes: 'Written for Sperrywink as part of Fandom Trumps Hate. Thanks once again 
   excellent cheerleading; everyone who gave me space and energy and time to push me
   into finishing this when I was doubting myself, but especially silverandblue, for
   demanding to know if I finished writing the orgasms yet.'
+rating: Explicit
 relationship:
 - Blaine Anderson/Eduardo Saverin
 summary: Eduardo starts the night in a diner and ends the night at a karaoke bar and

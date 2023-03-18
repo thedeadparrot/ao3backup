@@ -16,6 +16,7 @@ fandom:
 - Superman (movies)
 notes: Okay, queenzulu pointed out that girls don't get enough love in fandom, so
   this is my own love letter to awesome female characters.
+rating: General Audiences
 relationship: []
 summary: Five characters. Five unconnected ficlets.
 tags: []

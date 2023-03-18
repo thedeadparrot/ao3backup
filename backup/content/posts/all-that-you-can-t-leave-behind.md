@@ -8,6 +8,7 @@ fandom:
 - Smallville
 notes: So, this is totally my post-ep for Bride. It's mostly about me dealing with
   Lois' emotional fallout. Much love to queenzulu for the beta.
+rating: Teen And Up Audiences
 relationship: []
 summary: Star City wasn't Metropolis, which shouldn't have surprised Lois as much
   as it did.

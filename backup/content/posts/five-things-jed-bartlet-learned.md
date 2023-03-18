@@ -10,6 +10,7 @@ fandom:
 - The West Wing
 notes: So much love for zulu and roga for all their help with the betas and the whapping
   me on the head when I needed it. Apologies for the Bablefished Latin.
+rating: General Audiences
 relationship: []
 summary: '"Man''s mind, once stretched by a new idea, never regains its original dimensions."
   -Oliver Wendell Holmes'

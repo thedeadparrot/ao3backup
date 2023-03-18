@@ -10,6 +10,7 @@ notes: Un-betaed. Follows canon up until 1x08. If you haven't read Sex Criminals
   you should totally do so. After doing that, you should write me all the Sex Criminals
   AUs. Also, I take no credit for the glowing penises. You can blame Matt Fraction
   or Chip Zdarsky for that one.
+rating: Explicit
 relationship:
 - Oliver Hampton/Connor Walsh
 summary: '[Sex Criminals](https://imagecomics.com/comics/series/sex-criminals) AU.

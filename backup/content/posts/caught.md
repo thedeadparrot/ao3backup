@@ -6,6 +6,7 @@ date: '2010-02-10'
 fandom:
 - Sherlock Holmes (2009)
 notes: Written for porn battle ix and the prompt 'diamond.'
+rating: Explicit
 relationship:
 - Irene Adler/Mary Morstan
 summary: Irene tries to get her diamond back.

@@ -11,6 +11,7 @@ notes: Overlaps with the second half of [Gimme Shelter](http://archiveofourown.o
   in the [Sympathy For The Devil](http://archiveofourown.org/series/9888)-verse, and
   it probably won't make sense without reading that one first. Lots of love to merisunshine36
   for the beta and co-writing and constant, non-stop enabling.
+rating: Explicit
 relationship:
 - Eduardo Saverin/Mark Zuckerberg
 summary: Mafia AU. In which Mark is busy and Eduardo has to make some decisions about

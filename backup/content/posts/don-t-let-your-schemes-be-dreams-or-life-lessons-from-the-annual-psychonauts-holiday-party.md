@@ -10,6 +10,7 @@ date: '2021-12-25'
 fandom:
 - Psychonauts (Video Games)
 notes: Many thanks to Dark\_Eyed\_Junco for the emotional support and the beta assist.
+rating: Teen And Up Audiences
 relationship:
 - Sasha Nein/Milla Vodello
 summary: '*Somehow, the drinks at the annual Psychonauts Holiday Party never seemed

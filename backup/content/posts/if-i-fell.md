@@ -11,6 +11,7 @@ notes: 'Written for this [kinkmeme prompt](http://sherlockbbc-fic.livejournal.co
 
 
   There is now [podfic](http://audiofic.jinjurly.com/if-i-fell)!'
+rating: Explicit
 relationship:
 - John/Sherlock
 summary: '*Sherlock knows that John sleeps with men. That much is obvious. What Sherlock

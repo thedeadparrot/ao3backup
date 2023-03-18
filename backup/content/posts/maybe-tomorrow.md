@@ -10,6 +10,7 @@ fandom:
 notes: A rockstar!AU that takes place in Tokyo. "Heavily inspired" by Lost in Translation.
   No, it's not self-indulgent and gratuitous *at all*. Title stolen from a Stereophonics
   song. Once again, lots of love to crazythorn for reading it over.
+rating: Mature
 relationship:
 - Hughes/Mustang
 summary: It glows brighter here than it does in New York. rockstar! AU

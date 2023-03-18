@@ -7,6 +7,7 @@ fandom:
 - Glee
 notes: A short PWP sequel to [A Far Better Thing](http://archiveofourown.org/works/866033).
   Takes place about one year after the events of the story.
+rating: Explicit
 relationship:
 - Blaine Anderson/Kurt Hummel
 summary: 'AU. For the longest time, wanting was uncomfortable, scary, something that

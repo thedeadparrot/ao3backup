@@ -7,6 +7,7 @@ fandom:
 - Glee
 notes: Like everyone else, I was quite amused by the makeout scene in "I Do" and then
   I wrote fic about it. Takes place during S3.
+rating: Explicit
 relationship:
 - Blaine Anderson/Kurt Hummel
 summary: '*"Your motivation is that you''re a repressed frat boy," Kurt says, rolling

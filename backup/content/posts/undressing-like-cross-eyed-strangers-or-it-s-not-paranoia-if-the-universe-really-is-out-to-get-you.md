@@ -14,6 +14,7 @@ notes: Okay, this is the sequel that I said that I'd make queenzulu write, but s
   Still, she and savemoony did an awesome job of helping me out along the way, betaing,
   giving awesome suggestions, and listening to me whine. There was a lot of whining.
   Apologies to Wilco for snagging the title from "I Am Trying To Break Your Heart".
+rating: Mature
 relationship:
 - Greg House/Rodney McKay
 summary: In which there's a plague in Atlantis, connections are remade, and Rodney

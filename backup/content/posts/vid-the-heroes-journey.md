@@ -12,6 +12,7 @@ notes: 'In order to get all this footage, I used several Let''s Plays as source 
 
 
   Also on [Tumblr](http://thedeadparrot.tumblr.com/post/108548836187/title-the-heroes-journey-fandom-the-legend-of).'
+rating: General Audiences
 relationship: []
 summary: It's dangerous to go alone.
 tags:

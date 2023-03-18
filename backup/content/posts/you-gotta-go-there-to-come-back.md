@@ -8,6 +8,7 @@ fandom:
 - Superman (movies)
 notes: This helped me work through some of my movie issues (mostly how they dealt
   with Superman leaving). Title stolen from a Stereophonics CD.
+rating: General Audiences
 relationship: []
 summary: Superman travels to Krypton.
 tags: []

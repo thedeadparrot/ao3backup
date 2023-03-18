@@ -11,6 +11,7 @@ notes: "My id was like, 'yes, BGally is clearly an obnoxious masochist who would
   \ really into baby dom AGally' and then this happens. \xAF\\\\_(\u30C4)\\_/\xAF\n\
   \nMany thanks to all the people who cheered me even when I was convinced that I\
   \ would never finish this.\n\nTitle cribbed from \"Shape of You\" by Ed Sheeran."
+rating: Explicit
 relationship:
 - Alex Galchenyuk/Brendan Gallagher
 summary: Brendan's been on hockey teams with plenty of doms like Alex before. Alex

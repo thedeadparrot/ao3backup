@@ -8,6 +8,7 @@ date: '2009-01-09'
 fandom:
 - House M.D.
 notes: Written in response to the "three things you'd never write" meme. For hannahrorlove,
+rating: Teen And Up Audiences
 relationship:
 - Greg House/James Wilson
 summary: Despite the hospital gossip, House is not, in fact, a man-hating lesbian.

@@ -9,6 +9,7 @@ fandom:
 - Hockey RPF
 notes: Many thanks once again to Dark\_Eyed\_Junco for audiencing and betaing and
   listening to me whine about not knowing what Jeff's deal is.
+rating: Explicit
 relationship:
 - Jeff Carter/Mike Richards
 summary: Everyone knows that soulmate names can fade -- the most common reasons are

@@ -20,6 +20,7 @@ notes: 'Back on my post-Uprising ''what if they tried to replace *processing the
 
   Title taken from "King" by Florence + the Machine, because if I have a theme going,
   might as well keep it going.'
+rating: Explicit
 relationship:
 - Newton Geiszler/Hermann Gottlieb
 summary: Sometimes, Newt needs to be hurt, and Hermann is the best person to hurt

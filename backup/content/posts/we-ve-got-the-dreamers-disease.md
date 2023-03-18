@@ -10,6 +10,7 @@ fandom:
 notes: Written for [this kinkmeme prompt](http://tsn-kinkmeme.livejournal.com/8388.html?thread=14117060#t14117060).
   [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)[**zulu**](http://zulu.dreamwidth.org/)
   gets credit for the beta and for not laughing me out of everything.
+rating: Explicit
 relationship:
 - Eduardo Saverin/Mark Zuckerberg
 summary: AU. In which Mark and Eduardo are BFFs in high school, Mark has a gigantic,

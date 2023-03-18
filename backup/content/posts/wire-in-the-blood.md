@@ -11,6 +11,7 @@ notes: 'Takes place pre-"Mirror, Mirror" in the Mirrorverse timeline.
   So much love goes out to zulu and M for their awesome betas and encouragement. It
   would be a much crappier story without them. zulu especially, was an invaluable
   sounding board in the early stages.'
+rating: Explicit
 relationship:
 - James T. Kirk/Spock
 summary: When someone damages the navigational systems of the I.S.S. Enterprise, Captain

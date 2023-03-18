@@ -9,6 +9,7 @@ notes: I think I will blame the kink meme, [![[personal profile] ](http://s.drea
   and M in that order for the existence of this fic. This is all their fault, especially
   since [![[personal profile] ](http://s.dreamwidth.org/img/silk/identity/user.png)](http://zulu.dreamwidth.org/profile)[**zulu**](http://zulu.dreamwidth.org/)
   and M took on beta duties and are also horrible enablers.
+rating: Explicit
 relationship:
 - Sherlock Holmes/John Watson
 summary: 'from the [kink meme prompt](http://sherlockbbc-fic.livejournal.com/2727.html?thread=5531559#t5531559):

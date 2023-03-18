@@ -8,6 +8,7 @@ fandom:
 - Marvel Cinematic Universe
 notes: Thanks so much to merisunshine36 for the encouragement, the beta, and for sharing
   of all my Tony/Rhodey feels.
+rating: Teen And Up Audiences
 relationship:
 - James "Rhodey" Rhodes/Tony Stark
 summary: Post-Civil War. *Tony opens his mouth, but he can't find the right words.

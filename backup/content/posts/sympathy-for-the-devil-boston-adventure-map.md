@@ -14,6 +14,7 @@ fandom:
 - Social Network (2010)
 notes: Click the banner to open the map. The ficlets that are part of the map have
   been reposted below.
+rating: Teen And Up Audiences
 relationship: []
 summary: A collection of ficlets for the Sympathy for the Devil-verse (plus map).
 tags:

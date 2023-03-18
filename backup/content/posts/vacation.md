@@ -7,6 +7,7 @@ fandom:
 - Iron Man (Movies)
 notes: Written for [Pornathon 2017](http://pornathon.dreamwidth.org/) and the prompt
   'heat'.
+rating: Explicit
 relationship:
 - James "Rhodey" Rhodes/Tony Stark
 summary: '"What did I tell you, sweetums? Tropical vacation. Best stress relief on

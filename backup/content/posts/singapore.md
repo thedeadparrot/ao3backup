@@ -9,6 +9,7 @@ fandom:
 - House M.D.
 notes: This is longer than anything I'm usually used to writing, so many, many, many
   thanks go to fryadvocate and savemoonyfor their awesome betas.
+rating: Explicit
 relationship:
 - Greg House/James Wilson
 summary: In which the boys go to a medical conference in Singapore, House has a few

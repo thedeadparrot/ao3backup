@@ -8,6 +8,7 @@ date: '2008-10-02'
 fandom:
 - Fullmetal Alchemist
 notes: It was raining here and I decided to be unoriginal. Sue me. Or something.
+rating: General Audiences
 relationship: []
 summary: Roy, Hughes, rain.
 tags: []

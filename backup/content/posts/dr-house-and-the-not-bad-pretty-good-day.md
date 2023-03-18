@@ -9,6 +9,7 @@ date: '2009-01-07'
 fandom:
 - House M.D.
 notes: So fluffy and gen it hurts. Takes place during season one-ish.
+rating: General Audiences
 relationship: []
 summary: In which House skips out on clinic duty, insults his fellows, hides from
   Cuddy, and steals Wilson's Jello.

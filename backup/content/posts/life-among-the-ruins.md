@@ -6,6 +6,7 @@ date: '2012-03-25'
 fandom:
 - Mass Effect
 notes: ''
+rating: Explicit
 relationship:
 - Kaidan Alenko/Male Shepard
 summary: 'ME3 Ending Spoilers!

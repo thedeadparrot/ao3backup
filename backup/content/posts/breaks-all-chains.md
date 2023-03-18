@@ -11,6 +11,7 @@ notes: 'Written for [![[info]](http://l-stat.livejournal.com/img/userinfo.gif)](
 
 
   Additional warning-ish things: Dubious consent and implied violence.'
+rating: Explicit
 relationship:
 - James T. Kirk/Spock
 summary: Kirk wants things back to the way they used to be.

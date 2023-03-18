@@ -17,6 +17,7 @@ notes: 'Takes place during a fictional end to the 2017-2018 season and is going 
 
   A lot of love to Dark\_Eyed\_Junco and silverandblue for the audiencing. Any and
   all mistakes are my own.'
+rating: Explicit
 relationship:
 - Alex Galchenyuk/Brendan Gallagher
 summary: At the end of the season, the Gallys go on a road trip from Montreal to Florida.

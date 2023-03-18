@@ -14,6 +14,7 @@ notes: 'Based on [this kink meme prompt](http://glee-kink-meme.livejournal.com/3
 
   Other places: [DW](http://thedeadparrot.dreamwidth.org/524463.html) | [LJ](http://parrotfic.livejournal.com/40442.html)
   | [Tumblr](http://thedeadparrot.tumblr.com/post/48604386376/fic-if-i-needed-someone-glee-kurt-blaine)'
+rating: Explicit
 relationship:
 - Blaine Anderson/Kurt Hummel
 summary: BDSM AU. *Kurt may be as queer as a three dollar bill, but in New York he

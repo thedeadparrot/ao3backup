@@ -10,6 +10,7 @@ fandom:
 notes: 'Contains: one (1) overdone metaphor, one (1) completely gratuitous Hughes
   appearance, and my first time writing a Hawkeye POV (yes, seriously). You have been
   warned. Apologies to Shakespeare for the title.'
+rating: Teen And Up Audiences
 relationship:
 - Mustang/Hawkeye
 summary: But she is still not ready to make a decision, to take the first step, and

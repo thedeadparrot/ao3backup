@@ -12,6 +12,7 @@ fandom:
 notes: Many thanks to merriman for looking this over and being encouraging. This was
   written while S2 was still airing, and so it's been somewhat jossed now, alas, but
   I still like it.
+rating: General Audiences
 relationship: []
 summary: Earth is not what any of them expected.
 tags:

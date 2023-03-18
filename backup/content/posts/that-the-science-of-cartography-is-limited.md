@@ -7,6 +7,7 @@ date: '2009-04-12'
 fandom:
 - Heroes - Fandom
 notes: Love to zulu for the beta. Written for crystaldrake as part of [purimgifts](http://community.livejournal.com/purimgifts/).
+rating: General Audiences
 relationship: []
 summary: Molly remembers the first maps.
 tags:

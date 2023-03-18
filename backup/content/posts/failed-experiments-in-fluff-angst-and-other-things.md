@@ -10,6 +10,7 @@ fandom:
 notes: 10 Roy/Hughes themes. In which I have little too much fun with writing snippets
   that don't like to end themselves. There's no consistency between themes. They're
   just sort of thrown together. Unbetaed cause I'm feeling lazy.
+rating: Teen And Up Audiences
 relationship:
 - Hughes/Mustang
 summary: 10 (not connected) Roy/Hughes themes

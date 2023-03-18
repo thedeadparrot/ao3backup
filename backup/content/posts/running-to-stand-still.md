@@ -8,6 +8,7 @@ fandom:
 - Terminator
 notes: Not quite sure where this came from. Thanks to crazythorn for the grammar check.
   Takes place between Terminator 2 and Terminator 3.
+rating: Teen And Up Audiences
 relationship: []
 summary: How do you outrun your own fate?
 tags: []

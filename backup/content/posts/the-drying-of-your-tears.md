@@ -10,6 +10,7 @@ fandom:
 - Battlestar Galactica (2003)
 notes: Takes place during the first season of BSG. I apologize if the timeline seems
   wonky.
+rating: Teen And Up Audiences
 relationship:
 - Greg House/James Wilson
 summary: House and Wilson deal with their issues. Sort of.

@@ -10,6 +10,7 @@ notes: Also written for [![[info]](http://l-stat.livejournal.com/img/userinfo.gi
   at [![[info]](http://l-stat.livejournal.com/img/community.gif)](http://community.livejournal.com/help_haiti/profile)[**help\_haiti**](http://community.livejournal.com/help_haiti/).
   Many thanks to [![[info]](http://l-stat.livejournal.com/img/userinfo.gif)](http://queenzulu.livejournal.com/profile)[**queenzulu**](http://queenzulu.livejournal.com/)
   for the speedy beta!
+rating: Mature
 relationship:
 - James T. Kirk/Spock
 summary: Like many other things, the Vulcans do not speak to outworlders of the *latusa*.
