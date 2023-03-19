@@ -89,7 +89,7 @@
 				  {{- with .Params.series }}
 					<p><b>Series:</b>
 					{{- range . -}}				
-						&nbsp;<a href="/series/{{. | urlize}}">{{.}}</a>
+					&nbsp;<a href="{{ "series/" | absLangUrl }}{{. | urlize}}">{{.}}</a>
 				    {{- end }}
 					</p>
 			      {{- end }}
