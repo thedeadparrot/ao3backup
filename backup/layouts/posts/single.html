@@ -63,13 +63,13 @@
 				{{- with .Params.summary }}
 				<div class="fic-summary">
 					<h3>Summary</h3>
-					<blockquote>{{.}}</blockquote>
+					<blockquote>{{ $.RenderString .}}</blockquote>
 				</div>
 				{{- end }}
 				{{- with .Params.notes }}
 				<div class="fic-notes">
 					<h3>Notes</h3>
-					<blockquote>{{.}}</blockquote>
+					<blockquote>{{ $.RenderString .}}</blockquote>
 				</div>
 				{{- end }}
 			</header>
