@@ -26,3 +26,7 @@
 .posts-group .fic-listing {
 	border-bottom: 0;
 }
+
+.posts-group .post-item blockquote a {
+	display: inline;
+}
