@@ -2,6 +2,7 @@
 import re
 
 import scrapy
+from urllib.parse import urlparse
 
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
@@ -48,7 +49,9 @@ class WorkListSpider(CrawlSpider):
     def parse_item(self, response):
         """ On the individual story pages, parse the page and save relevant data. """
         item = WorkItem()
-        item['url'] = response.url
+        parsed_url = urlparse(response.url)
+        # Pull the work id from the url.
+        item['work_id'] = re.search('/works/([0-9]+)$', parsed_url.path).group(1)
         item['title'] = response.xpath('//h2/text()').get().strip()
         item['author'] = response.xpath('//h3[@class="byline heading"]/a[@rel="author"]/text()').getall()
         item['published'] = response.xpath('//dd[@class="published"]/text()').get().strip()

@@ -22,4 +22,4 @@ class WorkItem(scrapy.Item):
     character = scrapy.Field()
     freeform = scrapy.Field()
     published = scrapy.Field()
-    url = scrapy.Field()
+    work_id = scrapy.Field()

@@ -2,7 +2,6 @@ import yaml
 
 from scrapy.selector import Selector
 from markdownify import markdownify
-from slugify import slugify
 
 from ao3scrape import settings
 
@@ -33,16 +32,13 @@ class Ao3ScrapePipeline:
         return markdownify('\n\n'.join(processed_list).strip())
 
     def process_item(self, item, spider):
-        title = item['title']
-        slug_title = slugify(title)
-        
         if item.get('single_chapter_text'):
             work_text = markdownify(item['single_chapter_text']).strip()
         else:
             work_text = self.process_multi_chapter_text(item['multi_chapter_text'])
 
         frontmatter = {
-                'title': title,
+                'title': item['title'],
                 'summary': markdownify(item['summary']).strip(),
                 'author': ', '.join(item['author']).strip(),
                 'notes': markdownify(item['notes']).strip(),
@@ -52,11 +48,11 @@ class Ao3ScrapePipeline:
                 'tags': item['freeform'],
                 'warnings': ", ".join(item['warning']),
                 'rating': item['rating'][0],
-                'ao3_url': item['url'],
+                'ao3_url': f'https://archiveofourown.org/works/{item["work_id"]}',
                 'date': item['published'],
         }
 
-        with open(f'{settings.OUTPUT_DIRECTORY}/{slug_title}.md', 'w') as f:
+        with open(f'{settings.OUTPUT_DIRECTORY}/{item["work_id"]}.md', 'w') as f:
             # Write out metadata to frontmatter.
             f.write('---\n')
             frontmatter_text = yaml.dump(frontmatter)
