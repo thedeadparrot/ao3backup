@@ -23,3 +23,5 @@ class WorkItem(scrapy.Item):
     freeform = scrapy.Field()
     published = scrapy.Field()
     work_id = scrapy.Field()
+    series = scrapy.Field()
+    series_position = scrapy.Field()

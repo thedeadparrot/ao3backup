@@ -51,7 +51,7 @@ class WorkListSpider(CrawlSpider):
         item = WorkItem()
         parsed_url = urlparse(response.url)
         # Pull the work id from the url.
-        item['work_id'] = re.search('/works/([0-9]+)$', parsed_url.path).group(1)
+        item['work_id'] = re.search('/works/(\d+)$', parsed_url.path).group(1)
         item['title'] = response.xpath('//h2/text()').get().strip()
         item['author'] = response.xpath('//h3[@class="byline heading"]/a[@rel="author"]/text()').getall()
         item['published'] = response.xpath('//dd[@class="published"]/text()').get().strip()
@@ -62,6 +62,12 @@ class WorkListSpider(CrawlSpider):
             self.parse_tags(response, item, category)
 
         item['language'] = response.xpath('//dd[@class="language"]/text()').get().strip()
+        if response.xpath('//span[@class="position"]/a/text()'):
+            item['series'] = response.xpath('//dd[@class="series"]/span[@class="series"]/span[@class="position"]/a/text()').getall()
+            # The position shows up in the form of 'Part X of' within the position span.
+            # Hugo can only handle a single value for weight, so unfortunately  ¯\_(ツ)_/¯ we take the first one.
+            position_text = response.xpath('//span[@class="position"]/text()').get()
+            item['series_position'] = re.search('Part (\d+) of', position_text).group(1)
 
         if response.xpath('//div[@class="chapter"]'):
             # handle multi-chapter story

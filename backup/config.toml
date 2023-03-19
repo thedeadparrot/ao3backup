@@ -15,7 +15,7 @@ theme = 'hermit'
   tag = "tags"
   fandom = "fandom"
   relationship = "relationships"
-  character = "characters"
+  series = "series"
   
   # Categories are disabled by default.
 
@@ -68,11 +68,16 @@ theme = 'hermit'
     weight = 10
 
   [[menu.main]]
+    name = "Series"
+    url = "series/"
+    weight = 20
+
+  [[menu.main]]
     name = "Fandoms"
     url = "fandom/"
-    weight = 20
+    weight = 30
 
   [[menu.main]]
     name = "Tags"
     url = "tags/"
-    weight = 30
+    weight = 40

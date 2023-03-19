@@ -51,6 +51,9 @@ class Ao3ScrapePipeline:
                 'ao3_url': f'https://archiveofourown.org/works/{item["work_id"]}',
                 'date': item['published'],
         }
+        if 'series' in item:
+            frontmatter['series'] = item['series']
+            frontmatter['series_weight'] = item['series_position']
 
         with open(f'{settings.OUTPUT_DIRECTORY}/{item["work_id"]}.md', 'w') as f:
             # Write out metadata to frontmatter.
