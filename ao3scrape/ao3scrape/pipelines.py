@@ -31,28 +31,35 @@ class Ao3ScrapePipeline:
 
         return markdownify('\n\n'.join(processed_list).strip())
 
+    def strip_ending_periods(self, item_list):
+        # This is a terrible hack to ensure that House fandom can be rendered by Hugo, which seems
+        # to have problems with taxonomies that end in a period. It will look weird, but oh well?
+        return [item.removesuffix('.') for item in item_list]
+
     def process_item(self, item, spider):
         if item.get('single_chapter_text'):
             work_text = markdownify(item['single_chapter_text']).strip()
         else:
             work_text = self.process_multi_chapter_text(item['multi_chapter_text'])
 
+        stripped_fandoms = self.strip_ending_periods(item['fandom'])
+        stripped_tags = self.strip_ending_periods(item['freeform'])
         frontmatter = {
                 'title': item['title'],
                 'summary': markdownify(item['summary']).strip(),
                 'author': ', '.join(item['author']).strip(),
                 'notes': markdownify(item['notes']).strip(),
-                'fandom': item['fandom'],
+                'fandom': stripped_fandoms,
                 'characters': item['character'],
                 'relationship' : item['relationship'],
-                'tags': item['freeform'],
+                'tags': stripped_tags,
                 'warnings': ", ".join(item['warning']),
                 'rating': item['rating'][0],
                 'ao3_url': f'https://archiveofourown.org/works/{item["work_id"]}',
                 'date': item['published'],
         }
         if 'series' in item:
-            frontmatter['series'] = item['series']
+            frontmatter['series'] = self.strip_ending_periods(item['series'])
             frontmatter['series_weight'] = item['series_position']
 
         with open(f'{settings.OUTPUT_DIRECTORY}/{item["work_id"]}.md', 'w') as f:
