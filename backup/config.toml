@@ -31,7 +31,7 @@ theme = 'hermit'
   themeColor = "#494f5c"
 
   homeSubtitle = "This was automatically generated as static site from AO3."
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  footerCopyright = ''
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
