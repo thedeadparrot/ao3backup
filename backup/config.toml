@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://backup.thedeadparrot.xyz/'
 languageCode = 'en-us'
 title = 'thedeadparrot fic archive'
 theme = 'hermit'
