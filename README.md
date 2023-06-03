@@ -15,6 +15,8 @@ This is not currently designed to be usable for anyone not comfortable with the 
 
 ### Running locally
 
+This is for if you don't want to futz around with getting GitHub actions to work or using GitHub in particular.
+
 #### Scraping AO3
 1. Run `git clone https://github.com/thedeadparrot/ao3backup.git`
 2. Set up a python virtualenv.
@@ -29,3 +31,17 @@ This is not currently designed to be usable for anyone not comfortable with the 
 3. Modify `backup/config.toml` with your own name and links and other configuration you might be interested in.
 4. Run `hugo` from within the `backup` directory.
 5. Your static site should now be in `backup/public`, which can then be hosted wherever you wish.
+
+
+### Running on GitHub
+
+These instructions assume a familiarity with both GitHub and git.
+
+1. Fork the repo.
+2. Delete the markdown files in `backup/content/posts`.
+3. Modify the settings in `backup/config.toml`.
+4. Set up your fork to use GitHub Pages and the source 'GitHub Actions'.
+5. Set up your fork to use GitHub Actions and 'all actions and reusable workflows'.
+6. From your fork, run the action `Scrape AO3 and attempt to commit`, inserting the username when prompted.
+7. Once that action has run (mine takes about 30 minutes), check your pull requests for the new markdown files and merge if they look good.
+8. Run `Deploy Hugo site to Pages` to build and deploy your site.
