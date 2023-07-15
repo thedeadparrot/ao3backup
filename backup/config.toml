@@ -1,10 +1,10 @@
 baseURL = 'https://backup.thedeadparrot.xyz/'
 languageCode = 'en-us'
-title = 'thedeadparrot fic archive'
+title = 'skazka fic archive'
 theme = 'hermit'
 
 [author]
-  name = "thedeadparrot"
+  name = "skazka"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -52,13 +52,13 @@ theme = 'hermit'
 
   [[params.social]]
     name = "archive"
-    url = "https://archiveofourown.org/users/thedeadparrot"
+    url = "https://archiveofourown.org/users/skazka"
   [[params.social]]
     name = "mastodon"
-    url = "https://fanglitch.space/@thedeadparrot"
+    url = "https://federatedfandom.net/@skazka"
   [[params.social]]
     name = "github"
-    url = "https://github.com/thedeadparrot"
+    url = "https://github.com/skaskazok"
 
 [menu]
 
