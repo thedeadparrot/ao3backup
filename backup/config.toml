@@ -1,10 +1,10 @@
-baseURL = 'https://backup.thedeadparrot.xyz/'
+baseURL = 'https://skazka.neocities.org/ficindex/'
 languageCode = 'en-us'
-title = 'thedeadparrot fic archive'
+title = 'skazka fic archive'
 theme = 'hermit'
 
 [author]
-  name = "thedeadparrot"
+  name = "skazka"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -35,7 +35,7 @@ theme = 'hermit'
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = "https://github.com/username/repository/commit/"
+  # gitUrl = "https://github.com/skaskazok/ao3backup_test/commit/"
 
   # Toggling this option needs to rebuild SCSS, requires Hugo extended version
   justifyContent = false  # Set "text-align: justify" to `.content`.
@@ -52,13 +52,13 @@ theme = 'hermit'
 
   [[params.social]]
     name = "archive"
-    url = "https://archiveofourown.org/users/thedeadparrot"
+    url = "https://archiveofourown.org/users/skazka"
   [[params.social]]
     name = "mastodon"
-    url = "https://fanglitch.space/@thedeadparrot"
+    url = "@skazka@federatedfandom.net"
   [[params.social]]
     name = "github"
-    url = "https://github.com/thedeadparrot"
+    url = "https://github.com/skaskazok"
 
 [menu]
 
