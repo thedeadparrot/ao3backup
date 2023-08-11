@@ -28,7 +28,7 @@ PyYAML==6.0
 queuelib==1.6.2
 requests==2.31.0
 requests-file==1.5.1
-Scrapy==2.8.0
+Scrapy==2.10.0
 service-identity==21.1.0
 six==1.16.0
 soupsieve==2.4
