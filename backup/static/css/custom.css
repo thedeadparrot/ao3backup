@@ -31,6 +31,10 @@
 	display: inline;
 }
 
+.relationship {
+	padding-right: 3px;
+}
+
 #spotlight {
 	min-height: 75vh;
 }
