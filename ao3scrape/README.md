@@ -6,3 +6,7 @@ To run locally:
 4. Run `scrapy crawl ao3`.
 
 Markdown files will be created in `../backup/content/posts`.
+
+To upgrade requirements:
+1. Make sure pip-tools is installed: `pip install pip-tools`.
+2. Run `pip-compile requirements.in > requirements.txt`
