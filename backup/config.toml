@@ -1,4 +1,4 @@
-baseURL = 'https://backup.thedeadparrot.xyz/'
+baseURL = 'https://thedeadparrot.github.io/ao3backup/'
 languageCode = 'en-us'
 title = 'thedeadparrot fic archive'
 theme = 'hermit'
