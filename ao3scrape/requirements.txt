@@ -84,7 +84,7 @@ pyyaml==6.0.2
     # via -r requirements.in
 queuelib==1.7.0
     # via scrapy
-requests==2.32.3
+requests==2.32.4
     # via
     #   requests-file
     #   tldextract
