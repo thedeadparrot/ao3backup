@@ -107,7 +107,7 @@ typing-extensions==4.12.2
     #   beautifulsoup4
     #   pyopenssl
     #   twisted
-urllib3==2.5.0
+urllib3==2.6.3
     # via requests
 w3lib==2.3.1
     # via
