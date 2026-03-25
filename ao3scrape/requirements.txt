@@ -14,13 +14,13 @@ beautifulsoup4==4.13.3
     # via markdownify
 certifi==2025.1.31
     # via requests
-cffi==1.17.1
+cffi==2.0.0
     # via cryptography
 charset-normalizer==3.4.1
     # via requests
 constantly==23.10.4
     # via twisted
-cryptography==46.0.0
+cryptography==46.0.5
     # via
     #   pyopenssl
     #   scrapy
