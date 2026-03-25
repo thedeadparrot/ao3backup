@@ -20,7 +20,7 @@ charset-normalizer==3.4.1
     # via requests
 constantly==23.10.4
     # via twisted
-cryptography==44.0.1
+cryptography==46.0.0
     # via
     #   pyopenssl
     #   scrapy
@@ -78,7 +78,7 @@ pycparser==2.22
     # via cffi
 pydispatcher==2.0.7
     # via scrapy
-pyopenssl==25.0.0
+pyopenssl==26.0.0
     # via scrapy
 pyyaml==6.0.2
     # via -r requirements.in
