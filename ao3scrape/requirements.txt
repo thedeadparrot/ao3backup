@@ -90,7 +90,7 @@ requests==2.33.0
     #   tldextract
 requests-file==2.1.0
     # via tldextract
-scrapy==2.14.2
+scrapy==2.17.0
     # via -r requirements.in
 service-identity==24.2.0
     # via scrapy
