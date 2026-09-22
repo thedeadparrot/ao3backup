@@ -100,7 +100,7 @@ soupsieve==2.9
     # via beautifulsoup4
 tldextract==5.1.3
     # via scrapy
-twisted==24.11.0
+twisted==26.4.0rc2
     # via scrapy
 typing-extensions==4.12.2
     # via
