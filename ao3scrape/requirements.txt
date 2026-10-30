@@ -12,7 +12,7 @@ automat==24.8.1
     # via twisted
 beautifulsoup4==4.13.3
     # via markdownify
-certifi==2025.1.31
+certifi==2026.10.19
     # via requests
 cffi==2.0.0
     # via cryptography
