@@ -1,9 +1,9 @@
 baseURL = 'https://thedeadparrot.github.io/ao3backup/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'thedeadparrot fic archive'
-theme = 'hermit'
+theme = 'hermit-v2'
 
-[author]
+[params.author]
   name = "thedeadparrot"
 
 [blackfriday]

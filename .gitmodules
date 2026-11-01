@@ -1,6 +1,7 @@
-[submodule "backup/themes/hermit"]
-	path = backup/themes/hermit
-	url = https://github.com/Track3/hermit.git
 [submodule "backup/themes/PaperMod"]
 	path = backup/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "backup/themes/hermit-v2"]
+	path = backup/themes/hermit-v2
+	url = https://github.com/1bl4z3r/hermit-V2
+	branch = main

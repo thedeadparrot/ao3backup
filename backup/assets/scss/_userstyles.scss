@@ -1,0 +1,128 @@
+@import "colors.scss";
+
+$theme: #018574;
+
+html {
+  background: none;
+}
+body {
+  background-color: $html-background;
+}
+
+#home-social {
+  text-align: center;
+  margin: 0.2em;
+}
+
+.light {
+	background-color: $text;
+	color: $html-background;
+	button {
+		background-color: $text;
+		color: $html-background;
+	}
+	pre {
+		color: #000;
+	}
+	a {
+		color: $arsenic;
+		&:hover {
+		  color: $theme;
+	    }
+	}
+	#site-header {
+	  background-color: $text;
+    }
+	#mobile-menu {
+	  background-color: $text;
+    }
+	#theme-toggle {
+    background: $text;
+		#moon {
+		  display: inline;
+		}
+		#sun {
+		  display: none;
+		}
+	}
+}
+
+#theme-toggle {
+  background-color: $html-background;
+	border: none;
+	#moon {
+	  display: none;
+	}
+	#sun {
+	  display: inline;
+    }
+}
+
+
+.post-info {
+  font-size: .8rem;
+  line-height: normal;
+  @include dimmed;
+
+  p {
+    margin: .8em 0;
+  }
+
+  a:hover {
+    border-bottom: 1px solid $theme;
+  }
+
+  svg {
+    margin-right: .8em;
+  }
+
+  .tag {
+    margin-right: .5em;
+
+    &::before {
+      content: "#"
+    }
+  }
+}
+
+.fic-summary, .fic-notes {
+	font-size: .8em;
+}
+
+.taxonomy .posts-group {
+	margin-bottom: 0;
+}
+
+.posts-group {
+  .post-item {
+    svg {
+      margin-right: 5px;
+    }
+    .tag {
+      a {
+	      display: contents;
+	      justify-content: none;
+	      align-items: baseline;
+	    }
+    }
+    .fandom a {
+	    display: inline;
+	    justify-content: none;
+	    align-items: baseline;
+    }
+    blockquote a {
+	    display: inline;
+    }
+  }
+  .fic-listing {
+	  border-bottom: 0;
+  }
+}
+
+.fandom a {
+	margin-right: 2em;
+}
+
+#spotlight {
+	min-height: 75vh;
+}
