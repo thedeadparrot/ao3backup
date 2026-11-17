@@ -118,7 +118,7 @@ service-identity==26.1.0
     # via scrapy
 six==1.17.0
     # via markdownify
-soupsieve==3.0.4
+soupsieve==4.0
     # via beautifulsoup4
 tldextract==5.4.0
     # via scrapy
